@@ -1,0 +1,61 @@
+# Maintenir un cahier de recherche {#sec-cahierrecherche}
+
+-   Pourquoi en utiliser un ?
+
+    -   Pour y inscrire ses principaux mots de passe, ses informations de contact, etc.
+
+    -   Pour accompagner et documenter votre parcours de recherche :
+
+        -   votre recherche documentaire
+
+        -   votre projet de recherche et sur le terrain/dans le laboratoire
+
+        -   vos recherches futures
+
+    -   Pour documenter vos développements professionnels, vos réussites, vos accomplissements, vos échecs.
+
+    -   Pour garder une trace de vos activités professionnelles, de votre réseau et de vos contacts.
+
+    -   Pour développer votre rôle et votre style d'auteur (*authorial voice*) <https://blogs.lse.ac.uk/impactofsocialsciences/2021/11/04/keeping-a-research-journal-that-works-for-you/>.
+
+    -   Pour donner une première consistance à vos processus de pensée et à vos analyses.
+
+    -   Pour servir de support à un blogue de recherche voir p. ., l'équivalent d'un cahier de recherche mais avec une forme publique et partagée.
+
+    -   Pour servir de liens entre tous vos autres documents (données de recherche, références, notes, blogue, publications, carnet de contact, etc.).
+
+    -   Quelque soit la forme ou le format de votre cahier de recherche, le plus important est d'avoir un système avec lequel vous êtes confortable pour y indiquer tout votre historique de progression dans les outils de recherche.
+
+-   [Comment ?]{style="color: purple"}
+
+    -   [Cahier grand format (lettre ou A4). ☐]{style="color: purple"}
+
+    -   [ou... Imprimer le Portfolio de recherche]{style="color: purple"} [p.en recto seulement et faîtes vos annotations au verso. ☐]{style="color: purple"}
+
+    -   [ou... dans des collections et des notes indépendantes de Zotero]{style="color: purple"} [Voir p. .. ☐]{style="color: purple"}
+
+    -   [ou... dans des notes de Obsidian.md]{style="color: purple"} Voir p. .[. ☐]{style="color: purple"}
+
+-   [Recommandations pour une version papier :]{style="color: purple"}
+
+    -   [Écrit au crayon gris ou au stylo (pour résister aux dégats de café). ☐]{style="color: purple"}
+
+    -   [Rangé dans un tiroir du laboratoire ou chez soi (plus il est mobile, plus il peut être perdu). ☐]{style="color: purple"}
+
+    -   [Chaque page = une liste]{style="color: purple"}
+
+        -   [liste des mots-clés de son sujet (une page) ☐]{style="color: purple"}
+
+        -   [liste des mots de passe (une page pour tous les outils commençant par la lettre A, une page pour la lettre B, etc.) ☐]{style="color: purple"}
+
+        -   [liste d'experts (une page) ☐]{style="color: purple"}
+
+        -   [liste de bases de données (une page) ☐]{style="color: purple"}
+
+        -   [liste des cotes de classements (une page) ☐]{style="color: purple"}
+
+        -   [liste des projets futurs (une page) ☐]{style="color: purple"}
+
+        -   [liste des conférences (une page) ☐]{style="color: purple"}
+
+    -   [Couverture : y coller son thésaurus personnel]{style="color: purple"} [voir chapitre, p. ., ou le mettre sous couverture plastifiée. ☐]{style="color: purple"}

@@ -1,0 +1,47 @@
+#  Identifier le type de document de ma source {#sec-identifierdocument}
+
+
+
+
+## Identifier un document en main 
+
+-   Pourquoi ? Pour savoir comment formater sa présentation.
+
+    -   L'ordre des informations peut changer selon le type de document.
+
+    -   Des informations peuvent être obligatoires pour certains types de document mais pas pour d'autres.
+
+-   Le type de document ne dépend pas de son support ou de son format : papier ou électronique (PDF, html, etc.).
+
+    -   Exemple : une présentation dans un congrès peut se présenter sous différentes formes : enregistrement Youtube, affiche PDF ou imprimée, article, présentation Powerpoint, enregistrement sonore, etc.
+
+-   Les grands types de document :
+
+    -   Les **monographies** (livres, manuels, rapports de recherche, etc.) ou les sites web dans leur ensemble.
+
+    -   Les **parties de document** (chapitres de livre, articles dans un acte de congrès, pages web d'un site, articles d'encyclopédie, etc.).
+
+    -   Les **articles de périodique** (articles de revue, de magazine, de quotidien, bulletins, séries statistiques, etc.).
+
+   Informations importantes   Monographie   Partie de document   Article de périodique
+  -------------------------- ------------- -------------------- -----------------------
+        Titre complet          Toujours          Toujours              Toujours
+          Auteur(s)            Toujours          Toujours              Toujours
+     Date de publication       Toujours          Toujours              Toujours
+           Éditeurs             Souvent          Souvent                  Non
+       Maison d'édition        Toujours          Toujours                 Non
+          Contenant               Non            Toujours              Toujours
+            Numéro             Rarement          Rarement               Souvent
+            Volume              Parfois          Parfois                Souvent
+       Numéro d'édition         Souvent          Souvent                  Non
+
+-   Les auteurs et les éditeurs doivent être mentionnés dans l'ordre dans lequel ils apparaissent dans le document.
+
+-   Dans un logiciel de gestion bibliographique comme Zotero, la fiche pour saisir sa référence est différente selon le type de document choisi.
+
+    []{style="color: purple"}
+
+
+
+
+## Identifier une référence bibliographique

@@ -1,0 +1,267 @@
+#  Formats et manipulations de fichiers {#sec-formats}
+
+### Introduction
+
+-   Un format de document, imprimé ou électronique, est un ensemble de **règles** pour la **production** et l'**utilisation** d'un document Marcello Vitali-Rosati et Michaël Eberle-Sinatra, *Pratiques de l'édition numérique*, Montréal, Presses de l'Université de Montréal, mars 2014 <https://www.pum.umontreal.ca/catalogue/pratiques-de-ledition-numerique>.
+
+    -   Un format n'est pas neutre ou universel : un format priorise, exclut ou sert certains usages et pas d'autres.
+
+    -   Exemple : le concept de page existe dans le format PDF mais il n'existe pas dans le format HTML.
+
+-   Un format est **ouvert** (*open format* ou *open file format*) quand on connaît la recette (les spécifications techniques) pour créer, lire et modifier un fichier encodé dans ce format.
+
+-   Par opposition, un format est dit **propriétaire fermé** (*proprietary format* ou *closed file format*) quand on ne connait pas la recette pour créer et lire et modifier un fichier encodé dans ce format. C'est à dire que les spécifications pour manipuler le fichier ne sont pas disponibles publiquement.
+
+### Pourquoi un format ouvert ?
+
+-   C'est un format plus **pérenne**.
+
+    -   Pas besoin de la dernière version du logiciel, peu lié à une entreprise.
+
+-   C'est un format plus **robuste**.
+
+    -   Il y a moins de risque de corruption du fichier (pagination, table des matières, citations, etc.). S'il y a une corruption, il est plus facile de réparer le fichier.
+
+-   C'est un format plus universel donc **interopérable.**
+
+    -   Un fichier dans un format ouvert que vous transférez d'un PC vers MacOS ou Linux, ou via courriel aura moins d'erreurs.
+
+-   C'est un format plus **sécuritaire.**
+
+    -   Moins de risque d'avoir des virus Macro comme dans MS Word par exemple.
+
+-   C'est un format plus **confidentiel.**
+
+    -   Moins de risque d'avoir des informations cachées comme celles incluses dans un fichier MS Word : versions précédentes, temps passé à éditer le fichier, nom de l'auteur, dates de consultation, historique de navigation sur internet, arborescence de votre disque dur, carte de votre réseau local, etc.
+
+-   C'est un format plus **léger.**
+
+    -   Un fichier MS Word peut peser 20 fois plus que ce qu'il devrait.
+
+### Format propriétaire fermé
+
+-   Un format propriétaire fermé est encodé en **binaire** (voir plus loin) : il faut un logiciel spécifique (et souvent payant) pour créer, lire et modifier ce type de fichier.
+
+    -   Il peut y avoir des formats propriétaires ouverts. Dans ce cas, la recette est connue mais habituellement seul le propriétaire peut en changer la recette et faire évoluer le format.
+
+-   Selon les stratégies commerciales des éditeurs du logiciel, parfois les spécifications sont **partiellement** connues. Exemples :
+
+    -   Il est possible de lire la plupart des PDF mais certaines fonctions ne sont pas accessibles ou certaines versions ne sont pas lisibles si on n'a pas le logiciel spécifique.
+
+    -   Les spécifications pour décompresser des fichiers RAR sont connues, mais les spécifications pour faire une compression RAR ne sont pas connues.
+
+    -   Les fichiers DOCX de Microsoft Word sont basés sur des spécifications ouvertes mais le logiciel Microsoft Word créé des fichiers avec des éléments supplémentaires qui ne sont pas connus (voir plus loin).
+
+-   Il peut y avoir une confusion entre le logiciel propriétaire et le format propriétaire qu'il manipule (MS Word et doc ou docx par exemple).
+
+-   Certains formats propriétaires incluent des informations privées concernant le créateur ou l'éditeur du fichier.
+
+-   La plupart des formats propriétaires font l'objet d'un **brevet**.
+
+-   Après quelques décennies, des documents créés dans des formats propriétaires désuets sont **perdus**.
+
+    -   Exemple : les documents multimédia créés au format Flash <https://www.cnn.com/2021/09/10/tech/digital-news-coverage-9-11/index.html>.
+
+-   Il y a une compétition entre certains formats de fichiers. Certains formats propriétaires cherchent à augmenter le coût de changement de logiciel de leurs usagers pour les rendre artificiellement captifs de leur logiciel. Habituellement, le fichier n'est parfaitement lisible et modifiable qu'avec le logiciel propriétaire correspondant.
+
+-   [Pour retrouver un peu de contrôle sur l'identification ou l'ouverture des formats d'un fichier, il est recommandé d'afficher l'extension d'un fichier (.pdf ou .docx ou autre) dans les systèmes d'exploitation Windows ou Mac. ]{style="color: purple"}
+
+    -   [Windows Explorateur de fichiers \> Options \> Visualiser \> Décocher Masquer les extensions dont le type est connu. ☐]{style="color: purple"}
+
+### Encodage en texte ou binaire
+
+-   Un format ouvert ou propriétaire peut être encodé avec du texte brut ou binaire.
+
+#### Encodage en texte 
+
+-   Un format de texte brut est un format ouvert.
+
+    -   Exemples : TXT, MD, CSV, HTML, XML, TeX,\...
+
+-   Un format de texte brut est lisible par tout appareil électronique.
+
+    -   [Recommandation : installer un éditeur de texte de qualité]{style="color: purple"} [exemple : avec Notepad++ ]{style="color: purple"}[ pour lire, modifier, transformer facilement ce type de fichier. ☐]{style="color: purple"}
+
+    -   et, même si certains formats sont très verbeux et complexes, il est lisible plus ou moins facilement par tout humain.
+
+-   L'encodage du texte peut varier selon les besoins de la langue.
+
+    -   L'encodage le plus simple et rudimentaire est l'encodage **ASCII**.
+
+        -   Or cet encodage ne contient que 128 caractères.
+
+        -   Il n'a pas d'accents.
+
+        -   C'est l'encodage des langages informatiques.
+
+    -    L'encodage de texte recommandé est **UTF-8**.
+
+        -   Il permet d'avoir tous les accents des langues occidentales.
+
+        -   Parfois un document qui passe d'un système Windows à un système MacOS ou Linux aura quelques caractères qui fonctionnent mal. Il faut passer par un encodage UTF-8 pour une meilleure compatibilité.
+
+    -   L'encodage le plus complet est UNICODE qui peut se décliner en plusieurs saveurs : UTF-8, UTF-16, UTF-32, etc.).
+
+        -   En fait, UTF-8 est un fichier encodé en ASCII partout sauf pour les caractères spéciaux qui sont en UNICODE.
+
+        -   Pour avoir des jeux de caractères plus complets (langues cyrilliques, asiatiques, émojis, etc.), il faut utiliser un encodage UTF-16 ou UTF-32.
+
+-   La complexité de rédaction (et de balisage) d'un fichier au format texte peut être plus ou moins grande et un oeil humain aura parfois du mal à le lire.
+
+    -   Le balisage **Markdown** dans un fichier texte est un balisage léger qui se lit très bien de manière brute.
+
+    -   Le balisage **HTML** se lit très mal de manière brute, mais il se lit très bien via un navigateur.
+
+    -   Le balisage **TeX** se lit moyennement bien de manière brute, il faut un logiciel spécialisé pour le transformer dans un format lisible comme le PDF par exemple.
+
+    -   Zotero produit un format de fichier **Zotero RDF** encodé en texte brut et balisé en XML, difficile à lire à l'oeil nu mais facile à interpréter pour les ordinateurs. etc.
+
+-   Un logiciel propriétaire peut choisir d'utiliser des formats de fichier texte.
+
+    -   Exemple : Obsidian.md utilise des notes de texte brut balisées avec Markdown.
+
+#### Encodage binaire
+
+-   Un fichier peut être encodé en binaire, c'est à dire sous la forme de 0 de 1.
+
+-   Dans le cas de formats ouverts, la recette d'encodage et de décodage de ces formats est connue.
+
+    -   Exemples : OpenDocument (de LibreOffice) comme ODF, ODF, ODT ; ePUB ; \...
+
+    -   Un **logiciel libre** produit des formats de fichiers ouverts puisque l'on connaît la recette pour construire le logiciel.
+
+        -   Exemple : Inkscape produit des images vectorielles encodée en binaire dans le format ouvert SVG et des images matricielles encodées en binaire dans le format PNG.
+
+-   Habituellement, la recette d'encodate et/ou de décodage d'un fichier propriétaire binaire est cachée.
+
+-   Cependant, il existe quelques cas où la recette d'encodage et/ou de décodage de formats propriétaires binaires est connue .
+
+    -   Exemple : Adobe Acrobat, un logiciel propriétaire, peut produire des fichiers PDF binaires propriétaires fermés (par défaut la plupart du temps) ou des fichiers **PDF/A binaires ouverts** (voir ci-dessous).
+
+###  PDF/A c'est quoi ?
+
+-   Il s'agit d'un **format binaire ouvert** créé par l'ISO <https://fr.wikipedia.org/wiki/PDF/A>.
+
+-   C'est une variante de **PDF** qui permet l'**archivage à long terme** des documents électroniques en priorisant leur **visualisation**.
+
+    -   PDF/A est une norme ouverte qui permet d'avoir un fichier PDF qui sera visualisé et imprimé de la même manière, quel que soit l'ordinateur et ses paramétres et quel que soit le moment (maintenant ou dans 100 ans). Les images, les polices de caractères, etc. tout est inclus dans le fichier.
+
+-   Ce n'est pas le format de production de PDF par défaut :
+
+    -   Habituellement, lorsqu'on créé un fichier PDF à partir d'un logiciel comme Word, ou votre navigateur, etc. cela créé un fichier PDF binaire propriétaire [fermé]{.underline}.
+
+    -   Parfois, il est possible de changer les paramètres pour générer un PDF binaire propriétaire [ouvert]{.underline} : PDF/A.
+
+-   [Comment créer un fichier PDF/A avec Windows ? ]{style="color: purple"}
+
+    -   [À partir de MS Word : Fichier \> Exporter \> Créer PDF \> Options : Compatible PDF/A. ☐]{style="color: purple"}
+
+    -   [À partir de Acrobat Pro : Fichier \> Enregistrer sous un autre \> PDF archivable (PDF/A). ☐]{style="color: purple"}
+
+###  Éviter les corruptions de fichiers DOC ou DOCX
+
+-   Pourquoi ?
+
+    -   Votre document au format .doc ou .docx de MS Word peut accumuler des corruptions (bloquant des fonctions de formattage comme la pagination, la table des matières, les notes de bas de page, les références bibliographiques, etc.)
+
+-   Comment ?
+
+    -   Si vous envoyez un fichier doc ou docx à une autre personne (ou un autre ordinateur) :
+
+        -   Avec une autre version du logiciel Word (exemple : de Word 2016 à Word 2019, ou vice-versa).
+
+        -   Avec un autre système d'exploitation (exemple : de Windows 10 à MacOS, ou vice-versa).
+
+        -   En utilisant les fonctions d'annotation et de révision par commentaires.
+
+    -   Si vous travaillez longtemps sur un fichier.
+
+    -   Si votre fichier contient de nombreux renvois, notes de bas de pages, références automatiques, etc. (plusieurs centaines).
+
+-   Bonnes pratiques :
+
+    -   Dans le cas d'un fichie qui voyage vers d'autres ordinateurs :
+
+        -   Ouvrir le fichier contenant les corrections et faire les révisions manuellement dans le fichier original resté sur votre ordinateur.
+
+        -   Lors des copier-coller, privilégier le collage de texte brut sans formatage pour éviter d'importer des choses non-désirées.
+
+    -   Faire des sauvegardes règulières, datées de tous vos fichiers Voir p. ..
+
+###  Traitement de texte : styles et modèle de thèse 
+
+-   **LibreOffice Writer** et **Microsoft Word** sont des traitements de texte recommandés pour la rédaction de votre mémoire ou thèse.
+
+    -   Dans certaines disciplines, le format LaTex peut être privilégié mais il n'est pas traité dans cette section.
+
+####  Styles
+
+-   Les **styles** sont une manière de baliser le texte dans ces logiciels.
+
+-   Ils permettent d'indiquer où sont les titres, les noms des illustrations, des tableaux, les blocs de citations exactes longues, etc.
+
+-   Une fois les styles appliqués, il est facile :
+
+    -   De créer automatiquement des tables des matières (à partir des titres), des listes d'illustrations ou de tableaux, etc.
+
+    -   De naviguer dans le document avec le volet de navigation (à activer).
+
+    -   De déplacer des sections.
+
+    -   De changer automatiquement le format de tous les textes d'un même style (exemple : réduire de 2 points les polices de toutes les légendes de tableaux).
+
+    -   De faire indexer le document par des moteurs de recherche.
+
+####  Modèle de mémoire et thèse UdeM
+
+-   Il existe un **modèle de document** pour mémoire et thèse UdeM, paramétré pour MS Word <https://bib.umontreal.ca/gerer-diffuser/communication-savante/rediger-these-memoire> selon les règles des Études supérieures et postdoctorales de l'UdeM.
+
+    -   Il existe un modèle LaTeX.
+
+    -   Il n'existe pas de modèle LibreOffice Writer.
+
+-   Soumettez la version finale à votre directeur et à votre jury jusqu'à la soutenance. Incorporez les corrections.
+
+-   Une fois le document prêt pour le dépôt final :
+
+    -   Enlevez les images dont vous n'avez pas les droits (en les remplaçant par des rectangles vides par exemple).
+
+    -   Enlevez les données d'identification (courriels, coordonnées, anonymisation, etc.).
+
+    -   Produisez un document PDF de qualité archive (PDF/A).
+
+## Multiremplacements et expressions régulières[]{#chap:regex label="chap:regex"}
+
+### Multiremplacements 
+
+-   Dans le cadre de votre recherche, il se peut que vous ayez à traiter des fichiers de texte et que des fonctions de **multiremplacements** puissent vous faire gagner du temps.
+
+-   Avec Notepad++ \> Ctrl+H \> Mode étendu : coché
+
+    -   Remplacer un saut de ligne` \r\n`
+
+    -   Remplacer une tabulation `\t`
+
+-   Outils de renommage de fichiers : Bulk Rename <https://www.bulkrenameutility.co.uk/>, Utility Renamer for Mac <https://renamer.com/>, PSRenamer <https://github.com/hbowie/psrenamer>.
+
+-   Outils de listage de fichiers : Karen's Directory Printer <https://www.karenware.com/powertools/karens-directory-printer>
+
+-   Outils de repérage de doublons de fichiers : CloneSpy <https://clonespy.com/>
+
+### Expressions régulières
+
+-   **Expressions régulières** (*regex*) : permet de faire des remplacements multiples avancés en identifiant des motifs spécifiques (toutes les lignes qui se terminent par\... toutes les phrases qui commencent par\... tous les chiffres suivis d'un espace dans une parenthèse\...).
+
+    -   Exemple avec Notepad++ (je veux remplacer tous les sauts de ligne entre guillemets par un espace) : Ctrl+H \> Mode expression régulière : coché.
+
+        -   chercher : `(,^?)``[``\r\n``]``+`
+
+        -   remplacer par : `$1 `(NB: il y a un espace après \$1).
+
+        -   Cliquer à répétition sur Remplacer tout jusqu'à ce que tout soit remplacé.
+
+    -   Pour les tester <https://regexr.com/>
+
+    -   Ne pas hésiter à chercher en ligne et se constituer sa bibliothèque personnelle de regex (dans son carnet de recherche).
+
+    -   Pour en savoir plus <https://programminghistorian.org/fr/lecons/comprendre-les-expressions-regulieres>

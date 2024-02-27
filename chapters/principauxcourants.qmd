@@ -1,0 +1,33 @@
+# Repérer les principaux courants de pensée sur un sujet {#sec-consensus}
+
+-   Grâce à cette première phase exploratoire dans des sources tertiaires et généralistes, vous allez commencer à repérer quels sont les principaux courants de pensée par rapport à votre sujet de recherche
+    -   On dit parfois « consensus scientifiques »[^principauxcourants-1]
+    -   Quels sont les faits sur lesquels la majorité des chercheuses et des chercheurs s'entendent ?
+    -   Quels sont défis actuels (controverse, difficultés, etc.) ?
+    -   Quelles sont les meilleures méthodes utilisées ?
+    -   Quelles sont les disciplines ou les spécialités qui travaillent, et comment par rapport aux autres ?
+    -   Quels sont les experts reconnus ?
+    -   Quels sont les lieux et les institutions qui relaient l'information (revues scientifiques, colloques, congrès, sociétés savantes, etc.) ?
+-   Vous avez aussi récolté des listes de mots-clés pertinents pour votre sujet : le nom des concepts principaux, leur évolution, leur traduction en anglais.
+-   Vous avez enfin commencé à collecter des références, des notes, des sources, des pistes de recherche pour aller plus loin.
+    -   Grace à ces pistes, il va être plus facile de placer la nouvelle documentation dans un réseau mental de connaissance.
+-   Tout ce travail effectué va vous sauver beaucoup de temps pour absorber les nouvelles informations.
+
+[^principauxcourants-1]: Selon moi, le « consensus scientifique », s'il existe, est l'ensemble des plus hauts degrés de certitude scientifique sur un sujet précis. Il est parfois explicite dans des documents (comme les rapports du GIEC), mais parfois il peut être plus difficile à repérer. Selon moi, c'est une notion à utiliser avec précaution car elle peut renvoyer l'idée implicite et simplicatrice d'une vérité unique, unanime, homogène et stable. Il vaudrait mieux la remplacer par « les courants de pensées dominants dans une discipline ou sur un sujet », ou bien « les résultats de la recherche communément admis par la communauté des chercheurs sur ce sujet ».
+
+### Est-ce que je peux citer tout ça ?
+
+-   Selon le contexte de vos travaux et vos disciplines, il peut y avoir différents usages de citation des ouvrages de référence et des sources tertiaires.
+-   N'hésitez pas à demander à votre directeur de recherche, enseignant ou bibliothécaire disciplinaire.
+-   Voici un tableau pour guider votre décision :
+
+    |                    dans un.e ... | ... Encycl. spécialisée | ...Handbook of\*  | ...SRM*,* OHO, OBO\*  | ...Revue de littérature  | ...Encycl. généraliste |
+    |-----------:|------------|------------|------------|------------|:-----------|
+    |           ... travail de session | Oui                     | Oui               | Oui                   | Oui                      | Peut être              |
+    |             ... thèse ou mémoire | Oui                     | Oui               | Oui                   | Oui                      | Peut être              |
+    |     ... présentation de colloque | Oui                     | Oui               | Oui                   | Oui                      | Peut être              |
+    | ... article révisé par les pairs | Peut être               | Peut être         | Peut être             | Oui                      | Non                    |
+
+-   Notez qu'il est généralement recommandé de :
+    -   Citer l'**article ou l'entrée** d'une encyclopédie (avec son auteur) plutôt que l'encyclopédie dans son ensemble.
+    -   **Ne pas citer un article Wikipédia** (voir @sec-wikipourlarecherche). Si vous devez le faire, il est recommandé de citer la page à un moment donné car le contenu change constamment. Pour cela aller dans l'onglet Historique et cliquez sur la dernière version. Cela devrait générer un lien qui ressemble à ce modèle <https://fr.wikipedia.org/w/index.php?title=Bushido&oldid=184618350>.

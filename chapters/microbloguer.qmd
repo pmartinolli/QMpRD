@@ -1,0 +1,67 @@
+# Micro-bloguer avec Twitter ou Mastodon {#sec-microbloguer}
+
+Note : Depuis 2023, les changements de Twitter/X rendent obsolètes une partie des informations et des recommandations sur ce produit.
+
+-   Pourquoi ?
+
+    -   Pour **veiller** sur mes sujets et ma discipline voir p..
+
+    -   Pour **relayer** et/ou commenter des informations de qualité et participer à une conversation scientifique (outre les conférences, les articles, etc.).
+
+    -   Pour **vulgariser** des recherches pertinentes.
+
+-   Comment ?
+
+    -   Principes généraux :
+
+        -   Soyez **spécialisé** : Ne diffusez que vos thèmes de recherche annoncés
+
+        -   Soyez **sélectif** : En lecture ou en action, filtrez ou bloquez si besoin, ignorez sans hésiter
+
+        -   Soyez **rigoureux** : Ne diffusez QUE ce que vous avez lu au complet (et/ou vérifié)
+
+    -   Informations de profil :
+
+        -   [Je choisis : ]{style="color: purple"}**[pseudonymat]{style="color: purple"}**[ ou identité réelle. ☐]{style="color: purple"}
+
+        -   [Profil :]{style="color: purple"}
+
+            -   [j'affiche mon ]{style="color: purple"}**[titre]{style="color: purple"}**[ avec ma discipline. ☐]{style="color: purple"}
+
+            -   [je liste le(s)]{style="color: purple"}**[ thème(s)]{style="color: purple"}**[ de mes tweets et retweets. ☐]{style="color: purple"}
+
+            -   [je créé un ]{style="color: purple"}**[lien]{style="color: purple"}**[ vers mon métaprofil universitaire (ORCID, \...). ☐]{style="color: purple"}
+
+        -   [J']{style="color: purple"}**[épingle]{style="color: purple"}**[ le tweet de ma recherche la plus significative. ☐]{style="color: purple"}
+
+        -   [Bonus : j'affiche mes liens ou mes]{style="color: purple"}**[ conflits d'intérêt. ☐]{style="color: purple"}**
+
+    -   [Je tweete sur ma recherche ou sur mes intérêts de recherche ]{style="color: purple"}
+
+        -   [J'ai ]{style="color: purple"}**[lu ou vérifié]{style="color: purple"}**[ l'information. ☐]{style="color: purple"}
+
+        -   [Je mets un ]{style="color: purple"}**[lien. ☐]{style="color: purple"}**
+
+        -   [Je soigne le ]{style="color: purple"}**[titre]{style="color: purple"}**[, le ]{style="color: purple"}**[résumé]{style="color: purple"}**[ ou la ]{style="color: purple"}**[liste]{style="color: purple"}**[ décrivant l'information. ☐]{style="color: purple"}
+
+        -   [Je rajoute une ]{style="color: purple"}**[image]{style="color: purple"}**[ pertinente si c'est utile (je suis attentif au droit d'auteur). ☐]{style="color: purple"}
+
+        -   [Je rajoute un ou plusieurs ]{style="color: purple"}**[#hashtag]{style="color: purple"}**[ pertinents (hashtag généralistes et/ou spécialisés, vérifier à quoi un hashtag renvoie exactement). ☐]{style="color: purple"}
+
+            -   [Suggestion réseautage : créer un ]{style="color: purple"}**[hashtag inédit]{style="color: purple"}**[ sur un sujet et l'utiliser pour diffuser une ]{style="color: purple"}**[veille régulière]{style="color: purple"}**[ pour se positionner en personne-clé sur ce sujet. ☐]{style="color: purple"}
+
+        -   [Dans une réponse à mon tweet : je ]{style="color: purple"}**[remercie]{style="color: purple"}**[ avec des liens vers des \@profils, ou j']{style="color: purple"}**[interpelle]{style="color: purple"}**[ (]{style="color: purple"}[*poke*]{style="color: purple"}[) des \@profils qui seraient intéressés, ou je rajoute des ]{style="color: purple"}**[crédits]{style="color: purple"}**[ (de l'image par exemple) ou des liens supplémentaires. ☐]{style="color: purple"}
+
+        -   [Choisir ]{style="color: purple"}**[l'heure et le jour]{style="color: purple"}**[ de la semaine. Bonus : être en écho avec une actualité. ☐]{style="color: purple"}
+
+        -   [Un tweet important pour vous : ]{style="color: purple"}**[retweeter]{style="color: purple"}**[ une fois la semaine suivante. ☐]{style="color: purple"}
+
+        -   Cela prend du **temps** pour avoir un lectorat.
+
+        -   Participez aux débats **avec qualité** (avec des apports significatifs) ou ignorez et oubliez.
+
+-   Pour aller plus loin : *Twitter for Scientists* de Dan Quintana <https://t4scientists.com/>
+
+-   Pour effacer ses traces (les *tweets* et les *likes*) : TweetDelete <https://tweetdelete.net/> ou Semiphemeral <https://semiphemeral.com/>.
+
+-   Pour gérer les trolls et le harcèlement sur Twitter <http://prcurtis.com/docs/twitterguide2/>.

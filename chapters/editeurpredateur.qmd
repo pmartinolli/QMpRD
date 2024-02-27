@@ -1,0 +1,159 @@
+#  Éditeurs prédateurs {#sec-predateurs}
+
+-   Votre directeur.trice de recherche est une personne-clé pour la prise de décision concernant les éditeurs prédateurs.
+
+### Pourquoi ?
+
+-   Des maisons d'édition **prétendent faussement fournir un service** de publication de qualité.
+
+-   Tout l'édifice de construction accumulatif de production scientifique est **fragilisé**.
+
+    -   Des études frauduleuses ou erronées ou bâclées sont ensuite reprises et **citées** dans d'autres études qui n'ont pas bien évalué leurs sources. Entraînant des **erreurs en cascade** <https://scholarlykitchen.sspnet.org/2019/10/28/citation-contamination-references-to-predatory-journals-in-the-legitimate-scientific-literature/>.
+
+        -   Citer des sources provenant d'éditeurs prédateurs montre que vos fondations de recherche ne sont pas solides.
+
+-   On les retrouve principalement pour :
+
+    -   Les revues universitaires,
+
+    -   Les maisons d'édition de livres,
+
+    -   Les conférences universitaires.
+
+-   Soumettre et accepter leurs démarches commerciales agressives peut **endommager durablement votre carrière** universitaire en envoyant les signaux suivants :
+
+    -   « Je n'ai aucune pensée critique. Je suis naïf. On peut me tromper facilement. »
+
+    -   « J'ai payé pour mériter d'être publié. Mon travail n'est pas passé par un processus de sélection et d'amélioration rigoureux. »
+
+    -   « J'ai commis une fraude intentionnelle. »
+
+-   Leur envoyer un document, c'est déjà **perdre son droit d'auteur** car les éditeurs prédateurs vont vous faire payer le retrait si vous vous rendez compte trop tard de la supercherie.
+
+-   Dynamiques actuelles :
+
+    -   Des maisons d'édition établies incorporent des techniques commerciales proches de celle des éditeurs prédateurs.
+
+    -   Les éditeurs prédateurs ont une apparence de moins en moins artisanales et de plus en plus professionnelle.
+
+    -   Les listes d'exclusion sont utiles mais elles ne suffisent pas.
+
+    -   Il y a un spectre et une gradation de la prédation (par exemple: peu, pauvre ou pas de révision par les pairs ou de contrôle éditorial).
+
+### Les revues universitaires prédatrices
+
+-   Pour votre carrière universitaire, c'est le type de prédation :
+
+    -   le plus **grave**,
+
+    -   le plus **visible**,
+
+    -   et le plus **dommageable**.
+
+-   Comment ça marche ?
+
+    -   Envoi massif de courriel promotionnel.
+
+    -   Peu/pas de révision par les pairs.
+
+    -   Encaissement de frais de publication (*APC*)
+
+-   *Modus operandi* : **vous recevez un courriel** flatteur vous invitant à soumettre un article sur vos recherches.
+
+    -   Cela ne devrait pas arriver : dans la recherche, c'est à vous d'aller démarcher les revues scientifiques pour les supplier de vous publier. C'est dans ce sens que ça fonctionne.
+
+    -   Parfois le **nom de la revue** est très très proche (au caractère près) du nom de la revue légitime. L'apparence du site web aussi. Dans le cas d'une contrefaçon reconnue, on parle alors de *hijacked journal* (journal piraté).
+
+    -   Autres arguments de vente et indices :
+
+        -   publication garantie,
+
+        -   délais de publication très courts,
+
+        -   manque de transparence (processus, facturation, coordonnées, éditeurs, etc.),
+
+        -   publications non-régulières.
+
+-   Attention à vos **collaborateurs** : dorénavant peut-être que vous êtes alerte vis-à-vis des prédateurs mais il est possible que vos collaborateurs de vos recherches connaissent mal ces problèmes.
+
+    -   Comme vous êtes un co-auteur, vous aurez aussi à subir les conséquences de leurs mauvaises décisions.
+
+    -   Donc faites attention aux maillons faibles dans votre équipe et parlez-en, souvent.
+
+-   Depuis 2008, la *Beall's* list <https://beallslist.net/>a tenté de **référencer** ces revues prédatrices.
+
+    -   Elle est en accès libre.
+
+    -   Selon les époques, elle fut retirée ou remise en ligne au gré des attaques juridiques en diffamation <https://debunkingdenialism.com/2017/01/16/what-happened-to-jeffrey-bealls-list-of-allegedly-predatory-publishers/>.
+
+    -   La présente instance liste :
+
+        -   les maisons d'édition de revues (*publishers*),
+
+        -   les revues sans maison d'édition (*standalone journals*),
+
+        -   et les maisons d'édition de livres en autopublication (*vanity press*).
+
+-   Un outil payant de liste d'exclusion existe (*Cabell list*). Non testé. Actualité de sa mise à jour : inconnue.
+
+-   Listes de revues valides ?
+
+    -   DOAJ <https://doaj.org/> : attention, des revues prédatrices s'y glissent régulièrement.
+
+    -   Web of Science *master journal list* <https://mjl.clarivate.com/> : tri rigoureux, mais on se sait jamais...
+
+-   Les revues prédatrices sont une conséquence de la **pression à la publication** dans le monde universitaire (expression *Publish or Perish*) pour l'avancement de carrière, pour recevoir des financements ou rendre des comptes à un comité de financement. D'autres conséquences sont : la publication de beaucoup de petites études plutôt qu'une significative ou le fait de publier vite et mal (avec risques de rétractions voir p. ).
+
+### Les maisons d'édition de livres douteuses
+
+-   Modèle principal : les publication à compte d'auteur (*vanity publishing*) et/ou maisons d'édition de mémoires et de thèses :
+
+    -   Vous êtes sollicités, vous payez, vous cédez vos droits d'auteur, votre document est publié en 1 ou quelques exemplaires. Fin. Aucune visibilité de vos travaux. Perte de votre droit d'auteur (impossible de faire autre chose avec votre document).
+
+-   Autre modèle : des livres à des prix exorbitants avec peu de travail éditorial et que peu de bibliothèques achètent (*Rogue book publishers / write-only publishers*) Eriksson, Stefan, et Gert Helgesson. « The False Academy: Predatory Publishing in Science and Bioethics ». *Medicine, Health Care and Philosophy* 20, no 2 (2017): 163‑70. <https://doi.org/10.1007/s11019-016-9740-3>. .
+
+    -   Ce sont surtout des prédateurs de bibliothèques mal avisées. Peu de visibilité de vos travaux. Perte de votre droit d'auteur (impossible de faire autre chose avec votre document).
+
+    -   Important : Dans un dépôt institutionnel comme Papyrus (UdeM), vous gardez un droit d'auteur complet sur tout ce que vous mettez . En fait, en y déposant des documents, vous ne faites qu'accorder un droit de diffusion non-exclusif à l'Université de Montréal. Vous pouvez même demander un embargo de quelques années sur une thèse pour négocier plus facilement des droits de publication auprès d'une vraie maison d'édition.
+
+-   Dès que vous aurez déposé votre thèse ou autre dans Papyrus, attendez-vous à recevoir ce type de sollicitation automatique « Il ne s'agit cependant pas d'éditeurs reconnus, il n'y a ni processus de sélection de titres, ni révision scientifique du contenu, ni mise en page ou graphisme avant publication. De plus, le contrat d'édition proposé peut priver l'auteur de la possibilité de publier ultérieurement chez un éditeur sérieux dans son domaine. » <https://bib.umontreal.ca/gerer-diffuser/deposer-these-memoire/diffuser>.
+
+### Les conférences prédatrices
+
+-   Risque principal : perte financière si on vous demande de rendre des comptes et de rembourser une conférence illégitime.
+
+-   Modèle économique des conférences prédatrices :
+
+    -   Tenir une conférence dans un lieu attractif.
+
+    -   Ne fournir aucun support de recherche (sélection, communauté, etc.).
+
+        -   Très souvent : chercheurs de tous les domaines pour ratisser large.
+
+        -   Aucun comité scientifique de sélection.
+
+    -   Encaisser des frais d'inscription et d'hébergement. Pas de remboursement possible.
+
+-   Vous présentez votre recherche mais vous ne recevez aucune rétroaction de qualité ni pouvez faire de réseautage de recherche puisque les participants proviennent de disciplines sans aucun lien.
+
+### Autres prédations universitaires
+
+-   On utilise **votre nom à votre insu** pour des comités scientifiques, ou éditoriaux ou autres.
+
+    -   Faites une veille régulière sur votre nom : `Pascal Martinolli OR Martinolli, Pascal`
+
+-   Ajouter des **faux co-auteurs** (qui existent mais qui n'ont pas contribué) ou ajouter des faux-faux co-auteurs (qui n'existent pas mais appartiennent faussement à des institutions reconnues), pour augmenter les chances d'être publié <https://retractionwatch.com/2019/04/23/a-new-form-of-plagiarism-when-researcher-fake-co-authors-names/>.
+
+-   Créer des **fausses identités** qui publient des faux textes, dans des dépôts douteux ou mal avisés, mais qui vous citent, pour booster votre h-index.
+
+-   Des articles légitimes qui sont recyclés, renommés et republié par des revues prédatrices. Ou des revues prédatrices qui changent de noms (*rebranding*) Siler, K., Vincent-Lamarre, P., Sugimoto, C. R., & Larivière, V. (2021). Predatory publishers' latest scam : Bootlegged and rebranded papers. *Nature*, 598(7882), 563-565. <https://doi.org/10.1038/d41586-021-02906-8> .
+
+-   Un éditeur traditionnel et renommé qui vous propose plusieurs formules de « publications accélérées » (*fast-track*), est-ce de la prédation ? <https://taylorandfrancis.com/partnership/commercial/accelerated-publication/>
+
+-   Des **intermédiaires frauduleux** se proposent d'être vos agents et de démarcher les revues pour vous. Cela n'est pas une pratique de la recherche <https://scholarlykitchen.sspnet.org/2018/04/18/paper-acceptedunless-letter-forged/>. Certaines sociétés semblent parfois proposer des services aux auteurs : aide au ciblage des revues, traduction, relecture, mise en forme, etc.
+
+-   Une définition qui semble communément admise par la communauté des chercheurs dans *Nature* en 2019 Grudniewicz, Agnes, et al. « Predatory Journals: No Definition, No Defence ». Nature 576, no 7786 (2019): 210‑12. <https://doi.org/10.1038/d41586-019-03759-y>. .
+
+-   Pour aller plus loin : lire le rapport complet en anglais ou résumé en français *Combatting Predatory Academic Journals and Conferences* 2022 <https://www.interacademies.org/project/predatorypublishing>.
+
+-   Il est possible que vous receviez des courriels légitimes de revues ou de conférences, mais ce sont des courriels génériques pour un appel à communications (*Call for Papers*). À vous d'exercer votre jugement et d'en parler avec votre direction de recherche et vos pairs.

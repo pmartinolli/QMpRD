@@ -1,0 +1,275 @@
+{
+  "index.qmd": {
+    "index.html": "6110614c"
+  },
+  "intro.qmd": {
+    "intro.html": "10d0bf3c"
+  },
+  "summary.qmd": {
+    "summary.html": "a3d73545"
+  },
+  "references.qmd": {
+    "references.html": "078ae48b"
+  },
+  "introduction.qmd": {
+    "introduction.html": "e751d05a"
+  },
+  "identitenumerique.qmd": {
+    "identitenumerique.html": "dbb98356"
+  },
+  "parametrages.qmd": {
+    "parametrages.html": "a857428d"
+  },
+  "phaseexploratoire.qmd": {
+    "phaseexploratoire.html": "12445764"
+  },
+  "zoterocollecter.qmd": {
+    "zoterocollecter.html": "f2a22006"
+  },
+  "sourcestertaires.qmd": {
+    "sourcestertaires.html": "85dbf498"
+  },
+  "principauxcourants.qmd": {
+    "principauxcourants.html": "8b45c2b4"
+  },
+  "phaserecherche.qmd": {
+    "phaserecherche.html": "cb9732d6"
+  },
+  "recherchemotcle.qmd": {
+    "recherchemotcle.html": "f763ec13"
+  },
+  "recherchecitation.qmd": {
+    "recherchecitation.html": "215e34c4"
+  },
+  "recherchepersonne.qmd": {
+    "recherchepersonne.html": "04d4a1cc"
+  },
+  "rechercheautres.qmd": {
+    "rechercheautres.html": "4fc24a63"
+  },
+  "parcoursrecherche.qmd": {
+    "parcoursrecherche.html": "940cb125"
+  },
+  "lectureanalyse.qmd": {
+    "lectureanalyse.html": "00e3c7de"
+  },
+  "zoteroorganiser.qmd": {
+    "zoteroorganiser.html": "9cf105b6"
+  },
+  "alertes.qmd": {
+    "alertes.html": "f882d8f0"
+  },
+  "evaluer.qmd": {
+    "evaluer.html": "8383fdcc"
+  },
+  "redaction.qmd": {
+    "redaction.html": "ebd1ef1a"
+  },
+  "citer.qmd": {
+    "citer.html": "93ed2400"
+  },
+  "zoterorediger.qmd": {
+    "zoterorediger.html": "3a0edf78"
+  },
+  "obsidian.qmd": {
+    "obsidian.html": "d05ec963"
+  },
+  "notehistorique.qmd": {
+    "notehistorique.html": "164d59f1"
+  },
+  "enseignantenbib.qmd": {
+    "enseignantenbib.html": "284c6b00"
+  },
+  "contributions.qmd": {
+    "contributions.html": "d4bb003c"
+  },
+  "bibliographie.qmd": {
+    "bibliographie.html": "e1a5fe31"
+  },
+  "glossaire.qmd": {
+    "glossaire.html": "845acb68"
+  },
+  "accesdroits.qmd": {
+    "accesdroits.html": "447e7b56"
+  },
+  "chapters/introduction.qmd": {
+    "introduction.html": "946cd80e"
+  },
+  "chapters/identitenumerique.qmd": {
+    "identitenumerique.html": "2dd53091"
+  },
+  "chapters/parametrages.qmd": {
+    "parametrages.html": "9c4796ae"
+  },
+  "chapters/zoterocollecter.qmd": {
+    "zoterocollecter.html": "092ba1cd"
+  },
+  "chapters/sourcestertaires.qmd": {
+    "sourcestertaires.html": "6ec69acb"
+  },
+  "chapters/principauxcourants.qmd": {
+    "principauxcourants.html": "b5f82fc5"
+  },
+  "chapters/recherchemotcle.qmd": {
+    "recherchemotcle.html": "653c458b"
+  },
+  "chapters/recherchecitation.qmd": {
+    "recherchecitation.html": "db690047"
+  },
+  "chapters/recherchepersonne.qmd": {
+    "recherchepersonne.html": "b980631a"
+  },
+  "chapters/rechercheautres.qmd": {
+    "rechercheautres.html": "d418882f"
+  },
+  "chapters/parcoursrecherche.qmd": {
+    "parcoursrecherche.html": "d94843b9"
+  },
+  "chapters/zoteroorganiser.qmd": {
+    "zoteroorganiser.html": "a176d517"
+  },
+  "chapters/alertes.qmd": {
+    "alertes.html": "42cb3aef"
+  },
+  "chapters/evaluer.qmd": {
+    "evaluer.html": "50989647"
+  },
+  "chapters/citer.qmd": {
+    "citer.html": "73b6659f"
+  },
+  "chapters/zoterorediger.qmd": {
+    "zoterorediger.html": "cc716d9c"
+  },
+  "chapters/obsidian.qmd": {
+    "obsidian.html": "da5e3a29"
+  },
+  "chapters/notehistorique.qmd": {
+    "notehistorique.html": "3a5dc493"
+  },
+  "chapters/enseignantenbib.qmd": {
+    "enseignantenbib.html": "cd50d6ea"
+  },
+  "chapters/contributions.qmd": {
+    "contributions.html": "94386bb6"
+  },
+  "chapters/bibliographie.qmd": {
+    "bibliographie.html": "c6fd5ac4"
+  },
+  "chapters/glossaire.qmd": {
+    "glossaire.html": "20ad0594"
+  },
+  "chapters/accesdroits.qmd": {
+    "accesdroits.html": "1fd51c3b"
+  },
+  "chapters/zoteroinstaller.qmd": {
+    "zoteroinstaller.html": "422d5a70"
+  },
+  "chapters/phaseexploratoire.qmd": {
+    "phaseexploratoire.html": "68093432"
+  },
+  "chapters/phaserecherche.qmd": {
+    "phaserecherche.html": "095cdf61"
+  },
+  "chapters/lectureanalyse.qmd": {
+    "lectureanalyse.html": "aef91bcc"
+  },
+  "chapters/redaction.qmd": {
+    "redaction.html": "7177087e"
+  },
+  "chapters/sauvegardedurable.qmd": {
+    "sauvegardedurable.html": "d71b2c33"
+  },
+  "chapters/operateurs.qmd": {
+    "operateurs.html": "a2752704"
+  },
+  "chapters/preparation.qmd": {
+    "preparation.html": "6574da2f"
+  },
+  "chapters/rechercheliste.qmd": {
+    "rechercheliste.html": "36e26f4b"
+  },
+  "chapters/recherchebdd.qmd": {
+    "recherchebdd.html": "e79b4325"
+  },
+  "chapters/phaselectureanalyse.qmd": {
+    "phaselectureanalyse.html": "a9e378da"
+  },
+  "chapters/phaseredaction.qmd": {
+    "phaseredaction.html": "fddad32b"
+  },
+  "chapters/formats.qmd": {
+    "formats.html": "5a5682b8"
+  },
+  "chapters/cahierrecherche.qmd": {
+    "cahierrecherche.html": "53fea2b6"
+  },
+  "chapters/markdown.qmd": {
+    "markdown.html": "68d82adb"
+  },
+  "chapters/identifierdocument.qmd": {
+    "identifierdocument.html": "cd14ead9"
+  },
+  "chapters/thesaurus.qmd": {
+    "thesaurus.html": "cda0f06b"
+  },
+  "chapters/terminalbash.qmd": {
+    "terminalbash.html": "32499893"
+  },
+  "chapters/numerisation.qmd": {
+    "numerisation.html": "232be21b"
+  },
+  "chapters/archivage.qmd": {
+    "archivage.html": "9bb9afab"
+  },
+  "chapters/zoteroplus.qmd": {
+    "zoteroplus.html": "39bfc2ff"
+  },
+  "chapters/revuelitterature.qmd": {
+    "revuelitterature.html": "5339de70"
+  },
+  "chapters/kitdepartudem.qmd": {
+    "kitdepartudem.html": "4255bfaa"
+  },
+  "chapters/droitdauteur.qmd": {
+    "droitdauteur.html": "8e372f21"
+  },
+  "chapters/micropublication.qmd": {
+    "micropublication.html": "cdbabdac"
+  },
+  "chapters/prepublication.qmd": {
+    "prepublication.html": "df66f3ae"
+  },
+  "chapters/bloguersarecherche.qmd": {
+    "bloguersarecherche.html": "f0156ae3"
+  },
+  "chapters/microbloguer.qmd": {
+    "microbloguer.html": "d9b9d94c"
+  },
+  "chapters/communicationparaffiche.qmd": {
+    "communicationparaffiche.html": "00bc1514"
+  },
+  "chapters/libreacces.qmd": {
+    "libreacces.html": "c2a2b9d7"
+  },
+  "chapters/editeurpredateur.qmd": {
+    "editeurpredateur.html": "c0fb377a"
+  },
+  "chapters/retraction.qmd": {
+    "retraction.html": "42118505"
+  },
+  "chapters/bibliometrie.qmd": {
+    "bibliometrie.html": "d4abf79c"
+  },
+  "chapters/oupublier.qmd": {
+    "oupublier.html": "d02ce105"
+  },
+  "chapters/promouvoir.qmd": {
+    "promouvoir.html": "89c9cbac"
+  },
+  "chapters/gestiondonneesrecherche.qmd": {
+    "gestiondonneesrecherche.html": "06721331"
+  },
+  "chapters/wikipourlarecherche.qmd": {
+    "wikipourlarecherche.html": "c00a7e1e"
+  }
+}

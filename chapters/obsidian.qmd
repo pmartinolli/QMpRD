@@ -1,0 +1,221 @@
+#  Obsidian.md : prise de notes liées {#sec-obsidian}
+
+## Pourquoi ? 
+
+-   Zotero (ou Endnote ou tout autre logiciel de geston bibliographique) est bien pour prendre des notes **centrées sur les documents**.
+
+-   MAIS il vous faut aussi un **outil centré sur les idées** que vous extrayez des documents.
+
+    -   Une prise de notes simple et souple.
+
+    -   Évolutif : de 10 notes à +1000 notes.
+
+    -   Robuste (format texte balisé en Markdown) Voir p. ..
+
+    -   Personnalisable.
+
+    -   Avec une gestion des liens entre vos notes, basé principalement sur une organisation par index.
+
+## Comment ? 
+
+-   Avec un logiciel adapté comme Obsidian.md <https://obsidian.md/> (logiciel non libre, mais gratuit pour une utilisation personnelle).
+
+-   Principes d'utilisation principaux :
+
+    -   **Chaque note = une idée**.
+
+    -   Au moins 1 **index de notes**.
+
+        -   C'est à dire une note qui est une liste de toutes vos notes.
+
+        -   Chaque note doit **d'abord être listée/liée** dans un des index de notes.
+
+        -   Les index de notes seront les cartes de vos idées. Ce sont de listes structurées, ordonnées, faciles à parcourir, pour retrouver à coup sûr toutes vos notes (valable pour un millier de notes au moins, je n'ai pas testé au-delà).
+
+### Index de notes
+
+-   Il faut avoir au moins UN index de notes.
+
+    -   Plus vous avez de notes, plus il est intéressant de créer plusieurs index (pour éviter un long index à parcourir).
+
+        -   Pour mes 1200 notes, j'ai 15 index de notes.
+
+            -   J'ai 10 index de notes thématiques
+
+            -   \+ 1 index fourre-tout (nommé BAZAR)
+
+            -   \+ 1 index des choses à faire bientôt.
+
+    -   Pour bien voir mes index tout le temps :
+
+        -   J'ai mis mes index à la racine de mon dossier de notes et j'ai mis toutes mes notes dans des sous-dossiers.
+
+        -   J'ai nommé mes index de notes en MAJUSCULE.
+
+### Ajouter une nouvelle idée/note : une seule discipline d'organisation
+
+-   Avant de créer une nouvelle note pour rédiger une nouvelle idée : Parcourir l'index de notes thématique pertinent.
+
+-   Si la note existe déjà :
+
+    -   rédiger l'idée dans la note.
+
+-   Si la note n'existe pas encore : créer le lien vers la nouvelle note dans l'index de notes thématique :
+
+    -   à l'endroit pertinent dans l'index.
+
+    -   avec un lien \[\[ \]\] puis cliquer dessus pour créer la note.
+
+    -   rédiger la note.
+
+    -   placer la note dans un sous-dossier.
+
+### Autres repérages de notes (utile)
+
+-   Plus il y a de manières d'accéder à une note, plus il y a de chance de la retrouver vite.
+
+    -   Les notes importantes devraient avoir beaucoup d'accès.
+
+    -   Quand un projet prend de l'ampleur, il devient un index de notes car il va rassembler des notes diverses autour de lui. Il peut aussi être un dossier. Il peut aussi être un #hashtag (ou les 3).
+
+-   Travail sur les **synonymes** (alias) : Utiliser le Quick Switcher.
+
+    -   Utiliser les alias pour ajouter des synonymes à chaque entête YAML de notes.
+
+        `--- `
+
+        `aliases : ``[``synonyme1, synonyme 2``]`
+
+        `---`
+
+    -   Les alias sont sensibles aux accents mais pas à la casse.
+
+-   Utiliser les **#hashtags** pour une autre organisation de notes en parallèle.
+
+    -   Utiliser un sous-niveau de hashtags si besoin. Nécessite le plugin Tag Wrangler. Exemple :
+
+        `#projet/fini `
+
+        `#projet/futur`
+
+        `#projet/en_cours `
+
+    -   Surtout pour des thèmes ou des projets transversaux.
+
+    -   Équivalent d'étiquettes normalisées à coller sur des éléments. Utile quand on veut filtrer selon une ou plusieurs étiquettes.
+
+-   Placer les notes dans des **dossiers**.
+
+### Autres repérages de notes (optionnel)
+
+-   Utiliser le mode **Graph View**.
+
+    -   Filtrer avec des mots-clés ou des hashtags.
+
+    -   Colorer des recherches pré-enregistrées.
+
+    -   Jouer avec les forces de liens : Central force : 0. Repulsion : 70%. Links : 100%. Distance : 0.
+
+    -   Utiliser le Graph View surtout pour repérer les notes solitaires dans les limbes, non-raccrochées à quoi que ce soit.
+
+-   Outil de recherche **plein texte**
+
+    -   Un espace dans la recherche = AND par défaut (svp ne pas écrire AND)
+
+    -   `toto OR tata` : trouve les notes contenant toto, ou bien tata, ou bien les deux.
+
+    -   `toto -tata` : trouve les notes contenant toto mais ne contenant pas tata.
+
+    -   `(tutu OR tete) (toto OR titi) -tata` : groupe les synonymes
+
+    -   `test `: trouve les notes contenant test mais pas testing
+
+    -   `groupe de mots` : trouve les notes contenant l'expression «groupe de mots»
+
+    -   `tag:#titi` : trouve toutes les notes avec le hashtag #titi
+
+    -   `file:toto` : trouve les notes nommées toto
+
+    -   `file:.png `: trouve tous les fichiers PNG
+
+    -   `path:TUTU toto` : trouve toutes notes contenant le mot toto dans les dossiers contenant TUTU
+
+-   Inscrire une **recherche enregistrée** dans une note :
+
+    `“‘query `
+
+    `toto OR tata `
+
+    `“‘`
+
+-   Possibilité d'utiliser les expressions régulières.
+
+-   Importer le contenu d'une note dans une note :
+
+    `“!``[``[``nom de la note``]``]``“`
+
+##  Paramétrages et extensions recommandées
+
+-   Settings \> Editor : tel quel.
+
+-   Settings \> Files & Links :
+
+    -   Update automatically Internal Links : Check.
+
+    -   Default location for new attachments : In the Folder specified below : `_/images`
+
+-   Settings \> About \> Language : FR
+
+-   Settings \> Core Plugin \>
+
+    -   Outline : Check
+
+    -   Tag Pane : Check
+
+    -   Starred : Check
+
+    -   Templates : Check
+
+        -   Plugin Options \> Templates \> choisir l'emplacement `_/templates`
+
+    -   Workspace : Check
+
+-   Community Plugin \> Safe = OFF
+
+    -   Install \> Tag Wrangler + En bas : Activer Tag Wrangler
+
+## Markdown
+
+-   Rédiger des notes dans Obsidian est l'opportunité idéale pour pratiquer le balisage léger Markdown voir p. .
+
+-   Pour une utilisation un peu plus avancée (avec possibilité de citations comme Zotero) : utiliser Zettlr <https://www.zettlr.com/> avec un fichier des références bibliographiques au format BibTeX dans un fichier \*.bib et avec un fichier de style CSL.
+
+-   Il est possible de rédiger des articles et des livres complets avec ce formatage : voir R Markdown, Bookdown et Quarto.
+
+## 3P
+
+-   Une suggestion de formatage des notes : la « technique des 3 P »
+
+    -   **1 phrase** pour l'idée principale;
+
+    -   suivie de **1 paragraphe** pour l'idée développée;
+
+    -   suivi de **1 page** recto pour l'idée expliquée en détail (au verso : une liste de définitions, d'anecdotes, etc.).
+
+## Prendre des notes ailleurs\...
+
+-   Pour des notes liées à un document spécifique : Zotero.
+
+-   Pour prendre des notes sur son téléphone intelligent, puis les récupérer sur son ordinateur, etc.
+
+    -   Comment ? Suggestions :
+
+        -   application SimpleNote <https://app.simplenote.com/> (téléphone, tablette, ordinateur. Markdown).
+
+        -   service web hackmd.io <https://hackmd.io/> (ordinateur surtout. Excellent pour collaborer. Markdown).
+
+-   Pour sauvegarder en vrac, sans organisation, des informations trouvées en ligne.
+
+    -   Comment ? Suggestion : Evernote <https://evernote.com/> (« everything buckets ») + capture rapide des pages web avec Evernote Web Clipper pour Firefox ou Chrome. Possibilités de créer une dizaine de dossiers (carnets).
+
+-   Pour vos démarches de recherche de document et vos mots de passe, etc. : le portfolio et cahier de recherche.

@@ -1,0 +1,73 @@
+# Kit de départ de l'Université de Montréal {#sec-kitdepartudem}
+
+-   Vous vous apprêtez à quitter la communauté de l'UdeM. Ce chapitre est pour vous.
+
+-   Informations mises à jour en juillet 2023. Il se peut que des conditions aient changé.
+
+### Diplômé.e
+
+-   Félicitations!
+
+-   AU DÉBUT DU DEUXIÈME TRIMESTRE SANS INSCRIPTION, LE STATUT D'ÉTUDIANT EST RETIRÉ. Dès lors, certains services informatiques associés au statut d'étudiant, dont le service Proxy des bibliothèques, sont retirés automatiquement et sans avertissement.
+
+-   Mon UdeM demeure accessible aux diplômés. La récupération des relevés fiscaux liés aux frais de scolarité est disponible par le Centre Étudiant ou par le biais de Mon UdeM.
+
+### Quittance logicielle
+
+-   Vous pouvez conserver :
+
+    -   tous les logiciels libres que vous avez installés sur votre ordinateur : Zotero, 7-zip, etc.
+
+    -   tous les logiciels et les services gratuits : Obsidian.md, Gmail, etc.
+
+-   Vous perdez accès à :
+
+    -   Endnote : Sauvegardez votre base de données bibliographiques finale. Exportez vers un logiciel vers Zotero si besoin <https://bib.umontreal.ca/citer/logiciels-bibliographiques/endnote/ajouter-references#c105732>. Désinstallez Endnote.
+
+    -   Tous les produits Microsoft : Office, 365,.. et surtout **OneDrive UdeM** : FAITES UNE SAUVEGARDE DE TOUT VOTRE INFONUAGE.
+
+### Courriel institutionnel \@umontreal.ca
+
+-   Le diplômé conserve automatiquement l'accès au service de courriel institutionnel à vie sous forme infonuagique (50 Go).
+
+### Quittance des services des bibliothèques
+
+-   [Ramenez tous vos livres et matériels empruntés. ☐]{style="color: purple"}
+
+### Privilèges conservés en tant que diplômé de l'UdeM
+
+-   Accès électronique à votre Portfolio UdeM.
+
+-   Le diplômé conserve automatiquement l'accès au service Intranet universitaire (SIM) à vie.
+
+-   Réseau sans fil UdeM avec Cryptage et UdeM non securise, visiteurs.
+
+-   Visitez la section « Diplômés » de la page <https://bib.umontreal.ca/emprunter/inscription-privileges>
+
+### Accès à des ressources documentaires
+
+-   Sur les postes publics des Bibliothèques : Les diplômés ont toujours accès aux ressources électroniques en se branchant sur les postes publics à l'UdeM. Ils doivent maintenir son UNIP/mot de passe valide.
+
+-   Alertes créées dans des bases de données sous abonnement
+
+    -   Car vous ne pourrez plus accéder aux ressources réservées UdeM parce que vous n'aurez plus d'accès au proxy UdeM.
+
+    -   [Recommandation : avant de perdre l'accès par proxy, renouvelez toutes vos alertes avec la durée maximum possible (souvent 1 an). Ainsi, vous continuerez à recevoir les alertes par courriel pour la période demandée. ☐]{style="color: purple"}
+
+-   [Si vous êtes résident du Québec, vous pouvez obtenir un abonnement et une carte de la BAnQ. ]{style="color: purple"}
+
+    -   [Accès à la collection imprimée empruntable et à de nombreuses bases de données bibliographiques en ligne]{style="color: purple"} [<https://www.banq.qc.ca/services/pret/carte/index.html>]{style="color: purple"}[. ]{style="color: purple"}
+
+        -   [PressReader (+ 5 000 journaux et magazines : Le Devoir, Le Journal de Montréal, L'actualité,\...)]{style="color: purple"}
+
+        -   [Eureka.cc]{style="color: purple"}
+
+    -   [Carte faite : ☐]{style="color: purple"}
+
+-   Quelques moteurs de recherche académiques gratuits <https://doi.org/10.18167/coopist/0068> :
+
+    -   Google Scholar
+
+    -   BASE Search
+
+    -   Dimensions, Semantic Scholar, Lens, Scinapse, \...

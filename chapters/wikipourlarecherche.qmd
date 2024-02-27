@@ -1,0 +1,183 @@
+# Wikipédia & Wikidata pour la recherche {#sec-wikipourlarecherche}
+
+### Évaluer une page Wikipédia
+
+-   Deux écueils principaux :
+
+    -   Une page Wikipédia peut comporter des **erreurs**, il va falloir que vous vérifiez vous-même chaque information que vous y trouvez.
+
+    -   Une page Wikipédia peut lister des informations vraies MAIS ne traiter que **très partiellement** d'un sujet ou de faire un **contresens** en ordonnant mal les informations présentées.
+
+        -   Attention à l'impression de « consensus » trompeur et d'exhaustivité trompeuse qui semblent se dégager d'une page Wikipédia.
+
+        -   Il peut manquer ce qui est le plus important à savoir sur un sujet, ou avoir un traitement biaisé de la question (intentionnel ou incompétent).
+
+        -   Il n'y a pas d'autorité sur laquelle s'appuyer.
+
+        -   Exemple au 21 février 2022, sur le Wikipédia en français, la page Bushido <https://fr.wikipedia.org/w/index.php?title=Bushido&oldid=184618350> laisse à penser qu'il y avait réellement un « code d'honneur » des samourais dans le japon pré-moderne, or ce n'est pas le cas car c'est principalement une invention littéraire et romantique du XIXe siècle avec une très faible réalité historique. Pourtant sur la page Wikipédia, toutes les informations sont vraies et sourcées mais leur quantité et leur présentation biaisée en faveur de la valeur littéraire induisent un contresens.
+
+-   Quelques **critères simples** :
+
+    -   [La page a-t-elle beaucoup de contenu ? Est-elle bien rédigée ? ☐]{style="color: purple"}
+
+    -   [Les informations sont-elles bien sourcées ? Les sources sont-elles de qualité ? ☐ ]{style="color: purple"}
+
+    -   [Les pages du même sujet dans d'autres langues sont-elles intéressantes ? Y a-t-il des différences significatives ? ☐]{style="color: purple"}
+
+    -   [Existe-t-il d'autres pages liées intéressantes (liens dans le texte, dans les catégories en bas de page, etc.) ? ☐]{style="color: purple"}
+
+-   Quelques **critères avancés** :
+
+    -   [Onglet Discussion \> ]{style="color: purple"}
+
+        -   [Quel est le statut de la page selon la communauté Wikipédia ? Le meilleur statut est ]{style="color: purple"}**[Article de qualité]{style="color: purple"}**[ (]{style="color: purple"}*[featured article]{style="color: purple"}*[), puis Bon article (]{style="color: purple"}*[good article]{style="color: purple"}*[) et ainsi de suite jusqu'à Ébauche (]{style="color: purple"}*[stub]{style="color: purple"}*[). ☐]{style="color: purple"}
+
+        -   [Le sujet de la page est-il considéré comme important selon communauté Wikipédia ? Importance : maximum, élevée, moyenne ou faible. ☐]{style="color: purple"}
+
+    -   [Menu de gauche \> Informations sur la page \> ]{style="color: purple"}
+
+        -   [Nombre de contributeurs ayant la page dans leur liste de suivi. ☐ ]{style="color: purple"}
+
+        -   [Vues de la page dans les 30 derniers jours. ☐]{style="color: purple"}
+
+        -   [Nombre total de modifications. ☐]{style="color: purple"}
+
+    -   [Menu de gauche \> Pages liées : tous les pages qui mênent à l'article en cours. ☐]{style="color: purple"}
+
+    -   [Onglet Voir l'historique \> Regarder qui a contribué à la page. ☐]{style="color: purple"}
+
+-   Considérer Wikipédia comme un simple portail de liens et de références pour débuter une recherche d'informations.
+
+    -   Ne pas s'en contenter.
+
+    -   Vérifier et aller plus loin.
+
+    -   Surtout : Ne pas de baser sur son contenu pour des décisions critiques de vie (finance, santé, loi) <https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux>.
+
+### Citer une page Wikipédia ?
+
+-   Il n'est pas recommandé de citer une page Wikipédia car ces trois piliers de l'évaluation sont absents ou fragiles :
+
+    -   Auteur : anonymat complet. Il n'est pas possible de vérifier l'identité d'un.e contributeur.trice. Donc pas d'expertise non plus, les contributeurs ont peut-être oublié une ou toutes les notions essentielles à connaître sur le sujet.
+
+    -   Éditeur : aucune responsabilité. Wikipédia est un hébergeur de pages web et non un éditeur. Dans leur page d'avertissement, il est dit explicitement de ne pas baser ses prises de décision (santé, juridiques, financières) sur les informations dans Wikipédia mais sur des professionnels agréés.
+
+    -   Contenu : intéressant souvent, accessible et synthétique, \... mais instable. La mention d'une page Wikipédia devrait toujours être datée car une page peut complètement être remaniée en l'espace de quelques semaines.
+
+        -   [Voir l'historique \> Cliquer sur la date heure la plus récente. Dans la boîte jaune : « Ceci est la version actuelle de cette page\... ». Récupérer l'URL sous la forme ?title=\_\_&oldid=\_\_\_ ]{style="color: purple"}
+
+#### Creative Commons 
+
+-   Wikipédia est sous licence CC-BY-SA 3.0
+
+    -   Vous devez légalement citer Wikipédia correctement si vous réutilisez ou adaptez du contenu (copie, vente, remix, transformation) <https://creativecommons.org/licenses/by-sa/3.0/deed.fr>.
+
+    -   Pour l'éthique de la recherche vous devez AUSSI citer Wikipédia.
+
+### Contribuer à Wikipédia
+
+-   []{style="color: purple"}
+
+    -   Votre adresse IP n'est pas rendue publique quand vous contribuez.
+
+    -   Votre compte va accumuler et lister toutes vos contributions.
+
+    -   Espace personnel (page personnelle, messagerie interne, alertes de suivi).
+
+    -   Possibilité de modifier des pages semi-protégées.
+
+    -   Possibilité de participer aux votes communautaires.
+
+-   **Contribuer progressivement** : commencer simplement et augmenter en complexité au fur et à mesure Un parcours ludifié en 5 niveaux : <https://github.com/pmartinolli/TM-Wikipedibus>.
+
+    -   [Créer des liens entre les pages. ☐]{style="color: purple"}
+
+    -   [Ajouter une source. ☐]{style="color: purple"}
+
+    -   [Ajouter des catégories. ☐ Ajouter un bandeau à une page problématique / critiquer dans Discussion ☐]{style="color: purple"}
+
+    -   [Rédiger un paragraphe avec une ou deux sources. ☐]{style="color: purple"}
+
+    -   [Traduire une page vers le français. ☐]{style="color: purple"}
+
+    -   [Rédiger une nouvelle page avec une quizaine de sources. ☐]{style="color: purple"}
+
+    -   [Restructurer les informations d'une page existante (le plus difficile selon moi car il faut prendre en compte la réaction de la communauté). ☐]{style="color: purple"}
+
+-   **Faire valoriser ses contributions** :
+
+    -   Quantitativement : lister le nombre de vos contributions
+
+    -   Qualitativement : avoir créé une nouvelle page ou avoir significativement amélioré ou enrichi une page existante. en
+
+    -   [Dans l'espace personnel Wikipédia : créer une mini-page vers vos contributions et des liens vers compteurs de contributions]{style="color: purple"} [Exemple : <https://fr.wikipedia.org/wiki/Utilisateur:Pmartinolli>]{style="color: purple"}[. ☐]{style="color: purple"}
+
+    -   [Dans votre CV : indiquer votre identifiant avec quelques-unes de vos importantes contributions). ☐]{style="color: purple"}
+
+### Utiliser les données de Wikidata
+
+-   **Wikidata** <https://www.wikidata.org/> est une immense base de connaissances (une base de données avec des informations hétérogènes mais toutes reliées entre elles).
+
+    -   Elle incomplète mais elle peut être intérrogée pour repérer de l'information et l'exporter dans des formats exploitables.
+
+-   Peut servir pour vos données de recherche :
+
+    -   En support **partiel** ou complet.
+
+        -   Complet ? Plusieurs chercheurs mentionnent que l'ontologie (l'organisation des informations) de Wikidata est trop sommaire pour décrire toutes les données de certains projets de recherche.
+
+        -   Partiel ? Pour compléter vos données ou pour les aligner sur des identifiants externes.
+
+    -   En phase exploratoire, ou en phase d'éxécution ou en phase de diffusion Pascal Martinolli « Wikidata : un outil pour vous, les chercheurs » ACFAS Magazine, 4 juin 2020. <https://www.acfas.ca/publications/magazine/2020/06/wikidata-outil-vous-chercheurs>.
+
+        -   Liste normalisée de concepts / thèmes disciplinaires : sélection de 65000 concepts, classés en 5 niveaux, de OpenAlex <https://docs.openalex.org/about-the-data/concept>.
+
+#### Creative Commons 
+
+-   Les données dans Wikidata sont sous licence CC0.
+
+    -   Donc vous n'avez pas d'obligation légale de citer l'origine des données.
+
+    -   MAIS pour l'éthique de la recherche, il faut citer l'origine des données.
+
+#### SPARQL
+
+-   La manière la plus intéressante d'interroger Wikidata est de lancer des requêtes SPARQL.
+
+    -   C'est comme des requêtes avec des mots et des opérateurs booléens, mais en beaucoup plus compliqué.
+
+    -   Quelques exemples ici : <https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples>
+
+    -   Mes exemples ici : <https://www.wikidata.org/wiki/User:Pmartinolli>
+
+### Contribuer à Wikidata
+
+-   Un excellent MOOC vous permettra de comprendre comment fonctionne et comment contribuer à Wikidata : <https://formations.wikimedia.fr>
+
+### Indexer son profil de chercheur dans Wikidata []{#sec:WikidataID label="sec:WikidataID"}
+
+-   Pourquoi ?
+
+    -   Wikidata est devenu le principal **outil fédérateur des identifiants ouverts**. On devrait l'appeler « Wikimetadata ». Il est aussi utilisé par les moteurs de recherche sémantiques (comme Google) pour améliorer leurs résultats de recherche. Indirectement, avoir un identifiant Wikidata bien indexé et bien aligné avec vos différents profils peut améliorer votre présence dans les résultats de recherche de Google J'avais tenté de vérifier l'impact mais il est insignifiant pour des personnes ayant déjà une page sur le site de l'UdeM (une institution qui a un grand poids dans le *PageRank*). Il est possible que l'impact soit plus fort pour une personne n'ayant pas de présence sur le site de l'UdeM. <https://www.wikidata.org/wiki/User:Pmartinolli/Curation_chercheurs_UdeM/Impact_on_PageRank>.
+
+-   Comment ? \[1h\]
+
+    -   Éligibilité : En juin 2019, le consensus social sur la **notoriété** [https://www.wikidata.org/wiki/Wikidata:Notability/fr https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6](https://www.wikidata.org/wiki/Wikidata:Notability/fr%20https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6) des éléments de Wikidata dit qu'il est possible de créer un élément Wikidata au nom d'un.e chercheur.se si :
+
+        -   la personne a publié au moins un article dans une revue universitaire avec comité de lecture;
+
+        -   ou un livre publié dont elle est l'autrice ou l'auteur.
+
+    -   [Tutoriel et suggestions pour créer ou améliorer son identifiant Wikidata]{style="color: purple"} <https://www.wikidata.org/wiki/User:Pmartinolli/Curation_chercheurs_UdeM>
+
+    -   [Avertissement : Il est recommandé de se créer un compte Wikimedia et d'ajouter la page de votre élément Q à votre liste de suivi (]{style="color: purple"}[*watchlist*]{style="color: purple"}[) pour être alerté de toutes modifications sur celui-ci. Si vous avez une page Wikipédia à votre nom, faîtes de même. En effet, il est possible que des personnes mal informées ou mal intentionnées indexent des déclarations (]{style="color: purple"}[*statements*]{style="color: purple"}[) privées ou diffamatoires. Si c'est le cas, envoyer un courriel immédiatement au ]{style="color: purple"}[*Wikidata Oversight*]{style="color: purple"}[]{style="color: purple"} [<https://www.wikidata.org/wiki/Wikidata:Oversight>]{style="color: purple"}[ pour masquer les déclarations concernées et leurs historiques de modification. Exemples de déclarations à surveiller : ]{style="color: purple"}*[Place of birth]{style="color: purple"}*[ (P19), ]{style="color: purple"}*[Date of birth]{style="color: purple"}*[ (P569), ]{style="color: purple"}*[Located at street address]{style="color: purple"}*[ (P6375), ]{style="color: purple"}*[Phone number]{style="color: purple"}*[ (P1329),]{style="color: purple"}*[ E-mail address]{style="color: purple"}*[ (P968), ]{style="color: purple"}*[Sexual orientation]{style="color: purple"}*[ (P91), ]{style="color: purple"}*[Political ideology]{style="color: purple"}*[ (P1142), ]{style="color: purple"}*[Religion]{style="color: purple"}*[ (P140), ]{style="color: purple"}*[Medical condition]{style="color: purple"}*[ (P1050), ]{style="color: purple"}*[Cause of death]{style="color: purple"}*[ (P509),\...]{style="color: purple"}
+
+    -   [Utiliser Author-disambiguator]{style="color: purple"} [<https://author-disambiguator.toolforge.org/>]{style="color: purple"}[ pour réclamer vos publications. ]{style="color: purple"}
+
+        -   [Connectez-vous avec votre login/mot de passe Wikimedia.]{style="color: purple"}
+
+        -   [Lancez une recherche avec votre nom.]{style="color: purple"}
+
+        -   [Cochez vos publications. Décochez celles qui ne sont pas de vous.]{style="color: purple"}
+
+        -   [Associez avec votre QID.]{style="color: purple"}

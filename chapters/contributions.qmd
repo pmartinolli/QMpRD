@@ -1,0 +1,30 @@
+# Contributions significatives à ce manuel {#sec-contributions}
+
+-   Selon la **taxonomie CRediT** Plus d'informations sur le sujet : <https://coop-ist.cirad.fr/etre-auteur/reconnaitre-tous-les-contributeurs/3-la-taxonomie-credit-pour-identifier-toutes-les-contributions>. Un petit outil très simple pour générer des blocs de citation CRediT pour attribuer les bons rôles à tous les collaborateurs d'une étude : <https://rollercoaster.shinyapps.io/tenzing/>. Il serait aussi possible de lister les contributions selon les rôles.
+
+    -   Pascal Martinolli
+        -   Roles : Conceptualisation (principale), Méthodologie (principale), Visualisation, Rédaction - version originelle, Rédaction - révision et correction.
+        -   Auteur de correspondance : pascal.martinolli \@ umontreal.ca
+        -   Affiliation : Bibliothèques de l'Université de Montréal.
+        -   ORCID : [0000-0003-0122-5300](https://orcid.org/0000-0003-0122-5300)
+    -   Cynthia Gagné
+        -   Roles : Rédaction - révision et correction (égale). Version 3.25.
+        -   Affiliation : Bibliothèques de l'Université de Montréal.
+        -   ORCID : [0000-0003-0251-3136](https://orcid.org/0000-0003-0251-3136)
+    -   Mathieu Thomas
+        -   Roles : Rédaction - révision et correction (égale). Version 3.25.
+        -   Affiliation : Bibliothèques de l'Université de Montréal.
+        -   ORCID : [0000-0003-0251-3136](https://orcid.org/0000-0003-0251-3136)
+
+-   Certains chapitres ont des contributions spécifiques :
+    -   Paramétrages informatiques et Kit de départ de l'Université de Montréal (Eric Romano, validation principale) ;
+    -   Bibliométrie (Cynthia Gagné, contributrice principale) ;
+    -   Revue exhaustive de la littérature et revue systématiques (Cynthia Gagné, contributrice principale) ;
+    -   Dans quelle revue diffuser ma recherche ? (Valérie Rioux, Cynthia Gagné et Pascal Martinolli, contributrices et contributeurs égaux).
+
+-   Remerciements à mes collègues des Bibliothèques UdeM pour leurs apports et leurs retours d'expérience depuis 2007.
+-   Remerciements à Benjamin Constantineau pour son expertise LaTeX.
+-   Remerciement aux étudiantes et étudiants du séminaire PLU6058 qui ont utilisé ce manuel sous ses différentes formes et qui ont contribué à son amélioration depuis 2013. Spécialement à Thiago Cruzeiro Rocha, Samantha Vila, Naziha Sabri et Edgar Schnepp.
+-   Remerciements aux conseillers pédagogiques du Centre de pédagogie universitaire de l'Université de Montréal pour leurs conseils et suggestions.
+-   Voir les sources spécifiques indiquées dans les notes de bas de page.
+-   Voir la Bibliographie voir p. . pour une liste des ressources génériques les plus significatives.

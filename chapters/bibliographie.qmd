@@ -1,0 +1,132 @@
+# Bibliographie {#sec-bibliographie}
+
+## Inspirations générales
+
+-   Pour la fonction de documentation du cheminement des recherches d'information, pour assurer la traçabilité et la reproductibilité des démarches documentaires, pour les annotations personnelles : les méthodes de *lab notebooking* en sciences naturelles <https://doi.org/10.12688/f1000research.17710.2> <https://www.eure.gouv.fr/content/download/8626/48705/file/mode%20emploi%20cahier%20labo.pdf>, les journaux de voyage (*travelogue*), les journaux de bord (*log*) des capitaines de navire <https://www.lifeofsailing.com/post/how-to-keep-a-captains-log> et le manuel *Advanced Potion-Making* lourdement annoté par le Prince de sang-mêlé Cité dans *Harry Potter and the Half-Blood Prince*, par J.K. Rowling (2005)..
+
+-   Pour la fonction de gestion du temps et des priorités : la mode du *bullet journal*.
+
+-   Pour le séquençage de notions complexes en plusieurs tâches et notions simples : le ***Discours de la Méthode*** de René Descartes (1637) et les manuels de construction de meuble.
+
+-   Pour l'idéal rêvé d'un outil pédagogique autonome qui s'adapterait à l'apprenant : Le « Manuel » dans l'œuvre de science-fiction ***The Diamond Age: or, A Young Lady's Illustrated Primer*** de Neal Stephenson (1995) <https://fr.wikipedia.org/wiki/L%27%C3%82ge_de_diamant>. Le Manuel y est une intelligence artificielle que plusieurs factions se disputent et dont la fonction est d'accompagner l'éducation intégrale de l'apprenante qui le possède. Le Manuel s'adapte à l'apprenante mais aussi au contexte et aux événements autour de l'apprenante. C'est le Graal de tout ingénieur pédagogique.
+
+-   Pour l'auto-réflexion documentée et systématique de son parcours de recherche : le ***Luck diary*** de Richard Wiseman (2003) Discuté sur son blogue <https://richardwiseman.wordpress.com/> et dans son livre *The Luck Factor*. où il est recommandé de tenir un journal des « bons coups » car cela peut créer une spirale virtueuses d'autres bonnes pratiques; et les ***Exercices spirituels*** de Saint Ignace de Loyola (1548) où le discernement est inclus dans une démarche progressive de clarifications et de répétitions.
+
+-   Parce que c'est okay de faire des erreurs, parce qu'il faut suivre le recette, parce que tout le monde peut faire ça dans sa cuisine et pour la coopération fructueuse France-Amérique du Nord : ***Mastering The Art Of French Cooking*** de Julia Child, Louisette Bertholle et Simone Beck (1961) <https://en.wikipedia.org/wiki/Mastering_the_Art_of_French_Cooking>.
+
+-   Pour le concept de document vivant : les ***Adages*** (1500) de Érasme qui commença à compiler 820 proverbes dans la première édition pour finir à 4151 proverbes dans la 16e édition, 36 ans plus tard <https://fr.wikipedia.org/wiki/Adages>.
+
+## Inspirations spécifiques
+
+Dans le style Chicago notes de bas de page (*fullnotes*), 17e édition.
+
+#### Généralités
+
+Bibliothèques de l'UdeM. « Guides en ligne », 2010-... <https://bib.umontreal.ca/>.
+
+Cirad, « Ressources de CoopIST, Coopérer en information scientifique et technique », 2012- <https://coop-ist.cirad.fr/>
+
+#### Bibliométrie
+
+Larivière, Vincent, et Cassidy R. Sugimoto. *Mesurer la science*. Montréal: Les Presses de l'Université de Montréal, 2018. <https://www.pum.umontreal.ca/catalogue/mesurer-la-science>.
+
+Bibliothèques de l'UQ. « Carrefour bibliométrie », 2022. <https://uquebec.libguides.com/bibliometrie/>.
+
+#### Humanités numériques
+
+Delannay, Roch, Antoine Fauchié, Giulia Ferretti, Lena Krause, et Marcello Vitali-Rosati. « Débugue tes humanités », 2021-2023. <https://debugue.ecrituresnumeriques.ca/>.
+
+#### Prédateurs
+
+InterAcademy Partnership. « Combatting Predatory Academic Journals and Conferences ». *InterAcademy Partnership*, 2022. <https://www.interacademies.org/project/predatorypublishing>.
+
+Promotion du développement des compétences informationnelles (PDCI). 2019. *Éditeurs prédateurs* \[Réseau de l'Université du Québec\]. <http://ptc.uquebec.ca/pdci/editeurs-predateurs>
+
+#### Publication scientifique
+
+Science AAAS. « *List of Letters to a Young Scientist* », 2022. <https://www.science.org/topic/careers-overline/letters-young-scientists>.
+
+Dufour, Christine. « S'afficher? Pourquoi pas! L'ABC de la présentation par affiche ». EBSI, UdeM, 2022.
+
+Réjane, Gélinas. « La vulgarisation scientifique par l'affiche ». Polytechnique Montréal, 2007. <http://accros.etsmtl.ca/affiche_scientifique/guide.pdf>.
+
+#### Revue de littérature
+
+Hemingway, Pippa, et Nic Brereton. « What Is a Systematic Review? », 2009. <http://www.bandolier.org.uk/painres/download/whatis/Syst-review.pdf>.
+
+Tay, Aaron. « 3 Ways to Find Review Papers, Systematic Reviews, Meta-Analysis, and Other Rich Sources of References to Kick Start Your Literature Review ». Singapore Management University (SMU), 30 septembre 2021. <https://library.smu.edu.sg/topics-insights/3-ways-find-review-papers-systematic-reviews-meta-analysis-and-other-rich-sources>.
+
+#### Propriété intellectuelle
+
+*Ressource éducative libre sur le droit d'auteur de l'ABRC à l'intention du corps professoral et du personnel des universités*. (2020). Association des bibliothèques de recherche du Canada. <https://www.carl-abrc.ca/fr/influencer-les-politiques/droit-dauteur/rel-droit-dauteur/>
+
+UQAM, Infosphère. *Écrire et paraphraser*. Consulté le 28 juin 2022. <http://www.infosphere.uqam.ca/rediger-un-travail/ecrire-paraphraser>.
+
+Brennecke, Patricia. « Academic Integrity at MIT: A Handbook for Students ». Édité par Anna Babbi Klein. *MIT Office of the Vice Chancellor*, 2020. <https://integrity.mit.edu/handbook/academic-integrity-handbook>.
+
+#### Réputation numérique du chercheur
+
+Bouchard, Aline. « Veille, visibilité et communication : les atouts des réseaux sociaux pour le chercheur ». *URFIST de Paris*, 2022. <https://urfist.chartes.psl.eu/ressources/veille-visibilite-et-communication-les-atouts-des-reseaux-sociaux-pour-le-chercheur>.
+
+#### Format de fichier
+
+Marcello Vitali-Rosati et Michaël Eberle-Sinatra, *Pratiques de l'édition numérique*, Montréal, Presses de l'Université de Montréal, mars 2014 <https://www.pum.umontreal.ca/catalogue/pratiques-de-ledition-numerique>
+
+#### Twitter
+
+Michel, Alain. « Les opérateurs de recherche avancée sur Twitter ». *Atelier Canopé de l'Aude*, 2021. <https://alain-michel.canoprof.fr/eleve/tutoriels/twitter/operateurs-recherche-avancee-twitter/#/>.
+
+Quintana, Daniel S. *Twitter for Scientists*, 2020. <https://t4scientists.com/>.
+
+#### Wikimédia
+
+Villeneuve, Simon. « Wikipédia en éducation : Guide pour une utilisation optimale de l'encyclopédie libre par les étudiants, enseignants et autres intervenants en éducation », 2017. <http://classiques.uqac.ca/contemporains/villeneuve_simon/Wikipedia_en_education/Wikipedia_en_education.pdf>.
+
+#### Zotero
+
+Martinolli, Pascal. « Optimiser l'organisation de sa bibliothèque ». *Le blog Zotero francophone*, 26 février 2020. <https://zotero.hypotheses.org/3298>.
+
+#### Données de recherche
+
+Mesguich, Véronique. *Les bibliothèques face au monde des données.* Villeurbanne : Presses de l'ENSSIB, 2023. <https://doi.org/10.4000/books.pressesenssib.17655>.
+
+## Veille sur Twitter ou Mastodon
+
+Le contenu de ce manuel ne serait pas aussi à jour ou pertinent sans les informations micro-bloguées par les comptes suivants.
+
+-   Publication scientifique :
+    -   Vincent Larivière \@lariviev
+    -   Richard Poynder \@RickyPo \@rickypo\@activism.openworlds.info
+    -   Retraction Watch \@RetractionWatch : rétraction et al.
+    -   Aaron Tay \@aarontay \@aarontay\@mastodon.cloud
+    -   Herve Maisonneuve \@hervemaison : médecine
+    -   Marin Dacos \@marindacos \@marind\@qoto.org : science ouverte
+    -   Peter Suber \@petersuber\@fediscience.org
+-   Humanités numériques ;
+    -   Écritures numériques \@ENumeriques \@ENumeriques\@mamot.fr
+    -   J.R. \@UjuBib \@UjuBib\@mamot.fr
+-   Propriété intellectuelle :
+    -   Jonathan Bailey \@plagiarismtoday : plagiat
+    -   S.I.Lex \@Calimaq \@Calimaq\@mamot.fr
+    -   Charles Oppenheim \@CharlesOppenh : Copyrights
+-   Pensée critique :
+    -   Sebastian Dieguez \@twieguez \@Dieguez\@nerdculture.de : croyance et adhésion
+    -   Nicholas J.L. Brown \@sTeamTraen : *data anomalist*
+    -   PDCI de l'UQ \@pdci14
+    -   Hygiène Mentale \@HygieneMentale\@oc.todon.fr
+-   Zotero :
+    -   Raphael Grolimund \@grolimur \@grolimur\@mamot.fr
+    -   Alain Marois \@amarois\@mamot.fr
+    -   Blog Z Francophone \@zfrancophone
+    -   Zotero \@zotero
+-   Wikimedia :
+    -   WikiCite \@Wikicite
+    -   Wikidata \@wikidata \@wikidata\@wikis.world
+-   Les bibliothèques :
+    -   Marie d. Martel \@bibliomancienne \@mariedmartel\@jasette.facil.services
+    -   Isabelle Laplante \@cyberthecaireQC \@cyberthecaire\@mastodon.top
+    -   Jean-Michel Lapointe \@lapointejm
+-   Divers :
+    -   Justine Lamoureux \@veillebiblio : veille
+    -   Bibliothèques UdeM \@bibUdeM : mon employeur et le possesseur des droits d'auteur de ce manuel.
+    -   Pascal Martinolli \@pascaliensis \@pascaliensis\@mastodon.social : moi, auteur principal de ce manuel. Suivre aussi <https://tinyurl.com/lefiltre>.

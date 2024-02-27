@@ -1,0 +1,490 @@
+# Parcours raisonné d'une sélection d'outils de recherche
+
+-   Il existe plusieurs types d'outils de recherche pour repérer des documents.
+-   Ils sont différents par la sélection de leur contenu, par leurs tailles, par leur interface informatiques qui permettent plus ou moins de fonctionnalités, etc.
+    -   La majorité sont interrogeables avec des mots-clés.
+    -   Une minorité contient des liens de citations pour suivre « qui cite qui » parmi d'autres documents à l'intérieur de l'outil en question.
+-   Voici un parcours et une sélection raisonnée des principaux outils de recherche.
+    -   La sélection et l'ordre des outils présentés sont plutôt adaptés à des sujets de sciences sociales et de sciences humaines.
+
+## Sofia 
+
+-   <https://bib.umontreal.ca/sofia>
+- En bref : cet outil de recherche est :
+    -   un catalogue (surtout de livres des Bibliothèques UdeM et d'ailleurs)
+    -   et une base de données bibliographiques généraliste d'articles (un peu).
+-   Opérateurs : ``` AND ``*`` OR () NOT ```
+    -   L'outil de recherche cherche dans tout l'inventaire des documents des bibliothèques de l'UdeM et il **mélange** ces résultats avec un ensemble d'articles électroniques.
+        -   Astuce : par exemple, utiliser les limites*Format: Livre*sur le côté gauche + cocher*Conserver les filtres*(en haut de la colonne) pour garder ces limites dans les prochaines recherches. 
+    -   **Filtres** (ou facettes) intéressantes :
+        -   Si vous cherchez des articles, cochez*Type de contenu : Publications scientifiques*. Ça ne fonctionne pas à 100% mais ça va éliminer plein de résultats qui ne sont pas issus de revues révisées par les pairs. 
+        -   Date de publication
+        -   Langues
+    -   Possibilité de demander une **Livraison de document** : récupérer un livre d'une bibliothèque UdeM dans une autre, ou recevoir un chapitre ou un article numérisé en PDF d'une ressource que nous n'aurions que en imprimé.
+    -   Mars 2022 : toujours pas de possibilité de créer des alertes.
+    -   **Parcourir les rayonnages** depuis la notice d'un document imprimé (et ainsi confirmer qu'il est intéressant d'aller explorer les rayonnages physiques des bibliothèques à cet emplacement de cote de classement) : bas de la notice \> Survol des rayons.
+    -   Rechercher avec la **cote** : utiliser `nu:PN3451` pour la cote PN3451 par exemple.
+-   Possibilité de chercher des documents dans d'autres Bibliothèques universitaires du Québec, voire du monde.
+    -   Si c'est au Québec universitaire (UQÀM, McGill, Concordia, U Laval etc.) : vous pouvez le faire venir par**Prêt réceau (PBUQ)**. ☐
+    -   Si c'est ailleurs : faire venir le document par**Prêt entre bibliothèques** <https://bib.umontreal.ca/emprunter/peb>. ☐
+
+## Bases de données bibliographiques disciplinaires
+
+-   Chaque discipline universitaire possède une ou plusieurs bases de données spécialisée.
+-   Comment les identifier ?
+    -   Repérage simple : Avec les guides disciplinaires. Sélectionner votre domaine <https://bib.umontreal.ca/explorer>puis sélectionner le guide de votre discipline. Dans le guide, cliquez dans le menu de gauche la section « Articles » ou « Trouver des articles ». Repérez la liste (classée par ordre d'importance) des principales bases de données bibliographiques spécialisées de votre discipline.
+    -   Repérage avancé : Avec la liste bases de données de A à Z (anciennement*Maestro*UdeM) <https://libguides.bib.umontreal.ca/az.php>. Remplacez le filtre Tous les sujets par votre discipline. Dans un encadré jaune, vous avez la ou les quelques bases de données bibliographiques spécialisées incontournables, puis vous avez la liste de toutes les ressources complémentaires.
+    -   Optionnel : Avec la liste Wikipédia des principales bases de données bibliographiques (certaines sans abonnement UdeM) <https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines>Astuce pour ne pas trop se perdre : cliquez sur le titre de la colonne Disciplines.
+-   Ne pas hésiter à demander de l'aide à votre bibliothécaire disciplinaire <https://bib.umontreal.ca/nous-joindre/bibliothecaires-disciplinaires>pour savoir si, par rapport à votre sujet, vous avez une liste complète des principales bases de données bibliographiques.**BIB+ ☐**
+
+## Web of Science 
+
+-   En bref : cet outil est :
+    -   une base de données bibliographiques généraliste
+    -   un index de citations
+    -   une plateforme
+
+### Pourquoi ?
+
+-   Web of Science est l'une des plus ancienne base de données bibliographiques et c'est aussi une plateforme qui diffuse d'autres bases de données.
+    -   Elle couvre principalement les sciences naturelles, la santé, les sciences sociales et un peu les arts et les sciences humaines.
+    -   La majorité des documents sont en anglais, ou bien la référence est traduite en anglais.
+    -   Même si votre sujet ou votre discipline n'est pas couverte par WoS, il faudrait aller y faire un tour au moins une fois dans votre vie.
+    -   Elle contient des liens de citation vers d'autres documents de WoS (et des citations sans lien vers des documents qui ne sont pas dans WoS).
+
+### Recherche par mots-clés
+
+-   Ouvrir WoS <https://www.webofscience.com/>. Onglet Documents.
+   -   Search in :*Web of Science Core Collection*. Editions :*All*(ou une sélection d'index plus spécifiques à votre sujet, par exemple vous voudriez peut être exclure les index de science (SCI-Expanded) ou les index de conférences (CPCI). ☐
+        -   Option pour les sciences humaines et sociales : Search In :*Current contents Connect*. ☐
+-   Réglage du champ de recherche : remplacer*All Fields*par*Topic*. Cela ne va chercher que sur le titre, le résumé et les mots-clés libres (non contrôlés, il n'y a pas de thésaurus dans WoS). ☐
+    -   Lancer une recherche sur votre premier thème de recherche, puis revenez à la page de recherche de départ en cliquant sur*Search*(en haut à gauche). ☐
+        -   Exemple : Topic =``` dementia OR démence``* ```
+    -   Lancer une recherche sur votre deuxième thème de recherche, puis revenez à la page de recherche de départ en cliquant sur*Search*(en haut à gauche). ☐
+        -   Exemple : Topic =``` board game``*`` OR boardgame``*`` OR jeu``*`` de société ```
+    -   Lancer une recherche sur votre troisième thème de recherche, puis revenez à la page de recherche de départ en cliquant sur*Search*(en haut à gauche). ☐
+        -   Exemple : Topic =``` elder``*`` OR retraite``*`` OR senior``* ```
+-   Combiner ses recherches :
+    -   Sur la page de recherche de départ. Cliquez sur*Advanced Search*. ☐
+    -   En bas de la page, vous trouverez toutes les recherches que vous avez lancé dans cette session (*Session Queries*).
+    -   Sélectionnez les thèmes de recherche qui ont le mieux fonctionnés, puis combinez les avec l'opérateur AND (*Combine Sets*). ☐
+    -   Cliquez sur le chiffre du nombre de résultat de la requête combinée. Et voilà ! Nous avons utilisé une fonction d'historique de recherche ☐ Cette méthode permet d'avoir plus de contrôle sur la recherche. En effet, plutôt que de lancer une recherche avec tous les thèmes en même temps, nous pouvons savoir à l'avance quel thème est trop gros, trop petit, pertinent ou pas. Hélas, cette fonction n'existe pas dans la majorité des bases de données.
+
+### Affiner ses résultats
+
+-   Menu de gauche :
+    -   *Document Types*:
+        -   *Articles*et*Review Articles*= articles révisés par les pairs. ☐
+        -   *WoS Categories*: pour faire un tri par grandes disciplines. Cliquez sur See All, faites votre choix et affiner. ☐
+        -   *Publication Years*(les plus récentes?) ☐
+        -   *Languages*: French ? L'article original en bout de clic peut être en français, même si la référence affichée est en anglais.☐
+    -   Tri :
+        -   *Sort by*:*Citations: highest first ☐*
+    -   Analyser les résultats :
+        -   Pourquoi ? Permet de faire des visualisations intéressantes (conditions : nombre + pertinence des résultats). Exemple :
+            -   Quelles sont les universités et les chercheurs qui étudient le plus sur ce sujet ? (pour aller faire mon post-doc là-bas avec eux?)
+            -   Quelles sont les revues qui ont le plus publiées sur ce sujet ? (pour y soumettre mes futurs articles ?)
+        -   Comment ? Cliquez sur*Analyse Results*. ☐
+            -   Cliquez sur*Web of Science Categories*et remplacez par :
+            -   *Authors*ou*Editors*☐
+            -   *Affiliations*☐
+            -   *Publication Titles*☐
+            -   Autres ☐
+
+### Alertes
+
+-   Il faut se créer un compte dans la plateforme Web of Science (on peut se connecter avec son ORCID) et s'y connecter.
+-   3 types d'alertes :
+    -   À partir d'une équation de recheche (*Create Alert*) : pour recevoir par courriel les prochains documents qui correspondent à cette requête.
+    -   À partir d'un document (Menu de droite d'un document *Create citation Alert*) : pour recevoir par courriel les prochains documents qui citent le document sélectionné.
+    -   À partir d'une revue pour recevoir ses sommaires : Aller sur la cloche *Saved Searches and Alerts* dans le menu de gauche \> Journal alerts \> Add a Journal +
+
+### Utilisation avancée avec les liens de citation
+
+-   Mise en pratique \[15min.\] : repérez et sélectionnez un article pertinent dans Web of Science ☐
+    -   Cliquez sur*Cited References*(donc la bibliographie de cet article) dans le menu*Citation Network*☐
+    -   Cliquez sur*View as set of results*puis*Sort by : Citations highest first*☐
+    -   Dans cette liste, repérez un document pertinent, hautement cité, cliquez dessus pour le sélectionner ☐
+    -   Cliquez sur le nombre de*Citations*dans le menu*Citation Network*☐
+    -   Cliquez sur*View as set of results*puis*Sort by : Citations highest first*☐
+-   Continuez l'exploration... chaque fois : trier chaque liste de résultats en fonction du nombre de citations pour faire ressortir les études avec le plus d'impact.
+
+## Moteurs de recherche académiques
+
+### Google Scholar <https://scholar.google.fr/>
+
+-   En bref :
+    -   C'est un sous-produit de Google qui ne contient que des références de documents (principalement des articles universitaires, mais aussi des conférences, des livres, des rapports, etc.).
+    -   Le niveau technique est universitaire mais tout ce qui s'y trouve n'est pas scientifique ni validé par des autorités reconnues. C'est à vous d'évaluer à la pièce tout ce que vous y trouvez.
+    -   C'est un outil intéressant pour complémenter une recherche, mais on peut s'y perdre ou y perdre du temps si on ne connaît pas bien son sujet.
+-   Avantages :
+    -   Meilleur repérage des articles universitaires francophones (peu visibles dans les grandes bases de données bibliographiques)
+    -   Utilisation simple. Syntaxe de recherche très proche de celle de Google :
+        -   AND : implicite (une espace suffit).Le premier mot a plus de valeur que le 2e, le 2e que le 3e, ...
+        -   `expression entre guillemets`: pour une série de mot dans cet ordre, ou pour forcer un mot
+        -   `-motclé` : supprimer les résultats contenant motclé.
+        -   `OR` : pour regrouper des synonymes
+        -   `intitle:motclé` : tel motclé seulement dans le titre du document
+        -   `site:gc.ca`: seulement sur un site en particulier (ici les sites du Gouvernement du Canada)
+        -   filtre : *Review articles* pour n'avoir que des articles de revue de littérature (État des connaissances, revue systématique, etc.)
+    -   *Cited by...* : Fonction intéressante pour l'exploration (mais peu fiable : le comptage des citations d'autres documents dans Google Scholar contient beaucoup d'erreurs).
+    -   *All ... versions* : Passerelle vers le document original ou vers différentes versions (en libre accès dans des dépôts institutionnels, etc.).
+    -   Possibilité de faire des alertes sur les auteurs (idéalement) ou sur des mots-clés.
+        -   Auteur : si le nom de l'auteur est souligné, ça veut dire qu'il maintient son profil lui-même et que vous serez prévenu dès qu'il réclame de nouvelles références dans Google Scholar voir chapitre [\[chap:MonID\]](#chap:MonID){reference-type="ref+page" reference="chap:MonID"}. Avoir un compte Google. Puis cliquez sur Follow.
+        -   mots-clés : exemples (puis cliquez *Create Alert* dans le menu de gauche)
+            -   `author:Pascal Martinolli`(dans le cas où l'auteur n'a pas de profil mais qu'on veut le suivre tout de même
+            -   `dementia board game`
+            -   `dementia game intitle:review`
+-   Inconvénients <https://www.slideshare.net/Carl_Bergstrom/bergstrom-microsoft-bigscholarlydata> :
+    -   Beaucoup de résultats non-pertinents : perte de temps.
+    -   Pas de vocabulaire contrôlé.
+    -   Pas de tri par type de document (à part *Review articles*).
+    -   Étendue de la base de données inconnues.
+    -   Critères d'exclusion et d'inclusions inconnus.
+    -   Algorithme de traitement des résultats inconnus.
+    -   Potentialités de réglages personnels, d'expérimentation, de développement par la communauté des chercheurs : quasiment inexistantes.
+    -   Présence de documents non-scientifiques, pseudo-scientifiques ou peu-scientifiques (venant de revues prédatrices, etc.).
+    -   Google Scholar a contribué à la popularité du *h-index*, un indicateur bibliométrique médiocre voire trompeur voir p..
+    -   Risque de disparition du jour au lendemain.
+
+#### Google Scholar : utiliser les liens de citation
+
+-   Google Scholar permet d'utiliser les liens de citation mais avec peu de fonctions (pas de tri du nombre de citation par exemple, pas de critère de sélection du corpus, pas d'évaluation de la qualité des sources).
+
+-   Mise en pratique :
+
+    -   Repérez et sélectionnez un article pertinent dans Google Scholar ☐
+
+    -   Cliquez sur*Citeb by*sous la référence. ☐
+
+    -   Explorez et recommencez. ☐
+
+### BASE Search <https://www.base-search.net/>
+
+-   En bref :
+
+    -   C'est une base de données bibliographique généraliste.
+
+    -   En 2022 : plus grand nombre de documents (+250 millions) après Google Scholar.
+
+-   Les options de filtrages/ facettes sont intéressantes.
+
+-   Possibilité de faire des alertes RSS : lancer une recherche puis menu de droite \> Plus d'options \> S'abonner au fil RSS (ou Atom). ☐
+
+-   Possibilité de se créer un compte, de réclamer ses publications et de les envoyer dans ORCID. ☐
+
+### Dimensions <https://www.dimensions.ai/>
+
+-   2018\. Documents en libre accès, prépublications, données de recherche, etc <https://coop-ist.cirad.fr/trouver-l-information/utiliser-des-moteurs-de-recherche/4-dimensions-2018-moteur-se-presentant-comme-une-base-de-donnees>.
+
+### Semantic Scholar <https://www.semanticscholar.org/>
+
+-   2015\. Documents en libre accès, prépublications, etc. <https://coop-ist.cirad.fr/trouver-l-information/utiliser-des-moteurs-de-recherche/5-semantic-scholar-2015-moteur-base-sur-l-intelligence-artificielle>.
+
+### Lens <http://lens.org/>
+
+-   1998\. Données liées. Documents en libre accès, prépublications, données de recherche, etc. <https://coop-ist.cirad.fr/trouver-l-information/utiliser-des-moteurs-de-recherche/6-lens-1998-moteur-de-recherche-sophistique-et-expert>.
+
+### Scinapse
+
+-   2019\. Données liées. <https://coop-ist.cirad.fr/trouver-l-information/utiliser-des-moteurs-de-recherche/7-scinapse-meta-moteur-academique>.
+
+### Scite <https://scite.ai/>
+
+-   Plugin intéressant.
+
+## Dissertations & Thesis 
+
+-   Pourquoi ? C'est l'outil qui contient le plus de mémoires et thèses au monde. Couverture : Canada et États-Unis depuis le XIXe siècle. Depuis les années 90, souvent le PDF de la thèse est disponible. Notices bibliographiques de thèses d'ailleurs dans le monde (Europe, etc.).
+
+-   Comment ?
+
+    -   Allez sur <https://bib.umontreal.ca/> \> Chercher de l'information \> Bases de données de A à Z \> D \> Dissertations & Theses Global (ProQuest)
+
+    -   Recherche avancée :
+
+        -   Chaque ligne : indiquez les mots-clés d'un même thème (chaque synonymes séparés par des OR) ☐
+
+        -   Entre les lignes : AND
+
+        -   **Important**: remplacez Partout par Partout, sauf texte intégral - NOFT ☐
+
+        -   Opérateurs : AND OR NOT guillemets troncature\*
+
+    -   Lancez la recherche :
+
+        -   Modifiez la recherche si besoin. ☐
+
+        -   Utilisez les filtres sur le côté gauche : Date de publication, Langue, Sujet et Thème Indexé sont les plus recommandés. ☐
+
+    -   Téléchargez une thèse à la fois en cliquant sur son titre pour afficher sa description complète.
+
+        -   Avec le connecteur Zotero : Cliquez sur le chapeau de diplômé noir. Si le texte intégral est disponible, il devrait être téléchargé en même temps que la notice. ☐
+
+        -   OU en cliquant sur Texte intégral sous la référence, si l'option est disponible. ☐
+
+        -   OU en cliquant sur le bouton Obtenir et en suivant les instructions pour le repérer et/ou le faire venir à vous par Prêt entre bibliothèque. ☐
+
+    -   Pour aller plus loin avec cet outil : utilisez les options Cité par et Références, si elles sont disponibles. ☐
+
+### Autres bases de données de thèses en français
+
+-   Plusieurs outils qui fonctionnent plus ou moins bien car maintenus par des institutions différentes :
+
+    -   Thèses Canada <https://www.bac-lac.gc.ca/eng/services/theses/Pages/theses-canada.aspx>☐
+
+    -   Papyrus <https://papyrus.bib.umontreal.ca/>: pour les thèses UdeM (possibilité de lister les documents par directeur de thèse). ☐
+
+    -   Theses.fr <http://www.theses.fr/>: thèses françaises, soutenues et en préparation. ☐
+
+        -   Recherche avancée : mots-clés.
+
+        -   Pas de OR dans une même case. Guillemets ne fonctionnent pas.
+
+    -   Isidore <https://isidore.science/as>: thèses françaises. ☐
+
+        -   Recherche avancée : Par type de document : cliquer sur ET (qui devient souligné) et cocher la puce bleue en face de Mémoires, Thèses et HDR.
+
+        -   Bon courage pour faire fonctionner l'équation de recherche (2022-03-15).
+
+    -   SUDOC <http://www.sudoc.abes.fr/>: thèses françaises. ☐
+
+### Autres bases de données de thèses en anglais
+
+-   BASE-Search ☐, Google Scholar ☐ et Theses Canada ☐.
+
+-   NDLTD <http://search.ndltd.org/>☐
+
+-   OATD <https://oatd.org/>☐
+
+-   WorldCat <https://worldcat.org/advancedsearch> \> Content = Thesis/Dissertation☐
+
+-   DART-Europe <https://www.dart-europe.org/>☐
+
+-   EThOs (UK) <https://ethos.bl.uk/>☐
+
+## Plateforme EBSCO
+
+-   Parcours guidé de recherche sur la plateforme EBSCO :
+
+    -   Rendez-vous sur la page des Bibliothèques <https://bib.umontreal.ca/>\> Bases de données de A à Z \> Tri : Tous les fournisseurs/éditeurs : Sélectionner EBSCO ☐.
+
+    -   Dans la liste, cliquez sur une base de données diffusée par EBSCO ☐.
+
+    -   Dans la base de données, hébergée par EBSCO, cliquez sur Choose Database. Select All ou faites un sélection pertinente de base de données ☐.
+
+    -   Lancez une recherche. Désormais, cette recherche va se faire sur toutes les bases de données sélectionnées ☐.
+
+        -   Rappel : attention au champ Sujet, très inégal selon les bases de données. De plus, les sujets d'un thésaurus ne sont pas toujours les mêmes d'une base de données à l'autre.
+
+-   Autres plateformes multibases majeures :
+
+    -   Web of Science : non seulement Web of Science Core Collection mais aussi Current Contents, SCIELO, etc. ☐
+
+    -   ProQuest ☐
+
+    -   Isidore ☐
+
+## Moteur de recherche du web : Google
+
+-   C'est le plus populaire des moteurs de recherche du web. On dit aussi « métamoteur » en raison de son étendue et de son volume, mais ce n'est pas un moteur de moteurs, c'est plutôt un supermoteur.
+
+-   Plus une page est citée par d'autres pages, plus son crédit augmente (score *PageRank*) et plus elle apparaît en premier dans les résultats.
+
+-   Comment ?
+
+    -   Principales astuces de syntaxe de Google (et plus généralement de tous les produits Google) :
+
+        -   `Expression entre guillemets`: pour avoir moins de résultats mais mieux classés dans les premières pages.
+
+            -   Utilisé pour des mots uniques : permet de forcer d'avoir ce mot obligatoirement.
+
+        -   `-exclusion`: pour enlever tous les résultats contenant le mot exclusion.
+
+        -   `site:www.lesite.com`: seulement dans les pages moissonnées par Google hébergées sur le site web www.lesite.com
+
+        -   `intitle:motspecial`: motspecial doit apparaître dans le titre de la page.
+
+        -   `filetype:pdf`: seulement les fichiers PDF
+
+        -   Pas de troncature, Google trouve les déclinaisons à votre place.
+
+        -   L'ordre des mots compte : le 1er mot a plus de valeur que le 2e, que le 3e, etc...
+
+    -   Exemples de syntaxes :
+
+        -   Tous les documents PDF sur les sites web du gouvernement du Québec qui parlent de jeux de société mais pas de sport ni de jeux de hasard :
+
+            -   `jeux de société -sport -hasard site:qc.ca filetype:pdf`
+
+            -   ou :`intitle:jeux de société -sport -hasard -lotterie site:qc.ca filetype:pdf`
+
+## Moteur de recherche d'un site web
+
+-   Souvent les moteurs de recherche d'un site web (d'un musée, d'une association, etc.) sont très limités :
+
+    -   Lancez des recherches avec peu de mots.
+
+    -   Évitez les troncatures. À la place, lancez plusieurs recherches avec les singuliers, les pluriels, les féminins, ...
+
+    -   N'utilisez pas d'opérateurs booléens.
+
+-   Astuce utilisant Google pour checher sur un site spécifique :
+
+    -   **`site:www.url.com`**``` [``mes mots-clés``]`` ```
+
+    -   Souvent, cela fonctionne mieux que le moteur de recherche local du site web. Il faut cependant que les pages aient été moissonnées et indexées par Google.
+
+## Internet Archives
+
+-   Pourquoi ?
+
+    -   Pour retrouver des pages qui ont disparu du web ou dont le contenu a été modifié.
+
+    -   Pour citer une page web « stable ».
+
+    -   Pour archiver une page dont le contenu est digne d'être conservé.
+
+-   Comment ?
+
+    -   Utiliser WayBackMachine <https://archive.org/web/>: soumettez une URL d'une page qui a disparu. Si Internet Archives en a une ou plusieurs copies, vous la verrez sur une chronologie cliquable. ☐
+
+    -   Installer l'extension*Save To The Wayback Machine* Pour [Chrome](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US), pour [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/), pour [Safari](https://apps.apple.com/us/app/wayback-machine/id1472432422).dans votre navigateur internet. Cliquer sur l'extension une fois pour vérifier si la page est déjà archivée et quand. Cliquer sur*Archive page*si besoin.
+
+    -   Il est possible de se créer un compte et déposer des documents (dont vous avez les droits d'auteur) en libre accès.
+
+-   Pour votre information : Internet Archives est une association à but non lucratif. Elle a déjà sauvegardé des milliards de page web sur ses serveurs.
+
+    -   Elle a aussi un programme de numérisation de livres en libre accès.
+
+    -   Elle a quelques ennuis avec la justice américaine pour une autre initiative de livres électroniques pendant la pandémie en 2020. Espérons qu'ils ne mettent pas la clé sous la porte.
+
+    -   D'autres sites semblables ont commencé à émerger (exemple : [Perma.cc](https://perma.cc/) de Harvard Law School Library).
+
+    -   Rarement, certains sites bloquent cet outil (exemple : les articles de blogue de *Psychology Today*).
+
+## Quelques outils de cartographie de l'information
+
+-   Exercices pratiques 1 : explorer ces ressources en ligne
+
+    -   \[15min.\]***CitationTree*** <https://www.citationtree.org/>
+
+        -   Explorer l'essentiel d'une bibliographie et de son arbre de citations à partir du DOI d'un article source.
+
+        -   Basé sur le graphe de citations de Crossref et Semantic Scholar.
+
+        -   Soumettre le DOI d'un article pertinent et générer l'arbre de sa bibliographie. ☐
+
+    -   ***ResearchRabbit*** <https://www.researchrabbit.ai/>\[1h\]
+
+        -   À partir d'un article ou un ensemble d'articles, augmenter la collection de vos résultats pertinents en repérant qui les a cité et quels sont leurs bibliographies, leurs auteurs, etc.
+
+        -   Se créer un compte. ☐
+
+        -   Créer une nouvelle collection de référence avec*New Collection.☐*
+
+        -   Ajouter un ou plusieurs articles dans cette collection avec*Add Papers*. Possibilité d'ajouter des documents en lot au format BibTeX ou RIS.☐
+
+        -   Augmenter la collection avec les options :
+
+            -   *Similar papers*(bof), ☐
+
+            -   *All references*(ce qui a été cité en bibliographie des documents de la collection : pas mal), ☐
+
+            -   *All Citations*(les documents qui ont cité les documents de la collection : pas mal), ☐
+
+            -   *These Authors*(les autres publications des auteurs des documents de la collection : pas mal).☐
+
+        -   Recommencer encore et encore. Des vues graphiques en réseau sont utilisables.☐
+
+        -   Synchronisable avec Zotero \[1h+\].
+
+    -   ***Litmaps*** <https://www.litmaps.com/>\[1h\]
+
+        -   À partir d'un article ou d'un ensemble d'articles, créer une carte (seed map) constituée d'une liste de références.
+
+        -   Visualiser le poids et les liens de citations de chacun.
+
+        -   Possibilité d'exporter la liste des références vers un logiciel bibliographique (format bibTeX).
+
+        -   Nécessite de se créer un compte.
+
+    -   ***Inciteful***.xyz <https://inciteful.xyz/>\[1h\]
+
+        -   À partir d'un article ou d'un ensemble d'articles, permet de repérer des références qui citent les mêmes sources (Similar Papers) et de repérer des références très citées ou incontournables (Most Important Papers in the Graph).
+
+        -   Il existe une extension Zotero avec les fonctions de base Voir p. ..
+
+-   Exercices pratiques 2 (avancés) : installer ces logiciels de visualisation
+
+    -   Un outil de visualisation permet d'avoir une vue d'ensemble sur un corpus déjà constitué. Ils peuvent être utiles lorsqu'on veut débroussailler un sujet et faire ressortir des réseaux de termes, de revues ou d'auteurs importants.
+
+    -   Ces outils sont difficiles à manipuler et des compétences en bibliométrie sont parfois nécessaires pour comprendre les éléments à paramétrer. Typiquement, vous avez déjà un ensemble de plusieurs centaines de références, vous les exportez dans un logiciel comme VOSviewer et vous paramétrer les visualisations pertinentes.
+
+    -   *VOS Viewer* <https://www.vosviewer.com/>\[1h\].
+
+## Eureka.cc : texte intégral d'articles de journaux et de magazine
+
+-   Pourquoi ?
+
+    -   C'est l'outil principal pour trouver des articles de quotidiens et de magazines.
+
+    -   Canada, États-Unis, Europe, monde.
+
+-   Comment ?
+
+    -   Se connecter à Eureka.cc <https://libguides.bib.umontreal.ca/Eureka>
+
+    -   Il n'y a pas de champ Sujets, donc se limiter chercher vos mots dans les Titres ou dans les Introductions (= Titre + chapeau + premier paragraphe de l'article) pour ne pas avoir trop de résultats pour les recherches thématiques.
+
+    -   Sélectionner les sources : une source spécifique ou un groupe de sources.
+
+    -   Sélectionner une période de recherche (attention: 30 jours par défaut).
+
+    -   Les opérateurs logiques de recherche sont indiqués dans le menu de droite (la syntaxe est légèrement différente des AND et OR habituels).
+
+## Plateforme Isidore <https://isidore.science/>
+
+-   Moteur de recherche qui moissonne le dépôt HAL de la recherche française (thèses, articles, chapitres, etc.) mais aussi les billets de blogues de Hypothèses, les conférences et les congrès français, etc. ☐
+
+    -   Recommandation : lancer une recherche avec peu de mots-clés puis filtrer les résultats*a posteriori*, pas*a priori*sur la page de la recherche avancée).
+
+## Plateformes de revues en ligne
+
+-   On dit aussi « ensemble de revues ».
+
+-   Parfois certaines maisons d'édition possèdent une masse critique importantes de revues universitaires et d'articles. Elles décident alors de proposer un moteur de recherche pour chercher dans ce fond. Selon les maisons d'édition, ce moteur de recherche est plus ou moins performant.
+
+-   Quelques ensembles de revues pertinents :
+
+    -   Erudit.org <https://www.erudit.org/>: revues universitaires et culturelles canadiennes. ☐
+
+    -   CAIRN.info <https://www.cairn.info/>: un ensemble commercial français de revues universitaires ou d'opinion (à trier soi-même), de magazines et de livres électroniques. ☐
+
+    -   JSTOR <https://www.jstor.org/>: une institution qui numérise des revues universitaires anciennes. ☐
+
+    -   ScienceDirect <https://www.sciencedirect.com/>: le moteur de recherche de la maison d'édition Elsevier et de ses revues. ☐
+
+    -   Wiley Online Library <https://onlinelibrary.wiley.com/>: maison d'édition Wiley. ☐
+
+    -   etc.
+
+-   Pourquoi faire des recherches dans ces ensembles puisque, si les bases de données bibliographiques ont bien fait leur travail, je ne devrais y trouver que des choses que je connais déjà ?
+
+    -   Parfois les bases de données bibliographiques ont des lacunes.
+
+    -   Parfois les ensembles de revues diffusent aussi d'autres types de documents : actes de colloques, livres électroniques, encyclopédies spécialisées,...
+
+    -   Ça prend 15 minutes \[15min.\] pour faire une recherche simple avec quelques mots-clés (pas trop) pour tester le contenu de chaque ensemble.
+
+        -   Ces ensembles proposent rarement de faire des alertes. Si l'option existe, créez des alertes.
+
+## BAnQ
+
+-   Outils de recherche de la BAnQ <https://www.banq.qc.ca/rechercher/>
+
+    -   Catalogue régulier des documents en prêt (livres, CD,...) https://cap.banq.qc.ca/
+
+    -   BAnQ Numérique : collection numérisée du patrimoniale documentaire du Québec [https://numerique.banq.qc.ca/ allez dans la section Patrimoine québécois](https://numerique.banq.qc.ca/%20allez%20dans%20la%20section%20Patrimoine%20qu%C3%A9b%C3%A9cois). Collection parcourue : ☐
+
+        -   Problème du catalogue BAnQ Numérique : pour faire une recherche d'expression exacte (équivalent des guillemets), il faut cocher Recherche de proximité : Oui. Mais après cela, on ne peut pas rajouter d'autres mots-clés.

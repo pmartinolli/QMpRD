@@ -1,0 +1,491 @@
+#  Évaluer ses sources {#sec-evaluer}
+
+### Pourquoi est-ce une compétence centrale de la recherche ?
+
+#### Par ordre d'importance 
+
+1.  **On ne peut pas refaire** toutes les expériences, les études, les investigations, les réflexions qui ont été menées sur son objet d'étude.
+
+    1.  Donc, il faut **se baser sur** les travaux, les découvertes, les avancées, les témoignages des autres.
+
+2.  On ne peut pas tous les prendre : il faut **sélectionner les meilleurs** (qualité) **et les plus pertinents** (adaptés).
+
+3.  Il faut savoir comment **critiquer** les sources :
+
+    1.  pour en **extraire** les informations pertinentes,
+
+    2.  pour en connaître leurs **limites**,
+
+    3.  pour détecter des pistes de recherches encore **inédites**.
+
+4.  Ça nous prépare à **répondre** aux questions que l'on va nous poser sur pourquoi on a utilisé telle source.
+
+5.  **Briller** à la machine à café du laboratoire ou du département.
+
+6.  Au delà de la recherche, c'est une compétence à exercer dans de nombreux aspects de la vie quotidienne pour prendre les **bonnes décisions** (finance, santé, législation).
+
+#### Notions essentielles 
+
+-   Tous les documents ne se valent pas.
+
+    -   Le critère principal pour les distinguer est la manière dont ils ont été **conçus et publiés**.
+
+    -   Il faut apprendre à **distinguer** les différents types de documents.
+
+-   Pour évaluer un document, il existe deux grandes familles de questions à se poser :
+
+    -   Les **critères d'autorité** (tout ce qui concerne le contenant, les étiquettes, les choses qui tournent autour du document).
+
+        -   Exemples : auteur, université de l'auteur, nombre de citation, maison d'édition ou revue, etc.
+
+    -   Les **critères de contenu** (l'information dans le document).
+
+        -   Exemples : objectivité, méthode, résultats, discussion, limites relevées par l'auteur, etc.
+
+    -   Ces deux critères sont importants et doivent être utilisés en **alternance** l'un de l'autre.
+
+        -   Les **critères d'autorité** devraient vous guider pour savoir quelle attention avoir par rapport à une information. C'est un critère rapide, pas trop chronophage ou énergivore. Un minimum d'expertise dans un domaine peu suffire.
+
+        -   Les critères qui devraient emporter votre adhésion ou votre rejet final sont les **critères de contenu**. Ce sont des critères lents, chronophages, énergivores, qui demandent un investissement et un engagement conséquent pour tout bien vérifier. Ils demandent aussi une expertise assez bien rodée dans le domaine pour pouvoir investiguer et vérifier avec compétence.
+
+-   Un aide-mémoire surnommé le « **Foutaisomètre** », recense l'essentiel des questions à se poser pour une publication de recherche <https://github.com/pmartinolli/TM-bullshitometer>.
+
+###  Distinguer les sources 
+
+####  Savoir décrypter une référence bibliographique[]{#id-ref-biblio label="id-ref-biblio"}
+
+-   Pourquoi ? Identifier si une référence bibliographique est celle d'un livre, d'un article ou autre est une compétence de base qui va vous permettre :
+
+    -   de mieux **évaluer** le document ;
+
+    -   de le **repérer** à coup sûr et rapidement, à la bibliothèque ou ailleurs ;
+
+    -   de repérer d'**autres** documents pertinents.
+
+##### Principaux types de documents 
+
+-   Les **monographies** : ou **livres**, ou essais, ou rapports, ou mémoires, ou thèses, ou publications gouvernementales, etc. Ce sont tous les documents qui traitent d'un sujet en un seul document.
+
+    -   Il peut y avoir plusieurs éditions. Certaines éditions sont très semblables. Mais d'autres éditions peuvent être très différentes l'une de l'autre car considérablement mises à jour et augmentées.
+
+        -   Il peut y avoir plusieurs volumes (ou tomes) si le document est très gros.
+
+-   Les **articles de périodique** : articles scientifiques révisé par les pairs, articles de magazine, articles de journaux quotidiens, éditoriaux, comptes rendus de lecture, tribunes, statistiques annuelles, etc. Ce sont tous les documents qui sont publiés à une certaine périodicité dans une série périodique.
+
+    -   Une **numérotation spéciale** existe pour les périodiques de type universitaire ou savant : il y a un volume par an et chaque volume contient entre 4 et 8 numéros environ. Cela donne une numérotation sous la forme « volume 35, numéro 4 » au lieu d'une numérotation consécutive (plutôt utilisée pour les magazines) sous la forme « numéro 237 ».
+
+-   Les **parties de document** : chapitres de livres, articles d'encyclopédie, présentation dans un acte de colloque ou de congrès. Ce sont des parties indépendantes d'un ensemble de document plus large.
+
+-   Les **pages web** (ou site web) : blogue de recherche, site commercial, page d'une association, etc.
+
+-   Important : parfois une monographie ou un article se trouvent en ligne, dans ce cas on dit que c'est une monographie électronique ou un article électronique. En effet, le type de document importe plus que son format (imprimé ou électronique). De la même manière, le processus de publication d'un document importe plus que le type de document (voir p. ).
+
+##### Comment les repérer dans un outil de recherche ?
+
+-   Pour repérer le document par mot-clé, en fonction du type de document, on n'utilise **qu'une partie** de sa référence bibliographique :
+
+-   Monographie : Utiliser seulement le **titre du document** + quelques éléments de l'auteur suffit dans un catalogue d'institution (comme Sofia).
+
+-   Article de périodique :
+
+    -   Chercher avec le titre complet (copié-collé idéalement), encadré de guillemets carrées dans un moteur du web comme Google.
+
+    -   OU si cela ne fonctionne pas : Chercher seulement avec le **nom du périodique** dans un catalogue d'institution (comme Sofia). Ensuite, repérer si l'institution possède un abonnement imprimé ou électronique à ce périodique. Enfin, parcourir les collections imprimées ou parcourir vers le site web du périodique jusqu'à l'année, le volume, le numéro et la page.
+
+-   Partie de document :
+
+    -   Chercher seulement avec le **titre du livre** et l'**éditeur** (ou *editor* ou responsable) du livre.
+
+    -   NE PAS chercher avec le titre ou l'auteur de la partie (du chapitre par exemple). En effet, beaucoup de catalogues n'indexent pas les informations de la table des matières (la liste des chapitres).
+
+    -   NB: très souvent les présentations de congrès sont diffusées en ligne, donc vous pouvez tenter de les repérer avec le titre complet de la présentation (idéalement copié-collé), encadré de guillemets carrées dans un moteur du web comme Google.
+
+##### Différents styles bibliographiques
+
+-   Une bibliographie est formatée selon un **style bibliographique** particulier qui suit des règles de présentation précises, variables selon le choix de la revue ou de la maison d'édition
+
+-   Il existe des milliers de styles différents mais on peut les classer en 3 grandes familles :
+
+    -   Les styles **(auteur date)** : les plus connus sont *APA* et *Chicago auteur-date*.
+
+    -   Les styles **numérotés** : les plus connus sont *Vancouver*, *Harvard* et *Nature*.
+
+    -   Les styles **notes de bas de page** : le plus connu est *Chicago fullnotes*.
+
+-   
+
+-   Un tableau des disciplines UdeM et des styles bibliographiques habituellement recommandés <https://bib.umontreal.ca/citer/styles-bibliographiques/choisir-son-style>.
+
+-   Si vous avez le choix d'un style mais que vous ne savez pas lequel choisir :
+
+    -   Je vous recommande un style numérique (numéroté ou notes de bas de pages) si vous voulez un texte plus facile à lire.
+
+    -   Un style auteur-date est adapté si votre lecteur connaît bien votre domaine et s'il veut rapidement identifier les experts que vous invoquez dans le texte avec citations abrégées comme (Fergusson 2018).
+
+    -   En règle générale, les styles numérotés sont dans les sciences naturelles et la santé. Les styles en sciences humaines et sociales sont souvent en auteur-date ou notes de bas de pages.
+
+    -   Les professeurs et les maisons d'édition sont attentifs à respecter les règles de présentation des styles Commentaire personnel : peut être un peu trop strict parfois, car c'est mettre beaucoup d'importance sur la forme et moins sur le fond. Mais c'est tout un débat..
+
+-   Les **logiciels bibliographiques** comme Zotero et Endnote automatisent la création de bibliographies et de citations abrégées et vous font gagner un temps précieux et aussi un temps de qualité Voir chapitre p. .
+
+##### Évaluez un document par sa bibliographie 
+
+-   Parcourez les références de la bibliographie et repérez les plus intéressantes. ☐
+
+-   Questions pertinentes :
+
+    -   Les références sont-elles récentes ? ☐
+
+    -   Les références sont-elles toutes d'un seul type de document ? (par exemple : que des livres, que des articles, que des présentations de colloque, etc.) Est-ce normal dans ma discipline ? ☐
+
+    -   Les références semblent-elles provenir de sources fiables ? ☐
+
+    -   Y a-t-il des mots-clés qui m'ont échappé et avec lesquels je pourrai relancer de nouvelles recherches ? ☐
+
+-   [Récupérez les références de ces documents pertinents et leurs fichiers PDF dans Zotero.☐]{style="color: purple"}
+
+-   [Optionnel: dans Zotero, ajoutez le marqueur ]{style="color: purple"}[`_bibliographieAnalysée`]{style="color: purple"}[ à la référence contenant la bibliographie que vous venez d'analyser et de parcourir. Colorez le marqueur si besoin]{style="color: purple"} [voir p. ]{style="color: purple"}[. ☐]{style="color: purple"}
+
+####  Sources primaire, secondaire ou tertiaire
+
+-   Il existe 3 grands types de sources : sources primaires, secondaires et tertiaires.
+
+-   Elles se distinguent par leur nature, leur type de production, leur objectifs, \...
+
+##### Source primaire : 
+
+-   Ensemble de **données brutes** sur un sujet.
+
+-   Un matériau de première main d'un phénomène : statistiques, données d'enquête, résultats bruts d'une étude, journal intime, carnet de notes personnelles, discours, etc.
+
+-   Permet de mieux **vérifier**.
+
+-   Demande une **expertise** pour bien être comprise et utilisée.
+
+##### Source secondaire : 
+
+-   Documents qui ont **analysé**, commenté, critiqué, contextualisé, recoupé, reformulé, confronté, expliqué, évalué ou synthétisé des sources primaires.
+
+-   Exemples : articles de revue scientifique, thèse de doctorat, livre sur un sujet, présentation dans une conférence, etc.
+
+-   Une source secondaire permet de mieux **comprendre**.
+
+##### Source tertiaire :
+
+-   Une **sélection** et une **compilation** synthétique de sources primaires et de sources secondaires.
+
+-   Une source tertiaire permet de mieux **aborder un sujet**.
+
+-   Idéal **pour** **commencer** quand on ne connaît peu de choses sur le sujet.
+
+####  Quel type de document est adapté pour la recherche ?
+
+##### Article scientifiques (ou articles universitaires)
+
+-   Dans la plupart des disciplines (mais pas toutes), c'est le type de document le plus utilisé car on y trouve la recherche la plus actuelle et la plus filtrée/ sélectionnée par rapport à un sujet précis.
+
+-   La qualité de l'article dépend de la qualité du processus de révision par les pairs de la revue dans laquelle il est publié (s'il y en a un).
+
+-   Dans certains domaines, un article est considéré comme une source primaire puisqu'il présente et discute les résultats d'une étude.
+
+##### Livre 
+
+-   Souvent un travail de synthèse sur un sujet plus ou moins général.
+
+-   Il s'agit souvent d'une source secondaire reprenant d'autres sources secondaires ou des sources primaires.
+
+-   Dans le cadre universitaire, les livres collectifs sont une manière courante de diffuser l'état de la recherche dans plusieurs domaines. Souvent, chaque chapitre est écrit par un auteur ou une équipe d'auteurs. Le tout est compilé sous la responsabilité d'un ou plusieurs chercheurs qui font office d'éditeurs intellectuels.
+
+##### Article d'encyclopédie spécialisé
+
+-   C'est un document tertiaire qui fait une synthèse courte et globale sur un sujet précis.
+
+-   Dans une encyclopédie spécialisée, chaque article peut être rédigé par un chercheur différent sous la responsabilité d'un ou plusieurs chercheurs qui font office d'éditeurs intellectuels. Souvent l'article est signé.
+
+-   Souvent, l'article contient une courte bibliographie pour aller plus loin.
+
+-   Souvent, l'article contient des renvois vers d'autres articles de la même encyclopédie pour aller plus loin.
+
+##### Publication gouvernementale
+
+-   Type de document naturellement biaisée en raison de l'institution qui le produit. Ce conflit d'intérêt n'est pas forcément négatif en soi, mais cela demande de rajouter une couche de critiques supplémentaires.
+
+###  Critères d'autorité 
+
+#### Pourquoi ?
+
+-   Très utilisé quand on est en **premier cycle** car on n'est pas expert d'un sujet et c'est difficile d'aller évaluer ensuite le contenu.
+
+-   Très utile en **cycle supérieur** car permet de se faire rapidement une idée de la pertinence du document et de sa qualité potentielle.
+
+-   Avantages :
+
+    -   **Rapide**.
+
+    -   **Simple**.
+
+    -   Aide à la **sélection** d'un grand nombre de documents.
+
+    -   Aide au choix de l'**ordre** dans lequel parcourir une sélection.
+
+-   Désavantages :
+
+    -   **Insuffisant**.
+
+####  Auteur
+
+-   L'auteur est-il **seul** ou sont-ils **plusieurs** ?
+
+    -   Est-ce normal dans ma discipline ?
+
+        -   Exemple : En histoire, c'est souvent des loups solitaires. En médecine, c'est souvent des équipes.
+
+    -   Tous de la même université ou d'institutions différentes ?
+
+    -   L'**ordre de citation** est signifiant (à moins d'indication contraire, mais c'est rare) : le premier auteur a plus contribué que le dernier.
+
+        -   Conseil : pour vos propres recherches, dès votre première réunion d'équipe, déterminez l'ordre de citation des auteurs <https://www.science.org/content/article/i-avoided-authorship-discussions-collaborators-until-i-learned-some-hard-lessons>, leurs rôles et leurs contributions.
+
+        -   Dans certaines disciplines, le **dernier auteur** n'a pas participé à l'étude mais on le mentionne là en tant que chef.fe du laboratoire (qui signe les chèques).
+
+-   Les types de contribution de chacun sont-elles précisées ? Voir la **taxonomie CRediT** qui permet de détailler les rôles de chacun <https://coop-ist.cirad.fr/etre-auteur/reconnaitre-tous-les-contributeurs/3-la-taxonomie-credit-pour-identifier-toutes-les-contributions>.
+
+-   Les auteurs sont-ils clairement **identifiés** (pour éviter les ambiguïtés) : université d'appartenance, affiliations, ORCID, etc.
+
+-   Document **anonyme** = à évaluer dans le détail.
+
+    -   Parfois, ce peut être suspect.
+
+    -   Parfois, seule l'institution est mentionnée mais pas les individus ayant contribué. C'est une pratique normale dans de nombreux milieux.
+
+-   Y a-t-il les **coordonnées** du responsable de l'étude (premier auteur ou *corresponding author*) ? Une pratique courante en recherche.
+
+-   Y a-t-il des mentions de **conflits d'intérêt** ?
+
+    -   Le problème d'un conflit d'intérêt n'est pas tant qu'il y en ait un mais qu'il soit caché.
+
+-   Y a-t-il des mentions de **liens d'intérêt** ?
+
+    -   Pas strictement un conflit d'intérêt, cela peut être un proche ami ou conjoint lié au sujet, ou un biais de valeurs politiques ou d'engagement social, etc. C'est moins courant que les conflits d'intérêt mais cette mention se développe.
+
+-   Les **sources de financement** sont-elles mentionnées ?
+
+    -   Si oui, c'est plutôt positif car ça veut dire que l'étude a été évaluée par un comité avant de commencer.
+
+-   Est-ce qu'un **comité éthique** a donné son approbation ?
+
+    -   Si oui, c'est plutôt positif car ça veut dire que l'étude a été évaluée par un comité avant de commencer.
+
+-   Est-ce que le **sujet principal** du document correspond bien à l'**expertise de l'auteur** ?
+
+    -   Un chercheur dans une discipline possède une expertise et une autorité par rapport à son sujet.
+
+    -   Il peut donner son avis dans d'autres domaines mais il aura moins de crédit dans ces derniers.
+
+        -   Exemple : pour le changement climatique, on favorise l'expertise d'un.e climatologue ou d'un.e météorologue sur celle d'un.e géologue ou d'un.e physicien.ne.
+
+    -   Parfois, un chercheur a obtenu un crédit scientifique énorme dans le passé ou dans un domaine et quelques années plus tard, il dit des énormités, des erreurs, etc. On appelle ça l'ultracrédiarianisme, mais aussi la nobelite (pour *Nobel disease*).
+
+-   Faites une petite recherche des **publications précédentes ou ultérieures** du même auteur.
+
+    -   Un chercheur reste sur un sujet pendant de nombreuses années : vous trouverez d'autres choses pertinentes.
+
+    -   Un journaliste peut avoir investigué sur d'autres sujets et vous aurez alors un meilleur aperçu de sa manière de traiter les sujets <https://www.afis.org/Le-monde-selon-Monsanto>.
+
+-   Le document **cite-il** d'autres sources ? est-ce qu'il cite bien (précisément) ? est-ce qu'il cite des sources de qualité ?
+
+####  Éditeur et maison d'édition
+
+-   En un mot : l'éditeur est le **responsable** d'une publication.
+
+    -   C'est une **personne**, souvent un expert reconnu dans son domaine.
+
+        -   L'éditeur (*editor*) est différent de la **maison d'édition** (*publisher*) pour laquelle il travaille.
+
+    -   Il prend les décisions finales de publication.
+
+    -   Il engage sa réputation scientifique ou morale.
+
+    -   Il défend l'auteur en cas de poursuites ou de conflits avec d'autres entités (idée originale, plagiat, datation, etc.).
+
+    -   Il assure l'accès au document : diffusion papier ou électronique.
+
+    -   Il assure l'archivage d'une copie auprès de dépôt de bibliothèques nationales (exemples : BAnQ, BNF, etc.).
+
+-   Selon les types de documents, il ne travaille pas pareil :
+
+    -   **Rédacteur en chef** d'un journal quotidien ou d'un magazine : décide tout seul si un article de journaliste est publié.
+
+    -   Éditeur ou responsable ou « sous la direction de\... » d'un **livre collectif** : il contacte les auteurs des chapitres (des gens qu'il connaît), supervise directement leurs travaux et décide de publier le tout. Parfois, il rédige l'introduction et la conclusion ou quelques chapitres.
+
+    -   Éditeur d'une **conférence** : il gère l'équipe de sélection des présentations. Fait parfois la conférence d'introduction ou de conclusion.
+
+    -   **Directeur de recherche** d'une thèse ou d'un mémoire : rôles et responsabilités variables selon les universités.
+
+    -   Éditeur d'une **revue scientifique universitaire** :
+
+        -   Il fait une première sélection des articles reçus régulièrement par la revue provenant du monde entier.
+
+            -   Souvent 3/4 de rejets (appelé Desk rejection) : pas le sujet de la revue, pas le niveau de la revue, pas intéressant, pas original, etc.
+
+        -   Pour les articles qui ont passé cette première sélection, il travaille avec un « comité de lecture ».
+
+            -   Ce sont des experts du sujet de l'article.
+
+            -   Ils sont appelés « pairs » -> le terme « **révision par les pairs** » (ou ***peer-reviewed***).
+
+            -   Ils donnent leur avis : rejet, accepté avec révision mineures ou majeures, etc.
+
+            -   Souvent, le nom de l'auteur est caché. On appelle ça le double aveugle (*double blind*) car les réviseurs et les auteurs ne se connaissent pas. Parfois, c'est un simple aveugle (*simple blind*) car les réviseurs connaissent l'auteur mais l'auteur ne connaît pas les réviseurs.
+
+        -   L'éditeur coordonne les réponses et prend la décision finale de publier en se basant sur les avis des pairs du comité de lecture.
+
+####  Pour aller plus loin sur la révision par les pairs
+
+-   C'est un processus **très sélectif** et dur mais c'est surtout une excellent opportunité d'**améliorer** sa version originale grâce aux retours constructifs (ou ravageurs) des réviseurs.
+
+-   La **carrière** des chercheurs est essentiellement basées sur leurs publications dans des revues à comité de lecture (embauche, titularisation, promotion, financement, placardisation, etc.).
+
+-   C'est très **long**. Dans certaines disciplines, cela prend quelques mois (médecine) dans d'autres ça peut prendre 2 ans (histoire).
+
+-   C'est robuste mais cela ne détecte pas bien la **fraude**.
+
+    -   En effet, parfois les réviseurs n'ont pas accès aux données brutes de la recherche, ou bien ils n'ont qu'un détail sommaire de la méthode.
+
+    -   Un article publié dont on se rend compte plus tard qu'il est une fraude ou qu'il contient des erreurs car publié trop vite est retiré. On dit qu'il est **rétracté** voir p. **.**
+
+-   Dans certains domaines de pointe ou de niche, l'anonymisation est illusoire car la quinzaine de chercheurs se connaissent et se reconnaissent.
+
+-   L'humanité n'a pas trouvé mieux pour faire avancer la science. Ça a débuté au XVIIe siècle en Angleterre mais la forme actuelle date des années 1930 aux États-Unis. De nouveaux modèles de publication voient le jour mais ils sont encore marginaux (*open peer-review*, etc.).
+
+-   Autres noms de la révision par les pairs : revue arbitrée (*refereed*).
+
+-   Un article peut avoir plusieurs statuts : Publié (*published*) \> Accepté (*forthcoming*) \>\> Soumis (*submitted*) \> document de recherche, preprint, présentation de colloque, (*mimeo, working paper, discussion paper*)
+
+-   Les **revues prédatrices** prétendent faussement faire un travail de ce type voir p. .
+
+##### Comment vérifier qu'une revue à un comité de lecture valide : 
+
+-   [Ulrich's Periodical Directory]{style="color: purple"} [<http://ulrichsweb.serialssolutions.com/login>]{style="color: purple"}[.. Si vous voyez un habit rayé d'arbitre de sport (refereed) alors la revue possède un processus de révision par les pairs.]{style="color: purple"}
+
+-   [Liste sélective des revues indexées par Web of Science (]{style="color: purple"}*[Master Journal List]{style="color: purple"}*[]{style="color: purple"} [<https://mjl.clarivate.com/home>]{style="color: purple"}[.) ont toutes un processus de révision par les pairs.]{style="color: purple"}
+
+-   [Sélection dans le menu de gauche des pages de Résultats de certaines bases de données bibliographiques (appelées différemment selon les bases).]{style="color: purple"}
+
+    -   [Sofia : appellation « Publication scientifique »]{style="color: purple"}
+
+    -   [ProQuest : « Revue par les pairs »]{style="color: purple"}
+
+    -   [Erudit : « Revue savante » + icone ronde noire cochée.]{style="color: purple"}
+
+    -   [EBSCO : « peer reviewed » ou « Revues académiques (relues par un comité de lecture) » ou « Revues universitaires » (cela dépend de la base de données). ]{style="color: purple"}
+
+#### Influence
+
+-   Le document est-il **cité** par d'autres sources ?
+
+    -   Beaucoup de fois ?
+
+    -   Par des sources de qualité ?
+
+        -   Dans d'autres publications scientifiques : articles, chapitre de livres universitaires, articles d'encyclopédies spécialisées, etc.
+
+        -   Dans d'autres médias (*altmetrics*) : actualités, blogues, Twitter, Wikipédia, etc.
+
+        -   Est-ce que le réseau des citations est une micro-communauté non-ouverte en vase clos ?
+
+    -   Cité comme support/soutien ou comme opposition/critique ?
+
+    -   Recommandations :
+
+        -   Installer le plugin Scite pour Zotero <https://github.com/scitedotai/scite-zotero-plugin/releases>. Une fois installé, ajouter les colonnes *Mentioning, Contrasting, Supporting* et/ou *Total Distinct Citing Publications*.
+
+        -   Installer le plugin Scite pour navigateur internet <https://scite.ai/extension-install>.
+
+-   Le document a-t-il été **rétracté** voir p. ?
+
+-   Le document est-il **critiqué** (ou parfois loué) sur **PubPeer** <https://pubpeer.com/> ?
+
+    -   Recommandations :
+
+        -   Installer l'extension PubPeer pour Zotero <https://github.com/PubPeerFoundation/pubpeer_zotero_plugin/releases/latest>. Une fois installé, ajouter la colonne PubPeer.
+
+        -   Installer l'extension PubPeer pour Firefox, Chrome, Edge ou Safari <https://pubpeer.com/static/extensions>.
+
+        -   Installer les extentions Scite pour Zotero et navigateur (voir plus haut). Scite utilise désormais son propre système de détection de rétractions.
+
+###  Critiquer le contenu
+
+#### Pourquoi ?
+
+-   Avantages :
+
+    -   **Suffisant** pour emporter votre adhésion ou votre rejet final, pour dépendre votre jugement, pour prendre une décision vis-à vis de l'utilisation du document.
+
+-   Désavantages :
+
+    -   Long, chronophage.
+
+    -   Demande d'avoir développé une expertise.
+
+#### Faits et objectivité
+
+-   Est-ce que la question de recherche est clairement posée et est-ce que l'étude est assez **consistante** ?
+
+    -   Un article de recherche devrait faire entre 15 et 30 pages environ (parfois plus court en sciences de la santé ou naturelles).
+
+    -   Dans la fin du résumé, il devrait y avoir la réponse synthétisée à la question de recherche.
+
+        -   Parfois, les conclusions du résumé ne se trouvent pas dans le contenu de l'étude (sic). Si une étude est pertinente pour vous, il faut lire l'étude au complet avant de décider de la citer.
+
+    -   Dans l'introduction de l'étude, on devrait avoir un bon état de la question, avec une bonne mise en contexte reprenant et expliquant les résultats de la recherche communément admis par la communauté des chercheurs sur ce sujet. Avec beaucoup de références.
+
+    -   Au moins une page de références bibliographiques.
+
+-   Est-ce que les informations présentées sont plutôt des **faits** et des **raisonnements logiques** plutôt que des opinions et des enchaînements émotionnels ?
+
+    -   Attention aux conclusions fortes, absolues, sans nuance, généralisées à tout, valables dans tous les contextes.
+
+    -   Attention aux affirmations catégoriques ou radicales.
+
+-   **Exactitude** :
+
+    -   Les faits et les données sont-ils accessibles ? Vérifiables ?
+
+    -   Est-ce que le raisonnement à partir de ces faits est logique ?
+
+    -   Est-ce que l'écriture est claire : sans faute, mais surtout sans confusion.
+
+        -   Un sujet complexe peut être expliqué clairement.
+
+        -   Attention aux acronymes non expliqués, aux expressions non détaillées, aux néologismes, aux concepts beaux mais flous, etc.
+
+-   **Actualité** :
+
+    -   Est-ce que le document est dépassé ? prolongez vos recherches.
+
+    -   Est-il réédité ou mis à jour ?
+
+    -   Est-il renié par son auteur ?
+
+    -   Est-il rétracté voir p. ?
+
+    -   Un document définitif, publié (on dit aussi la « version of record ») est souvent mieux qu'un document encore en discussion, en travail.
+
+#### Une histoire de filtres
+
+-   Généralisation : plus une information a été filtrée, plus elle aurait de la valeur.
+
+-   Exemples de filtres
+
+    -   avant la rédaction : Niveau d'étude des auteurs ; Fonds de recherche qui ont financé l'étude ; Comité éthique ayant validé la recherche ; etc.
+
+    -   pendant la publication : Éditeurs, avec ou sans comité de lecture ; maison d'édition reconnue ou affiliée à une institution reconnue.
+
+    -   après publication : nombre de citations ; indexé dans quelles bases de données ; nombre de ventes (livres) ; repris dans des encyclopédies spécialisées ; etc.
+
+#### Dans ou hors des principaux courants de pensée ?
+
+-   Est-ce que les informations dans le document se présentent en concordance ou en opposition avec les courants de pensées dominants dans une discipline ou sur un sujet ?
+
+-   Existent-ils des résultats de la recherche communément admis par la communauté des chercheurs sur ce sujet ?

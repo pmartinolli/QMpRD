@@ -1,0 +1,9 @@
+# Phase de rédaction
+
+## Objectifs documentaires de la phase de rédaction
+
+-   Il faut **arrêter de chercher de nouveaux documents**.
+
+    -   Faites confiance aux **alertes** que vous avez créé pour recevoir automatiquement les nouveaux documents qui correspondent à des stratégies de recherche efficaces.
+
+    -   Parfois continuer à chercher des documents sans fin est un moyen de procrastiner\... chercher des documents c'est facile, les lire et les synthétiser c'est dur. Je sais.

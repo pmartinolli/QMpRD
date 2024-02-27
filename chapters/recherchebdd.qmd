@@ -1,0 +1,122 @@
+# Outils de recherche de type « base de données + mots-clés » {#sec-recherchebdd}
+
+## Catalogues des bibliothèques
+
+-   Un catalogue est l'**inventaire** de tout ce que possède une institution (une bibliothèque, un musée, un centre, etc.). Souvent, le catalogue est maintenu par l'institution : indexation des nouveaux documents, système de prêt, etc.
+    -   Nous avons un catalogue électronique partagé entre les bibliothèques universitaires québécoises. Il s'appelle **Sofia** « sagesse » en grec..
+-   La majorité des catalogues de grandes institutions sont en **libre accès en ligne**.
+    -   Certains catalogues sont seulement accessibles aux membres ou aux visiteurs d'une institution (catalogues d'archives, de musées, de centres de documentation, etc.).
+-   La **qualité de l'indexation** et les capacités informatiques d'un catalogue varient selon les institutions et selon les époques.
+    -   Les catalogues universitaires sont habituellement de bonne qualité.
+    -   Les catalogues s'appuient généralement sur un thésaurus de mots-clés contrôlés pour décrire les sujets voir p. . Le catalogue Sofia utilise le Répertoire des vedettes-matières de l'Université Laval.
+-   Un catalogue contient principalement :
+    -   Des références bibliographiques décrivant les documents possédés par l'institution (mais pas le document).
+    -   Un lien externe vers le document électronique s'il est disponible.
+    -   Une cote de classement si le document est imprimé.
+    -   Un statut de prêt (disponible, emprunté, perdu, etc.).
+
+## Bases de données bibliographiques
+
+-   Une base de données bibliographiques est une **collection de références bibliographiques** sur une ou plusieurs disciplines.
+-   Il en existe deux grandes catégories :
+    -   Les **généralistes**, qui sont multidisciplinaires.
+        -   Par exemple Web of Science.
+        -   Fonctionnalités de recherche avancées (multichamps, opérateurs complexes, etc.)
+        -   Sélection rigoureuse des sources indexées.
+    -   Les **disciplinaires (ou spécialisées)** :
+        -   Une discipline peut avoir une ou plusieurs bases de données bibliographiques spécialisées.
+        -   Quelques exemples : Criminal Justice Abstract (criminologie), PsychInfo (en psychologie), CINAHL (en sciences infirmières), etc.
+        -   Fonctionnalités de recherche avancées (multichamps, thesaurus, opérateurs complexes, etc.)
+        -   Sélection rigoureuse des sources indexées.
+-   Les bases de données bibliographiques sont des intermédiaires à haute valeur ajoutée entre la communauté universitaire et les documents scientifiques.
+    -   Ces bases de données sont maintenues et diffusées par des **institutions** **en dehors de l'université**.
+        -   L'UdeM paye un abonnement à la plupart de ces bases de données. Pour justifier le prix, ces bases de données indexent les références bibliographiques avec une très grande qualité. De plus, elles font une sélection rigoureuse et la plus exhaustive possible des sources dans la discipline choisie. Pour deux raisons, les recherches dans les bases de données bibliographiques sont très efficaces.
+    -   Très souvent, ces outils ne contiennent **que la description** des documents :
+        -   En effet, les documents (PDF, ...) se trouvent en dehors de ces outils, sur les sites des revues scientifiques par exemple.
+        -   Derrière le bouton « **Obtenir** » se trouve le logiciel (nommé LibKey) qui vérifie les abonnements et les accès aux documents indexés. Si c'est positif, le logiciel créé un lien vers le document électronique sur un site qui l'héberge (si disponible).
+        -   Parfois, vous trouvez une référence bibliographique intéressante dans une base de données bibliographiques auquel l'UdeM est abonnée. Hélas, en suivant le lien vers l'article sur le site web de la revue scientifique, l'UdeM n'est pas abonné à cette revue. Cela peut arriver. Dans ce cas, il faut faire une demande prêt entre bibliothèque et attendre quelques jours <https://bib.umontreal.ca/emprunter/peb>.
+
+## Moteurs de recherche académiques
+
+-   Par exemple Google Scholar ou BASE search.
+-   Outils généralistes mais plutôt exploratoires et complémentaires aux base de données bibliographiques traditionnelles <https://doi.org/10.18167/coopist/0068>.
+-   Sélection variable et peu transparente des contenus.
+-   Traitements avancés des contenus pour un meilleure expérience utilisateur (visualisation, indexation texte intégral, recommandations, etc.).
+-   Les outils de cartographies de l'information peuvent être classés dans cette catégorie Voir p. .
+
+## Notion de plateforme
+
+-   Souvent les bases de données bibliographiques sont diffusées par des plateformes.
+    -   Une plateforme peut diffuser plusieurs bases de données.
+    -   Une même base de données peut parfois être distribuée par plusieurs plateformes (avec des fonctionnalités différentes).
+-   La qualité du moteur de recherche dépend de la plateforme.
+    -   Avec la même requête, il est possible de chercher dans plusieurs bases de données d'une même plateforme.
+-   La qualité de l'indexation dépend de chaque base de données.
+    -   Si vous faites une recherche par sujets, il est possible que 2 bases de données d'une même plateforme utilisent deux mots-clés sujets différents pour un même concept. Parfois, une base de données n'a pas de sujets et une autre oui. Bref, attention à une recherche multibase avec le champ sujet.
+
+## Bases de données de thèses
+
+-   Peut contenir :
+    -   des descriptions seulement ;
+    -   ou bien, des description avec le texte intégral de :
+        -   Thèses universitaires
+        -   et aussi parfois de mémoires universaires
+-   Pourquoi chercher des mémoires et des thèses sur mon sujet ou autour de mon sujet ?
+    -   Parce que ce sont des mines d'or de références bibliographiques.
+    -   Parce que dans l'introduction, vous devriez avoir une bonne mise en contexte synthétique du sujet traité.
+    -   Parce que vous voulez être prévenu par alerte des dépôts de thèses sur votre sujet pendant que vous travaillez dessus.
+-   Comment chercher des mémoires et des thèses ?
+    -   Le principe le plus important est : ne pas chercher dans le texte intégral (qui est souvent la recherche par défaut dans ces bases de données).
+        -   En effet, vous risquez de repérer un trop gros volume (inexploitable) de résultats.
+    -   Cherchez seulement sur la notice de description de la thèse (titre, résumés, sujets).
+-   Voir les plus importantes (*Dissertations & Thesis*, etc.) à la p. .
+
+## Base de données en texte intégral de journaux
+
+-   Base de données d'articles de **journaux et de magazines**
+    -   Exemple : *Eureka.cc* (Québec, Canada, Etats-Unis, Europe, monde)
+-   Contient à la fois :
+    -   une description simple d'un document (il y a rarement des mots-clés Sujets issus d'un thésaurus)
+    -   ET le texte complet du document.
+-   Comment chercher des articles sans être submergé de résultats ?
+    -   Chercher vos mots-clés dans **l'introduction** de l'article seulement (Titre + premiers paragraphes).
+
+## Index de citations
+
+-   Principalement utilisées pour faire de la bibliométrie (voir @sec-bibliometrie), elles peuvent aussi être utilisées pour découvrir et explorer la documentation sur un sujet.
+-   Les index de citation (*citation indexes*) sont des bases de données bibliographiques généralistes avec une fonctionnalité supplémentaire et centrale : les **liens de citation** entre les références bibliographiques.
+    -   Ces liens de citation permettent de savoir qui cite qui.
+-   La plus célèbre est **Web of Science** mais de nombreux acteurs ont émergé :
+    -   dans les années 2000 (**Google Scholar** et Scopus)
+    -   et les années 2020 (avec le mouvement OpenCitation qui a ouvert les données de citation : OpenAlex, Scite, Dimensions, Lens, ResearchRabbit, etc.).
+    -   certaines bases de données disciplinaires commencent à avoir des fonctions comptant le nombre de citations (PsychInfo, Sociological Abstracts, etc.)
+-   Selon ces outils, il est possible de :
+    -   compléter une recherche par mots-clés avec une exploration des relations de citation. Ces outils sont parfois appelés index de citation.
+    -   ou d'effectuer uniquement des explorations de relations de citation à partir d'un ou plusieurs documents. Ces outils sont parfois appelés mapping tools.
+    -   Note : pour chaque index, le nombre de citation correspond au décompte des références DANS cet index (c'est pourquoi ce nombre change d'un index à l'autre)
+
+### Méthodes d'utilisation
+
+-   Les outils sont très nombreux et parfois ils sont très différents les uns des autres.
+-   Principes généraux pour survoler rapidement : - 1. remonter en amont les liens de citations ou aller en aval repérer les documents postérieurs qui citent le document pertinent - 2. pour chaque liste de références, trier par nombre de citations pour faire apparaître les plus cités en premier. Suivre les plus cités et refaire l'étape 1.
+-   Principes généraux pour récupérer exhaustivement les documents : - Suivre tous les liens de citation pertinents. - Récupérer tous les documents dans Zotero. - NB: en arrivant dans Zotero, les liens de citation n'existent plus. Une extension Zotero nommée Cita tente de pallier cette perte d'information mais elle est encore embryonnaire.
+-   Principaux index de citations :
+    -   Web of Science
+    -   Google Scholar
+    -   OpenAlex
+    -   Dimensions
+    -   Lens
+    -   Semantic Scholar
+    -   Scite
+    -   Scinapse
+
+## Outils de cartographie de l'information
+
+-   Les outils de type *mapping tool* permettent d'automatiser une partie des opérations de découverte et de collecte des articles cités les uns par les autres. Ce sont des outils récents (années 2020s) qui s'appuient sur des données ouvertes de citation.
+    -   Repérer des documents qui peuvent nous avoir échappé ;
+    -   Valider que nous avons déjà repérer l'essentiel de la littérature ;
+    -   Visualisant le graphe de citation de la littérature citée et donc en nous aider à mieux évaluer l'information.
+-   Leur principe d'utilisation est :
+    -   Soumettez un ou plusieurs articles et ces outils vont vous proposer d'autres articles les citant (en aval) ou ayant été cité par ces articles (en amont).
+    -   Certaines disciplines sont mieux représentées que d'autres.
+    -   La qualité des résultats dépend des données de citation utilisées par l'outil.

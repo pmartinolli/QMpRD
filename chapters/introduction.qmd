@@ -1,0 +1,77 @@
+# Introduction
+
+## Note d'intention du manuel
+
+### Public cible
+
+-   Principalement : Chercheuses et chercheurs du **séminaire PLU6058** des Études supérieures et postdoctorales de l'Université de Montréal.
+
+-   Mais aussi :
+
+    -   **Tout.e** **étudiant.e** **motivé.e**, de tout cycle universitaire ou du collégial, en apprentissage autonome et autodidacte.
+
+    -   **Tout.e enseignant.e** de méthodes et de compétences informationnelles.
+
+### Objectifs
+
+-   Fournir un **cadre linéaire et modulaire :**
+
+    -   Pour acquérir les **compétences informationnelles de base** à l'exercice de la recherche.
+
+    -   Pour les pratiquer et les absorber **progressivement** car elles sont nombreuses et de complexité croissante.
+
+    -   Pour aller **plus loin** sur certains aspects qui ne sont abordés que superficiellement en formation.
+
+    -   Pour ne pas être dépassé, ni submergé, ni se dispercer.
+
+    -   Pour savoir par où commencer.
+
+-   Servir de **journal de bord** (*log* ou *lab notebook*) ou de portfolio des ressources explorées et exploitées :
+
+    -   Proposer une **autoréflexion** sur sa pratique et ses méthodes de recherche documentaire.
+
+    -   Annoter et **documenter** toutes les bonnes pistes suivies, pour mieux les identifier, les reproduire et les adapter à l'avenir.
+
+    -   Pour ne pas répéter des stratégies infructueuses, ni oublier tout le travail accompli.
+
+-   **Compiler** dans un document unique l'essentiel à connaître sur chacun des aspects abordés.
+
+    -   Pour l'étudiant.e : avoir une vision d'ensemble de chaque notion.
+
+    -   Pour l'enseignant.e : avoir un plan de feuille de route pour conduire une formation sur chaque notion.
+
+## Comment utiliser ce manuel ?
+
+-   En suivant les 4 phases de la recherche, de bout en bout, pendant une session d'étude (voir plus bas).
+
+-   En ne sélectionnant que les parties pertinentes pour vous :
+
+    -   Le guide est **modulaire** avec de nombreux renvois et il vous invite parfois à aller plus loin dans d'autres sections.
+    -   La progression est **scénarisée et ordonnée** : du général au particulier, du plus important à l'accessoire, du plus simple au plus complexe, du plus court au plus chronophage.
+        -   Par exemple, l'apprentissage du logiciel de gestion bibliographique Zotero a été découpé en plusieurs parties selon les différentes phases de votre recherche.
+
+## 4 phases de la recherche
+
+**4 phases structurent l'essentiel** d'un parcours de recherche d'un.e étudiant.e gradué.e :
+
+1.  **Phase exploratoire** : on tatonne et on cherche à mieux définir son sujet. On essaye de se faire une tête et on cherche à repérer quels sont les courants de pensées dominants dans une discipline ou sur son sujet.
+
+2.  **Phase de recherche exhaustive** : on récolte le plus de documentation pertinente sur son sujet.
+
+3.  **Phase de lecture**, d'analyse et d'organisation de la documentation : on exploite la documentation trouvée.
+
+4.  **Phase de rédaction** : on rédige son travail de recherche.
+
+Le contenu de la partie « Au-delà de votre recherche » permet d'explorer des notions avancées.
+
+## Une session intensive ?
+
+-   Suggestion : après le séminaire PLU6058, réservez-vous une session complète (3 mois) pour passer à travers tout le contenu pertinent pour vous.
+
+    -   En effet, pour absorber des méthodes, nous vous recommandons de les répartir et les répéter sur la longue durée Si vous faites le tout en une semaine intensive, écrivez-moi pour me partager votre expérience..
+
+    -   Pour entretenir votre motivation, ne le faites pas tout seul :
+
+        -   Faites-vous accompagner par votre bibliothécaire disciplinaire de l'UdeM. Ce manuel sera votre document de communication.
+        -   Constituez un groupe avec d'autres étudiant.es et avancez ensemble à travers le manuel.
+        -   Partagez vos découvertes et votre progression sur votre blogue de recherche voir p. .

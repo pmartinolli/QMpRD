@@ -1,0 +1,29 @@
+# Phase exploratoire
+
+## Objectifs documentaires de la phase exploratoire
+
+-   « Se faire une tête sur son sujet » et repérer **les principaux courants de pensée** sur vos thèmes de recherche.
+-   Sans disperser son **attention** dans des détails.
+-   Apprendre à manipuler le logiciel Zotero pour **collecter** vos premières références et prendre des notes.
+
+## Pourquoi ?
+
+-   Pour avoir une **culture générale** de base sur le sujet.
+    -   Allégorie : Il s'agit de « bien baliser votre terrain de chasse ou de pêche ». C'est-à-dire savoir là où il y a du gibier, où il y a des sentiers, où tout le monde est déjà passé, où se trouvent les endroits pauvres et difficiles d'accès, quelle méthode utiliser pour tel objectif, quand prévoir deux sandwichs, où demander de l'aide et s'il faut y aller à plusieurs, est-ce qu'on peut y emmener les enfants ? etc.
+-   Pour mieux **situer les futures nouvelles informations** dans sa carte mentale de son sujet : mieux absorber, synthétiser et mémoriser.
+-   Pour mieux **évaluer et hiérarchiser** les futurs nouveaux documents sur le sujet.
+-   Pour garantir que l'on a moins d'**angles morts** dans le traitement de son sujet, moins de **biais** ou qu'une notion importante ne nous a pas échappé.
+-   Pour identifier (grâce aux travaux de vos prédécesseurs), que tel élément de votre recherche est très coûteux, ou peu satisfaisant, ou sans issu.
+
+## Comment ?
+
+-   Utiliser de la documentation qui fait autorité, qui a été beaucoup **filtrée** et qui est **synthétisée**.
+    -   Idéalement des sources tertiaires : des articles d'encyclopédies spécialisées, d'encyclopédies disciplinaires, de *handbooks*, d'ouvrages de référence (*Oxford handbooks*, *Oxford bibliographies*, etc.).
+    -   Livres : manuels, monographies généralistes ou de méthodologie (*Sage Research Methods*, etc.).
+    -   Articles de revue de littérature : revues systématiques, études de la portée, etc.
+-   Dans le même temps, identifier et lister :
+    -   Les meilleurs termes ou mots-clés pour ma recherche.
+    -   Les principales ressources documentaires (bases de données, plateformes, site web, institutions, etc.).
+    -   Les principaux experts.
+    -   Les principales personnes-ressources autour de soi.
+    -   Votre bibliothécaire disciplinaire.

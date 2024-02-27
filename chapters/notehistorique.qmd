@@ -1,0 +1,44 @@
+# Conception du manuel
+
+## Commentaires généraux 
+
+-   Ce manuel a été rédigé de manière inclusive selon des formes variées et adaptées selon les cas. Des formes masculines peuvent demeurer par-ci par-là. Parfois, la forme masculine demeure volontairement pour une meilleure lisibilité (ex: le terme auteur dans des expression comme « droit d'auteur » ou « auteur-date »).
+
+-   Originellement, ce manuel a été conçu pour des étudiant.es en cycle supérieurs de sciences sociales et de sciences humaines. Un effort multidisciplinaire a été fait mais ce biais originel demeure, merci de l'adapter à vos besoins.
+
+-   Quand la première personne du singulier est utilisée dans le document ( « je », « moi », etc.), il s'agit de Pascal Martinolli, le contributeur principal.
+
+    -   Depuis 2010, je suis bibliothécaire en charge de la formation à la BLSH de l'Université de Montréal.
+
+    -   Je n'ai pas conçu ce manuel tout seul. Voir la section des contributions @sec-contributions ainsi que la bibliographie @sec-bibliographie.
+
+    -   Les notions présentées ont été testées dans les cadres de plus d'un millier de formations pour tous les cycles (environ 50% disciplinaires dans le cadre d'un cours crédité et 50% d'ateliers libres) Estimations en date du 1er janvier 2023..
+
+-   J'utilise un ordinateur avec un système d'exploitation Windows 10. Il est possible que quelques éléments soient différents si vous utilisez MacOS ou Linux.
+
+-   Je n'ai pas de conflit d'intérêt avec les produits commerciaux ou non-commerciaux présentés ou suggérés dans ce guide.
+
+-   J'ai un lien d'intérêt et un biais en faveur des valeurs du bien commun en général, ainsi que du libre accès, de l'utilisation libre et de la transparence en particulier.
+
+-   Utilisation de l'humour dans ce manuel. Les méthodes sont une excellente manière de compresser le temps et de travailler de manière rigoureuse. Cependant, je pense que lister ou décrire des méthodes est souvent fortement ennuyeux. Donc, j'utilise l'humour, la légèreté ou la familiarité tout le long de ce document. Dans ce cadre, mes objectifs sont Voir la vidéo de Viviane sur Sci+ sur *L'intérêt d'utiliser l'humour dans la vulgarisation scientifique* : <https://www.youtube.com/watch?v=CP-B936Klew>:
+
+    -   briser la monotonie pour garder votre attention;
+
+    -   mieux mémoriser des points-clés parce qu'ils vont être associés à une émotion;
+
+    -   créer une petite pause et casser le sérieux des listes méthodologiques;
+
+    -   dissocier la forme et le fond. Une apparence formelle sérieuse ne garantit pas la pertinence ou l'exactitude d'une information.
+
+-   Les informations contenues dans ce manuel sont rendues disponibles à des fins d'information uniquement et ne constituent d'aucune manière un avis juridique.
+
+## Historique
+
+-   2013 : Conception d'un portfolio documentaire (versions 1 et 2) dans le cadre du séminaire PLU6058 pour documenter les démarches de recherche d'information par rapport à un sujet de thèse ou mémoire <https://bib.umontreal.ca/multidisciplinaire/plu6058>.
+-   2016 : Transposition partielle de la fonction « journal de bord » en tant que collection partagée pour Zotero (« ZotLog ») <https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/>.
+-   2017 : Transposition partielle de la fonction « parcours de formation » sous la forme d'une feuille de personnage du chercheur <https://github.com/pmartinolli/TM_SchoCharSheet>.
+-   2020 : Transposition partielle et simplifiée (pour étudiant.es de 1er cycle) de la fonction « parcours de formation » sous la forme d'un MOOC en 8 modules pour mettre à jour ses compétences informationnelles de base <https://catalogue.edulib.org/fr/cours/BIB-BONICI/>.
+-   2021 : Transposition partielle de la fonction « parcours de formation » sous la forme d'un poster et d'un index en ligne <https://bib.umontreal.ca/parcours>.
+-   2022 : Mise à jour du portfolio original sous la forme d'un manuel (version 3), un document plus ambitieux pour synthétiser l'ensemble des éléments que j'enseigne dans les Bibliothèques de l'UdeM. Utilisation dans le séminaire PLU6058 comme document d'accompagnement.
+-   2023 : Projet de création d'un cahier séparé pour renseigner les informations, notes et étapes de l'étudiant.
+-   2024 : Version 4. Transformation du manuel en projet Quarto utilisant Markdown.

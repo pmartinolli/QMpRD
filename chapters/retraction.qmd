@@ -1,0 +1,113 @@
+# Publications rétractées ou retirées {#sec-retraction}
+
+Ce chapitre est basé sur un atelier conçu par Thien Sa Hoang et Pascal Martinolli pour la Faculté de médecine vétérinaire de l'UdeM en 2022.
+
+### Qu'est-ce qu'une publication retirée ?
+
+-   Une étude retirée de la diffusion
+
+-   Après sa publication
+
+    -   par une revue à comité de lecture ou par un dépôt de prépublication
+
+    -   et après le jugement des éditeurs de la revue ou du dépôt.
+
+-   En raison d'une cause majeure de dysfonctionnement :
+
+    -   Données erronées, fabriquées, etc.
+
+    -   Erreurs honnêtes dans les données ou leur traitement.
+
+    -   Plagiat, duplication d'études, etc.
+
+    -   Révision frauduleuse, conflits d'intérêts non-déclarés, etc. ...
+
+#### Quelques faits : 
+
+-   On dit aussi rétractation de publication, ou rétraction ou retrait (***retraction*** en anglais)
+
+-   36 000 rétractations indexées dans la base de données Retraction Watch.
+
+-   Mais dans les faits, il y en a plus et beaucoup ne sont pas encore jugées comme retirées.
+
+-   Augmentation croissante annuelle.
+
+-   Variations selon les disciplines.
+
+-   Pression à la publication de résultats significatifs.
+
+-   Lent processus de retrait.
+
+-   Rétractations encore trop peu visibles
+
+#### Quelques conséquences de s'appuyer sur une étude rétractée :
+
+-   Jugements de vos pairs pour manquer d'esprit critique, de précision, de vérification, voire d'honnêteté.
+
+-   Dégradation de l'intégrité de la littérature scientifique en général, ou du contenu des revues de littératures en particuliers (revues systématiques, méta analyses, etc.).
+
+-   Désinformation des politiques de santé [https://doi.org/10.1162/qss_a\_00243 ](https://doi.org/10.1162/qss_a_00243%20), des institutions, des médias, de la population.
+
+-   Fragilisation de la confiance dans la science, dans la discipline ou envers les chercheurs impliqués.
+
+-   Blocages, entraves ou modifications erronées d'études pertinentes, en cours ou en projet.
+
+#### Processus habituel de rétraction 
+
+-   Une personne alerte les éditeurs.
+
+-   Si les éditeurs jugent l'alerte recevable, une mention « *Expression of concern* » est apposée sur l'étude et une enquête débute.
+
+-   Si l'enquête confirme les faits relevés par l'alerte, alors les éditeurs de la revue retirent l'article (*retracted*). Idéalement (mais pas toujours), une ou toutes les actions ci-dessous sont prises :
+
+    -   Une notice de rétractation est diffusée par la revue, détaillant le cas et sa résolution.
+
+    -   Le document électronique est retiré de la diffusion en ligne, ou bien une mention *Retracted* barre chaque page.
+
+    -   Les métadonnées décrivant l'article sont modifiées.
+
+        -   Le statut du document devient : *Retracted publication* (au lieu de *Article*).
+
+        -   Le titre est changé. «*RETRACTED* : » est ajouté en majuscule devant l'ancien titre.
+
+    -   Une mise à jour est envoyée aux institutions gérant les métadonnées des articles (ex: CrossRef).
+
+    -   Une déclaration est faite à la base de données de Retraction Watch.
+
+    -   NB: le *Committee on Publication Ethics* (*COPE*) a émis des recommandations de bonnes pratiques.
+
+### Comment ne pas citer des études rétractées ?
+
+#### Automatiquement 
+
+-   Dans Zotero, une alerte devrait automatiquement vous avertir qu'un article est rétracté.
+
+    -   L'alerte se base sur le DOI ou le Pubmed ID et interroge la base de données Retraction Watch. Donc, un article rétracté, mais sans DOI ni Pubmed ID, ou absent de la base de données Retraction Watch, ne sera pas marqué.
+
+-   Une fonction similaire est automatiquement incluse dans Endnote, LibKey et Papers (non testé).
+
+#### Semi-automatiquement
+
+-   Installation des extensions PubPeer et Scite dans votre navigateur pour repérer les commentaires, *expressions of concern* et rétractations qui existeraient dans ces outils.
+
+-   NB: À ce jour, il n'y a pas d'extension Retraction Watch pour navigateur.
+
+#### Manuellement
+
+-   En consultant manuellement la base de données **Retraction Watch** <http://retractiondatabase.org/RetractionSearch.aspx?>.
+
+    -   36 000 rétractions recensées en 2022 (mais « c'est insuffisant » dit son co-fondateur <https://doi.org/10.1038/d41586-022-02071-6>).
+
+-   En allant vérifier chacune de vos références sur le site de leurs revues et dans les bases de données *PubPeer* [pubpeer.com](https://pubpeer.com/) : , PubMed <https://pubmed.ncbi.nlm.nih.gov/> ou Web of Science <https://www.webofscience.com/>.
+
+-   On peut filtrer les résultats dans
+
+    -   PubMed : en ajoutant (Retracted Publication \[Publication Type\] OR Retraction of Publication \[Publication Type\] OR Expression of Concern \[Publication Type\])
+
+    -   Web of Science : en cochant Document Type = (Retraction ou Retracted Publication ou Expression Of Concern)
+
+-   Quand ?
+
+    -   Au moment où la référence est intégrée à votre travail et
+
+    -   juste avant votre première soumission.

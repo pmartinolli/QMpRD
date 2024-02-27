@@ -1,0 +1,21 @@
+# Phase de lecture, d'analyse et d'organisation de la documentation
+
+## Objectifs documentaires de la phase de lecture/analyse
+
+-   Vous avez déjà récupéré **l'essentiel** de la documentation sur votre sujet :
+
+    -   Grâce aux encyclopédies spécialisées, vous avez une bonne culture générale de votre sujet et autour de votre sujet.
+
+    -   Grâce à la recherche exhaustive de sources, vous avez récupéré la plus grande partie de la documentation pertinente sur votre sujet.
+
+-   Maintenant, il faut **freiner la recherche active de nouveaux documents** et utiliser ce que vous avez déjà trouvé.
+
+    -   Vous ne devriez rechercher que des documents ou des auteurs ou des pistes que vous avez découverts dans votre ensemble de documents (dans leurs bibliographies par exemple).
+
+    -   Parfois continuer à chercher des documents sans fin est un moyen de procrastiner et ne pas se mettre à lire, comprendre, synthétiser, etc.
+
+-   Dans la phase précédente, vous avez identifié des stratégies de recherche efficaces dans plusieurs outils de recherche. C'est le temps de **créer des alertes** à partir de ces stratégies.
+
+    -   Pour recevoir automatiquement les nouveaux documents qui vont arriver dans ces outils de recherche.
+
+    -   Pour remplacer la recherche active de documents dans les outils de recherche.

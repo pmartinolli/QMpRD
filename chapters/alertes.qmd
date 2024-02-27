@@ -1,0 +1,117 @@
+#  Se ternir à jour avec les alertes {#sec-alertes}
+
+## Objectifs Le contenu de ce chapitre est adapté partiellement des formations sur la veille de Justine Lamoureux, bibliothécaire UQÀM. 
+
+### À court terme
+
+-   **Se consacrer à ses recherches** et arrêter de rechercher des documents. En effet, activement chercher sans cesse des nouveaux documents peut être une stratégie de procrastination pour éviter de lire et synthétiser ceux que l'on a déjà, ou pour éviter de se plonger dans sa recherche.
+
+-   Savoir que les documents pertinents vont **immédiatement arriver** dans nos systèmes d'alerte dès qu'ils vont être publiés.
+
+-   Avoir le plaisir de **trier des informations calibrées** qui viennent à soi plutôt que d'aller les chercher activement. Ça se fait bien le matin avec un bon café, ou à des moments creux de la journée.
+
+### À long terme
+
+-   Développer une compétence professionnelle très prisée pendant le temps de l'université. Comme ça demande beaucoup de pratiques dans plein d'outils différents, c'est le moment idéal de développer cette compétence avec vos recherches.
+
+    -   Ajouter une ligne de plus dans son CV : « Je sais me tenir à jour sur un thème et créer des systèmes d'alertes pour faire de la veille. »
+
+-   Être capable de monter des systèmes de redistribution d'information à partir de votre veille.
+
+### Enjeux généraux à maîtriser
+
+-   Savoir manipuler **plusieurs types** d'outils différents (fils RSS, courriels, abonnements, *tweets*, etc.).
+
+    -   S'attendre à expérimenter de l'instabilité technique : des outils qui ne fonctionnent plus ou seulement partiellement, des fournisseurs d'alertes qui interrompent leurs services sans prévenir ou qui ne mettent pas à jour leurs spécifications techniques, des incompatibilités entre systèmes et formats de fichiers, etc.
+
+-   Savoir **calibrer** ses alertes (sélections, options, mots-clés, etc.) et les **réajuster** *a posteriori* si besoin.
+
+-   **Compartimenter** les flux d'information en fonction de leurs débits ou de leurs thèmes.
+
+-   Choisir de faire des alertes **ciblées** ou une veille plus **large**.
+
+##  Alertes par courriel
+
+-   Ce sont les plus simples, il suffit :
+
+    -   D'avoir une adresse courriel
+
+    -   Que le service que l'on veut suivre possède un service d'alerte par courriel.
+
+-   [Bonne pratique recommandée : Créer un compte courriel spécifiquement pour recevoir des alertes.]{style="color: purple"}
+
+-   Pour compartimenter les flux d'information et mieux les gérer.
+
+    -   Pour ne pas encombrer vos courriels institutionnels et personnels.
+
+        -   Quand vous arrivez dans ce compte courriel, vous savez que le niveau d'importance est très faible et que chaque élément est une évaluation d'information pour vos recherches. Ça vous évite mentalement de vous poser la question pour chaque élément, comme vous le faites dans votre boîte de réception de votre courriel institutionnel par exemple.
+
+    -   Pour vous suivre, quelque soit votre institution actuelle.
+
+    -   Pour servir de tampon et ne pas envahir vos comptes courriels de spam potentiels ou autres.
+
+    -   Un compte Gmail est une idée à considérer car il permet d'accéder à d'autres outils Google intéressant : Google scholar, Google Alert, Google Drive, etc. (NB: je n'ai pas de conflits d'intérêt avec Google).
+
+##  Alertes par RSS
+
+-   Un lien RSS est un contenu en ligne qui se met à jour régulièrement. On dit aussi fil RSS, ou flux RSS, ou Atom, ou Feed.
+
+-   Il doit être collecté dans un logiciel ou un service spécialisé appelé **aggrégateur RSS**.
+
+    -   Logiciel à installer : RSS Owl <http://www.rssowl.org/> ou QuiteRSS <https://quiterss.org/>
+
+    -   ou service en ligne gratuit : Feedly <https://feedly.com/> ou InoReader <https://www.inoreader.com>.
+
+-   Une fois le fil parcouru, il est possible de régler l'affichage pour que les informations lues deviennent invisibles avant de disparaître complètement quelques mois plus tard. Ainsi, chaque fois que l'aggrégateur est ouvert, seules les nouveautés non-lues sont affichées. C'est comme un journal qui se met à jour selon nos abonnements.
+
+-   On peut classer les fils RSS par dossiers pour les regrouper.
+
+-   Dès qu'une information semble pertinente, on l'envoie dans Zotero dans la collection `À évaluer`.
+
+## Alertes par Twitter
+
+-   [Suivi de compte Twitter : ]{style="color: purple"}
+
+    -   [Cliquer sur l'usager de Twitter à suivre + Follow]{style="color: purple"}
+
+    -   [Consulter régulièrement Twitter.]{style="color: purple"}
+
+-   [Suivi de hashtags : ]{style="color: purple"}
+
+    -   [Outil TweetDeck]{style="color: purple"} [<https://tweetdeck.twitter.com/>]{style="color: purple"}[ : ajouter des colonnes selon un ou plusieurs mot-clés à suivre.]{style="color: purple"}
+
+    -   [Consulter régulièrement le TweetDeck.]{style="color: purple"}
+
+-   [Service d'alertes : Warble]{style="color: purple"} [<https://warble.co/alerts>]{style="color: purple"}
+
+    -   [Voir opérateurs avancés de Twitter (p. ) ]{style="color: purple"}
+
+        -   [NB: tous ne fonctionnent pas dans Warble.]{style="color: purple"}
+
+    -   [Laisser Warble vous envoyer les informations.]{style="color: purple"}
+
+## Alertes humaines
+
+-   Ne pas hésiter à parler de votre sujet autout de soi et être ouvert à recevoir des informations dessus si vos contacts en repèrent dans leurs propres investigations.
+
+## Collecter les alertes
+
+-   Créer une collection spécifique dans votre Zotero. Avec des sous-collections : Reçu, envoyé, commenté, twitté, etc. selon vos besoins.
+
+## Redistribuer les alertes
+
+-   Renvoyer le fruit de votre veille à votre groupe de recherche ou votre réseau.
+
+-   Avec quelques commentaires pour de la valeur ajoutée (pourquoi c'est pertinent, quelle question ça soulève, comment vous y avez réagit, etc.).
+
+-   Plusieurs outils :
+
+    -   Par courriel.
+
+    -   Avec un billet de votre blogue de recherche voir p. [\[chap:Bloguer\]](#chap:Bloguer){reference-type="ref" reference="chap:Bloguer"}.
+
+    -   Avec Twitter (avec un compte ou un #hashtag dédié).
+
+    -   Par messagerie interne à votre institution (exemple : un canal Teams).
+
+    -   Avec une page web simple Par exemple, j'utilise le service hackmd.io pour créer du contenu de balisage léger Markdown et diffuser ma veille de bibliothécaire universitaire pour mes collègues et mes étudiants : <https://tinyurl.com/lefiltre>. Gratuit et simple..

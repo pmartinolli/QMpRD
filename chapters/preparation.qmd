@@ -1,0 +1,58 @@
+# Préparation à la recherche {#sec-parametrages}
+
+## Méthodes
+
+### Avoir des stratégies de sauvegarde durable
+
+- Pour ne pas perdre tout votre travail. Voir @sec-sauvegardedurable
+
+### Maintenir un cahier de recherche
+
+- Pour documenter tout votre parcours de recherche. Il peut être en papier ou en électronique. Voir @sec-cahierrecherche
+
+## Installations logicielles
+
+### Avoir un navigateur dédié à votre recherche
+
+-   Pourquoi ?
+    -   Pour séparer sur un même ordinateur ce qui relève de votre vie privée et de votre vie de chercheuse / chercheur.
+    -   Pour avoir deux espaces avec des mots de passes, des favoris, des historiques différents.
+    -   Pour mieux compartimenter votre attention.
+-   Suggestion :
+    -   **Firefox** pour votre recherche
+    -   **Chrome** pour le reste : vie privée, loisirs, achats, etc. ?
+-   Extensions recommandées :
+    -   Connecteur Zotero (voir @sec-zoteroinstaller)
+    -   [PrintFriendly & PDF](https://www.printfriendly.com/) pour faire des PDF à partir de pages web.
+    -   [Internet Archives](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) pour vérifier si une page disparue y est archivée, ou pour y créer une archive.
+    -   [PubPeer](https://pubpeer.com/) pour repérer les critiques et les commentaires post-publication, principalement sur des articles scientifiques.
+    -   [Unpaywall](http://unpaywall.org/) pour repérer si une version en libre accès existe dans un dépôt institutionnel.
+
+### Avoir un éditeur de texte
+
+-   Pourquoi ?
+    -   Pour éditer des fichiers formatés en texte : modification, multi-remplacement, utilisation d'expressions régulières, changement de format, tri, etc.
+    -   Parce que les logiciels par défaut dans les systèmes d'exploitation sont souvent insuffisants (exemple : le Bloc-notes de Windows ajoute des caractères non désirés et il encode dans des formats non recommandés).
+-   Suggestion :
+    -   Pour Windows : installer le logiciel libre [*Notepad++*](https://notepad-plus-plus.org/)
+    -   S'autoformer aux formats et aux manipulations de fichiers à @sec-formats
+    -   S'autoformer à Markdown, un langage de balisage léger @sec-markdown
+
+### Avoir un logiciel de prise de notes liées
+
+-   Pour prendre des notes centrées sur les idées et les concepts, plutôt que des notes centrées sur les documents (ce qui est plutôt le point fort de Zotero).
+-   Suggestion : Obsidian.md @sec-obsidian
+
+## Paramétrages logiciels
+
+### Paramétrer le proxy UdeM
+
+-   Pour **accéder hors campus** aux ressources auxquelles l'UdeM est abonnée et auxquelles vous avez accès : articles et livres électroniques, bases de données spécialisées, etc. [Voir](https://bib.umontreal.ca/travailler/soutien-informatique/proxy)
+
+### Paramétrer Eduroam
+
+-   Pour bénéficier du réseau sans-fil des universités participantes (Canada, Amérique du Nord, Europe, ...). [Voir](https://bib.umontreal.ca/public/bib/soutien-informatique/S30-eduroam.pdf).
+
+### Paramétrer OneDrive UdeM
+
+- Pour avoir un infonuage de 1 TB. Voir @sec-sauvegardedurable

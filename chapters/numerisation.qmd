@@ -1,0 +1,5 @@
+# Numérisation {#sec-numerisation}
+
+-   Dans la BLSH, vous pouvez accéder à un numériseur de livre rapide (venez avec votre clé USB) et à des numériseurs de précision (pour les photos, les documents d'identité, etc.).
+
+-   Si le résultat de votre numérisation est un fichier PDF, vous voulez peut être aussi ajouter une couche électronique de reconnaissance de texte. En effet, si nous ne le faites pas, votre PDF ne contient que des images. Pour ajouter cette couche électronique de texte cliquable, sélectionnable, copier-collable, il faut utiliser la version professionnelle de Adode Acrobat. Elle est disponible sur certains postes des bibliothèques (pas tous) <https://bib.umontreal.ca/travailler/logiciels#c77346>.

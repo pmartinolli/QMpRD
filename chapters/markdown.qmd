@@ -1,0 +1,24 @@
+# Markdown : balisage léger pour la recherche {#sec-markdown}
+
+## Pourquoi apprendre le Markdown 
+
+- C'est extrêmement simple.
+- C'est une méthode de balisage de texte lisible par les humains et par certains logiciels qui sont capables ensuite de :
+  - Faire de belles visualisations du fichier
+  - Exporter vers d'autres formats (html, pdf, MS Word,...)
+- C'est devenu une sorte de standard dans beaucoup de domaines de la recherche.
+
+
+## Exemples de logiciels qui utilisent Markdown 
+- Obsidian.md pour prendre des notes @sec-obsidian
+- R Studio et Quarto pour produire de beaux documents scientifiques (c'est ce qui est utilisé pour produire ce manuel)
+- ObservableHQ pour produire de belles infographies
+- Documenter les codes sources de GitHub 
+
+
+## Quels sont les codes de balisage minimum à connaître ?
+
+- Les balisages de niveaux de titre
+- Faire des liens URL
+- Faire des listes à puces ou numérotées
+- Faire des notes de bas de page

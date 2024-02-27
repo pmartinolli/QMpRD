@@ -1,0 +1,34 @@
+# Phase de recherche exhaustive de documentation
+
+## Objectifs
+
+-   Identifier **toutes les ressources** qui peuvent contenir potentiellement de la documentation sur votre sujet :
+    -   toutes les cotes de classement,
+    -   tous les outils de recherche,
+    -   toutes les bases de données, etc.
+-   À partir de ces ressources, les exploiter à fond et y chercher toutes les références pertinentes.
+    -   Avec des bonnes méthodes de recherche pour ne pas perdre de temps.
+-   Collecter les références pertinentes dans Zotero (ou Endnote).
+-   Récupérer les documents des références pertinentes.
+
+## Distinctions : travail de session / thèse
+
+-   Les recherches d'information sont différentes pour ces deux types de travaux universitaires[^phaserecherche-1].
+
+[^phaserecherche-1]: Inspiré de <https://twitter.com/ShengwuLi/status/1624802079280693251>
+
+| Besoin d'information |                   Travail de session                    |           Mémoire ou thèse           |
+|:--------------------:|:-------------------------------------------------------:|:------------------------------------:|
+|        Tâches        |              structurées et bien définies               |   peu structurées et mal définies    |
+|     On y répond      | avec les outils de recherche et les méthodes existantes |            peut être pas             |
+|        Sujet         |                        générique                        |           très spécifique            |
+|       Étendue        |                        sélective                        |              exhaustive              |
+|        Durée         |                    très court terme                     |              long terme              |
+|     Les efforts      |              mènent généralement au succès              |                                      |
+|   Alerte ou veille   |                         inutile                         |              important               |
+|     Vocabulaire      |                         défini                          | souvent flou, émergent, en évolution |
+|       Méthodes       |                 unique ou disciplinaire                 |      parfois multidisciplinaire      |
+
+## Distinctions : revue de littérature / revue systématique
+
+Voir @sec-revuelitterature pour distinguer les différents types de travaux sur l'exploration et l'exploitation de la recherche passée sur un sujet.

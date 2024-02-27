@@ -1,0 +1,121 @@
+#  Comprendre le droit d'auteur {#sec-droitdauteur}
+
+-   Rappel : Ce manuel (et spécialement ce chapitre) est rendu disponible à des fins d'information uniquement et ne constitue d'aucune manière un avis juridique.
+
+### Pourquoi ce chapitre ?
+
+-   Pour connaître vos droits :
+
+    -   En tant qu'**étudiant** : Dans le cadre de votre parcours universitaire, vous avez un droit d'auteur automatique sur tous vos travaux produits dans le cadre de vos études.
+
+    -   En tant qu'**employé ou rémunéré par l'UdeM** : les droits d'auteur sont différents.
+
+-   Pour prendre des bonnes décisions si vous diffusez vos recherches :
+
+    -   Mieux valoriser vos travaux.
+
+    -   Ne pas subir les conséquences juridiques d'une mauvaise utilisation.
+
+###  Les droits dans le droit d'auteur
+
+-   Une personne qui créé une oeuvre originale, produite par son esprit et qui est fixée sur un support matériel devient son auteur.
+
+-   À ce titre, l'auteur obtient ce qu'on appelle un **droit d'auteur**.
+
+    -   Ce droit d'auteur est constitué de plusieurs droits différents
+
+    -   Au Canada, tous les droits listés ci-dessous ne sont pas garantis (par exemple, le droit de retrait/à l'oubli).
+
+-   Ces droits différents peuvent se classer en 2 grandes catégories :
+
+    -   Droits **patrimoniaux** (droits d'utilisation, cessibles, actifs jusqu'à 50 ans après la mort de l'auteur) :
+
+        -   Droit de **lecture**, de consultation : de manière, ou pendant une durée précise, ou un certain nombre de fois.
+
+        -   Droit d'**exécution**, de représentation : lire le document en public, le jouer dans un spectacle, montrer un schéma dans un cours, etc.
+
+        -   Droit de **reproduction** : faire une ou plusieurs photocopies, copier le fichier électronique sur son ordinateur, etc.
+
+        -   Droit de **diffusion** : envoyer le document à une autre personne, à plusieurs personnes ; le mettre sur un site web ; etc.
+
+        -   Droit **commercial** : faire payer pour obtenir le document.
+
+    -   Droits **moraux** (perpétuels et inaliénables) :
+
+        -   Droit de **paternité** : choisir d'apparaître ou de ne pas apparaître comme auteur d'un document (exemple : choisir de se retirer d'un travail collectif).
+
+        -   Droit d'**originalité** : faire valoir qu'on est le premier à avoir rédigé une idée de manière originale.
+
+        -   Droit de **divulgation** : pouvoir choisir si on veut et quand on veut diffuser un travail, avec ou sans restriction d'accès.
+
+        -   Droit d'**intégrité** : pouvoir choisir si on veut que notre travail soit amputé d'une partie du texte avec ou sans notre consentement,
+
+        -   Droit de **retrait** : pouvoir choisir de retirer un travail des moyens de diffusion qu'il a emprunté.
+
+            -   Semblable au droit à l'**oubli** qui permet de demander à un individu de supprimer des informations en ligne le concernant. On distingue :
+
+            -   le droit au **déréférencement** : pouvoir supprimer des liens de pages web;
+
+            -   le droit à l'**effacement** : pouvoir supprimer des pages web <https://www.jurisource.ca/le-droit-loubli/>.
+
+### Droit d'auteur en tant qu'étudiant
+
+-   Dans le cadre de votre parcours universitaire, vous avez un droit d'auteur automatique sur tous vos travaux produits dans le cadre de vos études (du simple TP d'une page à la thèse de 600 pages).
+
+    -   Voir le guide du droit d'auteur des Bibliothèques UdeM pour en savoir plus <https://bib.umontreal.ca/gerer-diffuser/droit-auteur>
+
+-   NB : Si vous réutilisez des données bibliographiques (de Zotero par exemple) :
+
+    -   Il n'y a pas de droit d'auteur sur les noms des auteurs et sur les titres.
+
+    -   Il y a des droits d'auteur sur les résumés et les mots-clés que vous récupérez. Vous ne pouvez pas en faire ce que vous voulez. Si vous voulez diffuser votre base Zotero par exemple, il va falloir reconcevoir complètement votre système de mots-clés par exemple.
+
+###  Creative Commons []{#sec:-Creative-Commons label="sec:-Creative-Commons"}
+
+-   Ce sont des **mini-contrats** que l'on trouve associés à des documents (souvent en ligne) pour mieux comprendre comment est-ce qu'on peut les réutiliser. Ils disent :
+
+    -   « L'auteur de ce document conserve ses droits d'auteur
+
+    -   et il facilite la réutilisation de son document en indiquant s'il est d'accord / pas d'accord pour :
+
+        -   que vous le modifiez
+
+        -   que vous le vendiez
+
+        -   comment partager le votre s'il se base sur le sien
+
+        -   être cité ou pas. »
+
+-   Avec internet et son contenu facilement accessible (et parfois réutilisable), c'est un outil très pratique.
+
+-   On peut choisir une licence selon ses objectifs <https://creativecommons.org/>.
+
+    -   Choisissez les versions les plus **récentes** car les plus anciennes contiennent des problèmes.
+
+    -   Rédigez bien vos mentions de contrats CC, car il existe des « *copyleft trolls* » qui peuvent abuser d'une interprétation formelle de la loi <https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299>.
+
+-   Si ça ne vous convient pas, mettez le symbole Copyright. Ça veut dire que la personne qui veut réutiliser le contenu doit vous contacter pour obtenir une autorisation.
+
+-   Exemple : **CC BY-NC-SA 4.0** : Ce manuel est mis à disposition selon les termes de la Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International. <https://creativecommons.org/licenses/by-nc-sa/4.0/>
+
+    -   Ça veut dire que nous en gardons les droits d'auteur. C'est nous qui avons fait ce document, on en est fier et si on veut le retirer, le modifier, l'amender, enlever nos noms ou en rajouter, on peut le faire quand on veut.
+
+    -   Vous pouvez le réutiliser :
+
+        -   Tout ou en partie.
+
+        -   Dès maintenant et pour toujours.
+
+    -   Vous pouvez le modifier complètement.
+
+    -   Il faudra nous citer explicitement. Voici une suggestion : « \[blabla bla\] est basé sur le *Manuel pratique de recherche documentaire*, de Pascal Martinolli et collaborations, 2023, version 59, Université de Montréal, https://bib.umontreal.ca/multidisciplinaire/plu6058 »
+
+    -   Vous ne pourrez pas le vendre.
+
+    -   Il faudra le partager avec les mêmes conditions.
+
+    -   Ce n'est pas la peine de contacter le détenteur des droits pour demander de le réutiliser selon les licences accordées ci-dessus. Si vous voulez le vendre (une condition non listée dans les autorisations), il faudra contacter le détenteur des droits.
+
+### Pour aller plus loin
+
+-   Guide Droit d'auteur des bibliothèques UdeM <https://bib.umontreal.ca/gerer-diffuser/droit-auteur>

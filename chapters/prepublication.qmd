@@ -1,0 +1,56 @@
+# Prépublications {#sec-prepublication}
+
+
+-   C'est diffuser rapidement et efficacement une version préliminaire mais avancée de ses travaux.
+
+    -   Permet des rétroactions rapides, internationales et nombreuses <https://scholarlykitchen.sspnet.org/2022/02/28/guest-post-preprint-feedback-is-here-lets-make-it-constructive-and-fast/>.
+
+    -   Cela permet de penser un article scientifique comme une continuité de version (*record of versions*), plutôt que comme une version stable ou figée (*version of record*). Comme pour un livre qui nécessite plusieurs éditions, d'additions et de corrections.
+
+    -   Certaines revues nommées épirevues (*overlay journal* <https://arxiv.org/abs/2204.03383> ou <https://fr.wikipedia.org/wiki/%C3%89pirevue>) créent des liens vers un document existant dans un dépôt de preprint, elles ajoutent une couche de révision par les pairs et de métadonnées.
+
+    -   L'existence croissante de dépôts régionaux et nationaux (ex: AfricArxiv ou SciELO) contribuent à la bibliodiversité linguistique et thématique dans l'esprit de l'Initiative de Helsinski.
+
+-   C'est une pratique qui date d'avant internet : les chercheurs s'envoyaient les documents par la poste pour contourner la lenteur des canaux de diffusion classiques.
+
+    -   C'était couteux (photocopies, timbres, secrétariats En 1978, Donald Knuth a inventé le langage LaTeX (utilisé pour ce manuel) et a permis de réduire les coûts de formatage des documents.) et limités à certains domaines de recherche spécifiques et bien financés (astrophysique, physique des particules, etc.). D'autres domaines comme l'économie faisait circuler des *working papers*.
+
+    -   Internet a accéléré la pratique et le dépôt de prépublications (qui a débuté avec la plateforme arXiv).
+
+    -   La recherche sur le Covid-19 a encore accéléré cette pratique de dépôt.
+
+    -   Il existe désormais un grand nombre de dépôts de prépublications pour tous les domaines (mathématiques, médecine, sciences sociales, etc.).
+
+-   Déposer son projet de recherche sous la forme d'une *pre-registration* (expliquer ses hypothèses et ses méthodes avant d'entreprendre la recherche) peut rendre la recherche plus robuste et plus fiable.
+
+-   Bien discuter de la pertinence de le faire avec son directeur de recherche.
+
+    -   Comme le titre et les auteurs sont explicites, cela peut contrenir à certaines révisions par les pairs qui demandent une révision en double aveugle stricte.
+
+    -   Comme c'est une première diffusion, cela peut contrevenir à certaines revues qui demandent une soumission originale stricte.
+
+    -   Certains domaines comme la fabrication de bombes nucléaires, de bio-pathogènes ou de cryptographies se prêtent mal à ce type de diffusion <https://www.wired.com/story/making-science-more-open-good-research-bad-security/>.
+
+-   Ne pas soummettre de brouillons : il semble être recommandé de diffuser une version préliminaire mais proche de la version finale <https://twitter.com/tdietterich/status/1454968577358925824>. Exemple : une version incorporant les réponses au premier tour de révision si la revue donne son accord.
+
+## Dépôts de prépublication (*preprint*)
+
+-   Pourquoi ?
+
+    -   Obtenir des **commentaires** : comme pour une présentation dans une conférence ou un colloque.
+
+    -   **Partager** les travaux en temps réel avec votre équipe de recherche.
+
+    -   Donner accès à une **version préliminaire** soumise à une revue et **acceptée** par les éditeurs mais encore en cours de révision.
+
+    -   Obtenir une **date de priorité** : signaler que telle recherche a été déposée en exclusivité par tels chercheurs à telle date.
+
+    -   Augmenter la **visibilité**, etc.
+
+-   Quelques plateformes :
+
+    -   **[Borealis ]{style="color: purple"}**[(Dataverse) ]{style="color: purple"} [<https://borealisdata.ca/>]{style="color: purple"}[☐ ]{style="color: purple"}
+
+    -   **[OSF]{style="color: purple"}**[: Open Science Framework ]{style="color: purple"} [<https://osf.io/>]{style="color: purple"}[ ☐ ]{style="color: purple"}
+
+    -   **[Zenodo]{style="color: purple"}**[]{style="color: purple"} [<https://zenodo.org/>]{style="color: purple"}[ ☐ ]{style="color: purple"}

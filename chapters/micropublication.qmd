@@ -1,0 +1,24 @@
+# Micropublications {#sec-micropublication}
+
+
+-   Pourquoi ? 
+   - Pour vous construire progressivement une réputation avec des étapes moins fastidieuses que la soutenance de thèse ou la publication d'articles révisés par les pairs.
+
+## Bloguer sur son sujet de recherche
+
+-   Pourquoi et comment ? Voir @sec-bloguersarecherche
+
+## Déposer ses travaux étudiants significatifs
+
+-   **[Papyrus]{style="color: purple"}**[]{style="color: purple"} [<https://bib.umontreal.ca/papyrus>]{style="color: purple"}[ : dépôt institutionnel de l'Université de Montréal. ]{style="color: purple"}
+
+    -   [Certains département ont un espace « Production étudiante » en parallèle de l'espace de dépôt « Mémoires et thèses » ]{style="color: purple"} [Exemple : <https://papyrus.bib.umontreal.ca/xmlui/handle/1866/2951>]{style="color: purple"}[. ☐ ]{style="color: purple"}
+
+## Partager vos codes source
+
+-   Idéal pour avoir une adresse URL pérenne, quelles que soient les versions des documents.
+
+-   Possibilité d'avoir un historique complet des versions.
+
+-   **[GitHub]{style="color: purple"}**[]{style="color: purple"} [<https://github.com/>]{style="color: purple"}[ ou ]{style="color: purple"}**[GitLab]{style="color: purple"}** [<https://about.gitlab.com/>]{style="color: purple"}[ : ☐ ]{style="color: purple"}
+

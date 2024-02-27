@@ -1,0 +1,43 @@
+# Astuces complémentaires pour Zotero {#sec-zoteroplus}
+
+### Importations de références
+
+#### Avec un identifiant ISBN ou autre
+
+-   [Prenez un livre imprimé en main et retournez-le. Normalement, s'il est récent, au-dessus du code barre se trouve un numéro d'identifiant du livre appelé ISBN. ☐]{style="color: purple"}
+
+-   [Dans Zotero, cliquez sur l'icône Baguette magique (Ajouter un document par son identifiant). ]{style="color: purple"}
+
+-   [Saisissez l'ISBN (sans les traits d'union) puis tapez Entrée. ]{style="color: purple"}
+
+    -   [Zotero se connecte à la bibliothèque mondiale Worldcat. Si une bibliothèque a enregistré ce livre avec l'ISBN, la notice est récupérée. ☐]{style="color: purple"}
+
+-   [Ça fonctionne aussi avec d'autres identifiants uniques comme le DOI (pour les articles, certains chapitres, etc.) ou le PubMed ID ou le arXiv ID. Vive les identifiants pérennes pour faciliter l'interopérabilité (le I de FAIR) des outils de la recherche! ]{style="color: purple"}
+
+#### Avec un PDF reconnu
+
+-   [Vous avez déjà collecté plusieurs PDF ? Avec un peu de chance, Zotero va les reconnaître et recréer des notices. ]{style="color: purple"}
+
+-   [Sélectionnez un ou plusieurs PDF, glissez-déposez-les dans Ma Bibliothèque. Attendez quelques instants.]{style="color: purple"}
+
+-   [Si Zotero a été capable de repérer des informations clés dans le PDF, il s'est connecté en ligne pour récupérer la notice bibliographique, l'importer dans Zotero et mettre le PDF en pièce jointe. On a été chanceux.]{style="color: purple"}
+
+-   [Si on a moins de chance, Zotero n'a pas réussi. Le PDF reste donc tout seul dans Zotero, au même niveau que les notices. Il est inexploitable tel quel. On va faire un clic-droit dessus, choisir ]{style="color: purple"}*[Create parent document]{style="color: purple"}*[ (Créer un document parent). Puis, saisir un identifiant si on en a un (voir précédemment) ou cliquer sur Manual pour saisir une notice à la main (voir suivant). Le PDF sera incorporé en pièce jointe de cette notice. Il sera exploitable.]{style="color: purple"}
+
+#### Astuce : J'ai déjà une bibliographie rédigée 
+
+-   [Comment la transformer en notices Zotero rapidement ? Option 1, s'il y a surtout des livres et des articles :]{style="color: purple"}
+
+    -   [Si c'est un livre, faites un copier-coller des auteurs et de quelques mots du titre dans Worldcat.org]{style="color: purple"} [<https://www.worldcat.org/>]{style="color: purple"}[. Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.]{style="color: purple"}
+
+    -   [Si c'est un article, faites un copier-coller des auteurs et de quelques mots du titre dans Google Scholar]{style="color: purple"} [<https://scholar.google.com/>]{style="color: purple"}[. Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.]{style="color: purple"}
+
+-   [Option 2 : faire séquencer sa bibliographie dans le service en ligne Anystyle.io]{style="color: purple"} [<https://anystyle.io/>]{style="color: purple"}[. Ça demande un peu de clics et de réglages mais cela peut être adapté à vos besoins]{style="color: purple"} [Conseils d'utilisation à <https://bib.umontreal.ca/citer/logiciels-bibliographiques/zotero/ajouter-references#c75434>]{style="color: purple"}[. ]{style="color: purple"}
+
+-   [Option 3 : utiliser un outil de type LLM]{style="color: purple"} [voir p. [\[chap:LLM\]](#chap:LLM){reference-type="ref" reference="chap:LLM"}]{style="color: purple"}[. Ça demande une supervision car des erreurs s'y glissent fréquemment. ]{style="color: purple"}
+
+#### Astuce : Passer de Endnote à Zotero 
+
+-   Ou vice-versa : c'est possible sans perte majeure d'information (à part les groupes/collections). Il y a une petite manipulation à faire si on veut récupérer les pièces jointes <https://bib.umontreal.ca/citer/logiciels-bibliographiques/endnote/ajouter-references#c105733>.
+
+-   Attention aux utilisateurs de Mendeley : ce logiciel propriétaire ne vous permettra pas d'exporter vos mots-clés, donc vous risquez d'être « prisonnier » de cette application si vous ne voulez pas perdre de l'information d'indexation sur laquelle vous avex travaillé.

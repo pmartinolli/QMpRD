@@ -1,0 +1,205 @@
+# Communication par affiche *(poster session) {#sec-communicationparaffiche}
+
+Ce chapitre a été rédigé grâce à l'atelier « S'afficher? Pourquoi pas! L'ABC de la présentation par affiche » de Christine Dufour (EBSI, UdeM), à *La vulgarisation scientifique par l'affiche* <http://accros.etsmtl.ca/affiche_scientifique/guide.pdf> de Réjane Gélinas et *Affiche scientifique - Carrefour Communication Scientifique* <https://uquebec.libguides.com/carrefour-communication-scientifique/affiche-scientifique/contenu> de Catherine Séguin (UQO).
+
+### Pourquoi ?
+
+-   Pour faire de la **vulgarisation** scientifique,
+
+    -   mais **ciblée sur ses pairs** chercheuses et chercheurs,
+
+    -   avec sa propre recherche,
+
+    -   avec un outil visuel pour capter l'attention et la retenir avec un message clair et informatif.
+
+-   En un événement (typiquement un colloque/ congrès/ conférence/ journée d'étude), présenter beaucoup de projets et faire communiquer les chercheuses et les chercheurs un-à-un.
+
+-   Les *poster-sessions* vont-elle disparaître au profit de communications en ligne plus efficaces ? <https://www.redactionmedicale.fr/2022/04/les-nouveaux-posters-vont-bientot-arriver-un-message-en-quelques-mots>
+
+### Comment ?
+
+-   Sur une grande affiche imprimée de 1,21 m x 0,91 m environ.
+
+    -   Exposée parmi d'autres affiches, dans un local dédié.
+
+    -   Lors d'un colloque/conférence/congrès, pendant une période définie à l'avance, on s'attend à ce que la chercheuse ou le chercheur reste à côté de son affiche pour la commenter et discuter.
+
+    -   Les visiteurs se baladent d'affiches en affiches et s'arrêtent s'ils sont intéressés.
+
+    -   Aussi : dans les couloirs d'un département universitaire ou de la bibliothèque.
+
+-   L'affiche est un outil de communication visuel contenant des blocs de texte concis et surtout des images ou des graphiques.
+
+-   Objectifs : présenter des résultats, expliquer une méthode de recherche en cours, décrire un service, un outil ou un projet.
+
+### Éléments essentiels
+
+-   Avant de commencer : mettre sur papier l'objectif de votre présentation.
+
+#### Titre
+
+-   Assez gros pour être lu de loin (à plus de 3m).
+
+-   Une seule ligne.
+
+-   Pas de sous-titre si possible.
+
+-   Police grasse, lisible.
+
+-   Explicite et accrocheur. Mots-clés bien choisis : sujets, méthode.
+
+-   Pas tout en majuscules. Seulement majuscules au début des phrases.
+
+#### Auteurs
+
+-   Nom des personnes ayant contribué à la recherche
+
+-   \+ les affiliations de chacun
+
+-   \+ les informations de contact
+
+#### Résumé 
+
+-   Discutable, car l'affiche est censée être un résumé.
+
+#### Introduction
+
+-   Présenter la problématique.
+
+-   Expliquer brièvement le contexte, le cadre théorique, les principaux concepts ou les courants de pensée dominants.
+
+#### Méthode
+
+-   Expliquer la méthode utilisée.
+
+-   n= ?
+
+-   Durée de la recherche.
+
+-   Détailler la manière dont les analyses ont été conduites.
+
+#### Résultats
+
+-   Présenter les résultats.
+
+-   Énoncer les limites.
+
+#### Conclusion
+
+-   Pourquoi est-ce intéressant ? Un message fort, court et clair.
+
+-   Recherches futures.
+
+#### Références bibliographiques
+
+-   Sélection des principales études utilisées dans l'affiche et la recherche.
+
+-   Peut être rédigé en tout petit.
+
+#### Remerciements
+
+-   Lister les personnes et/ou institutions à remercier. Voire pourquoi et pour quel rôle.
+
+-   Peut être rédigé en tout petit.
+
+### Ergonomie visuelle
+
+#### Graphisme
+
+-   Jouer avec les polices de caractères :
+
+    -   Italiques ou soulignement, mais surtout utilisation du gras pour mettre en valeur les termes clés ou les idées clés.
+
+    -   Arial ou Helvetica (ou n'importe sans sérif, ie. sans empattement)
+
+    -   Ne pas utiliser plus de 2 polices de caractères différentes.
+
+    -   Tailles: Titre = 108 points. Sous-titre = 72 points. Texte standard = 36 points. Texte secondaire = 18 points.
+
+-   Principes généraux : une affiche doit être
+
+    -   simple (moins de 1000 mots),
+
+    -   aérée (mettre du vide, 11 mots par ligne maximum),
+
+    -   équilibrée (regardez-la de loin),
+
+    -   concise (pas trop de détail, dans le doute coupez),
+
+    -   lisible (utiliser des puces plutôt que les blocs de texte),
+
+    -   dynamique (compréhensible du premier regard, depuis les images jusqu'au texte).
+
+-   Choisir une palette de couleurs adaptées <https://www.w3schools.com/Colors/colors_palettes.asp>.
+
+    -   Optionnel : s'habiller en accord avec la palette des couleurs.
+
+    -   Ne pas utiliser les couleurs pour mettre en valeur (certains ne perçoivent pas les couleurs de la même manière).
+
+    -   Pas trop de couleurs, un camaïeux \> arc-en-ciel
+
+    -   Fond blanc ou pâle.
+
+-   Graphiques :
+
+    -   Légende et étiquettes des axes obligatoires.
+
+    -   Pas de 3D
+
+    -   Pas de quadrillage, fonds, encadrés, etc.
+
+-   Images :
+
+    -   Bordure fine discrète.
+
+    -   Bonne résolution.
+
+    -   Logo UdeM : avez-vous le droit de l'utiliser ? si oui en bas à droite en respectant les consignes <http://www.bcrp.umontreal.ca/guide-normes/> <https://brandpad.io/umontreal.ca/>.
+
+        -   Idem pour les logos des autres institutions pertinentes.
+
+    -   Avez-vous les droits d'auteur de toutes les images que vous utilisez sur l'affiche ? Voir p. .
+
+### Vous préparer
+
+-   Avoir votre badge avec votre nom / institution.
+
+-   Avoir des cartes d'affaire/ carte de visite.
+
+-   Avoir une pile d'impressions réduites (lettre ou A4) de votre affiche.
+
+-   Soyez prêt aux imprévus : des punaises pour accrocher, un stylo pour corriger, demander si le support est fourni ou pas (affiche dure ou papier).
+
+-   Quels sont les droits d'auteur ou licences CC que vous voulez mettre sur votre affiche ? Voir p. .
+
+### Diffuser votre affiche après sa présentation
+
+-   Certains départements de l'UdeM ont une section Travaux étudiants dans le dépôt institutionnel Papyrus.
+
+-   Dans les couloirs de votre département.
+
+-   Portfolio UdeM.
+
+-   Sur votre blogue de recherche.
+
+-   Internet Archives (avec votre compte).
+
+### Logiciels recommandés
+
+-   Logiciels libres facile :
+
+    -   LibreOffice Impress <https://fr.libreoffice.org/discover/impress/>.
+
+        -   Diapo \> Propriétés de la diapo \> Format: Utilisateur. Largeur = 121 cm, hauteur = 91 cm (ou autre).
+
+    -   ou mieux LibreOffice Draw <https://fr.libreoffice.org/discover/draw/>.
+
+-   Logiciels libres avancé :
+
+    -   Scribus <https://www.scribus.net/>.
+
+-   Logiciels pas libres :
+
+    -   Modèle MS PowerPoint .pptx de l'APA <https://convention.apa.org/blog/rethinking-the-science-poster>.
+
+    -   MS Publisher.

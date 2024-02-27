@@ -1,0 +1,113 @@
+# Stratégies de sauvegarde durable {#sec-sauvegardedurable}
+
+-   Pourquoi ?
+
+    -   Parce qu'il existe beaucoup de manières de **perdre ses données** de recherche (vol, virus informatique, rançonciel, incendie, inondation, perte, corruption de fichier, mauvaise manipulation, tempête solaire, onde électromagnétique, etc.).
+
+    -   Parce que ça arrive plus **souvent** qu'on ne le croit.
+
+    -   Parce qu'avec quelques stratégies simples de sauvegarde (*backup*), on **élimine 99,9% des risques**.
+
+    -   Pour progresser dans votre recherche de manière assurée et avec **moins de stress**.
+
+    -   Pour vous prendre soin de vos données et ainsi leur donner de la **valeur**.
+
+## OneDrive UdeM
+
+-   Pourquoi l'installer ?
+
+    -   Pour avoir un programme qui synchronise le système de fichier sur votre ordinateur et dans l'infonuage.
+
+    -   Pour partager des documents collaboratifs.
+
+    -   Il est recommandé d'utiliser OneDrive UdeM (1 To = 1024 Go). On peut également utiliser OneDrive personnel (5 Go) en même temps sur un même ordinateur.
+
+-   [Comment ? \[15min.\]]{style="color: purple"}
+
+    -   [3 façons d'accéder à OneDrive :]{style="color: purple"}
+
+        -   [dans l'application OneDrive de l'ordinateur]{style="color: purple"} [<https://bib.umontreal.ca/travailler/soutien-informatique/office-365>: ☐]{style="color: purple"}
+
+        -   [en ligne par l'interface web]{style="color: purple"} [<http://o365.umontreal.ca/>]{style="color: purple"}
+
+        -   [à partir du logiciel MS Word]{style="color: purple"} [Fichier \> Ouvrir \> OneDrive - Université de Montréal]{style="color: purple"}
+
+    -   [Règles d'inactivation pour étudiant.e en fin d'études : 30 jours après un abandon ou après diplomation. Un avis d'inactivation est envoyé à \@umontreal.ca. À vous de récupérer toutes les données avant la fermeture de ce service.]{style="color: purple"}
+
+## [Grouper et sauvegarder \[1h\]]{style="color: purple"}
+
+-   [**Grouper**tous vos dossiers/fichiers reliés à votre recherche dans**un dossier maître**nommé`/MaRecherche`.]{style="color: purple"}
+
+    -   [Tout se trouve dans un seul endroit. Ainsi, c'est facile à déplacer, à compresser et à repérer. De plus, certains logiciels fonctionnent mieux avec une stabilité de la position des dossiers et des fichiers sur votre ordinateur. Mettez dedans :]{style="color: purple"}
+
+        -   [Votre base Zotero]{style="color: purple"} [<https://www.zotero.org/support/zotero_data>. ☐]{style="color: purple"}
+
+        -   [Vos données de recherche (images, tableaux). ☐]{style="color: purple"}
+
+        -   [Vos textes du mémoire ou de votre thèse. ☐]{style="color: purple"}
+
+-   [**Une fois par semaine**, compresser le dossier maître`/MaRecherche`en un fichier`MaRecherche2023MMJJ.zip`]{style="color: purple"} [`MMJJ`est la date : mois et jour.avec le logiciel 7-zip et déposer ce fichier dans un dossier`/archives`de OneDrive UdeM]{style="color: purple"} [Voir plus loin pour installer le logiciel 7-zip et OneDrive UdeM.. ☐]{style="color: purple"}
+
+-   [**Une fois par mois**, déposer aussi ce fichier dans un 2e endroit (différent de OneDrive et différent de chez vous). C'est votre plan B si OneDrive a un problème.]{style="color: purple"}
+
+    -   [Exemples : une clé USB laissée dans votre laboratoire, un autre infonuage, etc.☐]{style="color: purple"}
+
+-   [Dans vos outils, créer une**notification**hebdomadaire ☐ et une notification mensuelle ☐ pour vous rappeler de faire les sauvegardes (les vendredis en après-midi, c'est bien).]{style="color: purple"}
+
+## [Versionnage et nommage :]{style="color: purple"}
+
+-   [«**Versionnage**» : chaque fois que vous modifiez un document, créez une copie renommée avec la date du jour. C'est cette copie que vous modifierez aujourd'hui.☐]{style="color: purple"}
+
+    -   [Gardez les**versions antérieures**.]{style="color: purple"}
+
+        -   [Mettre la date avant le nom du fichier si votre dossier contient beaucoup de versions du même fichier.]{style="color: purple"}
+
+        -   [Mettre la date après le nom du fichier si votre dossier contient plusieurs fichiers de noms différents.]{style="color: purple"}
+
+        -   [Optionnel : dans chaque répertoire, créez un sous-répertoire nommé`Archives`pour verser les anciennes versions et ne pas encombrer le dossier principal (qui du coup, ne contient que les fichiers actifs récents).]{style="color: purple"}
+
+-   [**Compressez**pour emboîter plusieurs fichiers et dossiers dans un seul fichier (voir ci-dessous).]{style="color: purple"}
+
+-   [**Bien nommez vos fichiers**:]{style="color: purple"}
+
+    -   [Pas d'espace.]{style="color: purple"}
+
+    -   [Pas d'accent.]{style="color: purple"}
+
+    -   [Pas de caractères spéciaux sauf`-_.`: trait d'union, caractère souligné, point]{style="color: purple"}
+
+        -   [Exemple d'utilisation de majuscules : MaThesePascalMartinolliChapitre4.txt]{style="color: purple"}
+
+        -   [Exemple d'utilisation de trait de soulignement : Ma_these_Pascal_Martinolli_chapitre_4.txt]{style="color: purple"}
+
+    -   [N'oubliez pas d'écrire l'extension du fichier (ex: .docx, .pdf) et de ne pas la masquer dans votre système d'exploitation.]{style="color: purple"}
+
+    -   [Choisissez un nom qui traversera le temps et qui sera évocateur du contenu.]{style="color: purple"}
+
+-   [Préférez les**formats de fichiers ouverts**: PDF/A, TXT, TEX, HTML, MD, XML, ODF, RTF, EPUB, SVG, CSV, PNG, etc.]{style="color: purple"} [voir p. ). Ce sont des formats plus pérennes, plus robustes et mieux compatibles entre différents systèmes ou programmes.]{style="color: purple"}
+
+-   [Pour aller plus loin :]{style="color: purple"}
+
+    -   [Archivage avancé]{style="color: purple"} [voir p...]{style="color: purple"}
+
+    -   [Gestion des données de recherche]{style="color: purple"} [voir p. ..]{style="color: purple"}
+
+## 7-zip : logiciel d'archivage ☐
+
+-   Pourquoi l'installer ?
+
+    -   Pour mettre des dossiers et des fichiers « dans une boîte » (un fichier d'archivage).
+
+        -   Pour archiver des versions anciennes en quelques clics et ne pas les confondre avec les fichiers actifs.
+
+        -   Pour les compresser et gagner un peu de place électronique.
+
+    -   Parce que le logiciel d'archivage par défaut dans les systèmes d'exploitation Windows est insuffisant. Par exemple, il ignore certains fichiers ou dossiers dont le nom contient des caractères rejetés.
+
+    -   Pour ouvrir un fichier d'archivage.
+
+-   [Comment ? \[15min.\]]{style="color: purple"}
+
+    -   [Pour Windows et Linux :**installer 7-zip**]{style="color: purple"} [<https://www.7-zip.org/>, logiciel gratuit. ☐]{style="color: purple"}
+
+    -   [Pour MacOS : le logiciel par défaut du système est suffisant]{style="color: purple"} [<https://support.apple.com/fr-ca/guide/mac-help/mchlp2528/mac>.]{style="color: purple"}

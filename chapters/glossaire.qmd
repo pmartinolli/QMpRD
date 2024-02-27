@@ -1,0 +1,229 @@
+# Glossaire
+
+-   **Actes de colloque ou de congrès** : monographie publiant les présentations faites lors d'un colloque ou d'un congrès.
+
+-   **Agrégateur de fil RSS** : outils sous la forme de logiciel ou de service en ligne permettant de collecter des alertes au format RSS.
+
+-   **Alerte** (*alert*) : requête automatique envoyant une information ciblée à la personne qui l'a créé pour faire de la veille sur un sujet.
+
+-   ***APC*** (*Authors processing charges*) : souvent les revues universitaires demandent des frais de publication. Les revues prédatrices aussi.
+
+-   **Article de données** (*data paper*) : article principalement constitué de données de recherche.
+
+-   **Article de revue de littérature** : voir revue de littérature.
+
+-   **Auteur de correspondance** (*Corresponding author*) : Contributeur d'une étude à contacter. Souvent l'auteur principal ou le reponsable.
+
+-   **Auto-plagiat** (*autoplagiarism*) : faire un travail et recevoir deux récompenses.
+
+-   **Base de connaissance** (*knowledge base*, *knowledge graph*) : base de données dont les éléments sont liés les uns aux autres. Wikidata est un exemple.
+
+-   **Base de données** (*database*) : outil informatique contenant des enregistrements structurés en champs. Interrogeable avec un moteur de recherche plus ou moins sophistiqué.
+
+-   **Base de données bibliographiques** (*bibliographic database*) : base de données qui contient des enregistrements de description de documents. Elles contiennent rarement le texte intégral du document (ce qui les opposent aux bases de données de texte intégral).
+
+-   **Base de données de texte intégral** : base de données qui contient des enregistrements de description de document ET le texte intégral de ces documents. Les bases de données d'articles de journaux quotidiens sont ce type.
+
+-   ***Be visible or vanish*** (« être visible ou disparaître ») : expression (parfois mise en parallèle au *Publish or perish*) dénonçant le fait qu'un chercheur doive promouvoir sa recherche dans les médias.
+
+-   **Bibliodiversité** : valeur promouvant une recherche et une dissémination de la recherche en plusieurs langues et selon plusieurs formats.
+
+-   **Bibliographie** (*bibliography*) : ensemble des documents ayant servi à produire une recherche sur un sujet.
+
+-   **Blogue** (*blog*) : site web publiant des informations consécutives sur un sujet ou plusieurs sujets. Parfois utilisé par les chercheurs pour documenter leurs recherches et leurs parcours sous la forme d'un journal en ligne.
+
+-   **BLSH** : Bibliothèque des lettres et sciences humaines (et des sciences sociales) de l'Université de Montréal. On y trouve la tanière de l'auteur de ce manuel.
+
+-   ***Bullshit*** (en français : balivernes?) : affirmer quelque chose sans se soucier si c'est vrai ou si c'est faux. Différent de mensonge.
+
+-   **Catalogue** : liste des éléments (des documents le plus souvent) possédés par une institution.
+
+-   **Champ** (*field*) : case ou zone d'information contenant un seul type de contenu (ex: titre, résumé, mots-clés, auteur, URL, etc.).
+
+-   **Citation exacte** (*quotation*) : morceau de texte extrait d'un document et encadré de guillemets.
+
+-   **Citation abrégée** (ou appel de citation, ou *in-text citation*) : mention d'une source dans le texte, sous la forme (auteur-date) ou note de bas de page ou numéro.
+
+-   **Communs** : ressources partagées et gérées collectivement par une communauté. Issus du concept de bien commun.
+
+-   **Consensus** **scientifique** : S'il existe, c'est l'ensemble des plus hauts degrés de certitude scientifique sur un sujet précis. Parfois explicite dans des documents (comme les rapports du GIEC), parfois plus difficile à repérer. C'est une notion à utiliser avec précaution car elle peut renvoyer l'idée implicite et simplicatrice d'une vérité unique, unanime, homogène et stable. Il vaut mieux la remplacer par « les courants de pensées dominants dans une discipline ou sur un sujet », ou bien « les résultats de la recherche communément admis par la communauté des chercheurs sur ce sujet ».
+
+-   ***Contract cheating*** : faire exécuter son travail par quelqu'un d'autre. Forme de plagiat.
+
+-   **Colloque** ou **congrès** ou **conférence** (*colloquium*, *congress*, *conference*) : événement où se rencontrent des chercheuses et des chercheurs pour partager leurs recherches en cours et recevoir de la rétroaction de leurs collègues. Les présentations sont parfois publiées sous la forme d'actes de colloque ou d'actes de congrès).
+
+-   ***Data paper*** : voir article de données.
+
+-   **Déclaration de San Francisco sur l'évaluation de la recherche** : *The San Francisco Declaration on Research Assessment* (DoRA ou DoRAssessment).
+
+-   **Désherbage** (*weeding*) : terme de bibliothécaire indiquant une élimination régulière et raisonnée d'une collection de livre (principalement pour faire de la place aux nouveaux livres).
+
+-   **Document vivant**, ou document dynamique (*living document*) : document souvent en ligne, en constante modification, selon des règles, par une personne ou une institution ou une communauté. Voir *Record of versions*. Ce manuel est un document vivant.
+
+-   **Éditeur** (*editor*) : personne responsable d'une publication, travaillant pour une maison d'édition ou une revue.
+
+-   **Épirevue** (*overlay journal*) : revue à comité de lecture sélectionnant et diffusant des recherches prépubliées ailleurs (souvent dans des dépôts de *preprints*).
+
+-   **Équation de recherche** (*search query*) : combinaison de mots-clés et d'opérateurs booléens, appliquée dans un moteur de recherche d'une base de données. Quasi-synonyme de requête documentaire.
+
+-   **Étude de la portée** (*scoping review*) : Type de revue de littérature. Synthèse de l'ensemble des concepts associés à un sujet, souvent préparatoire à une revue systématique.
+
+-   **État des connaissances** : Type de revue de littérature.
+
+-   **Facette** : catégorie affichée dans une liste de résultats permettant de filtrer les résultats selon cette catégorie (année de publication, type de document, etc.)
+
+-   **FAIR** : Acronyme pour **F**acile à trouver, **A**ccessible, **I**nteropérable et que les informations peuvent être facilement exportées et **R**éutilisées.
+
+-   **Glossaire** (*glossary*) : Vous êtes dedans.
+
+-   **Hallucination** : terme anthropomorphisant les LLMs pour décrire leur faculté à inventer des faits et rédiger des balivernes.
+
+-   **Helsinki (initiative de)** (*Helsinki Initiative*) : Recommandations pour une recherche plus multilingue et bibliodiversifiée. Réaction au Facteur d'impact.
+
+-   **Index** : liste contrôlée d'éléments avec indication de leur emplacement.
+
+-   **Identifiant pérenne** (ou identifiant persistant, ou *persistent identifier*, ou PID) : identifiant unique, un code numérique ou alphanumérique utilisé par une institution stable pour définir une entité. Ex: DOI, ORCID, ISBN, ISSN, ROR, etc.
+
+-   **Intelligence articifielle** (IA, *artificial intelligence*, *AI*) : raccourci et mot-étiquette pour signaler qu'un programme informatique est gros et puissant\... mais pas intelligent.
+
+-   **ISBN** : numéro d'identifiant unique de livre (en fait un par édition, donc un livre pourrait avoir plusieurs ISBN). Codé en ISBN-13 ou ISBN-10.
+
+-   **ISSN** : numéro d'identifiant unique de périodique (il peut y en avoir un pour l'imprimé et un différent pour l'électronique).
+
+-   **Jeu de données** (*data set*) : ensemble de données de recherche, avec fichiers d'accompagnement (fichier readme et dictionnaire des données).
+
+-   ***Journal*** (revue de type universitaire). Voir revue universitaire.
+
+-   **Journée d'étude** : série de présentations, moins gros et ambitieux qu'un colloque ou un congrès.
+
+-   ***Large language model*** : voir modèle de langage.
+
+-   **Liste de références** (*reference list*) : bibliographie finale ne sélectionnant que les références citées dans le texte qui la précéde.
+
+-   **Livre** (*book*) : Un document sur un sujet, rédigé par un ou plusieurs auteur.es et publié par une maison d'édition. Peut être réimprimé. Peut être réédité en plusieurs éditions (2e édition, 3e édition, etc.) en cas de révisions majeures.
+
+-   ***LLM*** : voir modèle de langage.
+
+-   **Magazine** : périodique de périodicité hebdomadaire ou mensuelle ou autre. Souvent avec un objectif professionnel ou de vulgarisation ou de divertissement.
+
+-   **Maison d'édition** (*publisher*) : institution en charge de publier des documents. Son éditeur est le responsable de ce qui est publié.
+
+-   **Markdown** : Format (.md) de balisage léger de fichier texte pour les rendre plus lisible (niveaux de titres, listes, liens, notes de bas de pages, etc.).
+
+-   **Marqueur** (*tag*) : voir mot-clé.
+
+-   ***Mapping tool*** : (ou *citation mapping tool*) dit « outil de cartographie ». Permet de repérer, de collecter et d'afficher un ensemble d'articles liés par des citations.
+
+-   **Méta analyse** (*meta-analysis*) : Synthèse raisonnée et méthodique de plusieurs études sélectionnées pour répondre à une question de recherche ciblée. Produit un très haut niveau de certitude scientifique sur un sujet.
+
+-   **Moteur (métamoteur) de recherche du web** (*search engine*) : un moteur de recherche qui référence un grand nombre de pages web mondiales. Exemples : Google, Bing, Duckduckgo, etc.
+
+-   **Micropublication** : type de diffusion de recherche qui (habituellement) ne compte pas dans la carrière d'un chercheur. Cela comprend : les billets de blogue, les travaux étudiants, les codes source partagés, les résultats préliminaires, les manuels ou les guides méthodologiques, etc.
+
+-   **Modèle de langage** (*Large Language Model,* *LLM*) : ensemble de données textuelles, de poids statistiques et de procédures permettant de prédire un enchaînement de mots.
+
+-   **Moissonné** : Un moteur de recherche envoie des robots parcourir des pages web pour les indexer et les incorporer à sa propre base de données pour faire des recherches.
+
+-   **Monographie** (*monograph*) : synonyme de livre ou de de rapport, ou de thèse, ou de mémoire, etc. Bref, ce sont tous les documents qui traitent d'un sujet en un seul document. Il peut y avoir plusieurs volumes si le document est très gros.
+
+-   **Mot-clé** (*keyword*) : mot ou groupe de mots qui sert à lancer une recherche ou qui sert à décrire un contenu.
+
+-   **Moteur de recherche** (*search engine*) : outil informatique utilisant une équation de recherche plus ou moins avancée pour l'appliquer à une base de données et afficher des résultats pertinents.
+
+-   **MS** : abréviation pour la compagnie Microsoft. Exemple : MS Word pour Microsoft Word.
+
+-   **Obsidian.md** : logiciel non libre (mais gratuit pour une utilisation personnelle) de prise de notes liées.
+
+-   **Opérateur booléen** (*boolean operator*) : clé pour combiner des mots-clés dans une requête documentaire : AND OR NOT
+
+-   **Opérateur logique** : voir opérateur booléen.
+
+-   **ORCID** : identifiant unique de chercheuse ou de chercheur.
+
+-   **Outil de cartographie de l'information** : voir *Mapping tool.*
+
+-   **PageRank** de Google: Plus une page web est citée, plus elle a de poids. De plus, elle reçoit un poids supplémentaire si les pages qui la citent sont beaucoup citées. Créé par Larry Page (d'où le nom) pour améliorer les résultats de Google avec un succès colossal.
+
+-   **Paraplagiarisme** (*paraplagiarism*) : faire une paraphrase sans citer la source.
+
+-   **Pairs** \[révision par les\] (*peer*) : une chercheuse ou un chercheur qui est expert.e du sujet
+
+-   **Périodique** (*periodical*) : document qui contient des articles et qui paraît selon une certaine périodicité : journal ou quotidien, revue scientifique, magazine, bulletin professionnel, données statistiques mensuelles ou annuelles, etc.
+
+-   ***Pearl growing*** (aka *snowballing*): méthode de recherche de document en utilisant les bibliographies et les citations.
+
+-   ***PID*** : *Persistent Identifier*. Voir identifiant pérenne.
+
+-   **Plagiat** (*plagiarism*) : voir p. .
+
+-   **Plan de gestion de données de recherche** (PGD, *data research management plan*, *DRMP*) : un outil pour penser et expliciter comment ses jeux de données sont utilisés et diffusés.
+
+-   **Plateforme** : service en ligne comme une base de données, un répertoire d'identifiants, un dépôt de documents, etc.
+
+-   ***Postprint*** : version d'une étude, révisée par les pairs et acceptée après modifications. Cette version suit la version *preprint*.
+
+-   ***Poster*** : Affiche de grand format exposée dans un événement.
+
+-   **Prépublication (*preprint*)** : version d'une étude non révisée par les pairs ou en cours de révision. L'étape suivante est *postprint*.
+
+-   ***Prompt*** : commande d'un utilisateur pour soumettre des informations à un outil de LLM comme ChatGPT.
+
+-   ***Proxy*** : Passerelle informatique pour vous authentifier quand vous êtes connecté hors campus et que vous voulez bénéficier des abonnements aux bases de données, libres et revues électroniques souscrits par l'UdeM.
+
+-   **PubPeer** : plateforme permettant de commenter (anonymement ou pas) des articles publiés, souvent pour relever leurs limites, leurs erreurs, leurs fraudes.
+
+-   ***Pubprint*** : version finale de l'article après révision par les pairs et mise en page par l'éditeur.
+
+-   ***Publish or perish*** (« publier ou périr ») : expression du milieu de la recherche universitaire dénonçant la pression à la publication pour débuter une carrière ou la construire.
+
+-   **Quotidien**, ou journal (*newspaper*) : périodique dont l'objectif est d'informer sur l'actualité.
+
+-   **Réconciliation** (*reconciling*) : aligner des données existantes avec des identifiants d'une autre base de données. Wikidata est un outil-phare pour cette méthode.
+
+-   ***Record of versions*** : comprendre un travail comme une continuité de versions différentes, d'éditions, d'additions et de corrections. Proche de document vivant.
+
+-   **Reproductible** (*reproductibility*) : valeur attribuée à une recherche qui est suffisamment détaillée (méthode, résultats) pour qu'elle soit reproductible. Signale une qualité des résultats d'une recherche.
+
+-   **Requête documentaire** (*query*) : une recherche informatique avec des mots-clés et des opérateurs (équation de recherche), plus des limites, des filtres, des tris, etc.
+
+-   **Ressource éducative libre** (**REL**) (*open educational ressource, OER*): document ou ensemble de documents pédagogiques, avec une licence de libre accès et de libre réutilisation.
+
+-   **Révision par les pairs**, ou revue arbitrée (*peer-review*, ou *refereeing*) : processus de sélection, de critique et d'amélioration avant la publication d'un article dit « scientifique ». Implique l'éditeur de la revue scientifique ainsi qu'un groupe de réviseurs, aussi appelés les « pairs » (traduction de *peer-review*).
+
+-   **Revue systématique**, ou revue systématique de littéature (*systematic review*) : Type de revue de littérature très avancée et ambitieuse dans le volume de travail et de méthodes rigoureuses investies.
+
+-   **Revue de la littérature**, ou revue critique de la littérature (*review article*, *literature review*) : Article révisé par les pairs qui contient une sélection et une synthèse d'autres articles et d'études.
+
+-   **Revue universitaire** (revue académique, revue scientifique, *journal*) : périodique dont quelques numéros sont publiés chaque années, souvent chaque année forme un volume. Très souvent, l'éditeur de la revue décide publier un article après un processus de révision par les pairs.
+
+-   **ROR** : fournisseur d'identifiant unique d'institutions.
+
+-   **RSS** : Technique d'abonnement à des fils d'information sur certains site web qui la propose. Doit être collecté dans un agrégateur de fil RSS.
+
+-   ***Seminal paper*** (papier ou article fondateur, séminal, ou précurseur) : étude qui a fait date dans un domaine. Souvent beaucoup citée.
+
+-   ***Snowballing*** : voir *pearl growing*.
+
+-   **Style bibliographique** (*bibliographic style*) : manière de mettre en forme votre texte, vos citations exactes, vos citations abrégées et votre bibliographie ou liste de références finale.
+
+-   **Syllabus** : plan de cours.
+
+-   **Table des matières** (*table of contents*) : liste des chapitres ou des parties d'une monographie, habituellement au tout début ou à la toute fin du document.
+
+-   **Thésaurus** (*thesaurus*) : liste contrôlée de mots-clés pour indexer des documents dans une base de données. Remplace presque le travail sur les synonymes puisque si on trouve le mot qui correspond à notre sujet de recherche on est quasiment garanti de repérer presque tous les documents sur ce sujet.
+
+-   **Veille** : Action de créer, de collecter, de traiter et de redistribuer des alertes sur des sujets ciblés.
+
+-   ***Version of record*** (*pubprint*) : version finale diffusée. Notion débattue car opposée au document vivant ou d'éditions multiples (*record of versions*).
+
+-   **Voie diamant** (*diamond OA*, *platinium OA*) : publication dans une revue à révision par les pairs pour laquelle vous ne payez rien, c'est une institution qui paye la note.
+
+-   **Voie dorée** (*gold OA*) : publication dans une revue à révision par les pairs pour laquelle vous payez un supplément pour être diffusé immédiatement en libre accès. Attention aux prédateurs.
+
+-   **Voie hybride** (*hybrid OA*) : une publication qui contient des articles en accès libre et des articles en accès abonné.
+
+-   **Voie verte** (*green OA*): publication dans une revue à révision par les pairs pour laquelle vous payez et dont vous pouvez déposer une version acceptée (*postprint*) dans un dépôt institutionnel pour y donner gratuitement un libre accès.
+
+-   **Wikidata** : base de connaissances d'éléments liés. Très utile pour aligner des données existantes avec des identifiants pérennes.
+
+-   **Zotero** : logiciel de gestion bibliographique pour automatiquement créer des citations abrégées et des bibliographies / listes de références selon un style bibliographique choisi. Permet aussi de trier, classer et annoter ses lectures.

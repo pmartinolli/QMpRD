@@ -1,0 +1,63 @@
+# Zotero pour collecter la documentation {#sec-zoterocollecter}
+
+-   Préalable : avoir installé Zotero selon les paramètres indiqué (voir @sec-zoteroinstaller).
+-   Principes généraux :
+    -   Savoir collecter automatiquement des notices, principalement avec le connecteur Zotero.
+    -   Savoir ajouter manuellement des notices.
+    -   Prendre des notes indépendantes.
+
+## Importation
+
+### Avec le connecteur Zotero
+
+-   C'est la **méthode principale** et la plus simple.
+-   Rappel: le connecteur est une **extension** que vous installez dans votre navigateur (Firefox, Chrome, Safari, Edge).
+-   La plupart du temps, le connecte fonctionne si vous êtes dans un catalogue d'université, une base de données universitaire, un dépôt institutionnel, sur la page d'un article scientifique, etc.
+    -   Comment je sais si cela fonctionne ? Il faut que l'apparence du connecteur soit autre chose que l'icône standard (un Z gris la première fois, puis un livre, un article, un chapeau de diplômé, etc.). Dans Chrome, il faut aussi « épingler » (*pin*) l'extension car l'installer ne suffit pas à la rendre visible.
+
+#### Exercice pratique
+
+-   Lancez le programme Zotero. Avec votre navigateur, lancez une recherche dans Sofia <https://umontreal.on.worldcat.org/discovery>
+-   Attendez que la page ait finie de se charger.
+-   Le connecteur devrait prendre l'apparence d'un dossier jaune.
+    -   Cliquez dessus. Une fenêtre apparaît (*Zotero item selector*) : sélectionnez en lot plusieurs notices à envoyer dans Zotero. Puis OK.
+    -   Les notices sélectionnées arrivent dans Zotero sous la forme de notices bibliographiques séquencées selon titre, auteur, année, etc.
+
+### En saisissant les informations manuellement
+
+-   Zotero \> Cliquez sur le + vert, puis choisissez quel est le type de document.
+-   Ensuite, dans la zone de droite, remplissez les champs pertinents de la notice bibliographique (onglet Info).
+
+#### Astuce : Créer une notice de chapitre de livre
+
+-   Pourquoi ? Créer directement une notice de chapitre de livre ou d'une entrée d'encyclopédie à partir d'une référence en ligne et du connecteur est rarement disponible. Alors on créé une notice du livre ou de l'encyclopédie et, à partir de celle-ci, on créé un chapitre/entrée.
+-   Comment ?
+    -   Option 1 : Créez la notice du livre. Clic-droit sur la notice \> Dupliquer le document. Changer le type du nouveau document pour : Chapitre de livre (ou article d'encyclopédie).
+    -   Option 2 (avec l'extension Zutilo, activez l'option Créer une notice Chapitre de livre : menu contextuel de Zutilo) : Créez la notice du livre. Clic-droit sur la notice \> Zutilo \> Créer une notice Chapitre de livre. Un chapitre est créé et il est lié au livre avec l'option Connexe.
+-   Voir @sec-zoteroplus pour d'autres astuces d'importation.
+
+## Organisation minimale
+
+-   Voici un système d'organisation minimal basé sur la compartimentation des tâches et le classement.
+-   Créez deux collections (Ma Bibliothèque : clic-droit \> Nouvelle collection) :
+    -   Une collection nommée `À évaluer`
+    -   Une collection nommée `MaRecherche`
+-   En sélectionnant la collection `À évaluer`, toutes les nouvelles notices qui arrivent dans Zotero vont se placer **en raccourci** dans cette collection (en plus d'apparaître dans Ma Bibliothèque où se trouve chaque notice unique).
+    -   Récupérez plusieurs notices. Observez qu'elles se placent bien dans la collection `À évaluer` et dans Ma Bibliothèque.
+    -   Dans un deuxième temps (le lendemain, la semaine suivante, etc.), évaluez les notices qui se trouvent dans la collection `À évaluer`
+        -   Si le document est pertinent pour votre recheche : glissez-déposez-le dans la collection `MaRecherche`. Puis, faites un clic-droit sur la notice dans `À évaluer` et sélectionnez Retirer le document de la collection.
+        -   Si le document n'est pas pertinent, supprimez-le avec clic-droit et sélectionnez Mettre le document à la corbeille.
+-   Avec ce système simple, vous évitez d'exploser le nombre de notices dans votre base Zotero.
+-   De plus, vous séparez les tâches de récolte (frénétiques) et les les tâches d'évaluation (minutieuses).
+-   Nous verrons plus loin (@sec-zoteroorganiser) comment organiser sa bibliothèque Zotero de manière avancée .
+
+## Prendre des notes indépendantes dans Zotero
+
+-   Pourquoi ?
+    -   Pour avoir des notes et des listes dans le même outil que vos références.
+    -   Pour avoir son cahier de recherche intégré dans Zotero.
+-   Comment ?
+    -   Créez une collection de notes indépendantes. Clic-droit sur Ma Bibliothèque \> Nouvelle collection. Donnez un nom : `Historique` ou `Historique de recherche`
+    -   Dans cette collection, cliquez sur le post-it jaune \> Nouvelle note indépendante.
+    -   Rédigez une ou plusieurs notes.
+        -   Créez une note pour chaque liste que vous voulez créer, une note pour chaque outil exploré, etc.

@@ -1,0 +1,128 @@
+# Sources tertiaires et généralistes {#sec-sourcestertiaires}
+
+## Prenez des notes générales / Faites des listes
+
+-   Pour toutes les ressources de ce chapitre, prenez des notes générales et superficielles. Ne collecter que des « points d'accès » aux informations :
+    -   Cotes de classement ;
+    -   Titres des documents pertinents ;
+    -   Experts identifiés (ils reviennent souvent dans les documents, il y a des documents sur eux, etc.) ;
+    -   Listes de mots-clés sur votre sujet.
+-   Prenez ces notes et les listes dans un « cahier de recherche » du format qui vous est le plus confortable : papier, Zotero, Obsidian.md, etc. (voir @sec-cahierrecherche)
+
+## Guides disciplinaires des bibliothèques
+
+-   Les bibliothécaires disciplinaires ont constitué des portails de liens vers les ressources essentielles d'une discipline : des guides disciplinaires.
+-   Pourquoi ?
+    -   Pour éviter de se perdre dans des détails.
+    -   Pour ne pas passer à côté d'une ressource que tout le monde devrait connaître dans votre domaine.
+    -   Pour connaître le nom et les coordonnées du bibliothécaire que vous pouvez contacter en tout temps pour vous conseiller sur vos besoins d'information.
+-   Comment les utiliser ?
+    -   Sélectionner le **guide en ligne** de votre discipline <https://bib.umontreal.ca/explorer> \> Une fois la grande catégorie sélectionnée, cliquer sur le guide d'une discipline pertinente.
+        -   Prendre en note les coordonnées de votre bibliothécaire.
+        -   Consulter et parcourir toutes les sections (menu de gauche) au moins une fois.
+        -   Explorer les ressources pertinentes.
+    -   Dans votre cahier de recherche :
+        -   Lister les ressources explorées.
+        -   Noter leur intérêt par rapport à vos travaux (avec des +, des étoiles ou des cœurs cela suffit).
+    -   Si vous êtes un département servi par la BLSH, récupérez un **guide-éclair imprimé de votre discipline** sur les présentoirs du 2e étage de la BLSH.
+        -   Il contient les coordonnées du bibliothécaire disciplinaires, les cotes ou liens des principales encyclopédies spécialisées, une sélection de livres de base, où trouver les revues et les thèses dans le domaine, etc.
+
+## Encyclopédies spécialisées
+
+-   Pourquoi ?
+    -   Pour avoir des informations synthétiques, de qualité, citables, sur vos sujets de recherche.
+    -   Pour avoir une bonne vision d'ensemble d'un champ de recherche, de ses méthodes, des sujets connexes, des courants de pensées, des experts, etc.
+
+### En français : encyclopédies spécialisées surtout imprimées
+
+-   Si vous êtes en sciences sociales, lettres ou sciences humaines, l'essentiel des encyclopédies spécialisées en français sont au **format imprimé** (2022).
+-   Se rendre en personne à la BLSH, au 2e étage (étage de la référence).
+    -   Récupérer un guide-éclair disciplinaire en arrivant au 2e étage (juste après l'escalier). Il contient des ressources de base pour commencer une étude dans une discipline. Il y a une section sur les principales encyclopédies spécialisées recommandées.
+    -   Repérez les cotes de classement principales de votre discipline.
+        -   Une reproduction des principales cotes de classement par discipline est affichée sur certains murs et étagères de la bibliothèque. C'est la classification de la *Library of Congress*. Une version plus détaillée est consultable en ligne <http://www.loc.gov/catdir/cpso/lcco/>. Il existe aussi une forme complète sous la forme de bottins imprimés mais pour vos usages, normalement la forme résumée en ligne devrait suffire.
+        -   Noter les cotes de classement principales de votre discipline dans la case ci-dessous ou dans votre cahier de recherche.
+        -   Astuces: Ce n'est pas la peine de recopier tout l'arbre sémantique des cotes. N'indiquer que quelques cotes génériques (le codage des cotes est plus court), ou quelques cotes spécifiques, ou des intervalles de cotes.
+        -   Ne pas hésiter à demander de l'aide au bureau de la référence au centre du 2e étage de la BLSH.
+    -   Repérer et parcourir tous les ouvrages de références pertinents :
+        -   Se diriger vers les étagères hautes du 2e étage selon la ou les cotes de classement de votre discipline identifiées précédemment.
+        -   Parcourir les rayonnages qui contiennent les encyclopédies spécialisées sur votre sujet.
+        -   Fureter, feuilleter et parcourir les tables des matières et les index des encyclopédies pour identifier les entrées d'encyclopédie pertinentes à votre sujet (concepts, courants de pensée, chercheurs, historiques, événements remarquables, etc.).
+
+### En anglais : encyclopédies spécialisées surtout électroniques
+
+-   Utiliser l'outil de recherche Sofia des Bibliothèque de l'UdeM <https://bib.umontreal.ca/sofia>
+-   Lancer une recherche avec votre **discipline** et le code **GE:encyclo\***
+    -   Exemple : ``` sociologie GE:encyclo``*`` ```
+-   Si la recherche est peu concluante, essayer avec une troncature\* (voir @sec-operateurs) ou un autre thème.
+    -   Exemple: ``` sociolog``*`` GE:encyclo``* ``` ou bien ``` social``*`` GE:encyclo``*`` ``` ou bien ``` anthropolog``*`` GE:encyclo``* ```
+-   Si trop de résultats : limiter aux ouvrages imprimés ou numériques, ou les 10 ou 20 dernières années, ou par langue (menu de gauche).
+-   Fureter, feuilleter et parcourir les tables des matières et les index des encyclopédies pertinentes pour identifier les entrées d'encyclopédie proches de votre sujet.
+    -   Il n'a pas de base de données dédiée qui permet de **chercher directement les articles** de plusieurs encyclopédies différentes (sauf pour pour les grands ensembles comme *OHO* et *SRM*, voir prochaine section).
+    -   Donc, il faut d'abord repérer une encyclopédie, puis la feuilleter (on peut débuter en survolant la table des matières ou l'index pour avoir un aperçu des différents articles).
+
+## Manuels disciplinaires (*handbooks of...*)
+
+-   Pourquoi ? Un *handbook* est un manuel de base de haut niveau qui est reconnu dans une discipline et qui synthétise les notions essentielles à connaître.
+-   Comment ?
+    -   Consulter la liste des *Oxford Handbooks Online (OHO)* <https://www.oxfordhandbooks.com/>
+        -   Il est possible de repérer directement des articles par sujets.
+    -   Repérer d'autres *handbooks* :
+        -   Lancer une recherche dans Sofia sous la forme : chercher la **discipline** en anglais et **handbook\*** dans les titres.
+        -   Exemple : ``` ti:sociolog``*`` handbook``* ```
+        -   Limiter aux livres.
+
+## Bibliographies spécialisées
+
+-   Pourquoi ? Des expert.es reconnus ont peut être déjà constitué des bibliographies thématiques sur votre sujet. Parfois, ce sont de véritables mines d'or, soigneusement sélectionnées et commentées. C'est comme si vous preniez un café avec votre professeur.e sur votre sujet et que vous repartiez avec ses notes.
+-   Comment ? 
+    -   Consulter la liste des*Oxford Bibliographies Online*(*OBO*) <https://www.oxfordbibliographies.com/>
+    -   Lancer une recherche dans Sofia sous la forme : discipline et bibliograph\*.
+        -   Exemple :``` sociolog``*`` bibliograph``* ```
+        -   Limiter aux livres.
+    -   Si vous êtes en lettres et sciences humaines : fureter les bibliographies imprimées au 2e étage de la BLSH, cote de classement Z.
+
+## Ouvrages de méthodes de recherche
+
+-   Pourquoi ? Pour connaître les différentes méthodes utilisées pour mener des recherches : leurs forces, leurs limites, les logiciels adaptés, etc.
+-   Comment ? 
+    -   Consulter la liste des*SAGE Research Methods*(*SRM*) <https://methods.sagepub.com/>
+        -   SRM est une base de données sur la méthodologie de recherche en sciences sociales donnant accès au texte intégral d'une importante collection de dictionnaires, encyclopédies, manuels, articles et vidéos de l'éditeur SAGE.
+    -   Repérer d'autres ouvrages de méthodes.
+        -   Lancer une recherche dans Sofia sous la forme : discipline et method\*.
+        -   Exemple :``` sociolog``*`` method``* ```
+        -   Limiter aux livres.
+
+## Articles de revue de littérature
+
+-   Pourquoi ? Les articles de revue de littérature sont des synthèses d'autres articles scientifiques. Il en existe de plusieurs sortes : *literature review*, ou *review article*, ou *systematic review*, ou méta analyses, etc. Voir le chapitre sur les revues de littérature pour en savoir plus, p. ..
+-   Comment ?
+    -   Lancer des recherches dans des bases de données généralistes ou spécialisées en filtrant seulement les articles de revue de littérature \[2h\].
+    -   *Annual Review* <https://www.annualreviews.org/>: une base de données spécialisées en revues de littérature et des synthèses des principales avancées dans de nombreux domaines, appuyées sur des sources d'autorité.
+        -   Utilisez peu de mots-clés dans votre équation de recherche.
+        -   Exemple :``` violen``*`` video game``*`` ```pour repérer l'étude de Fergusson (2018) qui synthétise la recherche récente sur la controverse des jeux vidéo violents.
+    -   *Google Scholar* <https://scholar.google.com/>(généraliste):
+        -   Option 1 : Lancez une recherche avec votre sujet puis ajoutez le mot-clé`intitle:review`
+            -   Exemple :`gerontology dementia game intitle:review`
+        -   ou Option 2 : lancez une recherche avec votre sujet puis utiliser le filtre*Review Article*à gauche.
+    -   *Web of Science* <https://www.webofknowledge.com/>(généraliste) :
+        -   Lancer une recherche avec votre sujet puis utiliser le filtre*Review Article*à gauche.
+    -   Pour aller plus loin : repérer des articles de revue de littérature dans une base de données spécialisée
+        -   *PubMed*(médecine) : lancer une recherche avec votre sujet puis utiliser le filtre*Review Article + Review + Meta Analysis*à gauche.
+        -   *PsycInfo*(psychologie) : lancer une recherche avec votre sujet puis utiliser le filtre*Methodology - Literature review, systematic review, meta analysis, metasynthesis*
+        -   *ProQuest Research Library*(généraliste) : lancer une recherche avec votre sujet puis utiliser le filtre*Document Type: Literature review*
+        -   *Semantic Scholar*(généraliste) : lancer une recherche avec votre sujet puis utiliser le filtre*Publication Type - Review or Meta Analysis*
+        -   *ERIC*(éducation) : utiliser le thésaurus qui possède des sujets comme*Literature Reviews*, à combiner avec votre sujet.
+
+## Syllabus de cours universitaires
+
+-   Le site OpenSyllabus <https://www.opensyllabus.org/> recense beaucoup de plans de cours (*syllabus*) universitaires. De plus, il fait un comptage bibliométrique de chaque document mentionné en lecture obligatoire ou recommandée. C'est donc un bon indicateur pour savoir quels sont les travaux utiliséspar les enseignants pour étudier un sujet.
+-   Il est possible d'y faire une recherche par mots-clés dans les titres des documents. OpenSyllabus Explorer \> Title : choisir un mot-clé simple et lancer la recherche.
+
+## Encyclopédies généralistes
+
+-   Les encyclopédies généralistes sont des outils de **qualité variable selon les articles**. C'est-à-dire qu'une encyclopédie généraliste peut traiter très bien un sujet et très médiocrement un autre.
+    -   *Encyclopædia Universalis* <https://www.universalis.fr/>. En français.
+    -   *Encyclopedia Britannica* <https://www.britannica.com/>. En anglais.
+    -   *Wikipédia* <https://fr.wikipedia.org/>. Un portail de sources intéressantes et d'informations synthétiques MAIS à condition d'éviter deux écueils Pour en savoir plus, voir p.. :
+        -   la possibilité d'un traitement partiel ou inégal d'un sujet ;
+        -   la persistance d'erreurs non corrigées par la communauté des contributeurs.

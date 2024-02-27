@@ -1,0 +1,179 @@
+#  Zotero pour organiser la documentation {#sec-zoteroorganiser}
+
+-   Si vous avez des centaines ou des milliers de références dans votre bibliothèque Zotero, il faut penser à des manières de les organiser pour les retrouver Ce chapitre est basé sur un billet de blogue <https://zotero.hypotheses.org/3298>. Les 2 principales sont :
+
+    -   Les collections.
+
+    -   Les marqueurs.
+
+-   Il est possible d'avoir un système basé sur l'un, ou sur l'autre, ou sur les deux.
+
+-   Quelques recommandations :
+
+    -   Si vous avez **entre 50 et 300** références : vous pouvez utiliser surtout / uniquement des **collections**.
+
+    -   Si vous avez **plus de 300 références** : les collections ne vont pas suffire et il va falloir faire reposer l'essentiel de l'organisation thématique sur des **marqueurs** (tout en gardant une structure de collections simples).
+
+    -   Les **marqueurs** sont plus pérennes. Il est facile de croiser plusieurs marqueurs.
+
+    -   Les **collections** sont pratiques pour regrouper des documents par utilité (travaux en cours, projets, etc.) ou pour compartimenter sa base de références en grandes catégories (disciplinaires par exemple).
+
+###  Collections
+
+#### Comment ?
+
+-   [☐ Création :]{style="color: purple"}
+
+    -   [Clic-droit sur Ma Bibliothèque \> Nouvelle collection.]{style="color: purple"}
+
+        -   [Faire une sous-collection : Clic-droit sur une collection \> Nouvelle sous-collection]{style="color: purple"}
+
+        -   [Recommandation : ne pas créer de niveaux de sous-collections trop profonds.]{style="color: purple"}
+
+-   [☐ Manipulation : ]{style="color: purple"}
+
+    -   [Déplacer des notices dans les collections en les glissant-déposant. ]{style="color: purple"}
+
+        -   [Ainsi, des raccourcis (et non des doublons) sont créés.]{style="color: purple"}
+
+        -   [Inverse : clic-droit sur un document \> Retirer le document de la collection. Supprime le raccourci de la notice cette collection uniquement.]{style="color: purple"}
+
+    -   [Afficher toutes les notices dans les sous-collections sélectionnées : Affichage \> Afficher tous les documents des sous-collections.]{style="color: purple"}
+
+#### Astuces générales 
+
+-   [Créer ]{style="color: purple"}**[trois grandes collections]{style="color: purple"}**[ (avec les sous-collections suggérées) : ]{style="color: purple"}
+
+    -   [Une ]{style="color: purple"}**[collection ]{style="color: purple"}[`Méthodes`]{style="color: purple"}**[]{style="color: purple"} [J'ai appelé la mienne ]{style="color: purple"}[`ZotLog`]{style="color: purple"}[, pour Zotero + Log (journal de bord de navire). Pour en savoir plus : <https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/> ]{style="color: purple"}[ dont le but est de canaliser le flux des nouvelles notices qui arrivent dans votre bibliothèque Zotero. Sous-collections suggérées : ]{style="color: purple"}
+
+        -   [Historique de recherche]{style="color: purple"}
+
+        -   [À évaluer]{style="color: purple"}
+
+        -   [À lire d'urgence]{style="color: purple"}
+
+        -   [En cours de lecture]{style="color: purple"}
+
+        -   [À twitter]{style="color: purple"}
+
+        -   [Pas intéressant]{style="color: purple"}
+
+    -   [Une ]{style="color: purple"}**[collection thématique ]{style="color: purple"}**[`[``nom du thème``]`]{style="color: purple"}[ dont le but est de garder de manière durable les notices pertinentes pour votre recherche.]{style="color: purple"}
+
+        -   [Sous-collections suggérées : ]{style="color: purple"}[`[``nom du sous-thème 1``]`]{style="color: purple"}[,]{style="color: purple"}[` ``[``nom du sous-thème 2``]`]{style="color: purple"}[,]{style="color: purple"}[` ``[``nom du sous-thème 3``]`]{style="color: purple"}[, etc.]{style="color: purple"}
+
+        -   [Éviter trop de niveaux de profondeur.]{style="color: purple"}
+
+    -   [Une ]{style="color: purple"}**[collection ]{style="color: purple"}[`Projets`]{style="color: purple"}**[` `]{style="color: purple"}[dont le but est de regrouper des notices selon des projets transversaux ou temporaires ou autres. Exemples de sous-collections : ]{style="color: purple"}
+
+        -   [Conférence Machin2022]{style="color: purple"}
+
+        -   [Chapitre 7 de ma thèse]{style="color: purple"}
+
+        -   [Réunion du 2022-04-01]{style="color: purple"}
+
+        -   [Billet de blogue sur bidule, etc. ]{style="color: purple"}
+
+#### Pros & Cons des collections
+
+-   Pros : Facile à créer, à comprendre, à alimenter.
+
+-   Cons : Pas facile à combiner pour trouver des notices qui seraient dans plusieurs collections à la fois. C'est plus facile avec des marqueurs\...
+
+
+#### Utiliser un thesaurus personnel
+
+Voir @sec-thesaurus
+
+
+#### Indexation des documents de votre bibliothèque de références Zotero \[3h+\]
+
+-   Principes généraux :
+
+    -   La règle principale pour ajouter un marqueur est « **une personne cherchant avec ce marqueur sera-t-elle satisfaite de repérer ce document ?** ».
+
+        -   Cela permet de faire des choix pour des documents qui parle d'un thème-marqueur mais qui ne sont pas pertinents si on cherche de l'information à propos de ce thème-marqueur. Exemple : mon document parle d'oiseaux, mais si un jour je cherche des choses sur les oiseaux, ce document ne sera pas spécialement pertinent pour moi. Donc, je n'utilise pas le marqueur `oiseau`.
+
+    -   Plus une référence est importante dans votre corpus, plus elle devrait naturellement avoir beaucoup de marqueurs.
+
+        -   Si une référence est moyennement ou peu pertinente, il est normal qu'elle ait : peu de marqueurs, voire seulement des marqueurs très génériques.
+
+    -   Si vous avez un système de marqueurs à 2 niveaux (ex: `_sport` \> `_natation`) et si vous voulez indexer un terme spécifique (ex : `_natation`), alors il faut indexer avec les **marqueurs des deux niveaux** pour chaque référence (ex :` _sport` et `_natation`)
+
+-   [Commencez indexer vos références les plus importantes avec les marqueurs pertinents. \[1h\]]{style="color: purple"}
+
+-   [Continuez avec les références moins importantes. \[2h+\] ]{style="color: purple"}
+
+-   [Si besoin, on peut exporter toute la liste des marqueurs de votre bibliothèque Zotero dans un fichier externe : Installer l'extension Zutilo, puis aller à la racine de la Bibliothèque Zotero \> Sélectionner toutes les références \> Zutilo \> Copier les marqueurs dans le presse-papier. Ouvrir un logiciel éditeur de texte (comme Notepad++ par exemple) \> Coller. ]{style="color: purple"}
+
+-   Exemples, aide mémoire et fichiers modèles <https://github.com/pmartinolli/TM-MyThesaurus>.
+
+-   Une base de données Zotero utilisant ces principes <https://www.zotero.org/groups/446523>.
+
+### Rechercher
+
+-   Utiliser une ou plusieurs des méthodes ci-dessous.
+
+-   Cliquer sur les marqueurs dans le sélecteur de gauche pour filtrer la liste courante des références.
+
+-   Case de recherche en haut de la liste des références. Régler la recherche de mots clés libres dans 3 positions : titre + auteur, ou toute la notice avec les marqueurs, ou tout (ie. avec le contenu des PDFs et des notes).
+
+-   Loupe de recherche : recherche fine selon des champs précis.
+
+### Recherche enregistrée
+
+-   Dans le cas où vous faites souvent les mêmes recherches/filtres pour repérer des références.
+
+-   Clic-droit sur Ma Bibliothèque \> Nouvelle recherche enregistrée.
+
+    -   [Exemple : ]{style="color: purple"}*[À nettoyer devant la TV ]{style="color: purple"}*[: ]{style="color: purple"}
+
+    -   [Chercher dans la bibliothèque : Ma Bibliothèque]{style="color: purple"}
+
+    -   [Correspond : à toutes les conditions suivantes ]{style="color: purple"}
+
+    -   [Marqueurs : ne contient pas : ]{style="color: purple"}[`_nettoyé`]{style="color: purple"}[.]{style="color: purple"}
+
+    -   [Cocher Recherche dans les sous-collections et Ne montrer que les documents de niveaux supérieurs. ]{style="color: purple"}
+
+    -   Astuce : Très utile pour afficher toutes les références non vérifiées. Pourquoi « devant la TV » ? Parce que ce n'est pas une tâche très demandante et il vaut mieux le faire à un moment de la journée où vous avez moins d'attention à consacrer (le soir devant la TV). Les moments de la journée où vous êtes bien réveillé et bien motivé doivent être consacré à des tâches de type lecture, synthèse, etc.
+
+    -   Astuce : ne nettoyez que les références que vous voulez citer dans vos travaux. Ce n'est pas la peine de le faire pour les références de documents que vous ne citez pas (dans mon cas, c'est presque 90% de références non citées).
+
+### Connexe
+
+-   Possibilité de lier une référence à une autre. Exemples :
+
+    -   Une référence de chapitre à la référence du livre,
+
+    -   Un document et sa critique ou son compte rendu de lecture,
+
+    -   Plusieurs volumes d'une même série, etc.
+
+-   [Onglet Connexe : Ajouter + sélectionner un ou plusieurs documents. ]{style="color: purple"}
+
+-   Fragilité de cette structure : si vous exportez votre bibliothèque (en Zotero RDF) ou si vous les versez dans une bibliothèque de groupe, les liens connexes ne seront pas exportés.
+
+### Bonnes pratiques dans le cas d'une bibliothèque de groupe partagée
+
+-   Le thésaurus de vos marqueurs contrôlés va être encore plus important.
+
+    -   Quand on est seul, il sert à communiquer avec notre moi du futur. Quand on est en groupe, c'est comme une langue commune.
+
+    -   Choisir de créer ou de fusionner des marqueurs doit être une décision explicite faite par les participants.
+
+    -   Ne pas hésiter à commencer chaque réunion de travail du groupe par un survol des marqueurs utilisés (succès, pertinence, nouveaux candidats, etc.).
+
+-   Remplacer le marqueur `_lu` par un marqueur avec les initiales de chaque participants.
+
+    -   exemple : `=PM` pour Pascal Martinolli.
+
+-   Créer une collection pour les nouvelles références.
+
+    -   Mieux : créer une collection contenant des sous-collections mensuelles pour que l'on suive ce qui est rajouté au cours du temps.
+
+    -   Chaque nouvelle référence doit être signée par le participant qui l'a ajouté (exemple avec `=PM`).
+
+-   Créer une collection Candidats à la suppression.
+
+    -   Quand tout le monde est d'accord, les références dedans sont supprimées.
