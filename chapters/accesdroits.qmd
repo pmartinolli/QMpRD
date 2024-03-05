@@ -1,9 +1,11 @@
 # Accès et droits 
 
--   Ce manuel est téléchargeable librement à : <https://bib.umontreal.ca/multidisciplinaire/plu6058>. Il devrait être mis à jour régulièrement selon le principe du document vivant (*living document*).
+-   Ce manuel est téléchargeable librement à : <https://bib.umontreal.ca/multidisciplinaire/plu6058> ou <https://pmartinolli.github.io/QMpRD/>. Il devrait être mis à jour régulièrement selon le principe du document vivant (*living document*).
 
--   **CC BY-NC-SA 4.0** : Ce manuel est mis à disposition selon les termes de la Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International. <https://creativecommons.org/licenses/by-nc-sa/4.0/>
+- Suggestions de citation : 
 
-    -   Suggestion de citation : « \[blabla bla\] est basé sur le *Manuel pratique de recherche documentaire*, de Pascal Martinolli et collaborations, 2022-2024, 4e édition, Université de Montréal, https://bib.umontreal.ca/multidisciplinaire/plu6058 »
+    - Si vous reprenez du contenu, indiquez quelque part dans votre document « \[mon document\] est basé sur le *Manuel pratique de recherche documentaire pour le séminaire PLU6058*, de Pascal Martinolli et collaborations, 2022-2024, 4e édition, Université de Montréal, https://pmartinolli.github.io/QMpRD/, licencié [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).»
 
--   La version 4 de ce manuel est rédigée avec la série de logiciels libres R Studio et Quarto dans le langage de balisage R Markdown. Vous pouvez facilement reprendre son contenu à l'adresse ci-dessus et l'adapter à vos programmes d'études. En plus de nous citer, merci de nous envoyer votre version à (pascal \[point\] martinolli \[à\] umontreal \[point\] ca). Ça nous fait toujours plaisir.
+    - Citation universtaire : Martinolli, Pascal, et collaborations. (2024). *Manuel pratique de recherche documentaire pour le séminaire PLU6058*. https://pmartinolli.github.io/QMpRD/
+
+-   La version 4 de ce manuel est rédigée avec la série de logiciels libres R Studio et Quarto dans le langage de balisage R Markdown. Vous pouvez facilement reprendre son contenu à https://github.com/pmartinolli/QMpRD et l'adapter à vos besoins. En plus de nous citer, merci de nous envoyer votre version à (pascal \[point\] martinolli \[à\] umontreal \[point\] ca). Ça nous fait toujours plaisir.

@@ -1,17 +1,19 @@
-#### Résumé
+### Statut {.unnumbered}
 
-Ce manuel est principalement conçu pour accompagner le séminaire PLU6058, qui vise à améliorer les compétences informationnelles des étudiants des cycles supérieurs de l'Université de Montréal. Cependant, il peut également être utilisé de manière autonome et autodidacte pour la recherche et l'utilisation de la documentation dans le cadre d'un projet de recherche. En outre, il peut être utilisé comme une ressource éducative par les enseignants en bibliothèque de recherche.
+- Version 4.0 (Quarto). 
+- Le statut de ce manuel est « document de travail en cours de rédaction » ou « document vivant ». 
+- Il est licencié [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-#### Statut
-
-Version 4.0. Le statut de ce manuel est « document de travail en cours de rédaction » ou « document vivant ». Il est licencié CC BY-NC-SA 4.0.
-
-#### Version PDF
+### Version PDF {.unnumbered}
 
 Télécharger tout le manuel en PDF à <https://pmartinolli.github.io/QMpRD/Manuel-pratique-de-recherche-documentaire.pdf>
+
+### Citer ce document {.unnumbered}
+
+Suggestion : si vous reprenez du contenu, indiquez quelque part dans votre document « \[mon document\] est basé sur le *Manuel pratique de recherche documentaire pour le séminaire PLU6058*, de Pascal Martinolli et collaborations, 2022-2024, 4e édition, Université de Montréal, <https://pmartinolli.github.io/QMpRD/>, licencié [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). »
 
 ------------------------------------------------------------------------
 
 « – Bibliothécaire ! mon cher Watson. Grâce aux méthodes du PLU6058, nous gagnons un temps précieux sur toutes nos recherches ! » (Citation apocryphe)
 
-![Illustration par Sidney Paget pour The Adventure of Silver Blaze, une nouvelle de Sherlock Holmes et du Docteur Watson, par Sir Arthur Conan Doyle, dans The Strand Magazine de décembre 1892. Image dans le domaine public, diffusée par Wikimedia Commons.](images/SherlockHolmes-bySidneyPaget-for-TheAdventureofSilverBlaze.jpg){fig-alt="Sherlock Holmes et le Docteur Watson discutant dans une cabine de train." fig-align="center" width="300"}
+![Illustration de Sidney Paget pour The Adventure of Silver Blaze, une nouvelle de Sherlock Holmes et du Docteur Watson, de Sir Arthur Conan Doyle, dans The Strand Magazine de décembre 1892. Image dans le domaine public, diffusée par Wikimedia Commons.](images/SherlockHolmes-bySidneyPaget-for-TheAdventureofSilverBlaze.jpg){fig-alt="Sherlock Holmes et le Docteur Watson discutant dans une cabine de train." fig-align="center" width="300"}

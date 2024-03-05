@@ -3,40 +3,30 @@
 ## Pourquoi ?
 
 -   Pour influencer les moteurs de recherche du web si on **cherche votre nom** avec un moteur de recherche du web (pour une application sur un poste ou pour un financement ou si une autre personne est intéressée par vos travaux)
-
 -   Pour se démarquer « à la marge » en cas de candidatures égales.
-
 -   Pour se démarquer d'une masse de candidats.
-
 -   Pour **signaler des valeurs** de transparence, d'ouverture, de clarté, de précision, d'exhaustivité ou de sélection, de traçabilité, d'honnêteté, d'attribution, de responsabilité ou d'imputabilité... Bref des valeurs des sciences et de la recherche !
-
 -   Pour afficher explicitement vos conflits d'intérêts ou vos liens d'intérêts.
-
 -   **Pour faciliter votre évaluation**, pour ne pas ralentir les collaborations et pour ne pas susciter de doute, vous allez gérer votre réputation numérique en parallèle des réseaux sociaux traditionnels.
-
 -   Pour faire votre « auto-bibliographie »[^identitenumerique-1].
 
 [^identitenumerique-1]: On parle aussi de « reconstruction d'identité en ligne » (*online identity reconstruction*) pour définir l'ensemble de ces stratégies de promotion qui consistent à sélectionner, de ignorer ou supprimer des informations sur soi.
 
 ## Comment ?
 
-1.  **Créer des profils** sur des plateformes stratégiques **sélectionnées** selon vos besoins.
-
+1.  **Créer des profils** sur des plateformes **sélectionnées** selon vos besoins.
+    -   ORCID principalement ;
+    -   Google Scholar est aussi conseillé ;
+    -   Autres selon vos domaines.
 2.  **Tisser des liens** entre ces plateformes pour renforcer votre poids dans le calcul des **algorithmes** de recommandation des moteurs de recherche du web.
 
-## [Exercice préparatoire]{style="color: purple"}
+## Exercice préparatoire
 
--   [Mettez-vous dans la peau d'un.e professeur.e qui évalue une de vos demandes de bourse et qui lance une recherche Google avec votre nom.]{style="color: purple"} [Ouvrez le moteur de recherche Google]{style="color: purple"} [<https://www.google.com> et lancez des recherches avec votre :]{style="color: purple"}
-
-    -   [`Prénom Nom`]{style="color: purple"}
-
-    -   [`Prénom Nom`]{style="color: purple"}
-
-    -   [exemple avancé :`Pascal Martinolli OR Martinolli, Pascal`]{style="color: purple"} [^identitenumerique-2]
-
--   [Les résultats reflètent-ils qui vous êtes, vos recherches, vos réussites ? Avec suffisamment de précision ? Si vous voulez améliorer ça, ce chapitre est pour vous.]{style="color: purple"}
-
--   [Notez qu'il faut quelques mois pour que le travail sur votre identité numérique modifie l'ordre des résultats de recherche dans Google, Bing et autres.]{style="color: purple"}
+-   Mettez-vous dans la peau d'un.e professeur.e qui évalue une de vos demandes de bourse et qui lance une recherche Google avec votre nom. Ouvrez le moteur de recherche Google <https://www.google.com> et lancez des recherches avec votre :
+    -   `Prénom Nom`
+    -   exemple avancé : `"Pascal Martinolli" OR "Martinolli, Pascal"` [^identitenumerique-2]
+-   Les résultats reflètent-ils qui vous êtes, vos recherches, vos réussites ? Avec suffisamment de précision ? Si vous voulez améliorer ça, ce chapitre est pour vous.
+-   Notez qu'il faut quelques mois pour que le travail sur votre identité numérique modifie l'ordre des résultats de recherche dans Google, Bing et autres.
 
 [^identitenumerique-2]: La syntaxe de ces recherches avec des guillemets et des OR est expliquée au @sec-operateurs
 
@@ -44,67 +34,75 @@
 
 ### Page départementale
 
--   Depuis le site web de votre Département, demandez à avoir une page, ou un paragraphe, ou même tout simplement votre nom dans une liste (étudiants en doctorat, etc.)...
+-   Avoir un lien depuis le site web de votre Département est un excellent atout : il légitime et valide qui vous êtes et il a un gros « poids » pour les algorithmes (donc il a beaucoup de chance de se retrouver en tête de résultats)
 
--   **... avec au moins un lien URL** vers un profil de votre choix (ORCID par exemple).
+    -   Demandez à votre département d'avoir une page, ou un paragraphe, ou même tout simplement votre nom dans une liste (étudiants en doctorat, etc.)
 
-### ORCID <https://orcid.org/>
+    -   **... avec au moins un lien URL** vers un profil de votre choix (ORCID par exemple).
 
--   Pourquoi ?
-    -   ORCID est devenu l'**identifiant pérenne** de chercheuse et de chercheur le plus utilisé à ce jour. Il vous suit toute votre carrière, même si vous changez de courriel ou d'institution.
+### ORCID 
+
+#### Pourquoi ?
+
+-   [ORCID](https://orcid.org/) est devenu l'**identifiant pérenne** de chercheuse et de chercheur le plus utilisé à ce jour. Il vous suit toute votre carrière, même si vous changez de courriel ou d'institution.
     -   C'est un **identifiant unique** avec une possibilité de **curriculum vitae** plus ou moins complet en ligne.
     -   Il **désambiguïse** les noms, donc améliore l'attribution de vos publications et de leurs citations.
-    -   Il est formé de 16 chiffres `0000-0000-0000-0000`
-    -   ORCID est FAIR, c'est-à-dire qu'il est **F**acile à trouver, **A**ccessible, **I**nteropérable et que les informations peuvent être facilement exportées et **R**éutilisées.
-        -   Il est géré par un organisme non-gouvernemental pérenne constitué de divers acteurs du monde de la publication scientifique (universités, maisons d'édition, etc.).
-        -   Il est en accès libre à tous.
-        -   Il est gratuit.
-    -   On peut régler les informations en public, semi-privé ou privé.
-    -   Toute personne travaillant pour la recherche et son administration, pour l'érudition ou pour l'innovation peut se créer un identifiant ORCID.
+-   Il est formé de 16 chiffres `0000-0000-0000-0000`
+-   ORCID est FAIR, c'est-à-dire qu'il est **F**acile à trouver, **A**ccessible, **I**nteropérable et que les informations peuvent être facilement exportées et **R**éutilisées.
+-   Il est géré par un organisme non-gouvernemental pérenne constitué de divers acteurs du monde de la publication scientifique (universités, maisons d'édition, etc.).
+-   Il est en accès libre à tous.
+-   Il est gratuit.
+-   On peut régler les informations en public, semi-privé ou privé.
+-   Toute personne travaillant pour la recherche et son administration, pour l'érudition ou pour l'innovation peut se créer un identifiant ORCID.
 
-#### [Comment ? \[1h\]]{style="color: purple"}
+#### Comment ?
 
--   [*Sign In / Register*\>*Personal Account*. Langue : Français.]{style="color: purple"}
--   [Description minimale (pour désambiguer votre nom/ identité) :]{style="color: purple"}
-    -   [Nom complet \[et autres noms\]]{style="color: purple"}
-    -   [Formations et qualifications (au moins la plus haute)]{style="color: purple"}
-    -   [Emploi ou statut actuel]{style="color: purple"}
-    -   [Si vous ne voulez pas tout faire dans ORCID : ajouter un lien web vers un profil plus complet]{style="color: purple"}
--   [Pour un CV complet, complétez avec :]{style="color: purple"}
-    -   [Informations diverses : Sites web et liens sociaux (voir métaprofil plus bas), mots-clés,*pays*.]{style="color: purple"}
-    -   [Vos publications (Travaux).]{style="color: purple"}
-        -   [Il est possible d'importer un fichier BibTeX ou de récupérer vos informations à partir de nombreuses ressources liées comme Base Search. Demandez de l'aide à votre bibliothécaire disciplinaire.]{style="color: purple"}
-        -   [Vos présentations, vos billets de blogue notables, vos articles de magazine, vos codes sources, etc.]{style="color: purple"}
-    -   [Biographie : quelques phrases en français puis en anglais vous décrivant, vos projets actuels et vos objectifs.]{style="color: purple"}
-    -   [Adhésion et service : association, sociétés savantes, organisation de congrès ou de journée d'étude, réviseur pour une revue, etc.]{style="color: purple"}
-    -   [Vos Financement, etc.]{style="color: purple"}
+1.  [*Sign In / Register*](https://orcid.org/)\> *Personal Account*. Langue : Français.
+2.  Description minimale (pour désambiguer votre nom/ identité) :
+    -   Nom complet \[et autres noms\]
+    -   Formations et qualifications (au moins la plus haute)
+    -   Emploi ou statut actuel
+    -   Si vous ne voulez pas tout faire dans ORCID : ajouter un lien web vers un profil plus complet sur une autre plateforme.
+3.  Pour un CV complet, complétez avec :
+    -   Informations diverses : Sites web et liens sociaux (voir métaprofil plus bas), mots-clés,*pays*.
+    -   Vos publications (Travaux).
+        -   Il est possible d'importer un fichier BibTeX ou de récupérer vos informations à partir de nombreuses ressources liées comme Base Search. Demandez de l'aide à votre bibliothécaire disciplinaire.
+        -   Vos présentations, vos billets de blogue notables, vos articles de magazine, vos codes sources, etc.
+    -   Biographie : quelques phrases en français puis en anglais vous décrivant, vos projets actuels et vos objectifs.
+    -   Adhésion et service : association, sociétés savantes, organisation de congrès ou de journée d'étude, réviseur pour une revue, etc.
+    -   Vos Financement, etc.
 
 ### Google Scholar ID :
 
--   Pourquoi ?
-    -   Pour **réclamer vos publications** qui apparaissent dans Google Scholar
-    -   Pour **suivre qui vous cite**.
-    -   Assez populaire mais en circuit fermé. Gratuit. Pas de publicité. Accès libre au profil Voir tous les chercheurs ayant validé leurs profils avec un courriel \@umontreal.ca : <https://scholar.google.com/citations?view_op=search_authors&mauthors=umontreal.ca>.
-    -   Plus gros ensemble de travaux scientifiques en ligne (en 2023).
-    -   Effort minime.
-    -   Pour vos articles révisés par les pairs mais aussi les rapports, la littérature grise, les conférences, les affiches de conférence, etc. Si un document se trouve dans le dépôt Papyrus, il sera automatiquement moissonné par Google Scholar dans les deux semaines qui suivent son dépôt.
-    -   Il est aussi possible de créer un profil Google Scholar pour une unité de recherche, un laboratoire, etc Ce n'est pas courant mais ça existe. Exemple : <https://scholar.google.ca/citations?hl=en&user=bIu8p48AAAAJ>.
+#### Pourquoi ?
 
-#### [Comment ? \[15min.\]]{style="color: purple"}
+-   Pour **réclamer vos publications** qui apparaissent dans Google Scholar
+-   Pour **suivre qui vous cite**.
+-   Assez populaire mais en circuit fermé. Gratuit. Pas de publicité. Accès libre au profil[^identitenumerique-3].
+-   Plus gros ensemble de travaux scientifiques en ligne (en 2023).
+-   Effort minime.
+-   Pour vos articles révisés par les pairs mais aussi les rapports, la littérature grise, les conférences, les affiches de conférence, etc. Si un document se trouve dans le dépôt Papyrus, il sera automatiquement moissonné par Google Scholar dans les deux semaines qui suivent son dépôt.
+-   Il est aussi possible de créer un profil Google Scholar pour une unité de recherche, un laboratoire, etc. [^identitenumerique-4]
 
--   [Ayez un compte Google et connectez-vous avec celui-ci, puis rendez-vous sur Google Scholar]{style="color: purple"} [<https://scholar.google.com/>puis *My profile*.]{style="color: purple"}
--   [Cliquez sur le bouton *Edit*(crayon) à droite de votre nom.]{style="color: purple"}
-    -   [Saisissez votre courriel institutionnel \@umontreal.ca et validez-le.]{style="color: purple"}
-    -   [Affiliation : nom de votre unité (département, laboratoire, etc.), suivi de : Université de Montréal.]{style="color: purple"}
-    -   [Domaines d'intérêt : mots-clés thématiques de vos recherches, séparés par des virgules.]{style="color: purple"}
-    -   [Page d'accueil : vers votre ORCID par exemple.]{style="color: purple"}
-    -   [Cochez Rendre mon profil public.]{style="color: purple"}
-    -   [Réclamez des publications : Bouton + puis Ajouter des articles.]{style="color: purple"}
-        -   [Choisissez d'ajouter les articles (*Add articles*; puis *Add articles manually*pour ceux qui ne sont pas dans Google Scholar).]{style="color: purple"}
-        -   [*Configure articles updates*\> cocher *Don't automatically update my profile. Send me email to review and confirm updates.*]{style="color: purple"}
-        -   [Attention aux personnes qui ont le même nom que vous.]{style="color: purple"}
-        -   [Vous n'êtes pas obligé de tout choisir (exemple: vous pouvez choisir d'ignorer les bulletins de nouvelles, les éditoriaux, les comptes-rendus de lecture, etc.).]{style="color: purple"}
-        -   [Il est possible de fusionner des références qui existeraient en doublon dans Google Scholar]{style="color: purple"} [<https://harzing.com/blog/2021/09/how-to-keep-your-google-scholar-profile-clean>.]{style="color: purple"} [ Abonnez-vous à vous-même en cliquant sur *Follows*\> cocher *New citations to my articles.*]{style="color: purple"}
+[^identitenumerique-3]: Voir tous les chercheurs ayant validé leurs profils avec un courriel [\@umontreal.ca](https://scholar.google.com/citations?view_op=search_authors&mauthors=umontreal.ca)
+
+[^identitenumerique-4]: Ce n'est pas courant mais ça existe. Exemple : <https://scholar.google.ca/citations?hl=en&user=bIu8p48AAAAJ>
+
+#### Comment ? 
+
+-   Ayez un compte Google et connectez-vous avec celui-ci, puis rendez-vous sur [Google Scholar](https://scholar.google.com/) puis *My profile*.
+-   Cliquez sur le bouton *Edit* (crayon) à droite de votre nom.
+    -   Saisissez votre courriel institutionnel \@umontreal.ca et validez-le.
+    -   Affiliation : nom de votre unité (département, laboratoire, etc.), suivi de : Université de Montréal.
+    -   Domaines d'intérêt : mots-clés thématiques de vos recherches, séparés par des virgules.
+    -   Page d'accueil : vers votre ORCID par exemple.
+    -   Cochez Rendre mon profil public.
+    -   Réclamez des publications : Bouton + puis Ajouter des articles.
+        -   Choisissez d'ajouter les articles (*Add articles*; puis *Add articles manually*pour ceux qui ne sont pas dans Google Scholar).
+        -   *Configure articles updates*\> cocher *Don't automatically update my profile. Send me email to review and confirm updates.*
+        -   Attention aux personnes qui ont le même nom que vous.
+        -   Vous n'êtes pas obligé de tout choisir (exemple: vous pouvez choisir d'ignorer les bulletins de nouvelles, les éditoriaux, les comptes-rendus de lecture, etc.).
+        -   Il est possible de fusionner des références qui existeraient en doublon dans Google Scholar <https://harzing.com/blog/2021/09/how-to-keep-your-google-scholar-profile-clean>. Abonnez-vous à vous-même en cliquant sur *Follows* \> cocher *New citations to my articles.*
 
 ## Avoir une stratégie de « métaprofil »
 
@@ -114,15 +112,15 @@
     -   Pour **rediriger** la navigation web des autres chercheuses et chercheurs qui visiteraient vos autres profils dans d'autres plateformes.
     -   Pour n'avoir qu'une page à **mettre à jour** régulièrement et de manière exhaustive.
 
-### [Comment ? \[1h\]]{style="color: purple"}
+### Comment ? 
 
--   [Parmi toutes les pages de vos profils en ligne, choisissez-en une qui va devenir votre métaprofil.]{style="color: purple"}
-    -   [Elle devrait avoir l'information la plus **à jour** et la plus **complète**.]{style="color: purple"}
-    -   [Elle devrait avoir une **URL pérenne, stable**, simple et courte.]{style="color: purple"}
--   [Suggestions :]{style="color: purple"}
-    -   [La page de votre identifiant ORCID est un bon choix.]{style="color: purple"}
-    -   [Une page sur un outil UdeM est aussi un bon choix (voir OpenUM et Portfolio plus bas).]{style="color: purple"}
--   [Ensuite, pour chaque profil créé dans d'autres plateformes, vous remarquez qu'il y a souvent un champ pour mettre une URL de site web : utilisez l'URL de votre métaprofil.]{style="color: purple"}
+-   Parmi toutes les pages de vos profils en ligne, choisissez-en une qui va devenir votre métaprofil.
+    -   Elle devrait avoir l'information la plus **à jour** et la plus **complète**.
+    -   Elle devrait avoir une **URL pérenne, stable**, simple et courte.
+-   Suggestions :
+    -   La page de votre identifiant ORCID est un bon choix.
+    -   Une page sur un outil UdeM est aussi un bon choix (voir OpenUM et Portfolio plus bas).
+-   Ensuite, pour chaque profil créé dans d'autres plateformes, vous remarquez qu'il y a souvent un champ pour mettre une URL de site web : utilisez l'URL de votre métaprofil.
 
 ## Autres stratégies
 
@@ -130,63 +128,62 @@
 
 -   Pourquoi ?
     -   Pour avoir plus de contrôle sur la mise en forme d'un site et sur son contenu.
--   [Comment ?]{style="color: purple"}
-    -   [Choisissez une plateforme **pérenne** et sans publicité.]{style="color: purple"}
-        -   [Exemple : une plateforme de blogue, etc.]{style="color: purple"}
-    -   [Suggestions pour les étudiants de l'Université de Montréal :]{style="color: purple"}
-        -   [Créer une page avec Portfolio UdeM ([Exemple](https://portfolio.umontreal.ca/user/view.php?id=22220)]{style="color: purple"}) [. Grâce à la politique d'accès des diplômés UdeM. vous conserverez un accès en écriture au Portfolio, même quand vous ne serez plus étudiant.e et après votre diplomation. De plus, l'URL contient umontreal.ca, qui a un grand poid dans le PageRank de Google, ce qui devrait pousser ce résultat dans les premières pages de résultats.]{style="color: purple"}
-        -   [*Créer un site avec les services de OpenUM ? (attente de confirmation si l'offre est ouverte aux étudiants).*]{style="color: purple"}
+-   Comment ?
+    -   Choisissez une plateforme **pérenne** et sans publicité.
+        -   Exemple : une plateforme de blogue, etc.
+    -   Suggestions pour les étudiants de l'Université de Montréal :
+        -   Créer une page avec Portfolio UdeM ([Exemple](https://portfolio.umontreal.ca/user/view.php?id=22220)) . Grâce à la politique d'accès des diplômés UdeM. vous conserverez un accès en écriture au Portfolio, même quand vous ne serez plus étudiant.e et après votre diplomation. De plus, l'URL contient umontreal.ca, qui a un grand poid dans le PageRank de Google, ce qui devrait pousser ce résultat dans les premières pages de résultats.
+        -   *Créer un site avec les services de OpenUM ? (attente de confirmation si l'offre est ouverte aux étudiants).*
 
 ### Optionnel : autres identifiants de recherche
 
 -   Les services **Publons** et l'identifiant **ResearcherID** de Web of Science ont été fusionné dans un service *Web of Science researcher profile*.
-    -   [Ayez le proxy fonctionnel ou soyez connecté depuis les Bibliothèques UdeM.]{style="color: purple"}
-    -   [Connectez vous à ]{style="color: purple"}[Web of Science](https://www.webofscience.com) [ puis *Sign In*\> Utilisez votre ORCID pour vous connecter. Cliquez sur votre nom \>*My Profile*:*My researcher profile*.]{style="color: purple"}
+    -   Ayez le proxy fonctionnel ou soyez connecté depuis les Bibliothèques UdeM.
+    -   Connectez vous à [Web of Science](https://www.webofscience.com) puis *Sign In*\> Utilisez votre ORCID pour vous connecter. Cliquez sur votre nom \> *My Profile*:*My researcher profile*.
 -   [idHAL](https://halshs.archives-ouvertes.fr/), si vous avez au moins une publication dans HAL.
     -   Pour qui ? Surtout pour les chercheuses et chercheurs de France.
-    -   [Connexion avec votre ORCID, puis associez ou créez un idHAL.]{style="color: purple"}
-    -   [Possibilité d'avoir un curriculum vitae avec ]{style="color: purple"}[cvHAL](https://cv.archives-ouvertes.fr/).
+    -   Connexion avec votre ORCID, puis associez ou créez un idHAL.
+    -   Possibilité d'avoir un curriculum vitae avec [cvHAL](https://cv.archives-ouvertes.fr/).
 -   Identifiant **Wikidata**
-    -   Voir p. pour indexer votre profil dans Wikidata et y aligner vos identifiants pérennes.
+    -   Voir @sec-wikipourlarecherche pour indexer votre profil dans Wikidata et y aligner vos identifiants pérennes.
 -   Et **Wikipédia** ? Au contraire de Wikidata, il est très très mal vu de rédiger sa propre page Wikipédia. Si vous voulez une page Wikipédia à votre nom, assurez-vous d'avoir une [notoriété](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Notori%C3%A9t%C3%A9_des_personnes#Scientifiques,_universitaires) suffisante et de faire rédiger la page par des personnes tierces qui auront déclarés leurs conflits d'intérêt.
 
 ### Optionnel : créer des redirections
 
 -   Dans l'esprit de la stratégie « métaprofil ».
--   [Sur des sites institutionnels : votre département, votre laboratoire, votre centre de recherche, etc.]{style="color: purple"}
--   [Sur des sites commerciaux de profils. Créer une page unique gratuite redirigeant vers votre métaprofil et vos autres plateformes]{style="color: purple"} ([LinkTree](https://linktr.ee/) [ou]{style="color: purple"}[Wheretofindme](https://wheretofind.me/))
+-   Sur des sites institutionnels : votre département, votre laboratoire, votre centre de recherche, etc.
+-   Sur des sites commerciaux de profils. Créer une page unique gratuite redirigeant vers votre métaprofil et vos autres plateformes ([LinkTree](https://linktr.ee/) ou[Wheretofindme](https://wheretofind.me/))
 
 ### Optionnel : réseautage professionnel ou universitaire
 
 -   [LinkedIn](https://ca.linkedin.com/) :
     -   Pour faire du réseautage professionnel (CV en ligne, contacts, billets courts ou articles longs).
         -   Dans certains milieux de la recherche, c'est un outil de réseautage pertinent (service de soins de santé, éducation-ludification, etc.).
--   [X/Twitter](https://twitter.com) :
-    -   Pour s'abonner à des flux d'information et redistribuer les plus intéressants voir p..
--   [ResearchGate](https://www.researchgate.net/) :
-    -   Réseautage académique.
-    -   Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
--   [Academia.edu](https://www.academia.edu/):
+-   X/Twitter, Bluesky, Mastodon,... :
+    -   Pour s'abonner à des flux d'information et redistribuer les plus intéressants (voir @sec-microbloguer).
+-   [ResearchGate](https://www.researchgate.net/) et [Academia.edu](https://www.academia.edu/) :
     -   Réseautage académique.
     -   Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
     -   Risque de sollicitations par courriel fréquentes (pour vous et vos co-auteurs).
 
 ### Optionnel : promouvoir sa recherche
 
-Voir p. .
+Voir @sec-promouvoir.
 
-## [Se tenir à jour et veiller sur ses profils]{style="color: purple"}
+## Se tenir à jour et veiller sur ses profils
 
--   [Au moins une fois par trimestre, allez faire un tour sur votre métaprofil et vérifiez s'il est à jour. ]{style="color: purple"}
--   [Au moins une fois par année, allez faire un tour sur chacun de vos profils sur les plateformes en ligne. ]{style="color: purple"}
-    -   [Optionnel : faites une recherche dans Google avec votre nom comme précédemment pour vérifier que des éditeurs prédateurs n'ont pas mis votre nom sur des faux comités scientifiques à votre insu]{style="color: purple"} [voir p..]{style="color: purple"}
-    -   [Optionnel : créer une alerte dans Google Alerts]{style="color: purple"} [<https://www.google.com/alerts>sur votre nom. Exemple`Pascal Martinolli OR Martinolli, Pascal`]{style="color: purple"}
--   [Si possible, dans les plateformes qui offrent cette fonction, créez une alerte pour recevoir des notifications sur les documents qui vous citent ou citent vos travaux.]{style="color: purple"}
-    -   [Exemple : l'option *Follow*dans Google Scholar.]{style="color: purple"}
+-   Au moins une fois par trimestre, allez faire un tour sur votre métaprofil et vérifiez s'il est à jour.
+-   Au moins une fois par année, allez faire un tour sur chacun de vos profils sur les plateformes en ligne.
+    -   Optionnel : faites une recherche dans Google avec votre nom comme précédemment pour vérifier que des éditeurs prédateurs n'ont pas mis votre nom sur des faux comités scientifiques à votre insu (voir les éditeurs prédateurs @sec-predateurs).
+    -   Optionnel : créer une alerte dans Google Alerts <https://www.google.com/alerts> sur votre nom. Exemple `"Pascal Martinolli" OR "Martinolli, Pascal"`
+-   Si possible, dans les plateformes qui offrent cette fonction, créez une alerte pour recevoir des notifications sur les documents qui vous citent ou citent vos travaux.
+    -   Exemple : l'option *Follow* dans Google Scholar.
+-   En savoir plus sur les alertes : voir @sec-alertes.
 
-## [Signatures]{style="color: purple"}
+## Signatures
 
--   [Utiliser un lien vers votre page de « métaprofil » :]{style="color: purple"}
-    -   [Dans vos signatures de courriel. ]{style="color: purple"}
-    -   [Dans vos diapositives finales de présentations. ]{style="color: purple"}
-    -   [Dans vos commentaires sur les réseaux sociaux. ]{style="color: purple"}
+-   Utiliser un lien vers votre page de « métaprofil » :
+    -   Dans vos signatures de courriel.
+    -   Dans vos diapositives finales de présentations.
+    -   Dans vos commentaires sur les réseaux sociaux.
+    -   Dans vos publications, vos micropublications, vos prépublications, etc.

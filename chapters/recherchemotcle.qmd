@@ -18,7 +18,7 @@
 
 ## Utiliser un minimum de mots
 
--   **Plus vous saisissez de mots** dans une case de recherche**, moins vous aurez de résultats**.
+-   **Plus vous saisissez de mots** dans une case de recherche, **moins vous aurez de résultats**.
     -   C'est un peu contre-intuitif, non ? En effet, quand un humain pose une question à un autre humain, plus il formule sa demande avec beaucoup d'informations, plus l'autre humain va être capable de comprendre la question et d'y répondre de manière adaptée.
     -   Mais quand on parle à une machine, c'est presque l'inverse de parler à un humain. Plus on ajoute des choses, moins la machine va nous renvoyer de résultats.
     -   Ainsi, la plupart des moteurs de recherche vont renvoyer une liste de résultats où chaque résultat doit contenir tous les mots exigés.

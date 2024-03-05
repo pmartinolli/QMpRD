@@ -33,8 +33,9 @@
 -   Pourquoi ?
     -   Pour éditer des fichiers formatés en texte : modification, multi-remplacement, utilisation d'expressions régulières, changement de format, tri, etc.
     -   Parce que les logiciels par défaut dans les systèmes d'exploitation sont souvent insuffisants (exemple : le Bloc-notes de Windows ajoute des caractères non désirés et il encode dans des formats non recommandés).
--   Suggestion :
+-   Suggestions :
     -   Pour Windows : installer le logiciel libre [*Notepad++*](https://notepad-plus-plus.org/)
+    -   Pour Mac : installer [BBEdit](https://www.barebones.com/products/bbedit/) et rester avec la version gratuite (*free*)
     -   S'autoformer aux formats et aux manipulations de fichiers à @sec-formats
     -   S'autoformer à Markdown, un langage de balisage léger @sec-markdown
 

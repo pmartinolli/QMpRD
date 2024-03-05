@@ -2,23 +2,28 @@
 
 ## Pourquoi ? 
 
--   Zotero (ou Endnote ou tout autre logiciel de geston bibliographique) est bien pour prendre des notes **centrées sur les documents**.
+- Pour avoir des notes centrées sur vos idées, que vous voulez organiser selon vos besoins.
+  - Tous les logiciels bibliographiques (Zotero, etc.) sont encore limités dans leurs principes car les notes que l'on prend dedans sont centrées sur les documents (et non sur les idées extraites).
+- Pour avoir une architecture de vos données de recherche 
+  - En couches successives, 
+  - Liées les unes aux autres par une ontologie construite au fur et à mesure
+  - Sans base de données, juste avec des fichiers liés.
 
--   MAIS il vous faut aussi un **outil centré sur les idées** que vous extrayez des documents.
+## Atouts d'Obsidian
 
-    -   Une prise de notes simple et souple.
-
-    -   Évolutif : de 10 notes à +1000 notes.
-
-    -   Robuste (format texte balisé en Markdown) Voir p. ..
-
-    -   Personnalisable.
-
-    -   Avec une gestion des liens entre vos notes, basé principalement sur une organisation par index.
+  - Simple (quoique le paramétrage peut être complexe)
+  - Sobre et rapide 
+  - Souple (à chacun de créer sa propre ontologie de notes).
+  - Évolutif (bon pour 50 notes jusqu'à plus de 1000 notes)
+  - Robuste (format texte balisé en Markdown, voir @sec-formats)
+  - Personnalisable (installer les extensions de son choix)
+  - Gratuit pour une utilisation personnelle (mais ce n'est pas un logiciel libre ou ouvert).
+  - Sécuritaire.
 
 ## Comment ? 
 
 -   Avec un logiciel adapté comme Obsidian.md <https://obsidian.md/> (logiciel non libre, mais gratuit pour une utilisation personnelle).
+    -   Avec une gestion des liens entre vos notes, basé principalement sur une organisation par index.
 
 -   Principes d'utilisation principaux :
 
@@ -219,3 +224,7 @@
     -   Comment ? Suggestion : Evernote <https://evernote.com/> (« everything buckets ») + capture rapide des pages web avec Evernote Web Clipper pour Firefox ou Chrome. Possibilités de créer une dizaine de dossiers (carnets).
 
 -   Pour vos démarches de recherche de document et vos mots de passe, etc. : le portfolio et cahier de recherche.
+
+## Obsidian pour une architecture de données de recherche
+
+(à développer)

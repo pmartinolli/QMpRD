@@ -6,7 +6,11 @@
 
 -   **Alerte** (*alert*) : requête automatique envoyant une information ciblée à la personne qui l'a créé pour faire de la veille sur un sujet.
 
+-   **Anonymiser** : Traiter des données pour rendre impossible l'identification d'éléments. Plus fort que « dépersonnaliser » (un traitement plus léger). 
+
 -   ***APC*** (*Authors processing charges*) : souvent les revues universitaires demandent des frais de publication. Les revues prédatrices aussi.
+
+-   **Archéologie numérique** : techniques et méthodes pour exploiter des formats et des supports désuets (diskettes, etc.). Important pour les données longitudinales sur le très long terme. 
 
 -   **Article de données** (*data paper*) : article principalement constitué de données de recherche.
 
@@ -57,6 +61,8 @@
 -   **Déclaration de San Francisco sur l'évaluation de la recherche** : *The San Francisco Declaration on Research Assessment* (DoRA ou DoRAssessment).
 
 -   **Désherbage** (*weeding*) : terme de bibliothécaire indiquant une élimination régulière et raisonnée d'une collection de livre (principalement pour faire de la place aux nouveaux livres).
+
+-   **Document de métadonnées** : Document déposé dans un dépôt institutionnel de données de recherche comme Boréalis et décrivant un jeu de données ainsi que son emplacement ailleurs. 
 
 -   **Document vivant**, ou document dynamique (*living document*) : document souvent en ligne, en constante modification, selon des règles, par une personne ou une institution ou une communauté. Voir *Record of versions*. Ce manuel est un document vivant.
 
@@ -115,6 +121,8 @@
 -   ***Mapping tool*** : (ou *citation mapping tool*) dit « outil de cartographie ». Permet de repérer, de collecter et d'afficher un ensemble d'articles liés par des citations.
 
 -   **Méta analyse** (*meta-analysis*) : Synthèse raisonnée et méthodique de plusieurs études sélectionnées pour répondre à une question de recherche ciblée. Produit un très haut niveau de certitude scientifique sur un sujet.
+
+-   **Metadata paper** : voir Document de métadonnées.
 
 -   **Moteur (métamoteur) de recherche du web** (*search engine*) : un moteur de recherche qui référence un grand nombre de pages web mondiales. Exemples : Google, Bing, Duckduckgo, etc.
 

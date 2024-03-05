@@ -1,98 +1,109 @@
-#  Gestion des données de recherche {#sec-gdr}
+# Gestion des données de recherche {#sec-gdr}
 
--   Les données de recherche sont des données issues de l'observation, de l'expérimentation ou dérivées de sources existantes qui sont analysées en vue de produire ou de valider des résultats de recherche originaux.
+-   Les données de recherche sont des informations obtenues par observation, expérimentation ou tirées de sources préexistantes, puis analysées dans le but de générer ou de confirmer des résultats originaux dans le domaine de la recherche.
 
--   Une bonne pratique récente consiste à penser, produire et suivre un **plan de gestion des données de recherche** (PGD).
+-   En premier lieu, une bonne pratique récente consiste à penser, produire et suivre un plan de gestion des données de recherche (PGD).
 
-### Pourquoi ? 
+-   En second lieu, les chercheurs peuvent décider de diffuser tout ou une partie de leur données dans un dépôt, ou un document de métadonnées, ou un article de données,...
 
--   Pour répondre aux **exigences de fonds de recherche**, de vos publications, de votre diplôme, etc.
+## Pourquoi gérer des données de recherche ?
 
-    -   Pour donner plus de chance à une demande de financement.
+#### Exigences éthiques
 
-    -   Pour montrer le sérieux et la robustesse de votre démarche.
+-   Pour répondre aux **exigences de certains fonds de recherche**, de vos publications, de votre diplôme, etc.
+    -   Pour le moment (en 2024),
+        -   Certains organismes de financement ne demandent que les PGDs seulement, pas les jeux de données (*dataset*) ;
+        -   Certaines revues ne demandent que les jeux de données, après soumission d'un article à réviser par les pairs utilisant ces données.
+-   Pour donner plus de chance à une demande de financement.
+-   Pour montrer le sérieux et la robustesse de votre démarche.
+-   Pour garantir un suivi ou une transmission à d'autres si vous abandonnez votre recherche.
 
-    -   Pour garantir un suivi ou une transmission à d'autres si vous abandonnez votre recherche.
+#### Bien planifier
+
+-   Pour bien distinguer toutes les **phases** de la gestion des données :
+    -   La conception d'un PGD, au début et au cours de la recherche.
+    -   La gestion des données actives, pendant la recherche.
+    -   L'archivage complet ou partiel des données dans un dépôt
+        -   (avec une dimension de réutilisation, et avec peut être une dimension de préservation)
+        -   ou l'archivage d'un document de métadonnées (*metadata paper*).
+    -   La rédaction d'un article de données (*data paper*).
+
+#### Bien travailler
 
 -   Pour faciliter l'utilisation des données **pendant vos recherches** par les équipes qui travaillent dessus.
+-   Pour rendre votre recherche plus **reproductible**, **vérifiable**, robuste et fiable.
+-   Expliciter et établir les lignes directrices de la gestion de vos données et documenter le projet au fur et à mesure.
+-   Augmenter votre efficacité, réduire la redondance des données, repérer les problèmes en avance, expliciter votre processus de recherche, ...
+-   Définir les rôles de tous les collaborateurs et contributeurs.
+-   Réduire les **risques** de perte de données; ou de non-respect des règles légales, éthiques, ou des politiques (confidentialité, droit d'auteur,...).
+-   Établir en avance quelles données seront versées lors de l'archivage final, une fois la recherche terminée (voire peut-être établir des processus de versement des données pendant que la recherche se fait).
 
-    -   Pour rendre votre recherche plus **reproductible**, **vérifiable**, robuste et fiable.
-
-    -   Expliciter et établir les lignes directrices de la gestion de vos données et documenter le projet au fur et à mesure.
-
-    -   Augmenter votre efficacité, réduire la redondance des données, repérer les problèmes en avance, expliciter votre processus de recherche, \...
-
-    -   Définir les rôles de tous les collaborateurs et contributeurs.
-
-    -   Réduire les risques de perte de données; ou de non-respect des règles légales, éthiques, ou des politiques (confidentialité, droit d'auteur,\...).
-
-    -   Établir en avance quelles données seront versées lors de l'archivage final, une fois la recherche terminée (voire peut-être établir des processus de versement des données pendant que la recherche se fait).
+#### Rayonner
 
 -   Pour **montrer sa productivité** scientifique :
-
-    -   Vos investigations, votre réseau, vos méthodes, votre organisation, \...
-
+    -   Vos investigations, votre réseau, vos méthodes, votre organisation, ...
     -   La quantité et la qualité de votre travail des sources.
-
-    -   Pour rendre vos données mieux **découvrables**, et mieux **réutilisables**.
-
-    -   Car tout jeu de données (*dataset*) devrait être D'après une discussion <https://twitter.com/Pascaliensis/status/1542507437625815041> : « Intelligible pour les humains (donc bien documenté), lisible par les machines (donc bien séquencé), visible dans les systèmes (donc bien lié). »
-
+-   Pour rendre vos données mieux **découvrables**, et mieux **réutilisables**.
+    -   Car tout jeu de données devrait être : « Intelligible pour les humains (donc bien documenté), lisible par les machines (donc bien séquencé), visible dans les systèmes (donc bien lié). »[^gestiondonneesrecherche-1]
+-   La gestion des données de recherche est encore peu valorisée comparée aux diffusions « classiques » de la science (articles révisés par les pairs, monographies,...) :
+    -   Peu de droit d'auteur ou d'attribution à faire valoir ;
+    -   Peu de reconnaissance de publication.
+    -   Un *data paper* peut être une manière de valoriser ses données.
 -   Pour mettre en action votre adhésion aux valeurs du bien commun ou des « communs » (des ressources partagées et gérées collectivement par une communauté).
 
-### Comment ?
+[^gestiondonneesrecherche-1]: D'après une discussion <https://twitter.com/Pascaliensis/status/1542507437625815041>
 
--   En élaborant un **outil** dédié : un **plan de gestion de données de recherche** <https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche> (ou PGD) (*Data management plan*, *DMP*)
+## Comment gérer ses données ?
 
-    -   Confidentiel : il est connu de vous, de vos collaborateurs, et (souvent) des institutions qui vous soutiennent ou vous financent.
+#### Surtout
 
+-   En élaborant un outil dédié : un **plan de gestion de données de recherche**[^gestiondonneesrecherche-2] (ou PGD, ou *Data management plan*, *DMP*)
+    -   **Confidentiel** : il n'est connu que de vous, de vos collaborateurs, et (souvent) des institutions qui vous soutiennent ou vous financent.
     -   Il devrait être conçu dès le **début** du projet de recherche et il faudrait le mettre à jour **au cours** de la recherche.
-
     -   Il vous permet de vous poser les **bonnes questions**
-
         -   méthodologiques, légales et éthiques
-
         -   pertinentes à la collecte, à l'archivage et peut être à la diffusion vos données.
-
         -   le plus tôt possible et le plus systématiquement possible.
-
     -   Et il vous permet d'**expliciter** le mieux possible : les rôles, les budgets, les limites, les processus, les étapes, les décisions, etc.
 
+[^gestiondonneesrecherche-2]: Voir le [Guide](https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche) des bibliothèques sur le PGD ; la plateforme [Nagano](https://crr.umontreal.ca/plateforme-nagano/plateforme-nagano/) des comités d'éthique peut aussi aider à produire un simili PGD.
+
+#### Peut-être
+
 -   En **déposant** vos données de recherche selon ce PGD :
-
     -   en libre accès ou en diffusion restreinte (autorisations, embargos, etc.) ;
-
     -   en totalité ou en partie ;
-
     -   dans une plateforme choisie, car adaptée <https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche?tab=2304>;
-
     -   avec des descriptions et des métadonnées pertinentes et riches ;
-
     -   sécurisées (anonymisées, etc.) ;
-
     -   avec une accessibilité pérenne (utilisation d'identifiants pérennes, d'ontologies compréhensibles, de documentations précises, de formats ouverts, etc.).
+-   OU en déposant les données quelque part ET en déposant un « document de métadonnées » (*metadata paper*) dans un dépôt de données (ex: Borealis).
+    -   C'est une mise en forme finale du PGD.
+    -   Il contient la description du jeu de données, plus ou moins détaillée.
+    -   Aide au repérage des données.
+-   ET/OU en rédigeant un article de données (*data paper*).
 
--   En travaillant **en équipe** :
+#### En travaillant **en équipe** :
 
-    -   Directeur de recherche, pairs, bibliothécaire disciplinaire, bibliothécaire GDR, bibliothécaires du traitement des métadonnées, archivistes, informaticiens, sponsors, ...
+-   Directeur de recherche, pairs, bibliothécaire disciplinaire, bibliothécaire GDR, bibliothécaires du traitement des métadonnées, archivistes, informaticiens, conseillers en éthique ou en droit d'auteur, ...
+-   En n'hésitant pas à solliciter l'aide spécifique de chacun.
+-   En reconnaissant la contribution de chacun.
 
-    -   En n'hésitant pas à solliciter l'aide spécifique de chacun.
+## Grille des questions essentielles du PGD [^gestiondonneesrecherche-3]
 
-    -   En reconnaissant la contribution de chacun.
+[^gestiondonneesrecherche-3]: <https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche?tab=5243845>
 
-### Grille des questions essentielles du PGD <https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche?tab=5243845>
+### Stockage et sauvegarde
 
-#### Stockage et sauvegarde
-
--   (voir aussi p. )
+-   (voir @sec-sauvegardedurable)
 
 -   Comment vos données seront-elles stockées et sauvegardées pendant votre projet de recherche et à quel endroit le seront-elles? Sauvegarde en 3 points géographiquement séparés l'un de l'autre :
 
-    -   1 : sur quel ordinateur (version active, courante).
+    -   1 : sur votre ordinateur (version active, courante).
 
-    -   2 : sur quel infonuage (sauvegarde principale, récurrente).
+    -   2 : sur un de vos infonuage (sauvegarde principale, récurrente).
 
-    -   3 : sur quel autre système ailleurs (sauvegarde secondaire, de temps en temps).
+    -   3 : sur un autre système ailleurs (sauvegarde secondaire, de temps en temps).
 
     -   On dit aussi *LOCKSS* (*Lots of Copies Keep Stuff Safe*) ou la méthode de sauvegarde 3-2-1 : [3]{.underline} copies complètes de ses données dans [2]{.underline} supports de stockage différents (clé USB, disque dur, disque dur externe, infonuagique, etc.) dont [1]{.underline} copie dans un environnement infonuagique (votre espace One Drive, Dropbox, Google Drive, etc.).
 
@@ -110,23 +121,23 @@
 
 -   Comment l'équipe de recherche et d'autres collaborateurs pourront-ils accéder aux données, modifier celles-ci ou en contribuer de nouvelles tout au long du projet?
 
-#### Collecte et description des données
+### Collecte et description des données
 
 -   Est-ce que la **documentation** pour comprendre la recherche et les données est complète ? Quels documents seront nécessaires pour que les données soient lues et interprétées correctement dans le futur?
 
--   **Un fichier** **`Readme`** <https://fr.wikipedia.org/wiki/Readme>
+-   **Un fichier** **`Readme`** [^gestiondonneesrecherche-4]
 
-    -   Pour les humains
+    -   Pour les humains.
 
     -   Fichier de texte brut qui décrit **sommairement** vos données de recherche, leurs types, comment elles ont été organisées, si elles ont des restrictions, etc.
 
     -   Permet de comprendre **rapidement** vos données pour faciliter leur réutilisation.
 
-    -   Le fichier README devrait contenir minimalement Quelques modèles : <https://cornell.app.box.com/v/ReadmeTemplate> et <https://uqtr.libguides.com/ld.php?content_id=35593298>. Quelques guides : <https://www.unige.ch/researchdata/fr/collecter-organiser/readme-files/> et <https://zenodo.org/record/4058962#.Yry6HnbMLX4> :
+    -   Le fichier README devrait contenir minimalement [^gestiondonneesrecherche-5] :
 
         -   Titre du jeu de données
 
-        -   DOI.
+        -   DOI
 
         -   Coordonnées des principaux chercheurs + identifiants pérennes.
 
@@ -148,11 +159,11 @@
 
         -   Conditions de réutilisation
 
--   Un fichier de **dictionnaire de données** <https://help.osf.io/article/217-how-to-make-a-data-dictionary> et <https://uclouvain.be/fr/universite-numerique/rdm/codebook.html>) :
+-   Un fichier de **dictionnaire de données** [^gestiondonneesrecherche-6] :
 
-    -   Pour les humains et les machines
+    -   Pour les humains et les machines.
 
-    -   Noms des variables normalisés Compréhensif et court, pas trop abrégé, sans accents ni caractère spécial, pas de chiffres au début, remplacer les espaces par des \_ ou des combinaisons majusulesMinuscules. Voir aussi <https://medium.com/@janschenk/variable-names-in-survey-research-a18429d2d4d8> et <https://site.uit.no/dataverseno/deposit/prepare/>.
+    -   Noms des variables normalisés Compréhensif et court, pas trop abrégé, sans accents ni caractère spécial, pas de chiffres au début, remplacer les espaces par des \_ ou des combinaisons majusulesMinuscules[^gestiondonneesrecherche-7].
 
     -   Définitions précises des variables : bien décrire vos données. N'économisez pas vos mots.
 
@@ -178,7 +189,15 @@
 
         -   Données disponibles dans un **format ouvert** ? Exemple : au format \*.csv
 
-#### Organisation des données 
+[^gestiondonneesrecherche-4]: <https://fr.wikipedia.org/wiki/Readme>
+
+[^gestiondonneesrecherche-5]: Quelques modèles : <https://cornell.app.box.com/v/ReadmeTemplate> et <https://uqtr.libguides.com/ld.php?content_id=35593298>. Quelques guides : <https://www.unige.ch/researchdata/fr/collecter-organiser/readme-files/> et <https://zenodo.org/record/4058962#.Yry6HnbMLX4> :
+
+[^gestiondonneesrecherche-6]: <https://help.osf.io/article/217-how-to-make-a-data-dictionary> et <https://uclouvain.be/fr/universite-numerique/rdm/codebook.html>
+
+[^gestiondonneesrecherche-7]: Voir aussi [https://medium.com/\@janschenk/variable-names-in-survey-research-a18429d2d4d8](https://medium.com/@janschenk/variable-names-in-survey-research-a18429d2d4d8){.uri} et <https://site.uit.no/dataverseno/deposit/prepare/>.
+
+### Organisation des données
 
 -   **Organisation générale** des dossiers et des fichiers
 
@@ -236,15 +255,15 @@
 
     -   Si vous utilisez une norme de métadonnées ou des outils pour documenter et décrire vos données, veuillez les indiquer.
 
-#### Préservation
+### Préservation
 
--   Voir aussi p.
+-   Voir @sec-archivage
 
 -   Où déposerez-vous vos données en vue de l'accès et de la préservation à long terme à la fin de votre projet de recherche?
 
 -   Indiquez comment vous assurerez que vos données sont prêtes pour la conservation. À prendre en considération: formats de fichier appropriés pour la conservation mais qui préservent l'intégrité des données; anonymisation et dépersonnalisation des fichiers, y compris les fichiers de documentation.
 
-#### Partage et réutilisation
+### Partage et réutilisation
 
 -   Quelles données partagerez-vous et sous quelle forme? (p. ex. données brutes, traitées, analysées, définitives).
 
@@ -252,7 +271,7 @@
 
 -   Quelles mesures seront prises pour faire connaître l'existence de vos données au milieu de la recherche?
 
-#### Responsabilités et ressources
+### Responsabilités et ressources
 
 -   Identifiez qui sera responsable de la gestion des données de ce projet pendant et après le projet ainsi que les principales tâches associées à ces responsabilités.
 
@@ -260,7 +279,7 @@
 
 -   De quelles ressources aurez-vous besoin pour mettre en œuvre votre plan de gestion des données? À combien évaluez-vous le coût total de la gestion des données?
 
-#### Conformité aux lois et à l'éthique
+### Conformité aux lois et à l'éthique
 
 -   Si votre projet comprend des données sensibles, comment vous assurerez-vous qu'il est géré de manière sécuritaire et que les données sont accessibles uniquement aux membres approuvés du projet?
 
@@ -276,7 +295,7 @@
 
     -   Lister les institutions d'attaches et les institutions participantes.
 
-    -   Définir ses rôles (taxonomie Credit).
+    -   Définir ses rôles (taxonomie [CRediT](https://coop-ist.cirad.fr/etre-auteur/reconnaitre-tous-les-contributeurs/3-la-taxonomie-credit-pour-identifier-toutes-les-contributions)).
 
 -   Liste de tous les **contributeurs** de la recherche et leurs **rôles** ?
 
@@ -306,7 +325,7 @@
 
     -   Donner un nom court (ou un acronyme) qui peut servir pour nommer les fichiers.
 
-    -   Par exemple, il est recommandé d'ajouter par exemple `[``2021, Canada``]` si aucune mention de portée temporelle ou géographique dans votre titre.
+    -   Par exemple, il est recommandé d'ajouter par exemple ``` [``2021, Canada``] ``` si aucune mention de portée temporelle ou géographique dans votre titre.
 
     -   Il est aussi recommandé d'ajouter un 2e titre en français ou en anglais.
 
@@ -324,35 +343,49 @@
 
     -   **MeSH** en santé par exemple.
 
-    -   Éléments **Wikidata** Exemple : la sélection de 65000 concepts, classés en 5 niveaux, de OpenAlex <https://docs.openalex.org/about-the-data/concept>.
+    -   Éléments **Wikidata** [^gestiondonneesrecherche-8]
 
 -   Pour résumer : plus généralement, avez-vous appliqué les principes **FAIR** ? Pour que d'autres puissent trouver vos données, les identifier, les interpréter et les réutiliser.
 
-### Quelques suggestions de dépôts
+    -   Au Canada, on insiste plus pour des données FAIR. C'est à dire pas forcément complètement ouverte à tous (il faut demander l'autorisation pour y accéder).
 
--   Dépôt officiel de l'UdeM : **Borealis** (Dataverse) <https://borealisdata.ca/>
+    -   Il semble qu'en Europe, ils ont plus un principe d'*open data*, c'est à dire a priori ouvert sans restriction.
+
+[^gestiondonneesrecherche-8]: Exemple : la sélection de [65000 concepts](https://docs.openalex.org/about-the-data/concept), classés en 5 niveaux, de OpenAlex.
+
+## Quelques suggestions de dépôts
+
+-   Données actives : Calcul Québec
+
+-   Dépôt officiel de l'UdeM : [Borealis (Dataverse)](https://borealisdata.ca/)
+
+    -   NB: pas de données sensibles (ni ultra-sensibles!) dans Borealis.
 
 -   Autres dépôts universitaires reconnus :
 
-    -   **OSF**: Open Science Framework <https://osf.io/>
+    -   [Open Science Framework (OSF)](https://osf.io/):
 
-    -   **Zenodo** <https://zenodo.org/>
-
--   Dépôt pour recherche en France : **Nakala** <https://nakala.fr/>
+    -   [Zenodo](https://zenodo.org/)
 
 -   Dépôts non-institutionnel et/ou pour le grand public :
 
-    -   **Archive.org** <https://archive.org/>
+    -   [Archive.org](https://archive.org/)
 
-    -   **Wikimedia Commons** <https://commons.wikimedia.org/> pour les données, de pairs avec **Wikidata** <https://www.wikidata.org/> pour les métadonnées. Exemple : 100 ans de données météorologiques du Canada. <https://meta.wikimedia.org/wiki/Projet_ECCC,_100_ans_de_donn%C3%A9es_m%C3%A9t%C3%A9orologiques_en_acc%C3%A8s_libre>
+    -   [Wikimedia Commons](https://commons.wikimedia.org/) pour les données, de pairs avec [Wikidata](https://www.wikidata.org/) pour les métadonnées[^gestiondonneesrecherche-9].
 
-    -   **Software Heritage** <https://www.softwareheritage.org/> : entrepôt d'archive logicielle ouvert destiné à la collecte et à la préservation du code source des logiciel soutenu par l'UNESCO.
+    -   [Software Heritage](https://www.softwareheritage.org/) : entrepôt d'archive logicielle ouvert destiné à la collecte et à la préservation du code source des logiciel soutenu par l'UNESCO.
 
-### Vous n'êtes pas seul
+[^gestiondonneesrecherche-9]: Exemple : [100 ans de données météorologiques du Canada](https://meta.wikimedia.org/wiki/Projet_ECCC,_100_ans_de_donn%C3%A9es_m%C3%A9t%C3%A9orologiques_en_acc%C3%A8s_libre).
+
+## Vous n'êtes pas seul
 
 -   Contactez les bibliothécaires pour recevoir du conseil et de la formation sur les données de recherche.
 
-    -   [Prenez rendez-vous avec votre bibliothécaire disciplinaire pour en savoir plus à ce sujet. ]{style="color: purple"}**[BIB+]{style="color: purple"}**[ ☐ ]{style="color: purple"}
+    -   Pour du soutien à la rédaction du PGD.
+
+    -   Pour du soutien à l'organisation de vos données (conventions, ontologies, nommages, etc.).
+
+    -   Pour identifier les bonnes ressources à l'université selon vos besoins.
 
 -   Pour en savoir plus :
 
@@ -361,3 +394,99 @@
     -   UK Data Archive <https://ukdataservice.ac.uk/learning-hub/research-data-management/>
 
     -   Le Centre d'expertise numérique pour la recherche (CEN-R) peut vous aider à structurer et à nommer vos fichiers <https://espacedoc.openum.ca/>
+
+## Suggestions de modèles de réponses pour l'Assistant PGD (pour les chercheurs en histoire)
+
+L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de gestion de données de recherche. Cette section est un accompagnement à cet outil pour le domaine de l'histoire. Seules les informations ambigües ou nécessitant des suggestions de formulation sont indiquées ci-dessous.
+
+-   Aller à [Assistant PGD](https://dmp-pgd.ca/) \> créez-vous un compte. Puis Créer des plans \> Créer un nouveau plan.
+
+    -   **Quel projet de recherche planifiez-vous?** Indiquez le titre de votre recherche
+
+    -   **Indiquer l’organisme de recherche principal :** Sélectionner « Université de Montréal »
+
+    -   **Quel modèle de PGD souhaitez-vous utiliser? (au choix)**
+
+        -   \*Modèle Université de Montréal\*
+
+        -   Modèle de Portage pour la recherche en histoire et en humanité
+
+### Onglet 1 : Détails du projet
+
+-   Ignorer « projet simulé aux fins d’essai, d’exercice ou d’enseignement »
+
+-   Résumé du projet
+
+    -   Suggestion de contenu
+
+-   Domaine de recherche : Sélectionner « Histoire et archéologie »
+
+-   Identifier : identifiant de votre projet, donné par l'organisme de financement ou votre institution
+
+-   Numéro de subvention/url : URL vers la bourse, ou numéro identifiant de la bourse/ subvention.
+
+### Onglet 2 : Contributeurs \> Ajouter un contributeur
+
+-   **ORCID** : il est recommandé de vous créer un identifiant ORCID (voir @sec-identitenumerique).
+
+-   Rôles : Habituellement, on s'attend à ce que le chercheur sélectionne au moins **Gestionnaire de données** et **Chercheur principal**. Si vous gérez le financement, l'embauche, etc. cochez aussi Administrateur de projet.
+
+-   Il est toujours possible de revenir à la liste des contributeur pour modifier/supprimer un contributeur.
+
+### Onglets 3 et 4 : Aperçu du plan \> Rédiger un plan
+
+#### Collecte de données :
+
+-   Quels types de données allez-vous recueillir, créer, lier, acquérir ou enregistrer?
+
+    -   Les données collectées sont des livres imprimés et des carnets de notes manuscrites qui ont été numérisés, avec reconnaissance optique de caractère et reconnaissance de l'écriture manuscrite. Chaque document numérisé est associé à un fichier de retranscription. Une partie des informations collectées est colligée dans un tableur. Une autre partie des informations est colligée dans un système de notes liées. 
+
+-   Dans quels formats de fichier vos données seront-elles recueillies? Ces formats permettront-ils la réutilisation des données, le partage et l'accès à long terme aux données?
+
+-   Quelles conventions et procédures utiliserez-vous pour structurer et nommer vos fichiers et en contrôler les versions afin de vous aider, ainsi que les utilisateurs potentiels, à mieux comprendre la façon dont vos données sont organisées?
+
+#### Documentation et métadonnées :
+
+-   Quels documents seront nécessaires pour que les données soient lues et interprétées correctement dans le futur?
+
+-   Comment vous assurerez-vous de documenter le projet de façon systématique tout au long du processus?
+
+-   Si vous utilisez une norme de métadonnées ou des outils pour documenter et décrire vos données, veuillez les énumérer ici.
+
+#### Stockage et sauvegarde : 
+
+-   Quels sont les besoins de stockage anticipés pour votre projet en matière d'espace (en mégaoctets, gigaoctets, téraoctets, etc.) et de durée de stockage?
+
+-   Comment vos données seront-elles stockées et sauvegardées pendant votre projet de recherche et à quel endroit le seront-elles?
+
+-   Comment l'équipe de recherche et d'autres collaborateurs pourront-ils accéder aux données, modifier celles-ci ou en ajouter de nouvelles tout au long du projet?
+
+#### Préservation :
+
+-   Où déposerez-vous vos données en vue de l'accès et de la préservation à long terme à la fin de votre projet de recherche?
+
+-   Indiquez comment vous assurerez que vos données sont prêtes pour la conservation. À prendre en considération: formats de fichier appropriés pour la conservation mais qui préservent l'intégrité des données; anonymisation et dépersonnalisation des fichiers, y compris les fichiers de documentation.
+
+#### Partage et réutilisation :
+
+-   Quelles données partagerez-vous et sous quelle forme? (p. ex. données brutes, traitées, analysées, définitives)?
+
+-   Avez-vous examiné quel type de licence d'utilisation inclure avec vos données?
+
+-   Quelles mesures seront prises pour faire connaître l'existence de vos données au milieu de la recherche?
+
+#### Responsabilités et ressources : 
+
+-   Identifiez qui sera responsable de la gestion des données de ce projet pendant et après le projet ainsi que les principales tâches associées à ces responsabilités.
+
+-   De quelle façon les responsabilités relatives à la gestion des données seront-elles gérées si des changements importants surviennent au sein du personnel qui supervise les données du projet, y compris un changement de chercheur principal?
+
+-   De quelles ressources aurez-vous besoin pour mettre en œuvre votre plan de gestion des données? À combien évaluez-vous le coût total de la gestion des données?
+
+#### Conformité aux lois et à l'éthique :
+
+-   Si votre projet comprend des données sensibles, comment vous assurerez-vous qu'il est géré de manière sécuritaire et que les données sont accessibles uniquement aux membres approuvés du projet?
+
+-   Le cas échéant, quelles stratégies adopterez-vous pour traiter les utilisations secondaires des données sensibles?
+
+-   Comment traiterez-vous les questions d'ordre juridique, éthique et de propriété intellectuelle?

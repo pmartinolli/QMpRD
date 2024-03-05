@@ -1,115 +1,74 @@
-#  Choisir le libre accès {#sec-libreacces}
+# Choisir le libre accès {#sec-libreacces}
 
 -   Le libre accès c'est l'acte de rendre accessible **gratuitement** et de manière **pérenne** le contenu d'un document de recherche.
-
     -   Exemples : Article de revues, manuels, chapitres, données de recherche, logiciels, code source, rapports, enregistrements, etc.
-
     -   L'essentiel des articles, des livres, des encyclopédies de recherche sont détenus par des intérêts privés qui monnayent leur accès et donc réduisent l'accès à la recherche. On appelle ça un ***paywall***.
-
 -   Le libre accès est une recommandation de la Déclaration de San Francisco sur l'évaluation de la recherche que l'UdeM a signé.
 
 ### Pourquoi ?
 
--   Pour suivre la **politique du libre accès de l'UdeM** (décembre 2019) :
-
-    -   « (\...) tout **auteur** de la **communauté UdeM** à déposer ses **articles**, **chapitres de livres** et **communications** publiées dans des actes de colloques ou des revues scientifiques dans le dépôt institutionnel **Papyrus** en version révisée par les pairs \[postprint\] dès la publication, avec **possibilité d'embargo de 12 mois**. (\...) » <https://bib.umontreal.ca/communications/grands-dossiers/libre-acces>
-
+-   Pour suivre la [**politique du libre accès**](https://bib.umontreal.ca/communications/grands-dossiers/libre-acces) **de l'UdeM** (décembre 2019) :
+    -   « (...) tout **auteur** de la **communauté UdeM** à déposer ses **articles**, **chapitres de livres** et **communications** publiées dans des actes de colloques ou des revues scientifiques dans le dépôt institutionnel **Papyrus** en version révisée par les pairs \[postprint\] dès la publication, avec **possibilité d'embargo de 12 mois**. (...) »
 -   Pour suivre les règles des **fonds de recherche** qui vous ont financé.
-
--   « Les résultats de la recherche sont un **bien commun**, ils permettent à la fois à la science et à la société d'avancer. » « En publiant le résultat de nos recherches en libre accès, nous les rendons accessibles non seulement aux autres chercheurs et chercheuses, mais également aux fonctionnaires, aux personnes qui élaborent des politiques publiques, aux journalistes scientifiques, aux médecins, aux professeures et professeurs du collégial et du secondaire... L'abonnement aux revues savantes est cher et tous ces professionnels ne pourront pas en prendre connaissance autrement. Ils pourront en revanche consulter des articles en libre accès, dès lors qu'ils ont une connexion Internet. » Vincent Larrivière à <https://nouvelles.umontreal.ca/article/2022/04/11/rendre-la-recherche-accessible-a-tous/>
-
+-   « Les résultats de la recherche sont un **bien commun**, ils permettent à la fois à la science et à la société d'avancer. »[^libreacces-1]
 -   Pour rendre votre recherche plus **accessible** à tous.
-
--   Par **justice** économique : la recherche est souvent financée en grande partie par les contribuables et les chercheurs. Ensuite, les chercheurs doivent payer cher pour être publié (et de faire des révisions bénévolement). Enfin les chercheurs (via leurs institutions, leurs bibliothèques) doivent payer une troisième fois (très cher) pour accéder au contenu qu'ils ont produit. Triple coût Métaphore de Jon Tennant : « Two academics walk into a restaurant. They bring their own ingredients, cook their meal, and then are charged \$40 each for a waiter to bring it to them on a plate. » <https://twitter.com/Protohedgehog/status/986562479114170370>.
-
--   Accélérer la diffusion pour **protéger** votre recherche exclusive car le dépôt institutionnel est une preuve de priorité ou d'antériorité <https://nouvelles.umontreal.ca/article/2022/04/11/rendre-la-recherche-accessible-a-tous/>.
-
--   Pour augmenter ses chances d'être repéré, lu et **cité** Plusieurs études ont montré que le libre accès a un effet positif sur la diffusion de la science. Les chiffres varient selon les études, mais la majorité constate une corrélation positive <https://doi.org/10.12688/f1000research.8460.3> <https://doi.org/10.7717/peerj.4375>.
-
--   Augmenter votre **exposition** et améliorer votre emprunte numérique de chercheur voir p..
-
+-   Par **justice** économique : la recherche est souvent financée en grande partie par les contribuables et les chercheurs. Ensuite, les chercheurs doivent payer cher pour être publié (et de faire des révisions bénévolement). Enfin les chercheurs (via leurs institutions, leurs bibliothèques) doivent payer une troisième fois (très cher) pour accéder au contenu qu'ils ont produit[^libreacces-2].
+-   Accélérer la diffusion pour **protéger** votre recherche exclusive car le dépôt institutionnel est une preuve de priorité ou [d'antériorité](https://nouvelles.umontreal.ca/article/2022/04/11/rendre-la-recherche-accessible-a-tous/) .
+-   Pour augmenter ses chances d'être repéré, lu et **cité** Plusieurs études ont montré que le libre accès a un effet positif sur la diffusion de la science. Les chiffres varient selon les études, mais la majorité constate une [corrélation](https://doi.org/10.12688/f1000research.8460.3) [positive](https://doi.org/10.7717/peerj.4375).
+-   Augmenter votre **exposition** et améliorer votre emprunte numérique de chercheur (voir @sec-identitenumerique).
 -   Pour rendre votre recherche plus **réproductible** ou réplicable.
-
 -   Engendrer plus d'**opportunités** de collaborations, de financement, d'emplois, etc.
-
 -   Raisons pour ne pas publier en libre accès :
-
     -   Recherche placée sous le sceau du secret défense.
+    -   Recherche en biologie synthétique (création de nouveaux [organismes](https://doi.org/10.1371/journal.pbio.3001600)).
 
-    -   Recherche en biologie synthétique (création de nouveaux organismes) <https://doi.org/10.1371/journal.pbio.3001600>.
+[^libreacces-1]: « En publiant le résultat de nos recherches en libre accès, nous les rendons accessibles non seulement aux autres chercheurs et chercheuses, mais également aux fonctionnaires, aux personnes qui élaborent des politiques publiques, aux journalistes scientifiques, aux médecins, aux professeures et professeurs du collégial et du secondaire... L'abonnement aux revues savantes est cher et tous ces professionnels ne pourront pas en prendre connaissance autrement. Ils pourront en revanche consulter des articles en libre accès, dès lors qu'ils ont une connexion Internet. » [Vincent Larrivière](https://nouvelles.umontreal.ca/article/2022/04/11/rendre-la-recherche-accessible-a-tous/)
+
+[^libreacces-2]: Triple coût illustré par la métaphore de [Jon Tennant](https://twitter.com/Protohedgehog/status/986562479114170370) : « Two academics walk into a restaurant. They bring their own ingredients, cook their meal, and then are charged \$40 each for a waiter to bring it to them on a plate. »
 
 ### Comment ?
 
 #### Plusieurs voies
 
 -   **Voie diamant** : accès libre immédiat, les frais sont payés par des institutions (universités, consortiums, organisation à buts non lucratifs, etc.).
-
     -   Pas de démarche spéciale à faire de votre part.
-
--   **Voie verte** : dès acceptation, vous **auto-archivez** la version acceptée et non mise en page (version *postprint*) sur un dépôt institutionnel. Aucun frais (outre les frais de publication de la revue). Parfois un embargo de 12 mois est demandé par la revue Consulter *[Sherpa-Romeo](https://v2.sherpa.ac.uk/romeo/)* pour connaître les politiques de publication de la revue. En 2022, environ 85 % des revues permettent de publier des articles en libre accès selon la voie verte.. Démarches à faire :
-
+-   **Voie verte** : dès acceptation, vous **auto-archivez** la version acceptée et non mise en page (version *postprint*) sur un dépôt institutionnel. Aucun frais (outre les frais de publication de la revue). Parfois un embargo de 12 mois est demandé par la revue Consulter [*Sherpa-Romeo*](https://v2.sherpa.ac.uk/romeo/) pour connaître les politiques de publication de la revue. En 2022, environ 85 % des revues permettent de publier des articles en libre accès selon la voie verte.. Démarches à faire :
     -   ***postprint*** = version revue par les pairs avant publication, acceptée par l'éditeur et mais non mise en page.
-
-    -   Déposer la version *postprint* dans un **dépôt institutionnel** (comme Papyrus à l'UdeM) <https://papyrus.bib.umontreal.ca/>.
-
-        -   Guide d'aide <https://bib.umontreal.ca/public/bib/gerer-diffuser/guide_du_deposant.pdf>.
-
-        -   Pour vous faire aider à n'importe quelle étape : N'hésitez pas à contacter votre bibliothécaire disciplinaire ou à l'équipe Papyrus [depot@bib.umontreal.ca](mailto:). **BIB+**
-
+    -   Déposer la version *postprint* dans un **dépôt institutionnel** (comme [Papyrus](https://papyrus.bib.umontreal.ca/) à l'UdeM).
+        -   [Guide](https://bib.umontreal.ca/public/bib/gerer-diffuser/guide_du_deposant.pdf) d'aide.
+        -   Pour vous faire aider à n'importe quelle étape : N'hésitez pas à contacter votre bibliothécaire disciplinaire ou à l'équipe Papyrus [depot\@bib.umontreal.ca](mailto:).
         -   Déposez immédiatement après acceptation, c'est la bibliothèque qui gère l'embargo automatiquement pour vous et bonifient les métadonnées.
-
         -   Un membre de votre équipe peut faire le dépôt pour vous si vous êtes trop occupé.
-
         -   Pas d'autres démarches.
-
             -   Archivage pérenne.
-
             -   Moissonnage par Google, Google Scholar, WorldCat, BaseSearch, etc.
-
             -   Statistiques de consultation.
-
         -   La plupart du temps, il ne faut pas déposer la version finale mise en page par la revue (version *pubprint*) car cette mise en page contient des droits d'auteur que vous avez probablement cédé à la revue.
-
     -   Important : Academia.edu et ResearchGate ne sont PAS des dépôts institutionnels mais des compagnies privées.
-
         -   Y déposer des documents peut engendrer une poursuite de la part de la revue scientifique ou de la maison d'édition a qui vous avez cédé des droits d'auteur.
-
         -   Ce ne sont pas des environnements pérennes de diffusion et de conservation.
-
         -   Les documents qui y sont déposés par les chercheurs sont peu/pas repérables à travers WorldCat, Sofia, BnF, BAnQ, etc.
-
 -   **Voie dorée** (« dorée » pour la maison d'édition ou la revue, pas pour vous) : vous payez un supplément (***APC***) avant la publication pour rendre l'accès libre à tous immédiatement.
-
-    -   Les revues prédatrices jouent dans cette zone voir p. ..
-
+    -   Les revues prédatrices jouent dans cette zone (voir @sec-predateurs).
     -   Pas de démarche spéciale à faire de votre part (à part signer le chèque).
 
 #### Négocier son contrat d'édition
 
 -   Comme auteur.e, vous êtes titulaire du droit d'auteur.
-
     -   À MOINS que vous ne cédiez les droits à une autre personne dans le cadre d'une entente signée.
-
 -   Les ententes traditionnelles d'édition demandent souvent une cession des droits exclusifs à l'éditeur
-
     -   MAIS les auteur.e.s négocient de plus en plus afin de conserver une partie de leurs droits.
+    -   Un outil pour négocier : l'addenda de l'auteur de l'ABRC. Permet de conserver certains droits sur votre article/chapitre[^libreacces-3].
 
-    -   Un outil pour négocier : l'addenda de l'auteur de l'ABRC. Permet de conserver certains droits sur votre article/chapitre. Conforme à la Loi canadienne sur le droit d'auteur Addenda : <http://carl-abrc.ca/doc/FrePubAgree.pdf>. Guide : <http://www.carl-abrc.ca/wp-content/uploads/2016/05/AuthorAddendum_Brochure2015_FR.pdf>
+[^libreacces-3]: Addenda : <http://carl-abrc.ca/doc/FrePubAgree.pdf>. Guide : <http://www.carl-abrc.ca/wp-content/uploads/2016/05/AuthorAddendum_Brochure2015_FR.pdf>
 
 #### Quelles licences Creative Commons ?
 
 -   Voir p. pour quelques principes et recommandations sur les licences Creative Commons.
-
 -   Quelques recommandations pour rendre votre recherche plus accessible :
-
     -   **Pas d'embargo**.
-
     -   Ajout de la clause **Non Commerciale** sur le document (texte, image, tableaux, graphes, etc.).
-
-        -   Car il y a eu des cas de tentatives de revente de thèses et autres travaux universitaires via Amazon <https://blogs.lse.ac.uk/impactofsocialsciences/2021/07/08/what-happens-when-you-find-your-open-access-phd-thesis-for-sale-on-amazon/>
-
-        -   Quelques recommandations pour les thèses <https://blogs.kent.ac.uk/isnews/open-access-and-your-thesis-on-kar/>
-
+        -   Car il y a eu des cas de tentatives de revente de thèses et autres travaux universitaires via [Amazon](https://blogs.lse.ac.uk/impactofsocialsciences/2021/07/08/what-happens-when-you-find-your-open-access-phd-thesis-for-sale-on-amazon/).
+        -   Quelques [recommandations](https://blogs.kent.ac.uk/isnews/open-access-and-your-thesis-on-kar/) pour les thèses.
     -   **CC0** pour les données de recherche.
-
--   Le chapitre « Promouvoir sa recherche » explore d'autres voies libres et alternatives de diffusion de vos recherche Voir p. ..
+-   Le chapitre « Promouvoir sa recherche » explore d'autres voies libres et alternatives de diffusion de vos recherche (voir @sec-promouvoir).
