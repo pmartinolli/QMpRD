@@ -1,6 +1,5 @@
 ### Statut {.unnumbered}
 
-- Version 4.0 (Quarto). 
 - Le statut de ce manuel est « document de travail en cours de rédaction » ou « document vivant ». 
 - Il est licencié [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
