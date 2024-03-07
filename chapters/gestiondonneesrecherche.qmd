@@ -437,56 +437,130 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 
 #### Collecte de données :
 
--   Quels types de données allez-vous recueillir, créer, lier, acquérir ou enregistrer?
+##### Quels types de données allez-vous recueillir, créer, lier, acquérir ou enregistrer?
 
-    -   Les données collectées sont des livres imprimés et des carnets de notes manuscrites qui ont été numérisés, avec reconnaissance optique de caractère et reconnaissance de l'écriture manuscrite. Chaque document numérisé est associé à un fichier de retranscription. Une partie des informations collectées est colligée dans un tableur. Une autre partie des informations est colligée dans un système de notes liées. 
+-   Les **données brutes** collectées sont des livres imprimés numérisés, associé à un fichier de retranscription par reconnaissance optique de caractère. Ce sont aussi des carnets de notes manuscrites numérisés associé à un fichier de retranscription par reconnaissance de l'écriture manuscrite.
+-   À partir de ces données brutes, des extractions et des réorganisations sont rassemblées dans des **données raffinées**.
+    -   Une partie des données raffinées consiste en une série d'illustrations de couverture, numérisées en images.
+    -   Une partie des données raffinées consiste en une série de capture de textes imprimés (des paragraphes, des épigraphes et des sections bibliographiques), numérisées en images et retranscrits avec reconnaissance optique de caractère dans un fichier de retranscription.
+    -   Certaines données raffinées sont colligées dans plusieurs fichiers tabulés, manipulés dans un tableur.
+    -   D'autres données raffinées sont colligées dans un système de notes liées.
+-   Une importante partie des **données annexes** consiste en une revue de littérature collectée, organisée et annotée dans une bibliothèque Zotero.
 
--   Dans quels formats de fichier vos données seront-elles recueillies? Ces formats permettront-ils la réutilisation des données, le partage et l'accès à long terme aux données?
+##### Dans quels formats de fichier vos données seront-elles recueillies? Ces formats permettront-ils la réutilisation des données, le partage et l'accès à long terme aux données?
 
--   Quelles conventions et procédures utiliserez-vous pour structurer et nommer vos fichiers et en contrôler les versions afin de vous aider, ainsi que les utilisateurs potentiels, à mieux comprendre la façon dont vos données sont organisées?
+-   Les documents numérisés sont au format PDF ou PDF/A.
+
+-   Les retranscriptions sont au format texte.
+
+-   Les données tabulées sont au format .xlsx de MS Excel. Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format CSV.
+
+-   Les notes sont au format texte, avec un balisage léger Markdown utilisant la variante Markdown d'Obsidian.md.
+
+-   La bibliothèque de références bibliographiques dans Zotero est au format sqlite. Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format Zotero RDF (avec ontologie et annotations) et au format BibTeX.
+
+##### Quelles conventions et procédures utiliserez-vous pour structurer et nommer vos fichiers et en contrôler les versions afin de vous aider, ainsi que les utilisateurs potentiels, à mieux comprendre la façon dont vos données sont organisées?
+
+-   Tous les fichiers du projet de recherche sont rassemblé dans un dossier maître sur l'ordinateur du chercheur principal. Chaque dossier et sous-dossier est rédigé sans accent, ni espace ni caractère problématique.
+
+-   Les noms de fichiers sont rédigés sans accent, ni espace ni caractère problématique. Les fichiers qui sont modifiés contiennent la date de modification dans le nom du fichier. Les fichiers passés sont conservés dans un sous-dossier \_archive présent dans tous les sous-dossiers où il est nécessaire. Aucun fichier n'est supprimé du projet de recherche.
+
+    -   Tous les fichiers de données textuels (texte, Markdown, CSV) sont aussi synchronisés avec git.
+
+-   Un fichier Readme, déposé à la racine du dossier maître, contient les métadonnées du projet ; l'explication de l'organisation du projet de recherche en sous-dossier ; les conventions d'écriture ; les règles d'exportation régulières ; le dictionnaire des données ;
+
+-   Les notes liées contiennent des métadonnées au format YAML en entête pour une meilleure réutilisation (principalement pour produire une pseudo-base de données dans le système de notes avec *dataview*).
 
 #### Documentation et métadonnées :
 
--   Quels documents seront nécessaires pour que les données soient lues et interprétées correctement dans le futur?
+##### Quels documents seront nécessaires pour que les données soient lues et interprétées correctement dans le futur?
 
--   Comment vous assurerez-vous de documenter le projet de façon systématique tout au long du processus?
+-   Ce plan de données de recherche sera joint au projet de recherche. Une version 1.0 sera comparée à la version finale quand le projet sera terminé. Les deux plans de données de recherche sont diffusés en ligne dans un but pédagogique et de reproductibilité.
 
--   Si vous utilisez une norme de métadonnées ou des outils pour documenter et décrire vos données, veuillez les énumérer ici.
+-   Dans le fichier Readme : Les **métadonnées** bilingues français et anglais du projet (titre normalisé ; dates du projet ; collaborateurs avec affiliation, identifiants et rôles ; financements ; résumé ; etc.)
 
-#### Stockage et sauvegarde : 
+-   Dans le fichier Readme : Un **dictionnaire des données** contenant les ontologies des données raffinées.
 
--   Quels sont les besoins de stockage anticipés pour votre projet en matière d'espace (en mégaoctets, gigaoctets, téraoctets, etc.) et de durée de stockage?
+    -   Un glossaire de définitions spécifiques au projet.
 
--   Comment vos données seront-elles stockées et sauvegardées pendant votre projet de recherche et à quel endroit le seront-elles?
+    -   Des listes d'autorité de personnes, d'institutions et de lieux.
 
--   Comment l'équipe de recherche et d'autres collaborateurs pourront-ils accéder aux données, modifier celles-ci ou en ajouter de nouvelles tout au long du projet?
+    -   Une liste contrôlée de mots-clés spécifiques au projet (pour la bibliothèque Zotero, pour les données tabulées et pour le système de notes liées).
+
+##### Comment vous assurerez-vous de documenter le projet de façon systématique tout au long du processus?
+
+-   Un **carnet de recherche** sous la forme d'un journal de bord journalier est rédigé chaque jour de recherche. Il documente les décisions prises ; les hypothèses et les questions soulevées et les conditions pour y répondre; ainsi que les résultats obtenus.
+
+-   Une partie de ces informations d'avancement est **bloguée** régulièrement sur le blogue du projet de recherche dans un but de vulgarisation, de pédagogie et de documentation d'avancement du projet pour les chercheurs intéressés (collaborateurs, sponsors, etc.).
+
+-   Le fichier **Readme** est documenté selon les modifications faites au projet.
+
+-   Un système de **tags spécifiques** dans la bibliothéque de références et dans le système de notes liées permet de rajouter une couche d'organisation pour repérer rapidement toutes les questions méthodologiques ou thématiques par rapport à un point précis.
+
+##### Si vous utilisez une norme de métadonnées ou des outils pour documenter et décrire vos données, veuillez les énumérer ici.
+
+-   Les listes d'autorité et les mots-clés seront enrichies d'identifiants Wikidata pour permettre l'enrichissement des données raffinées, pour lier les données à d'autres données, et pour une meilleure robustesse sémantique.
+
+-   Les rôles des contributeurs sont codés selon la taxonomie CRediT.
+
+-   Les identifiants de chercheurs collaborateurs utilisent ORCID.
+
+-   Dans la mesure du possible, les institutions mentionnées utilisent les identifiants ROR.
+
+#### Stockage et sauvegarde :
+
+##### Quels sont les besoins de stockage anticipés pour votre projet en matière d'espace (en mégaoctets, gigaoctets, téraoctets, etc.) et de durée de stockage?
+
+-   Le volume de stockage représente environ 2 Go.
+
+-   Le stockage actif sur l'ordinateur, les comptes infonuagiques et les clés USB devrait durer 2 ans.
+
+-   Une sélection des données de recherche pour une diffusion dans un dépôt de données de recherche nécessitera un stockage d'une durée indéfinie de 1 Go environ (ou de 2 Go en cas de stockage de l'intégralité des données).
+
+##### Comment vos données seront-elles stockées et sauvegardées pendant votre projet de recherche et à quel endroit le seront-elles?
+
+-   Le stockage principal se trouve sur le disque dur du chercheur principal.
+
+-   Les stockages de sauvegarde se trouvent sur des serveurs distants qui ne sont que des dépôts passifs de données.
+
+    -   La totalité du projet est archivée en miroir avec l'application de synchronisation Windows sur OneDrive de l'UdeM.
+
+    -   Les données textuelles sont archivées avec git sur GitHub.
+
+    -   Avant chaque rencontre avec la directrice de recherche, la totalité du projet est copié sur une clé USB qui est remit à la directrice. La directrice remet alors la clé USB déposée lors de la rencontre précédente. Ce système à deux clés USB garantit une sauvegarde non-nuagique et un contrat de confiance.
+
+##### Comment l'équipe de recherche et d'autres collaborateurs pourront-ils accéder aux données, modifier celles-ci ou en ajouter de nouvelles tout au long du projet?
+
+-   Le chercheur principal accéde et modifie les données directement sur son ordinateur personnel.
+
+-   Lorsqu'il souhaite recevoir la révision ou la rétroaction ou la collaboration d'un autre chercheur, il dépose une copie des données dans un dossier partagé de OneDrive. Il intègre ensuite manuellement les modifications choisies dans son projet principal.
 
 #### Préservation :
 
--   Où déposerez-vous vos données en vue de l'accès et de la préservation à long terme à la fin de votre projet de recherche?
+##### Où déposerez-vous vos données en vue de l'accès et de la préservation à long terme à la fin de votre projet de recherche?
 
--   Indiquez comment vous assurerez que vos données sont prêtes pour la conservation. À prendre en considération: formats de fichier appropriés pour la conservation mais qui préservent l'intégrité des données; anonymisation et dépersonnalisation des fichiers, y compris les fichiers de documentation.
+##### Indiquez comment vous assurerez que vos données sont prêtes pour la conservation. À prendre en considération: formats de fichier appropriés pour la conservation mais qui préservent l'intégrité des données; anonymisation et dépersonnalisation des fichiers, y compris les fichiers de documentation.
 
 #### Partage et réutilisation :
 
--   Quelles données partagerez-vous et sous quelle forme? (p. ex. données brutes, traitées, analysées, définitives)?
+##### Quelles données partagerez-vous et sous quelle forme? (p. ex. données brutes, traitées, analysées, définitives)?
 
--   Avez-vous examiné quel type de licence d'utilisation inclure avec vos données?
+##### Avez-vous examiné quel type de licence d'utilisation inclure avec vos données?
 
--   Quelles mesures seront prises pour faire connaître l'existence de vos données au milieu de la recherche?
+##### Quelles mesures seront prises pour faire connaître l'existence de vos données au milieu de la recherche?
 
-#### Responsabilités et ressources : 
+#### Responsabilités et ressources :
 
--   Identifiez qui sera responsable de la gestion des données de ce projet pendant et après le projet ainsi que les principales tâches associées à ces responsabilités.
+##### Identifiez qui sera responsable de la gestion des données de ce projet pendant et après le projet ainsi que les principales tâches associées à ces responsabilités.
 
--   De quelle façon les responsabilités relatives à la gestion des données seront-elles gérées si des changements importants surviennent au sein du personnel qui supervise les données du projet, y compris un changement de chercheur principal?
+##### De quelle façon les responsabilités relatives à la gestion des données seront-elles gérées si des changements importants surviennent au sein du personnel qui supervise les données du projet, y compris un changement de chercheur principal?
 
--   De quelles ressources aurez-vous besoin pour mettre en œuvre votre plan de gestion des données? À combien évaluez-vous le coût total de la gestion des données?
+##### De quelles ressources aurez-vous besoin pour mettre en œuvre votre plan de gestion des données? À combien évaluez-vous le coût total de la gestion des données?
 
 #### Conformité aux lois et à l'éthique :
 
--   Si votre projet comprend des données sensibles, comment vous assurerez-vous qu'il est géré de manière sécuritaire et que les données sont accessibles uniquement aux membres approuvés du projet?
+##### Si votre projet comprend des données sensibles, comment vous assurerez-vous qu'il est géré de manière sécuritaire et que les données sont accessibles uniquement aux membres approuvés du projet?
 
--   Le cas échéant, quelles stratégies adopterez-vous pour traiter les utilisations secondaires des données sensibles?
+##### Le cas échéant, quelles stratégies adopterez-vous pour traiter les utilisations secondaires des données sensibles?
 
--   Comment traiterez-vous les questions d'ordre juridique, éthique et de propriété intellectuelle?
+##### Comment traiterez-vous les questions d'ordre juridique, éthique et de propriété intellectuelle?
