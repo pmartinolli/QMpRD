@@ -5,14 +5,19 @@ project:
 book:
   title: "Manuel pratique de recherche documentaire"
   subtitle: "Pour le séminaire PLU6058"
-  author: "Pascal Martinolli"
-  date: "2024-02-20"
+  author:
+      - name: "Pascal Martinolli"
+        orcid: "0000-0003-0122-5300"
+        affiliations:
+          - name: "Université de Montréal"
+            department: "Bibliothèques / UdeM"
+  date: "2024-03-07"
   language: "fr"
   license: "CC-BY-NC-SA 4.0"
   pdf-url: "https://bib.umontreal.ca/multidisciplinaire/plu6058"
   status : "living document"
   type: "book"
-  version: "4.0"
+  version: "4.1"
   abstract: "Ce manuel est principalement conçu pour accompagner le séminaire PLU6058, qui vise à améliorer les compétences informationnelles des étudiants des cycles supérieurs de l'Université de Montréal. Cependant, il peut également être utilisé de manière autonome et autodidacte pour la recherche et l'utilisation de la documentation dans le cadre d'un projet de recherche. En outre, il peut être utilisé comme une ressource éducative par les enseignants en bibliothèque de recherche."
 
 
@@ -44,22 +49,26 @@ book:
     chapters:
     - chapters/citer.qmd
     - chapters/zoterorediger.qmd
-  - part: "Au-delà de votre recherche : outils et méthodes"
+  - part: "Au-delà de votre recherche : méthodes"
     chapters:
     - chapters/sauvegardedurable.qmd
-    - chapters/formats.qmd
-    - chapters/cahierrecherche.qmd
-    - chapters/markdown.qmd
-    - chapters/obsidian.qmd
-    - chapters/operateurs.qmd
     - chapters/identifierdocument.qmd
-    - chapters/thesaurus.qmd
-    - chapters/terminalbash.qmd
+    - chapters/cahierrecherche.qmd
+    - chapters/operateurs.qmd
+    - chapters/formats.qmd
     - chapters/numerisation.qmd
     - chapters/archivage.qmd
-    - chapters/zoteroplus.qmd
     - chapters/revuelitterature.qmd
     - chapters/kitdepartudem.qmd
+  - part: "Au-delà de votre recherche : outils"
+    chapters:
+    - chapters/markdown.qmd
+    - chapters/obsidian.qmd
+    - chapters/thesaurus.qmd
+    - chapters/cartographieinformation.qmd
+    - chapters/terminalbash.qmd
+    - chapters/zoteroplus.qmd
+    - chapters/llm.qmd
   - part: "Au-delà de votre recherche : diffusion"
     chapters:
     - chapters/droitdauteur.qmd
@@ -90,5 +99,16 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+    geometry:
+      - inner=2cm
+      - outer=2cm
+      - top=2cm
+      - bottom=2cm
+      - headsep=22pt
+      - headheight=11pt
+      - footskip=33pt
+      - ignorehead
+      - ignorefoot
+      - heightrounded
 
 

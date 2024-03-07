@@ -1,162 +1,154 @@
 # Opérateurs logiques {#sec-operateurs}
 
--   Pourquoi ? Pour aider les moteurs de recherche à combiner les mots entre eux. On dit aussi « opérateur booléen. »
-
+-   Pourquoi ? Pour aider les moteurs de recherche à combiner les mots entre eux. On dit aussi « opérateur booléen » ou « opérateurs de recherche ».
 -   Comment ?
-
     -   En utilisant des opérateurs en MAJUSCULE ou des signes spéciaux.
-
     -   Les deux plus importants sont AND et la troncature\*.
+
+L'essentiel à savoir (en 8 minutes) :
+
+{{< video https://www.youtube.com/embed/XXtGzSGLA8o >}}
+
+Pour aller plus loin : une [série de dix capsules](https://umontreal.ca.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22654420b3-e1fb-4522-9305-af5d01651a44%22&sortColumn=0&sortAscending=true) présentant les notions expliquées dans cette page.
 
 ## AND
 
--   **C'est l'opérateur logique le plus important.**
+-   AND est l'opérateur logique **le plus important.**
 
--   Pourquoi ?
+### Pourquoi ?
 
-    -   Effet du AND : **tous les mots séparés par** **`AND`** **(ou une espace) sont exigés dans chacun des résultats.**
+-   Effet du AND : **tous les mots séparés par** **`AND`** **(ou une espace) sont exigés dans chacun des résultats.**
+    -   Eh oui! C'est pour ça qu'on vous a dit de mettre le moins de mots possibles.
+    -   Il permet de rechercher des intersections de mots-clés parmi des millions de références, en un clic et en quelques secondes. Wow!
+-   C'est même l'opérateur **par défaut** de la grande majorité des moteurs de recherche.
+    -   En effet, chaque fois que vous mettez une espace entre deux mots un moteur de recherche, ce dernier ajoute de manière invisible une opération logique AND entre ces mots.
+-   Pas la peine de l'écrire manuellement, **laisser une espace** **vide** suffit.
+    -   Surtout que parfois on oublie de le mettre en majuscule, ou bien on écrit `ET` et la base de données que l'on utilise ne comprend que les `AND`. etc. Faites simple.
+    -   Exemples (les deux recherches ci-dessous sont identiques et équivalentes) :
+        -   `dementia elderly board games`
+        -   `dementia AND elderly AND board AND games`
 
-        -   Eh oui! C'est pour ça qu'on vous a dit de mettre le moins de mots possibles.
+### Fonctionnement :
 
-        -   Il permet de rechercher des intersections de mots-clés parmi des millions de références, en un clic et en quelques secondes. Wow!
-
-    -   C'est même l'opérateur **par défaut** de la grande majorité des moteurs de recherche.
-
-        -   En effet, chaque fois que vous mettez une espace entre deux mots un moteur de recherche, ce dernier ajoute de manière invisible une opération logique AND entre ces mots.
-
-    -   Pas la peine de l'écrire manuellement, **laisser une espace** **vide** suffit.
-
-        -   Surtout que parfois on oublie de le mettre en majuscule, ou bien on écrit `ET` et la base de données que l'on utilise ne comprend que les `AND`. etc. Faites simple.
-
-        -   Exemples (les deux recherches ci-dessous sont identiques et équivalentes) :
-
-            -   `dementia elderly board games`
-
-            -   `dementia AND elderly AND board AND games`
-
--   Fonctionnement :
-
-    -   Chaque fois que vous ajoutez un mot supplémentaire, vous **exigez** qu'il figure dans chaque résultat de recherche.
-
-        -   Donc utilisez **le moins de mots possibles**. Dans le doute, enlevez des mots. Pourquoi ? Nous avons vu que si vous exigez 2 mots, seuls les résultats contenant ces 2 mots seront affichés. Si vous en exigez un 3eme, il faudra que chaque résultat contienne obligatoirement les 3 mots. Et ainsi de suite. Plus vous ajoutez de termes avec l'opérateur ET / AND, moins vous aurez de résultats. C'est idéal pour trouver une aiguille dans une botte de foin de millions de documents. MAIS attention, exiger un nouveau mot peut réduire d'un facteur de 100 ou 1000 le nombre de résultats de chaque étape. Ce n'est pas une réduction lente et progressive. C'est abrupt.
-
-        -   Pour garantir d'utiliser un minimum de mots, **progressez par étapes** **successives** quand vous exigez des mots-clés. Par exemple, je vous recommande de commencer par mot le plus important, celui que vous voulez voir absolument dans tous les résultats, puis ensuite de lancer la recherche et de regarder le nombre de résultats et la pertinence des résultats. Ainsi, vous aurez plus de contrôle sur le processus de vos recherches de documents puisque vous avancez pas à pas et que vous pouvez supprimer ou changer de mots-clés plus facilement en revenant à une étape antérieure plus satisfaisante.
-
-        -   La recherche de document est un processus d'**essai-erreur-correction** qui va vous approcher progressivement de résultats pertinents. En pratiquant ce processus régulièrement, dans vos travaux universitaires mais aussi dans tous vos besoins d'information, vous allez apprendre à récolter de meilleurs résultats dans un temps plus court. Savoir « faire parler outils de recherche » pour leur soutirer toute l'information adéquate, c'est une vraie compétence pratique très utile !
-
-    -   Je vous dis ça car nous **surévaluons** parfois la qualité de la description d'un document dans un outil de recherche (dans sa notice électronique, dans ses métadonnées). Or cela peut nous conduire à exiger des mots qui ne s'y trouvent pas et ainsi ne pas repérer les documents pertinents. En effet, chaque fois que vous exigez un nouveau mot, c'est comme si vous faites le **pari** que ce mot existe quelque part dans la description du document. Si le mot n'y figure pas, le fait de l'exiger va l'enlever des résultats.
-
-        -   Exemple : Je cherche un chapitre de livre en exigeant les mots du titre du chapitre du livre. Or, dans les collections de la bibliothèque, nous avons bel et bien ce livre. De plus, dans l'outil de recherche ou le catalogue informatique de la bibliothèque, nous avons la notice électronique du livre. Mais la notice électronique du livre ne contient pas la liste des chapitres. Donc je ne peux pas repérer le chapitre avec son titre. Il faut que je repère ce chapitre avec les mots présents dans le titre du livre seulement.
-
-        -   Les descriptions des notices électroniques des documents ne sont pas toutes semblables. D'une manière générale, on pourrait dire que des notices récentes sont plus riches et complètes, tandis que des notices plus anciennes sont plus sommaires (dans le sens où elles contiennent moins d'information).
-
-    -   Une erreur courante consiste à utiliser des ET entre des mots issus d'un même concept, d'un même thème ou de thèmes proches. Par exemple, des synonymes ou des mots plus génériques et plus spécifiques. Voici un exemple évident :`prévention ET sensibilisation`. Ne le faites pas car vous exigez alors d'obtenir des résultats qui contiennent obligatoirement ces deux synonymes, ce qui est rare. En effet, dans le document et sa description, il y a sûrement l'un ou l'autre de ces mots mais rarement les deux.
-
-    -   Petite anecdote : Google a été l'un des premiers moteurs de recherche du web à faire un ET efficace, sur le modèle des catalogues et des bases de données bibliographiques universitaires. Cela a été l'une des raisons de son succès. Notez que dans Google, l'ordre des mots à son importance pour l'affichage des résultats. Le premier mot exigé a plus de poids que le deuxième, le deuxième que le troisième, etc.
-
-    -   Pour conclure sur
+-   Chaque fois que vous ajoutez un mot supplémentaire, vous **exigez** qu'il figure dans chaque résultat de recherche.
+    -   Donc utilisez **le moins de mots possibles**. Dans le doute, enlevez des mots. Pourquoi ? Nous avons vu que si vous exigez 2 mots, seuls les résultats contenant ces 2 mots seront affichés. Si vous en exigez un 3eme, il faudra que chaque résultat contienne obligatoirement les 3 mots. Et ainsi de suite. Plus vous ajoutez de termes avec l'opérateur ET / AND, moins vous aurez de résultats. C'est idéal pour trouver une aiguille dans une botte de foin de millions de documents. MAIS attention, exiger un nouveau mot peut réduire d'un facteur de 100 ou 1000 le nombre de résultats de chaque étape. Ce n'est pas une réduction lente et progressive. C'est abrupt.
+-   Pour garantir d'utiliser un minimum de mots, **progressez par étapes** **successives** quand vous exigez des mots-clés. Par exemple, je vous recommande de commencer par mot le plus important, celui que vous voulez voir absolument dans tous les résultats, puis ensuite de lancer la recherche et de regarder le nombre de résultats et la pertinence des résultats. Ainsi, vous aurez plus de contrôle sur le processus de vos recherches de documents puisque vous avancez pas à pas et que vous pouvez supprimer ou changer de mots-clés plus facilement en revenant à une étape antérieure plus satisfaisante.
+-   La recherche de document est un processus d'**essai-erreur-correction** qui va vous approcher progressivement de résultats pertinents. En pratiquant ce processus régulièrement, dans vos travaux universitaires mais aussi dans tous vos besoins d'information, vous allez apprendre à récolter de meilleurs résultats dans un temps plus court. Savoir « faire parler outils de recherche » pour leur soutirer toute l'information adéquate, c'est une vraie compétence pratique très utile !
+-   Je vous dis ça car nous **surévaluons** parfois la qualité de la description d'un document dans un outil de recherche (dans sa notice électronique, dans ses métadonnées). Or cela peut nous conduire à exiger des mots qui ne s'y trouvent pas et ainsi ne pas repérer les documents pertinents. En effet, chaque fois que vous exigez un nouveau mot, c'est comme si vous faites le **pari** que ce mot existe quelque part dans la description du document. Si le mot n'y figure pas, le fait de l'exiger va l'enlever des résultats.
+    -   Exemple : Je cherche un chapitre de livre en exigeant les mots du titre du chapitre du livre. Or, dans les collections de la bibliothèque, nous avons bel et bien ce livre. De plus, dans l'outil de recherche ou le catalogue informatique de la bibliothèque, nous avons la notice électronique du livre. Mais la notice électronique du livre ne contient pas la liste des chapitres. Donc je ne peux pas repérer le chapitre avec son titre. Il faut que je repère ce chapitre avec les mots présents dans le titre du livre seulement.
+    -   Les descriptions des notices électroniques des documents ne sont pas toutes semblables. D'une manière générale, on pourrait dire que des notices récentes sont plus riches et complètes, tandis que des notices plus anciennes sont plus sommaires (dans le sens où elles contiennent moins d'information).
+-   Une erreur courante consiste à utiliser des ET entre des mots issus d'un même concept, d'un même thème ou de thèmes proches. Par exemple, des synonymes ou des mots plus génériques et plus spécifiques. Voici un exemple évident :`prévention ET sensibilisation`. Ne le faites pas car vous exigez alors d'obtenir des résultats qui contiennent obligatoirement ces deux synonymes, ce qui est rare. En effet, dans le document et sa description, il y a sûrement l'un ou l'autre de ces mots mais rarement les deux.
+-   Petite anecdote : Google a été l'un des premiers moteurs de recherche du web à faire un ET efficace, sur le modèle des catalogues et des bases de données bibliographiques universitaires. Cela a été l'une des raisons de son succès. Notez que dans Google, l'ordre des mots à son importance pour l'affichage des résultats. Le premier mot exigé a plus de poids que le deuxième, le deuxième que le troisième, etc.
 
 ## Troncature\*
 
 -   C'est le deuxième opérateur le plus important.
 
--   Pourquoi ? Parce que dans la plupart des bases de données universitaires, si vous saisissez un mot le moteur de recherche ne va chercher que ce mot **exactement**.
+### Pourquoi ? 
 
+-   Parce que dans la plupart des bases de données universitaires, si vous saisissez un mot le moteur de recherche ne va chercher que ce mot **exactement**.
     -   Par exemple, si je demande le mot `femme`, les documents qui contiennent `femmes` au pluriel sont ignorés.
-
         -   Or, on n'est pas habitué à ça car Google fait cette recherche de mots semblables à notre place.
-
         -   Cependant, les outils universitaires sont **extrêmement précis et rigoureux** dans la syntaxe. C'est très pratique pour chercher des choses spécifiques, mais ceux qui ne connaissent pas ce principe passent à côté de plein de documents intéressants.
 
--   [Comment ?]{style="color: purple"}
+### Comment ?
 
-    -   [**Ajouter à un endroit stratégique vers la fin du mot une astérisque\* collée au mot.**]{style="color: purple"}
+-   **Ajouter à un endroit stratégique vers la fin du mot une astérisque\* collée au mot.**
 
-        -   [L'astérisque remplace aucune lettre ou une série variable de lettres.]{style="color: purple"}
+    -   L'astérisque remplace aucune lettre ou une série variable de lettres.
 
-        -   [Idéal pour repérer les féminins, les pluriels et les déclinaisons proches.]{style="color: purple"}
+    -   Idéal pour repérer les féminins, les pluriels et les déclinaisons proches.
 
-    -   [Exemples :]{style="color: purple"}
+-   Exemples :
 
-        -   [``` dementia elder``*`` board game``* ```]{style="color: purple"}
+    -   ``` dementia elder``*`` board game``* ```
 
-        -   [``` play``*`` kid``*`` memor``* ```]{style="color: purple"}
+    -   ``` play``*`` kid``*`` memor``* ```
 
-    -   Ne pas hésiter **à utiliser partout**, la majorité des moteurs de recherche universitaires savent l'utiliser.
+-   Ne pas hésiter **à utiliser partout**, la majorité des moteurs de recherche universitaires savent l'utiliser.
 
-        -   Par contre, comme c'est une opération informatique très gourmande en ressources, elle n'est pas disponible dans Google ou les grands moteurs du web (Bing, etc.). Ces outils font les recherches de féminins/masculins, singuliers/pluriels et déclinaisons proches pour vous à partir du mot que vous leur avez fournis.
+    -   Par contre, comme c'est une opération informatique très gourmande en ressources, elle n'est pas disponible dans Google ou les grands moteurs du web (Bing, etc.). Ces outils font les recherches de féminins/masculins, singuliers/pluriels et déclinaisons proches pour vous à partir du mot que vous leur avez fournis.
 
-        -   **Attention aux troncatures très courtes**, ça peut vous repérer n'importe quoi. Exemple : ``` cat``*`` ```
+    -   **Attention aux troncatures très courtes**, ça peut vous repérer n'importe quoi. Exemple : ``` cat``*`` ```
 
-    -   À l'exception de quelques bases de données de chimie ou de pharmacie, il n'est pas possible de faire de **troncature devant un mot**. Seulement à la fin.
+-   À l'exception de quelques bases de données de chimie ou de pharmacie, il n'est pas possible de faire de **troncature devant un mot**. Seulement à la fin.
 
 ## OR ( )
 
--   Pourquoi ?
+### Pourquoi ?
 
-    -   Très utile pour **regrouper des synonymes** dans un seul ensemble de résultats.
+-   Très utile pour **regrouper des synonymes** dans un seul ensemble de résultats.
 
-    -   En un seul clic, je peux lancer plusieurs recherches correspondant à plusieurs termes différents et avoir une seule liste de résultats à parcourir. Je gagne beaucoup de temps.
+-   En un seul clic, je peux lancer plusieurs recherches correspondant à plusieurs termes différents et avoir une seule liste de résultats à parcourir. Je gagne beaucoup de temps.
 
--   [Comment ?]{style="color: purple"}
+### Comment ?
 
-    -   [Dans une parenthèse, écrire tous les mots-clés et les séparer par OR (espace OR espace).]{style="color: purple"}
+-   Dans une parenthèse, écrire tous les mots-clés et les séparer par OR (espace OR espace).
 
-    -   [Exemples :]{style="color: purple"}
+-   Exemples :
 
-        -   [``` (dementia OR cogniti``*``) AND (elder``*`` OR aged) AND (board OR card OR role-play``*``) AND game``* ```]{style="color: purple"}
+    -   ``` (dementia OR cogniti``*``) AND (elder``*`` OR aged) AND (board OR card OR role-play``*``) AND game``* ```
 
-    -   Les **parenthèses** sont importantes pour bien grouper les mots, surtout si on rédige sa requête dans une seule case. Parfois, si on met tous les mots dans une seule case, la case fonctionne comme une parenthèse.
+-   Les **parenthèses** sont importantes pour bien grouper les mots, surtout si on rédige sa requête dans une seule case. Parfois, si on met tous les mots dans une seule case, la case fonctionne comme une parenthèse.
 
-## expression entre guillemets carrés
+## Expression entre guillemets carrés
 
--   Pourquoi ? Permet d'avoir **moins de résultats mais toujours pertinents**, ou bien de présenter les meilleurs résultats en premier.
+### Pourquoi ? 
 
-    -   En effet, mettre un groupe de mots entre guillemets carrées va chercher exactement ces mots dans l'ordre indiqué. S'il n'y a pas de guillemets, la machine va opérer un AND entre les mots (ce qui va chercher tous les mots mais n'importe où dans le document, donc quelques documents pertinents mais aussi un grand nombre de documents pas pertinents).
+-   Permet d'avoir **moins de résultats mais toujours pertinents**, ou bien de présenter les meilleurs résultats en premier.
 
--   [Comment ?]{style="color: purple"}
+    -   En effet, mettre un groupe de mots entre guillemets carrées va chercher exactement ces mots dans l'ordre indiqué.
+    -   S'il n'y a pas de guillemets, la machine va opérer un AND entre les mots (ce qui va chercher tous les mots mais n'importe où dans le document, donc quelques documents pertinents mais aussi un grand nombre de documents pas pertinents).
 
-    -   [Utiliser les guillemets carrés de votre clavier (clavier canadien ou américain : avec la touche 2).]{style="color: purple"}
+### Comment ?
 
-    -   [Ne pas utiliser les chevrons « » (guillemets triangulaires), ne pas utiliser les doubles apostrophes ' ' : cela ne fonctionne pas.]{style="color: purple"}
+-   Utiliser les guillemets carrés de votre clavier (clavier canadien ou américain : avec la touche 2).
 
-    -   [Choisir l'expression exacte à recherche.]{style="color: purple"}
+-   Ne pas utiliser les chevrons « » (guillemets triangulaires), ne pas utiliser les doubles apostrophes ' ' : cela ne fonctionne pas.
 
-        -   [Dans les bases de données universitaires, il est recommandé de commencer la recherche SANS les guillemets. Ensuite, s'il y a trop de résultats, on peut ajouter des guillemets si c'est applicable.]{style="color: purple"}
+-   Choisir l'expression exacte à recherche.
 
-        -   Les guillemets fonctionnent particulièrement bien dans Google et ses sous-produits (Google Scholar, etc.) car il y a toujours trop de résultats dans Google et on a besoin de bien ordonner les résultats pour faire apparaître les résultats pertinents en premier. De plus, encadrer UN mot ou plusieurs mots entre guillemets permet de forcer Google à chercher ce mot obligatoirement.
+    -   Dans les bases de données universitaires, il est recommandé de commencer la recherche SANS les guillemets. Ensuite, s'il y a trop de résultats, on peut ajouter des guillemets si c'est applicable.
 
-        -   C'est particulièrement utile pour :
+    -   Les guillemets fonctionnent particulièrement bien dans Google et ses sous-produits (Google Scholar, etc.) car il y a toujours trop de résultats dans Google et on a besoin de bien ordonner les résultats pour faire apparaître les résultats pertinents en premier. De plus, encadrer UN mot ou plusieurs mots entre guillemets permet de forcer Google à chercher ce mot obligatoirement.
 
-            -   Des expressions comme `effet de serre` ou `obligation de garantie`, etc.
+-   C'est particulièrement utile pour :
 
-            -   Des personnes `Pascal Martinolli` ou `Martinolli, Pascal`
+    -   Des expressions comme `effet de serre` ou `obligation de garantie`, etc.
 
-            -   Vérifier si une phrase d'un travail est issue d'un copier-coller du web : mettre la phrase (au complet ou partielle) entre guillemets dans la case de recherche de Google.
+    -   Des personnes `Pascal Martinolli` ou `Martinolli, Pascal`
+
+    -   Vérifier si une phrase d'un travail est issue d'un copier-coller du web : mettre la phrase (au complet ou partielle) entre guillemets dans la case de recherche de Google.
 
 ## NOT
 
--   Pourquoi ? Dans le cas où on a trop de résultats et que l'on remarque que beaucoup de résultats correspondent à un critère qui ne nous intéresse pas. On souhaite alors **enlever automatiquement** de la liste de résultats tous les documents qui correspondent à un ou plusieurs critères.
+### Pourquoi ?
 
--   [Comment ?]{style="color: purple"}
+-   Dans le cas où on a trop de résultats et que l'on remarque que beaucoup de résultats correspondent à un critère qui ne nous intéresse pas. On souhaite alors **enlever automatiquement** de la liste de résultats tous les documents qui correspondent à un ou plusieurs critères.
 
-    -   [Rédiger sa requête et, à la fin, ajouter l'opérateur NOT suivi du mot qui va éliminer tous les documents utilisant ce mot.]{style="color: purple"}
+-   Attention : c'est un opérateur à utiliser avec **précaution** car il peut invisibiliser des résultats pertinents.
 
-    -   [On peut supprimer plusieurs mots en ajoutant`NOT (mot1 OR mot2 OR mot3)`par exemple.]{style="color: purple"}
+    -   Par exemple : il est fortement déconseillés dans les revues de littérature très structurées comme les revues systématiques. Il vaut mieux rejeter des documents a posteriori et après jugement que d'utiliser NOT a priori.
 
--   [Exemples d'utilisation :]{style="color: purple"}
+### Comment ?
 
-    -   [Une recherche est envahie par des résultats d'un domaine complètement différent.]{style="color: purple"}
+-   Rédiger sa requête et, à la fin, ajouter l'opérateur NOT suivi du mot qui va éliminer tous les documents utilisant ce mot.
 
-        -   [Exemple :``` senateur``*`` Ottawa ```va donner des résultats de sport (puisqu'une équipe de hockey s'appelle les Sénateurs d'Ottawa) et des résultats de politique. Si on veut seulement des résultats de politiques, il faut utiliser`senateur Ottawa NOT hockey.`]{style="color: purple"}
+-   On peut supprimer plusieurs mots en ajoutant `NOT (mot1 OR mot2 OR mot3)`par exemple.
 
-    -   [On peut utiliser le NOT pour enlever des publications gouvernementales d'une liste de résultats.]{style="color: purple"}
+-   Exemples d'utilisation :
 
-        -   [Exemple :``` mon sujet NOT (gouvernement``*`` OR minist``*``) ```]{style="color: purple"}
+    -   Une recherche est envahie par des résultats d'un domaine complètement différent.
 
-    -   [On peut utiliser le NOT pour enlever des documents d'une discipline qui ne nous intéresse pas.]{style="color: purple"}
+        -   Exemple : ``` senateur``*`` Ottawa ```va donner des résultats de sport (puisqu'une équipe de hockey s'appelle les Sénateurs d'Ottawa) et des résultats de politique. Si on veut seulement des résultats de politiques, il faut utiliser `senateur Ottawa NOT hockey.`
 
-        -   [Exemple :``` drogue``*`` NOT (pharma``*`` OR biochim``*``) ```]{style="color: purple"}
+    -   On peut utiliser le NOT pour enlever des publications gouvernementales d'une liste de résultats.
+
+        -   Exemple : ``` mon sujet NOT (gouvernement``*`` OR minist``*``) ```
+
+    -   On peut utiliser le NOT pour enlever des documents d'une discipline qui ne nous intéresse pas.
+
+        -   Exemple : ``` drogue``*`` NOT (pharma``*`` OR biochim``*``) ```
 
 ## Autres
 

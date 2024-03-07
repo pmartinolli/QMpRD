@@ -40,7 +40,7 @@
 
     -   **... avec au moins un lien URL** vers un profil de votre choix (ORCID par exemple).
 
-### ORCID 
+### ORCID
 
 #### Pourquoi ?
 
@@ -88,7 +88,7 @@
 
 [^identitenumerique-4]: Ce n'est pas courant mais ça existe. Exemple : <https://scholar.google.ca/citations?hl=en&user=bIu8p48AAAAJ>
 
-#### Comment ? 
+#### Comment ?
 
 -   Ayez un compte Google et connectez-vous avec celui-ci, puis rendez-vous sur [Google Scholar](https://scholar.google.com/) puis *My profile*.
 -   Cliquez sur le bouton *Edit* (crayon) à droite de votre nom.
@@ -112,7 +112,7 @@
     -   Pour **rediriger** la navigation web des autres chercheuses et chercheurs qui visiteraient vos autres profils dans d'autres plateformes.
     -   Pour n'avoir qu'une page à **mettre à jour** régulièrement et de manière exhaustive.
 
-### Comment ? 
+### Comment ?
 
 -   Parmi toutes les pages de vos profils en ligne, choisissez-en une qui va devenir votre métaprofil.
     -   Elle devrait avoir l'information la plus **à jour** et la plus **complète**.
@@ -141,30 +141,30 @@
     -   Ayez le proxy fonctionnel ou soyez connecté depuis les Bibliothèques UdeM.
     -   Connectez vous à [Web of Science](https://www.webofscience.com) puis *Sign In*\> Utilisez votre ORCID pour vous connecter. Cliquez sur votre nom \> *My Profile*:*My researcher profile*.
 -   [idHAL](https://halshs.archives-ouvertes.fr/), si vous avez au moins une publication dans HAL.
-    -   Pour qui ? Surtout pour les chercheuses et chercheurs de France.
+    -   Pour qui ? Surtout pour les chercheuses et chercheurs avec un affiliation en France.
     -   Connexion avec votre ORCID, puis associez ou créez un idHAL.
     -   Possibilité d'avoir un curriculum vitae avec [cvHAL](https://cv.archives-ouvertes.fr/).
--   Identifiant **Wikidata**
-    -   Voir @sec-wikipourlarecherche pour indexer votre profil dans Wikidata et y aligner vos identifiants pérennes.
--   Et **Wikipédia** ? Au contraire de Wikidata, il est très très mal vu de rédiger sa propre page Wikipédia. Si vous voulez une page Wikipédia à votre nom, assurez-vous d'avoir une [notoriété](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Notori%C3%A9t%C3%A9_des_personnes#Scientifiques,_universitaires) suffisante et de faire rédiger la page par des personnes tierces qui auront déclarés leurs conflits d'intérêt.
+-   Wikimédia :
+    -   Identifiant Wikidata: Voir @sec-wikipourlarecherche pour indexer votre profil dans Wikidata et y aligner vos identifiants pérennes.
+    -   Wikipédia : Il est très très mal vu de rédiger une page Wikipédia sur soi-même. Si vous voulez une page Wikipédia à votre nom, assurez-vous d'avoir une [notoriété](#0) suffisante et de faire rédiger la page par des personnes tierces qui auront déclarés leurs conflits ou liens d'intérêt.
 
 ### Optionnel : créer des redirections
 
 -   Dans l'esprit de la stratégie « métaprofil ».
 -   Sur des sites institutionnels : votre département, votre laboratoire, votre centre de recherche, etc.
--   Sur des sites commerciaux de profils. Créer une page unique gratuite redirigeant vers votre métaprofil et vos autres plateformes ([LinkTree](https://linktr.ee/) ou[Wheretofindme](https://wheretofind.me/))
+-   Sur des sites commerciaux de profils. Créer une page unique gratuite redirigeant vers votre métaprofil et vos autres plateformes ([LinkTree](https://linktr.ee/) ou [Wheretofindme](https://wheretofind.me/)).
 
 ### Optionnel : réseautage professionnel ou universitaire
 
 -   [LinkedIn](https://ca.linkedin.com/) :
     -   Pour faire du réseautage professionnel (CV en ligne, contacts, billets courts ou articles longs).
-        -   Dans certains milieux de la recherche, c'est un outil de réseautage pertinent (service de soins de santé, éducation-ludification, etc.).
+    -   Dans certains milieux de la recherche (service de soins de santé, éducation-ludification, etc.), c'est un outil de réseautage pertinent.
 -   X/Twitter, Bluesky, Mastodon,... :
     -   Pour s'abonner à des flux d'information et redistribuer les plus intéressants (voir @sec-microbloguer).
 -   [ResearchGate](https://www.researchgate.net/) et [Academia.edu](https://www.academia.edu/) :
     -   Réseautage académique.
     -   Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
-    -   Risque de sollicitations par courriel fréquentes (pour vous et vos co-auteurs).
+    -   Risque de sollicitations fréquentes par courriel (pour vous et vos co-auteurs).
 
 ### Optionnel : promouvoir sa recherche
 
@@ -174,13 +174,12 @@ Voir @sec-promouvoir.
 
 -   Au moins une fois par trimestre, allez faire un tour sur votre métaprofil et vérifiez s'il est à jour.
 -   Au moins une fois par année, allez faire un tour sur chacun de vos profils sur les plateformes en ligne.
-    -   Optionnel : faites une recherche dans Google avec votre nom comme précédemment pour vérifier que des éditeurs prédateurs n'ont pas mis votre nom sur des faux comités scientifiques à votre insu (voir les éditeurs prédateurs @sec-predateurs).
-    -   Optionnel : créer une alerte dans Google Alerts <https://www.google.com/alerts> sur votre nom. Exemple `"Pascal Martinolli" OR "Martinolli, Pascal"`
--   Si possible, dans les plateformes qui offrent cette fonction, créez une alerte pour recevoir des notifications sur les documents qui vous citent ou citent vos travaux.
-    -   Exemple : l'option *Follow* dans Google Scholar.
--   En savoir plus sur les alertes : voir @sec-alertes.
+-   Optionnel :
+    -   Faites une recherche dans Google avec votre nom (comme vu précédemment) pour vérifier si des éditeurs prédateurs n'ont pas mis votre nom sur des faux comités scientifiques à votre insu (voir les éditeurs prédateurs @sec-predateurs).
+    -   Créez une alerte dans Google Alerts <https://www.google.com/alerts> sur votre nom. Exemple `"Pascal Martinolli" OR "Martinolli, Pascal"`
+    -   Dans les plateformes qui offrent cette fonction, créez d'autres alertes pour recevoir des notifications sur les citations que vous recevez, (voir @sec-alertes). Exemple : l'option *Follow* dans Google Scholar.
 
-## Signatures
+## Signatures et liens
 
 -   Utiliser un lien vers votre page de « métaprofil » :
     -   Dans vos signatures de courriel.

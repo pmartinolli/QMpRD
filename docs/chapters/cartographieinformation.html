@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Manuel pratique de recherche documentaire - 7&nbsp; Recherche documentaire par mot-clé</title>
+<title>Manuel pratique de recherche documentaire - 29&nbsp; Outils de cartographie de l’information</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../chapters/rechercheliste.html" rel="next">
-<link href="../chapters/phaserecherche.html" rel="prev">
+<link href="../chapters/terminalbash.html" rel="next">
+<link href="../chapters/thesaurus.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/phaserecherche.html">Phase de recherche exhaustive de documentation</a></li><li class="breadcrumb-item"><a href="../chapters/recherchemotcle.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Recherche documentaire par mot-clé</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/markdown.html">Au-delà de votre recherche : outils</a></li><li class="breadcrumb-item"><a href="../chapters/cartographieinformation.html"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Outils de cartographie de l’information</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -181,7 +181,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../chapters/recherchemotcle.html" class="sidebar-item-text sidebar-link active">
+  <a href="../chapters/recherchemotcle.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Recherche documentaire par mot-clé</span></span></a>
   </div>
 </li>
@@ -357,7 +357,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../chapters/cartographieinformation.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/cartographieinformation.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Outils de cartographie de l’information</span></span></a>
   </div>
 </li>
@@ -533,30 +533,20 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#principes-de-base" id="toc-principes-de-base" class="nav-link active" data-scroll-target="#principes-de-base"><span class="header-section-number">7.1</span> Principes de base</a></li>
-  <li><a href="#utiliser-un-minimum-de-mots" id="toc-utiliser-un-minimum-de-mots" class="nav-link" data-scroll-target="#utiliser-un-minimum-de-mots"><span class="header-section-number">7.2</span> Utiliser un minimum de mots</a></li>
-  <li><a href="#recherche-de-synonymes" id="toc-recherche-de-synonymes" class="nav-link" data-scroll-target="#recherche-de-synonymes"><span class="header-section-number">7.3</span> Recherche de synonymes</a>
+  <li><a href="#de-quoi-parle-t-on-cartographieinformation-1" id="toc-de-quoi-parle-t-on-cartographieinformation-1" class="nav-link active" data-scroll-target="#de-quoi-parle-t-on-cartographieinformation-1"><span class="header-section-number">29.1</span> De quoi parle-t-on ?</a></li>
+  <li><a href="#pourquoi-sont-ils-intéressants" id="toc-pourquoi-sont-ils-intéressants" class="nav-link" data-scroll-target="#pourquoi-sont-ils-intéressants"><span class="header-section-number">29.2</span> Pourquoi sont-ils intéressants ?</a></li>
+  <li><a href="#biais" id="toc-biais" class="nav-link" data-scroll-target="#biais"><span class="header-section-number">29.3</span> Biais</a></li>
+  <li><a href="#suggestions-doutils" id="toc-suggestions-doutils" class="nav-link" data-scroll-target="#suggestions-doutils"><span class="header-section-number">29.4</span> Suggestions d’outils</a>
   <ul class="collapse">
-  <li><a href="#où-trouver-des-synonymes" id="toc-où-trouver-des-synonymes" class="nav-link" data-scroll-target="#où-trouver-des-synonymes"><span class="header-section-number">7.3.1</span> Où trouver des synonymes ?</a></li>
+  <li><a href="#litmaps" id="toc-litmaps" class="nav-link" data-scroll-target="#litmaps"><span class="header-section-number">29.4.1</span> Litmaps</a></li>
+  <li><a href="#inciteful.xyz" id="toc-inciteful.xyz" class="nav-link" data-scroll-target="#inciteful.xyz"><span class="header-section-number">29.4.2</span> Inciteful.xyz</a></li>
+  <li><a href="#citationtree" id="toc-citationtree" class="nav-link" data-scroll-target="#citationtree"><span class="header-section-number">29.4.3</span> CitationTree</a></li>
+  <li><a href="#researchrabbit" id="toc-researchrabbit" class="nav-link" data-scroll-target="#researchrabbit"><span class="header-section-number">29.4.4</span> ResearchRabbit</a></li>
   </ul></li>
-  <li><a href="#combiner-les-mots-avec-des-opérateurs-logiques" id="toc-combiner-les-mots-avec-des-opérateurs-logiques" class="nav-link" data-scroll-target="#combiner-les-mots-avec-des-opérateurs-logiques"><span class="header-section-number">7.4</span> Combiner les mots avec des opérateurs logiques</a></li>
-  <li><a href="#rédiger-le-tout-dans-une-équation-de-recherche" id="toc-rédiger-le-tout-dans-une-équation-de-recherche" class="nav-link" data-scroll-target="#rédiger-le-tout-dans-une-équation-de-recherche"><span class="header-section-number">7.5</span> Rédiger le tout dans une équation de recherche</a></li>
-  <li><a href="#adapter-votre-recherche-à-loutil-interrogé" id="toc-adapter-votre-recherche-à-loutil-interrogé" class="nav-link" data-scroll-target="#adapter-votre-recherche-à-loutil-interrogé"><span class="header-section-number">7.6</span> Adapter votre recherche à l’outil interrogé</a>
+  <li><a href="#logiciels-de-visualisation" id="toc-logiciels-de-visualisation" class="nav-link" data-scroll-target="#logiciels-de-visualisation"><span class="header-section-number">29.5</span> Logiciels de visualisation</a>
   <ul class="collapse">
-  <li><a href="#tous-les-outils-ne-se-valent-pas" id="toc-tous-les-outils-ne-se-valent-pas" class="nav-link" data-scroll-target="#tous-les-outils-ne-se-valent-pas"><span class="header-section-number">7.6.1</span> Tous les outils ne se valent pas</a></li>
-  </ul></li>
-  <li><a href="#essai-erreur" id="toc-essai-erreur" class="nav-link" data-scroll-target="#essai-erreur"><span class="header-section-number">7.7</span> Essai-erreur</a></li>
-  <li><a href="#trier-filtrer-raffiner-limiter" id="toc-trier-filtrer-raffiner-limiter" class="nav-link" data-scroll-target="#trier-filtrer-raffiner-limiter"><span class="header-section-number">7.8</span> Trier filtrer, raffiner, limiter</a></li>
-  <li><a href="#plan-de-concepts" id="toc-plan-de-concepts" class="nav-link" data-scroll-target="#plan-de-concepts"><span class="header-section-number">7.9</span> Plan de concepts</a></li>
-  <li><a href="#champ-sujets" id="toc-champ-sujets" class="nav-link" data-scroll-target="#champ-sujets"><span class="header-section-number">7.10</span> Champ Sujets</a>
-  <ul class="collapse">
-  <li><a href="#utiliser-un-thésaurus" id="toc-utiliser-un-thésaurus" class="nav-link" data-scroll-target="#utiliser-un-thésaurus"><span class="header-section-number">7.10.1</span> Utiliser un thésaurus</a></li>
-  </ul></li>
-  <li><a href="#stratégies-de-recherche-avancée" id="toc-stratégies-de-recherche-avancée" class="nav-link" data-scroll-target="#stratégies-de-recherche-avancée"><span class="header-section-number">7.11</span> Stratégies de recherche avancée</a>
-  <ul class="collapse">
-  <li><a href="#documenter-son-parcours-de-recherche" id="toc-documenter-son-parcours-de-recherche" class="nav-link" data-scroll-target="#documenter-son-parcours-de-recherche"><span class="header-section-number">7.11.1</span> Documenter son parcours de recherche</a></li>
-  <li><a href="#utilisation-du-not-pour-un-thème-très-général" id="toc-utilisation-du-not-pour-un-thème-très-général" class="nav-link" data-scroll-target="#utilisation-du-not-pour-un-thème-très-général"><span class="header-section-number">7.11.2</span> Utilisation du NOT pour un thème très général</a></li>
-  <li><a href="#combiner-les-historiques-de-recherche" id="toc-combiner-les-historiques-de-recherche" class="nav-link" data-scroll-target="#combiner-les-historiques-de-recherche"><span class="header-section-number">7.11.3</span> Combiner les historiques de recherche</a></li>
+  <li><a href="#vos-viewer" id="toc-vos-viewer" class="nav-link" data-scroll-target="#vos-viewer"><span class="header-section-number">29.5.1</span> VOS Viewer</a></li>
+  <li><a href="#zoterornalysis" id="toc-zoterornalysis" class="nav-link" data-scroll-target="#zoterornalysis"><span class="header-section-number">29.5.2</span> ZoteroRnalysis</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -564,9 +554,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/phaserecherche.html">Phase de recherche exhaustive de documentation</a></li><li class="breadcrumb-item"><a href="../chapters/recherchemotcle.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Recherche documentaire par mot-clé</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/markdown.html">Au-delà de votre recherche : outils</a></li><li class="breadcrumb-item"><a href="../chapters/cartographieinformation.html"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Outils de cartographie de l’information</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="sec-recherchemotcle" class="quarto-section-identifier"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Recherche documentaire par mot-clé</span></span></h1>
+<h1 class="title"><span id="sec-cartographieinformation" class="quarto-section-identifier"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Outils de cartographie de l’information</span></span></h1>
 </div>
 
 
@@ -583,364 +573,125 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="principes-de-base" class="level2" data-number="7.1">
-<h2 data-number="7.1" class="anchored" data-anchor-id="principes-de-base"><span class="header-section-number">7.1</span> Principes de base</h2>
+<section id="de-quoi-parle-t-on-cartographieinformation-1" class="level2" data-number="29.1">
+<h2 data-number="29.1" class="anchored" data-anchor-id="de-quoi-parle-t-on-cartographieinformation-1"><span class="header-section-number">29.1</span> De quoi parle-t-on ?<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></h2>
 <ul>
-<li>La recherche de documents par mots-clés est souvent considérée comme la « voie royale » pour trouver des documents.
+<li>Depuis quelques années, plusieurs plateformes proposent des services en ligne de repérage et de visualisation de la littérature universitaire. On appelle souvent ces outils des <em>literature mapping tools</em> ou encore des <em>smart literature finders</em>.</li>
+<li>Ces plateformes sont principalement basées sur les données de citation en accès libre comme CrossRef, OpenCitation et autres.</li>
+</ul>
+</section>
+<section id="pourquoi-sont-ils-intéressants" class="level2" data-number="29.2">
+<h2 data-number="29.2" class="anchored" data-anchor-id="pourquoi-sont-ils-intéressants"><span class="header-section-number">29.2</span> Pourquoi sont-ils intéressants ?</h2>
 <ul>
-<li>C’est partiellement vrai car nous avons vu qu’il est déjà possible de trouver de la documentation pertinente avec des stratégies alternatives (cotes de classement, experts, liens de citation, etc.).</li>
-<li>Cependant, grâce aux outils informatiques, la recherche avec des mots-clés peut accélérer considérablement le repérage de résultats pertinents.</li>
+<li>Les principales fonctions de ces services sont :
+<ul>
+<li>« De compléter des revues de littérature avec des documents qui auraient pu nous échapper » ;
+<ul>
+<li>Bien que cette fonction soit mise en avant par ces outils, nos expérimentations n’ont pas remarqué que ces outils avaient repérés des documents qui avaient échappé à une solide revue de littérature classique par mots-clés. Ces outils peuvent parfois nous paraître un peu redondants à nous, bibliothécaires, mais ils semblent être très appréciés par certains usagers moins expérimentés..</li>
+<li>Hypothèse (non-vérifiée) : ces outils permettraient de repérer des documents de méthodologie pertinents n’utilisant pas des mots-clés de la revue de littérature.</li>
 </ul></li>
-<li>Les mots-clés sont :
+<li>De valider la revue de littérature que nous avons déjà rassemblée ;</li>
+<li>De visualiser le graphe de citation de la littérature sélectionnée ;
 <ul>
-<li>collectés avec les <strong>synonymes</strong> dans des <strong>plans de concepts</strong> ;</li>
-<li>combinés entre eux avec des <strong>opérateurs</strong> ;</li>
-<li>pour construire des <strong>équations</strong> de recherche :
-<ul>
-<li>qui sont appliquées sur des <strong>champs</strong> choisis</li>
-<li>et qui sont <strong>adaptées</strong> et <strong>raffinées</strong> selon les fonctionalités des outils de recherche.</li>
+<li>Pour mieux contextualiser chaque élément et pour mieux l’évaluer.</li>
+<li>Pour hiérarchiser l’engagement à avoir par rapport à la littérature sélectionnée (quelle étude lire en premier, etc.).</li>
 </ul></li>
-</ul></li>
-<li>Bonne pratique :
-<ul>
-<li>Commencer le gros du travail de repérage avec de nombreux essais-erreurs de mots-clés et terminer avec une autre stratégie :</li>
-<li>Trier, filtrer, raffiner les résultats.</li>
-<li>Parcourir les résultats avec le regard et son propre jugement (confortable quand il y a moins de 100 résultats).</li>
+<li>De s’initier de manière pratique aux notions de données liées, de graphes de citation, de données de citation ouvertes, aux identifiants pérennes, etc.</li>
 </ul></li>
 </ul>
 </section>
-<section id="utiliser-un-minimum-de-mots" class="level2" data-number="7.2">
-<h2 data-number="7.2" class="anchored" data-anchor-id="utiliser-un-minimum-de-mots"><span class="header-section-number">7.2</span> Utiliser un minimum de mots</h2>
+<section id="biais" class="level2" data-number="29.3">
+<h2 data-number="29.3" class="anchored" data-anchor-id="biais"><span class="header-section-number">29.3</span> Biais</h2>
 <ul>
-<li><strong>Plus vous saisissez de mots</strong> dans une case de recherche, <strong>moins vous aurez de résultats</strong>.
-<ul>
-<li>C’est un peu contre-intuitif, non ? En effet, quand un humain pose une question à un autre humain, plus il formule sa demande avec beaucoup d’informations, plus l’autre humain va être capable de comprendre la question et d’y répondre de manière adaptée.</li>
-<li>Mais quand on parle à une machine, c’est presque l’inverse de parler à un humain. Plus on ajoute des choses, moins la machine va nous renvoyer de résultats.</li>
-<li>Ainsi, la plupart des moteurs de recherche vont renvoyer une liste de résultats où chaque résultat doit contenir tous les mots exigés.
-<ul>
-<li>Chaque mot-clé ajouté agit comme un filtre qui réduit le nombre de résultats. Car chaque mot exigé doit se retrouver dans chacun des résultats.</li>
-</ul></li>
-</ul></li>
-<li>Bonnes pratiques découlant de ce principe : <strong>Utiliser le moins de mots-clés possibles pour lancer une requête</strong>.
-<ul>
-<li><strong>Tester</strong> d’abord un outil de recherche avec <strong>UN (1) mot-clé</strong>
-<ul>
-<li>ou une expression courte la plus importante de votre sujet</li>
-<li>qui doit apparaître dans chaque résultat</li>
-<li>S’il y a des résultats intéressants, continuez : consultez la liste de résultats ou ajoutez un nouveau mot-clé pour réduire la liste de résultats.</li>
-<li>S’il n’y a pas de résultats intéressants :
-<ul>
-<li>changez de mot-clé avec un <strong>synonyme</strong> <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></li>
-<li>ou changez de base de données.</li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li>Extraire et grouper les principaux mots-clés
-<ul>
-<li><strong>Extraire</strong> tous les principaux mots-clés qui signifient un thème, un concept, une idée.</li>
-<li><strong>Grouper</strong> ces mots en colonnes : vérifier si certains mots-clés peuvent être regroupés sous un seul thème (ça peut être des mots plus spécifiques, ou des termes proches, ou des mots opposés, etc. mais qui au final parlent presque de la même chose). Plutôt que d’exiger les deux, juger si on peut les regrouper dans une même thématique pour demander l’un ou l’autre.</li>
-<li>Essayer d’avoir entre 2 et 4 groupes de mots maximum. En effet, chaque fois que vous rajoutez un groupe de mots, vous pouvez potentiellement diviser par 100 ou 1000 le nombre de résultats. Ça descend très vite.</li>
-<li><strong>Hiérarchiser</strong> ces colonnes ou groupements de mots, du plus important au moins important. Par exemple, on peut <strong>numéroter</strong> les groupes/colonnes ci-dessus.</li>
-</ul></li>
-<li><strong>Éliminer</strong> les mots vides (<em>stopwords</em>) :
-<ul>
-<li>prépositions, articles, conjonctions, etc.
-<ul>
-<li>Exemples : le, la, les, un, une, des, car, contre, pourquoi, dans, etc.</li>
-</ul></li>
-<li>TRÈS IMPORTANT : Éliminer les termes <strong>non thématiques</strong> qui traduisent des <strong>dynamiques</strong> ou des <strong>relations</strong>.
-<ul>
-<li>En effet, contre-intuitivement on pourrait penser que ce sont des mots intéressants mais il n’en est rien. Ce sont des mots vides qui bloquent le repérage de documents pertinents. Ils sont seulement utiles POUR VOTRE REGARD, quand vous parcourez une liste de résultats avec vos yeux et votre jugement. C’est une des principales raisons de blocage de résultats. Tenter de les éliminer le plus possible. Dans le doute sur un mot, ne pas l’utiliser.</li>
-<li>Exemples de mots vides communs : effets, croissance, augmentation, réduction, impact, facteur, taux, conséquence, contrecoup, effet, relation, rôle, influence, portée, condition, négatif, positif, résultat, etc.</li>
-</ul></li>
-</ul></li>
+<li>Les recherches dans ces outils sont très inégales selon les disciplines, voire même selon les sous-disciplines.</li>
+<li>Les documents avec DOI et les documents de langue anglaise sont sur-représentés.</li>
+<li>Parfois ces outils ne repèrent pas les documents récents car les données de citation ne sont pas intégrées régulièrement.</li>
+<li>Il y a globalement peu de transparence dans les algorithmes de recommandation des articles (« <em>similar articles</em> » , etc.) donc peu de reproductibilité et peu de prédictibilité des résultats. Autre manque de transparence : il faut chercher un peu pour connaître la composition du corpus documentaire de ces outils.</li>
+<li>Il peut y avoir des changements soudains de modèle économique qui changent les modalités d’accès à certains outils. Certains peuvent même être fusionnés avec d’autres ou disparaître. Cela nous oblige à faire veille sur ce que l’on compte recommander.</li>
+<li>En raison des fonctions de repérage et de visualisation, il peut y avoir un « effet gadget » que certains chercheurs vont apprécier et que d’autres vont rejeter.</li>
 </ul>
 </section>
-<section id="recherche-de-synonymes" class="level2" data-number="7.3">
-<h2 data-number="7.3" class="anchored" data-anchor-id="recherche-de-synonymes"><span class="header-section-number">7.3</span> Recherche de synonymes</h2>
+<section id="suggestions-doutils" class="level2" data-number="29.4">
+<h2 data-number="29.4" class="anchored" data-anchor-id="suggestions-doutils"><span class="header-section-number">29.4</span> Suggestions d’outils</h2>
+<p>Il existe une grande variété d’outils offrant parfois des fonctionnalités très différentes et originales.</p>
+<section id="litmaps" class="level3" data-number="29.4.1">
+<h3 data-number="29.4.1" class="anchored" data-anchor-id="litmaps"><span class="header-section-number">29.4.1</span> <a href="https://www.litmaps.com/">Litmaps</a></h3>
 <ul>
-<li><p>Pourquoi ? Les mots que vous avez extrait de votre sujet sont surement très intéressant MAIS :</p>
+<li>À partir d’un article ou d’un ensemble d’articles, créer une carte (seed map) constituée d’une liste de références.</li>
+<li>Créé par une petite entreprise néo-zélandaise en 2016.</li>
+<li>Nécessite de se créer un compte (gratuit en février 2023). Litmaps Free permet d’entrer 20 “input articles”. Litmaps Pro (10$/mois) donne accès à un nombre illimité de recherches.</li>
+<li>Basé sur les graphes de citations de: OpenAlex, Crossref and Semantic Scholar Academic Graph. Seulement les éléments avec des DOI.</li>
+<li>Une séquence d’utilisation typique :</li>
+<li>Créer un nouvel espace de travail (Workspace) puis une nouvelle carte (Map). Débuter la nouvelle carte avec un article ou un ensemble d’articles.</li>
+<li>Litmaps créé une nouvelle carte avec des suggestions.
 <ul>
-<li>Ce ne sont peut-être pas les mots employés par les chercheurs dans leurs documents.</li>
-<li>Il est possible que le terme ait changé dans le temps ou qu’un autre terme lui soit préféré dans d’autres disciplines .
-<ul>
-<li>Exemple : le terme <em>gamification</em> est apparu en 2008 mais l’utilisation de mécaniques de jeu pour motiver ou améliorer des expériences existait depuis longtemps sous une multitude de termes.</li>
-<li>Exemple : <em>immersion</em> dans les jeux vidéo et <em>transportation</em> dans la littérature.</li>
+<li>Décocher les articles non-pertinents pour les faire disparaître de la carte (à partir du menu-liste en bas à droite, cocher x).</li>
+<li>Cliquer sur l’onglet Explore et ajouter de nouveaux articles (à partir du menu-liste en bas à droite, cocher +).</li>
+<li>Alterner entre les onglets Map et Explore pour améliorer votre sélection.</li>
 </ul></li>
-<li>Il y a peut être plusieurs termes pour parler de la même chose.</li>
-<li>Le terme pourrait n’exister qu’en anglais ou qu’en français, ou bien il existerait plusieurs traduction du terme dans une autre langue (ex: <em>game</em> et <em>play</em> en anglais pour jeu en français).</li>
-</ul></li>
-<li><p>Comment ?</p>
-<ul>
-<li>Pour chaque mot thématique extrait de votre sujet de recherche, on va lister le plus possible de termes « synonymes ». J’entends par synonymes non seulement des termes qui veulent dire exactement la même chose mais aussi tous les mots qui « tournent » autour du même thème :
-<ul>
-<li>Des mots plus <strong>précis</strong>;</li>
-<li>Des mots plus larges, plus <strong>généraux</strong>;</li>
-<li>Des mots <strong>opposés</strong>;</li>
-<li>Des termes <strong>proches</strong>, sur des sujets <strong>connexes</strong> en lien avec le sujet principal;</li>
-<li>Des mots en <strong>anglais</strong>.</li>
-</ul></li>
-<li>C’est un gros travail, mais c’est un travail essentiel. Il est possible que vous repériez encore des nouveaux synonymes dans quelques mois et que cela étende votre sujet de recherche vers de nouveaux horizons.</li>
-</ul></li>
+<li>Lorsque satisfait, exporter votre sélection au format BibTeX vers votre logiciel bibliographique.</li>
 </ul>
-<section id="où-trouver-des-synonymes" class="level3" data-number="7.3.1">
-<h3 data-number="7.3.1" class="anchored" data-anchor-id="où-trouver-des-synonymes"><span class="header-section-number">7.3.1</span> Où trouver des synonymes ?</h3>
+</section>
+<section id="inciteful.xyz" class="level3" data-number="29.4.2">
+<h3 data-number="29.4.2" class="anchored" data-anchor-id="inciteful.xyz"><span class="header-section-number">29.4.2</span> <a href="https://inciteful.xyz/">Inciteful.xyz</a></h3>
 <ul>
-<li>Ma préférence : dans les <strong>résultats de recherche</strong> des requêtes que vous avez déjà lancé.
+<li>Considéré comme un outil de type <em>Smart Literature Finder</em>.</li>
+<li>Créé par Michael Weishuhn, un entrepreneur anglais, depuis 2020.</li>
+<li>Pas besoin de créer un compte, accès ouvert et libre (février 2023).</li>
+<li>À partir d’un article ou d’un ensemble d’articles, permet de repérer des références qui citent les mêmes sources (<em>Similar Papers</em>) et de repérer des références très citées ou incontournables (<em>Most Important Papers in the Graph</em>) ou la distance entre deux articles (et le chemin).</li>
+<li>Les <em>similar papers</em> tendent à être plus récents, les most important papers tendent à être plus anciens.</li>
+<li>Fonctionne de deux manières:</li>
+<li>On recherche un article de départ (<em>seed paper</em>) pour se construire un réseau de références, histoire de trouver la littérature la plus pertinente;</li>
+<li>On sélectionne deux articles pour voir comment la littérature les connecte.</li>
+<li>Basé sur les graphes de citations de : OpenAlex, Crossref, OpenCitations, Semantic Scholar Academic Graph.</li>
+</ul>
+</section>
+<section id="citationtree" class="level3" data-number="29.4.3">
+<h3 data-number="29.4.3" class="anchored" data-anchor-id="citationtree"><span class="header-section-number">29.4.3</span> <a href="https://www.citationtree.org/">CitationTree</a></h3>
 <ul>
-<li>Principalement, dans les champs Titre, Résumé et Mots-clés (ou Sujets).</li>
-<li>Dans les thésaurus de certaines bases de données (les mots des champs Sujets sont souvent issus d’un thésaurus (voir <a href="thesaurus.html" class="quarto-xref"><span>Chapter 28</span></a>). Notez qu’un des objectifs d’un thésaurus est de soutenir, voire de remplacer, le travail sur les synonymes puisque celui-ci est fait par la base de données. Ce travail est plus ou moins bien fait selon la base de données.</li>
-</ul></li>
-<li>Dans des <strong>dictionnaires</strong> de synonymes ou de langue, ou des <strong>thésaurus</strong> documentaires.</li>
-<li>Dans les <strong>bibliographies</strong> et les <strong>tables des matières</strong> de documents pertinents.</li>
-<li>En lançant des commandes dans des <strong>modèles de langue</strong> (<em>LLM</em>) comme ChatGPT.</li>
-<li>Dans les articles d’<strong>encyclopédies</strong> (dont Wikipédia). Parfois, vous trouverez un index des thèmes de l’encyclopédie avec des renvois. C’est-à-dire que plusieurs termes (synonymes) peuvent renvoyer à un terme commun.</li>
-<li>Dans ce répertoire de <strong>recension</strong> de mots-clés pour des sujets courants en dans le domaine de la santé<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</li>
-<li>Dans votre <strong>cerveau</strong>.</li>
+<li>Explorer l’essentiel d’une bibliographie et de son arbre de citations à partir du DOI d’un article source.</li>
+<li>Basé sur le graphe de citations de Crossref et Semantic Scholar.</li>
+<li>Soumettre le DOI d’un article pertinent et générer l’arbre de sa bibliographie.</li>
+</ul>
+</section>
+<section id="researchrabbit" class="level3" data-number="29.4.4">
+<h3 data-number="29.4.4" class="anchored" data-anchor-id="researchrabbit"><span class="header-section-number">29.4.4</span> <a href="https://www.researchrabbit.ai/">ResearchRabbit</a></h3>
+<ul>
+<li>À partir d’un article ou un ensemble d’articles, augmenter la collection de vos résultats pertinents en repérant qui les a cité et quels sont leurs bibliographies, leurs auteurs, etc.</li>
+<li>Se créer un compte.</li>
+<li>Créer une nouvelle collection de référence avec <em>New Collection.</em></li>
+<li>Ajouter un ou plusieurs articles dans cette collection avec <em>Add Papers</em>. Possibilité d’ajouter des documents en lot au format BibTeX ou RIS.</li>
+<li>Augmenter la collection avec les options :</li>
+<li><em>Similar papers</em> (bof),</li>
+<li><em>All references</em> (ce qui a été cité en bibliographie des documents de la collection : pas mal),</li>
+<li><em>All Citations</em> (les documents qui ont cité les documents de la collection : pas mal),</li>
+<li><em>These Authors</em> (les autres publications des auteurs des documents de la collection : pas mal).</li>
+<li>Recommencer encore et encore. Des vues graphiques en réseau sont utilisables.</li>
+<li>Synchronisable avec Zotero.</li>
 </ul>
 </section>
 </section>
-<section id="combiner-les-mots-avec-des-opérateurs-logiques" class="level2" data-number="7.4">
-<h2 data-number="7.4" class="anchored" data-anchor-id="combiner-les-mots-avec-des-opérateurs-logiques"><span class="header-section-number">7.4</span> Combiner les mots avec des opérateurs logiques</h2>
+<section id="logiciels-de-visualisation" class="level2" data-number="29.5">
+<h2 data-number="29.5" class="anchored" data-anchor-id="logiciels-de-visualisation"><span class="header-section-number">29.5</span> Logiciels de visualisation</h2>
 <ul>
-<li>Voir <a href="operateurs.html" class="quarto-xref"><span>Chapter 20</span></a></li>
+<li>Les logiciels de visualisation bibliométriques tels que VosViewer ou CiteSpace sont principalement destinés à visualiser de grands corpus existants et non pas à repérer de la littérature.</li>
+<li>Ils permettent d’avoir une vue d’ensemble sur un corpus déjà constitué. Ils peuvent être utiles lorsqu’on veut débroussailler un sujet et faire ressortir des réseaux de termes, de revues ou d’auteurs importants.</li>
+<li>En général, les outils sont difficiles à manipuler et des compétences en bibliométrie sont parfois nécessaires pour comprendre les éléments à paramétrer.</li>
+<li>Typiquement, vous avez déjà un ensemble de plusieurs centaines de références, vous les exportez dans un logiciel comme VOSviewer et vous paramétrer les visualisations pertinentes.</li>
+</ul>
+<section id="vos-viewer" class="level3" data-number="29.5.1">
+<h3 data-number="29.5.1" class="anchored" data-anchor-id="vos-viewer"><span class="header-section-number">29.5.1</span> <a href="https://www.vosviewer.com/">VOS Viewer</a></h3>
+<ul>
+<li>À installer. Paramétrage complexe. Fonctionnalités en développement constant.</li>
 </ul>
 </section>
-<section id="rédiger-le-tout-dans-une-équation-de-recherche" class="level2" data-number="7.5">
-<h2 data-number="7.5" class="anchored" data-anchor-id="rédiger-le-tout-dans-une-équation-de-recherche"><span class="header-section-number">7.5</span> Rédiger le tout dans une équation de recherche</h2>
+<section id="zoterornalysis" class="level3" data-number="29.5.2">
+<h3 data-number="29.5.2" class="anchored" data-anchor-id="zoterornalysis"><span class="header-section-number">29.5.2</span> <a href="https://github.com/pmartinolli/ZoteroRnalysis">ZoteroRnalysis</a></h3>
 <ul>
-<li>C’est une combinaison de plusieurs mots-clés et d’opérateurs logiques.</li>
-<li>Certains outils sont très perfectionnés et permettent des équations de recherche très avancées. À l’inverse, certains outils sont rudimentaires : une équation de recherche avancée (même si elle est exacte et valide formellement), va engendrer une incompréhension de la machine et des résultats non pertinents.</li>
-<li>Il est possible de rédiger son équation de recherche dans une seule case, mais avec certains outils il est aussi souvent possible de la décomposer en plusieurs lignes. Chaque ligne correspond à un thème de recherche pour lequel on indique plusieurs synonymes séparés par des OR. Chaque ligne est ensuite combinée avec la ligne du dessous avec un AND ou un NOT. Souvent la case de chaque ligne constitue une parenthèse invisible.</li>
-</ul>
-</section>
-<section id="adapter-votre-recherche-à-loutil-interrogé" class="level2" data-number="7.6">
-<h2 data-number="7.6" class="anchored" data-anchor-id="adapter-votre-recherche-à-loutil-interrogé"><span class="header-section-number">7.6</span> Adapter votre recherche à l’outil interrogé</h2>
-<ul>
-<li>Un être humain doit savoir <strong>parler à un système informatique</strong> (via des mots-clés et des opérateurs) pour formuler des requêtes et recevoir des résultats adaptés à son besoin d’information.
-<ul>
-<li>Notez aussi qu’il va falloir adapter votre grammaire aux systèmes informatiques que vous interrogez.
-<ul>
-<li>En effet, certains systèmes informatiques sont très performants et ils comprennent une grammaire de haut niveau, c’est-à-dire avec un grand nombre de mots-clés et d’opérateurs logiques différents.</li>
-<li>D’autres systèmes informatiques sont très rudimentaires, il va donc falloir réduire votre niveau de langage et « leur parler plus simplement », c’est à dire avec peu de mots-clés et peu d’opérateurs.</li>
-</ul></li>
-<li>Enfin, notez qu’il est possible que des opérateurs soient exprimés différemment selon les systèmes informatiques. En effet, même s’il existe une grammaire commune, il peut y avoir des variantes de temps en temps. Donc n’hésitez pas à consulter les guides et les aides de ces systèmes informatiques pour améliorer vos résultats.</li>
-</ul></li>
-</ul>
-<section id="tous-les-outils-ne-se-valent-pas" class="level3" data-number="7.6.1">
-<h3 data-number="7.6.1" class="anchored" data-anchor-id="tous-les-outils-ne-se-valent-pas"><span class="header-section-number">7.6.1</span> Tous les outils ne se valent pas</h3>
-<ul>
-<li>Certains outils maintiennent des bases de données de grande qualité :
-<ul>
-<li>extrêmement bien structurées,</li>
-<li>avec du personnel qualifié qui améliore chaque enregistrement avec des mots-clés thématiques issus d’un thésaurus ou d’autres renseignements de haute valeur ajoutée (type de méthode utilisée, type de publication, etc.)</li>
-<li>avec un moteur de recherche capable de comprendre des requêtes complexes,</li>
-<li>avec une sélection rigoureuse des chaque source indexée, etc.</li>
-</ul></li>
-<li>À l’opposé, d’autres outils ont un moteur de recherche extrêmement sommaire.</li>
-<li>Il va falloir adapter ses requêtes en fonction du type de moteur de recherche.
-<ul>
-<li>Exemple : peut-on utiliser des troncatures dans des guillemets ? Il est tentant de lancer une recherche avec <code>jeu``*`` de société</code> mais toutes les bases de données ne sont pas capable d’interpréter correctement cette syntaxe. Si cela ne fonctionne pas, il faut lancer la recherche avec <code>jeu de société OR jeu de société</code> ou bien plus simplement <code>(jeu OR jeux) société</code></li>
-</ul></li>
-<li>Particularités de chaque type d’outils : voir <a href="recherchebdd.html" class="quarto-xref"><span>Chapter 9</span></a></li>
-</ul>
-</section>
-</section>
-<section id="essai-erreur" class="level2" data-number="7.7">
-<h2 data-number="7.7" class="anchored" data-anchor-id="essai-erreur"><span class="header-section-number">7.7</span> Essai-erreur</h2>
-<ul>
-<li>Avant les années 80, les bases de données faisaient payer chaque requête de recherche soumise. Ce n’est plus le cas aujourd’hui (sauf dans quelques rares domaines), donc n’hésitez pas à lancer des recherches, revenir en arrière, reformuler, recommencer, tout recommencer, etc.</li>
-<li>Commencez par <strong>un seul mot</strong> pour « tester » la base de données. Puis, si c’est concluant, poursuivez et ajoutez progressivement des mots-clés.</li>
-<li>Ne faites pas reposer toute votre recherche sur les mots-clés :
-<ul>
-<li>Une fois à une centaine de résultats ou moins, parcourez les résultats avec le regard et votre jugement.</li>
-<li>Utilisez aussi les options de tri, de filtre, de raffinement, de limitation (voir ci-dessous).</li>
-<li>Annoter ce qui fonctionne bien et ce qui ne fonctionne pas, pour capitaliser sur les bonnes pratiques à appliquer ensuite dans d’autres bases de données (voir ci-dessous).</li>
-</ul></li>
-<li>Astuce : certains outils de recherche ont toujours du mal avec les accents car ils sont programmés dans des langages informatiques anglo-saxons sans accents. Si les recherches sont infructueuses, tentez sans accent. Exemple : Jérôme Mùñoz-Außerdem -&gt; Jerome Munoz-Ausserdem.</li>
-</ul>
-</section>
-<section id="trier-filtrer-raffiner-limiter" class="level2" data-number="7.8">
-<h2 data-number="7.8" class="anchored" data-anchor-id="trier-filtrer-raffiner-limiter"><span class="header-section-number">7.8</span> Trier filtrer, raffiner, limiter</h2>
-<ul>
-<li>Pourquoi ?
-<ul>
-<li>Varier les stratégies de recherche (pour ne pas faire reposer toute votre recherche sur les mots-clés).</li>
-<li>Certaines variables (comme la date de publication) sont utilisables seulement à partir de ces fonctions.</li>
-</ul></li>
-<li>Comment ?
-<ul>
-<li>Lancer une requête puis attendez que la liste de résultats s’affiche.</li>
-<li>En haut de la liste de résultats devrait apparaître une option de<strong>tri des résultats</strong>. Les tris les plus intéressants sont :
-<ul>
-<li>par nombre de citations (du plus cité au moins cité). Pas disponible dans toutes les bases de données.</li>
-<li>par date (du plus récent au plus ancien).</li>
-<li>par « pertinence » : Attention : le tri par dit par pertinence (<em>relevance</em>) est souvent un tri automatique effectué par des algorithmes de la base de données et il est rare que l’on connaisse la recette de ces algorithmes. Donc, la pertinence est très relative.</li>
-</ul></li>
-<li>Sur le côté droit ou gauche devrait apparaître un menu avec des options de filtrage, de raffinement ou de limitation. Ces catégories sont parfois nommées<strong>facettes</strong>. Les plus intéressants sont :
-<ul>
-<li>Par discipline.</li>
-<li>Par date.</li>
-<li>Par type de document :
-<ul>
-<li>Tous les types de documents ne se valent pas (voir le chapitre sur les Types de document).</li>
-<li>Choisir de préférence<em>Article</em>ou<em>Review Article</em>.</li>
-<li>Certaines bases de données proposent aussi de filtrer les articles qui sont issus de revues avec<strong>révision par les pairs</strong>. Cette notion peut se nommer de manière très différente d’une base de données à l’autre.<strong>BIB+</strong></li>
-</ul></li>
-<li>Par langue. NB: parfois vous demandez des références de documents en français seulement et… dans les résultats se trouvent encore beaucoup de références en anglais. C’est parce que le document original en bout de ligne (ou en bout de clic) est bien en français, mais sa fiche de référence dans la base de données est en anglais. En effet, le titre et le résumé ont été traduit en anglais pour donner une visibilité plus internationale à un article non anglophone.</li>
-<li>Par sujets. Attention, certaines références de document n’ont pas de sujets, ou bien les sujets ne sont pas bien indexés, alors il se peut que ce filtrage ne soit pas pertinent.</li>
-<li>Par type de méthode : dans certaines bases de données spécialisées (PsycInfo, etc.).</li>
-</ul></li>
-</ul></li>
-</ul>
-</section>
-<section id="plan-de-concepts" class="level2" data-number="7.9">
-<h2 data-number="7.9" class="anchored" data-anchor-id="plan-de-concepts"><span class="header-section-number">7.9</span> Plan de concepts</h2>
-<ul>
-<li>Il est fortement recommandé de lister tous les mots-clés de son sujet de recherche sous la forme de colonnes groupant les synonymes par thèmes.</li>
-<li>Ce tableau exhaustif s’appelle un <strong>plan de concept</strong>.</li>
-</ul>
-<table class="table">
-<thead>
-<tr class="header">
-<th style="text-align: center;">Thème de recherche 1</th>
-<th style="text-align: center;">Thème de recherche 2</th>
-<th style="text-align: center;">Thème de recherche 3</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">démence</td>
-<td style="text-align: center;">personnes âgées</td>
-<td style="text-align: center;">jeu de société</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">cognition</td>
-<td style="text-align: center;">vieux</td>
-<td style="text-align: center;">jeu de carte</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">mémoire</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>En médecine, pour répondre à une question de recherche clinique, on utilise ce plan de concept suivant la méthode nommée <strong>PICO</strong> où chaque colonne correspond à un thème précis :
-<ul>
-<li>P pour Population (ou Patient ou Problème)</li>
-<li>I pour Intervention</li>
-<li>C pour Comparativement à…</li>
-<li>et O pour <em>Outcomes</em> (résultats) <a href="https://bib.umontreal.ca/sciences-sante/pratique-factuelle?tab=1994" class="uri">https://bib.umontreal.ca/sciences-sante/pratique-factuelle?tab=1994</a>.
-<ul>
-<li>Notez un élément très intéressant : La colonne O des résultats n’est PAS une colonne de mots-clés pertinents. En effet, cette colonne est l’équivalent des mots vides ou des mots inutiles ou des mots bloquants pour la recherche que nous avons vu précédemment.</li>
-</ul></li>
-</ul></li>
-</ul>
-</section>
-<section id="champ-sujets" class="level2" data-number="7.10">
-<h2 data-number="7.10" class="anchored" data-anchor-id="champ-sujets"><span class="header-section-number">7.10</span> Champ Sujets</h2>
-<ul>
-<li>Pourquoi c’est important ?
-<ul>
-<li><p>Parce que c’est le champ le plus pertinent dans une description de document. Il contient des mots décrivant le coeur de ce dont parle le document (les thèmes abordés les plus importants).</p>
-<table class="table">
-<colgroup>
-<col style="width: 68%">
-<col style="width: 31%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Chercher vos mots-clés dans les champs</th>
-<th style="text-align: center;">Résultats</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">Titre seulement **T</td>
-<td style="text-align: center;">rop peu** de résultats</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>Sujets</strong> seulement</td>
-<td style="text-align: center;">Pertinents</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">Titre + <strong>Sujets</strong> + Résumé</td>
-<td style="text-align: center;">Pertinents</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">Partout (toutes les métadonnées de description + le texte intégral)</td>
-<td style="text-align: center;"><strong>Trop</strong> de résultats</td>
-</tr>
-</tbody>
-</table></li>
-</ul></li>
-<li>Vocabulaire contrôlé :
-<ul>
-<li>Le champ Sujets est parfois alimenté par les auteurs du document, dans ce cas on parle de <strong>mots-clés non contrôlés</strong>.</li>
-<li>Plus intéressant : parfois, le champ Sujets est alimenté par des bibliothécaires qui travaillent pour l’outil de recherche (le catalogue d’institution, la base de données, etc.). Dans ce cas, les mots-clés utilisés sont issus d’une <strong>liste contrôlée de mots-clés.</strong> On dit aussi un <strong>thésaurus</strong> (voir ci-dessous).</li>
-</ul></li>
-<li>Astuces :
-<ul>
-<li>Le champ Sujets peut s’appeler de plein de manières différentes : <em>subject headings</em>, <em>subjects</em>, vedettes-matières, mots-clés, descripteurs, <em>descriptors</em>, <em>tags</em>, <em>keywords</em>, etc.</li>
-</ul></li>
-</ul>
-<section id="utiliser-un-thésaurus" class="level3" data-number="7.10.1">
-<h3 data-number="7.10.1" class="anchored" data-anchor-id="utiliser-un-thésaurus"><span class="header-section-number">7.10.1</span> Utiliser un thésaurus</h3>
-<ul>
-<li>Si la base de données possède un thésaurus, il peut être intéressant de consulter et utiliser celui-ci pour faciliter le travail sur les synonymes.
-<ul>
-<li>En effet, du personnel qualifié ajoute manuellement des mots-clés issus d’une <strong>liste contrôlée</strong> de mots-clés sur chacun des enregistrements de la base de données.</li>
-<li>Repérer le(s) bons mots-clés dans le thésaurus permet de limiter le travail de collecte de synonymes puisqu’on a identifier le(s) mots pertinents pour un concept donné.</li>
-<li>Voir <a href="thesaurus.html" class="quarto-xref"><span>Chapter 28</span></a></li>
-</ul></li>
-</ul>
-</section>
-</section>
-<section id="stratégies-de-recherche-avancée" class="level2" data-number="7.11">
-<h2 data-number="7.11" class="anchored" data-anchor-id="stratégies-de-recherche-avancée"><span class="header-section-number">7.11</span> Stratégies de recherche avancée</h2>
-<section id="documenter-son-parcours-de-recherche" class="level3" data-number="7.11.1">
-<h3 data-number="7.11.1" class="anchored" data-anchor-id="documenter-son-parcours-de-recherche"><span class="header-section-number">7.11.1</span> Documenter son parcours de recherche</h3>
-<ul>
-<li>Pourquoi ?
-<ul>
-<li>Pour <strong>capitaliser</strong> et <strong>reproduire</strong> sur les stratégies de recherche gagnantes.</li>
-<li>Pour <strong>éviter</strong> de répéter les stratégies de recherche improductives et les outils inadaptés.</li>
-<li><strong>Visualiser</strong> tout le travail effectué.</li>
-<li>Être capable d’en <strong>rendre compte</strong> si besoin et de rendre votre travail documentaire <strong>reproductible</strong>.</li>
-</ul></li>
-<li>Comment ? En prenant des notes (au choix) :
-<ul>
-<li>dans un fichier électronique (chaque chapitre/section est un outil de recherche, copier-coller les stratégies).</li>
-<li>dans le logiciel Zotero, sous la forme de notes indépendantes placées dans une collection « Historique de recherche par exemple » <a href="https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/" class="uri">https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/</a>(voir chapitre Zotero).</li>
-<li>dans le logiciel Obsidian.md, sous la forme d’une note ou d’une série de notes dans un dossier voir p..</li>
-<li>dans un carnet papier séparé voir le chapitre p.ou au verso de l’impression de ce manuel.</li>
-</ul></li>
-<li>Dans le cas où vous menez une revue exhaustive de littérature ou une revue systématique, cette méthode de documentation est très importante car elle va vous permettre de documenter votre processus de recherche, de sélection et de décision (voir <a href="revuelitterature.html" class="quarto-xref"><span>Chapter 24</span></a>)</li>
-</ul>
-</section>
-<section id="utilisation-du-not-pour-un-thème-très-général" class="level3" data-number="7.11.2">
-<h3 data-number="7.11.2" class="anchored" data-anchor-id="utilisation-du-not-pour-un-thème-très-général"><span class="header-section-number">7.11.2</span> Utilisation du NOT pour un thème très général</h3>
-<ul>
-<li>Par exemple: je cherche des documents sur le jeu et les adultes.
-<ul>
-<li>Or, il y a peu de documents pertinents si je lance une requête de type : <code>jeu AND adulte``*</code></li>
-<li>Même avec des synonymes : <code>jeu (adulte``*`` OR homme``*`` OR femme``*`` OR men OR women)</code></li>
-<li>Alors une stratégie serait de chercher tous les documents qui contiennent jeu et qui rejette tout ce qui n’est pas sur les adultes : <code>jeu NOT (enfant``*`` OR kid``*`` OR senior``*`` OR vieux OR elder``*``)</code></li>
-</ul></li>
-</ul>
-</section>
-<section id="combiner-les-historiques-de-recherche" class="level3" data-number="7.11.3">
-<h3 data-number="7.11.3" class="anchored" data-anchor-id="combiner-les-historiques-de-recherche"><span class="header-section-number">7.11.3</span> Combiner les historiques de recherche</h3>
-<ul>
-<li>Pourquoi ? Pour avoir <strong>plus de contrôle</strong> sur chaque thème de mon équation de recherche.</li>
-<li>Comment ?
-<ul>
-<li>On lance d’abord des recherches individuelles sur chaque thème de recherche. Quand tous les thèmes de recherche ont été explorés individuellement, on connaît leur nombre de résultats pour chacun. On termine la recherche en allant dans une option souvent nommée Historique de recherche (ou<em>Search History</em>), et on combine chacune de ces recherches avec des AND. Parce que l’on connaît le volume de résultats de chaque thème, on peut mieux comprendre où une recherche bloque ou une recherche ne fonctionne pas. On a plus de contrôle que si on lance une recherche complète avec tous les thèmes en un seul clic.</li>
-<li>Toutes les bases de données n’offrent pas cette option avancée (hélas).</li>
-<li>Exemple d’utilisation d’historique de recherche dans Web of Science voir p..</li>
-</ul></li>
+<li>Un code informatique dans le langage R qui permet d’analyser votre bibliothèque de références et de produire des graphiques ou des tableaux de données. Vous pouvez ainsi avoir une vue synthétique et une meilleure représentation de l’ensemble de vos références. Dans le cas présent, ce code va utiliser une extraction de votre bibliothèque Zotero sous la forme d’un fichier csv et il va produire des graphiques en pdf et des tableaux en csv : les auteurs, les maisons d’édition ou les revues les plus mentionnés, les marqueurs les plus utilisés et répartis dans le temps, voire la distribution du nombre de pages de mémoires et de thèses.</li>
+<li>Pour bien fonctionner, il faut que votre bibliothèque de références soit bien indexée, qu’elle ait une certaine cohérence et qu’elle ait un certain volume (plusieurs centaines de références sur un sujet).</li>
+<li>Il existe une fonctionnalité supplémentaire qui utilise le logiciel OpenRefine pour aller enrichir des données à partir de données existantes dans Wikidata. À partir d’une série d’institutions, il est par exemple possible d’aller chercher le pays de celles-ci dans un processus qui s’appelle “la réconciliation de données”. Pour le moment, ce processus n’est pas expliqué dans le code.</li>
+<li><a href="https://observablehq.com/@pascaliensis/zoterojsnalysis">ZoteroJSnalysis</a> : Une version plus facile d’utilisation est disponible en javascript sur la plateforme ObservableHQ. Sans rien installer, un utilisateur peut s’y créer un compte, dupliquer le code et y verser sa bibliothèque (à la vue de tous avec un compte gratuit).</li>
 </ul>
 
 
@@ -949,8 +700,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn1"><p>Nous allons voir plus loin comment constituer un groupe de synonymes avec l’opérateur <strong>OR</strong>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>exemple : <a href="https://extranet.santecom.qc.ca/wiki/!biblio3s/doku.php?id=concepts:repertoire" class="uri">https://extranet.santecom.qc.ca/wiki/!biblio3s/doku.php?id=concepts:repertoire</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1"><p>Ce chapitre a été originellement rédigé en 2022 par une équipe de bibliothécaires de la BLSH de l’UdeM : Émilie Dalpé, Pascal Martinolli, David Patenaude et Mathieu Thomas. Il a été édité et augmenté par Pascal Martinolli, 2024.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
 
@@ -1344,13 +1094,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../chapters/phaserecherche.html" class="pagination-link" aria-label="Phase de recherche exhaustive de documentation">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Phase de recherche exhaustive de documentation</span>
+      <a href="../chapters/thesaurus.html" class="pagination-link" aria-label="Thesaurus pour la recherche">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Thesaurus pour la recherche</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../chapters/rechercheliste.html" class="pagination-link" aria-label="Outils de recherche de type « Listes »">
-        <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Outils de recherche de type « Listes »</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../chapters/terminalbash.html" class="pagination-link" aria-label="Utiliser le terminal et le shell Bash">
+        <span class="nav-page-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Utiliser le terminal et le shell Bash</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

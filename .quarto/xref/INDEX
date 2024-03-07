@@ -271,5 +271,11 @@
   },
   "chapters/wikipourlarecherche.qmd": {
     "wikipourlarecherche.html": "c00a7e1e"
+  },
+  "chapters/cartographieinformation.qmd": {
+    "cartographieinformation.html": "aadc7178"
+  },
+  "chapters/llm.qmd": {
+    "llm.html": "203570ed"
   }
 }

@@ -1,47 +1,102 @@
-#  Identifier le type de document de ma source {#sec-identifierdocument}
+# Identifier le type de document de ma source {#sec-identifierdocument}
 
+## Identifier un document en main
 
+### Pourquoi est-ce important ?
 
-
-## Identifier un document en main 
-
--   Pourquoi ? Pour savoir comment formater sa présentation.
-
+-   Pour savoir comment formater sa présentation.
     -   L'ordre des informations peut changer selon le type de document.
-
     -   Des informations peuvent être obligatoires pour certains types de document mais pas pour d'autres.
+-   Pour mieux évaluer le document en main.
+    -   Comprendre quel est le type de document permet de comprendre comment il a été produit.
+        -   Exemple : le circuit de révision et de diffusion d'un article scientique n'est pas le même qu'un chapitre de livre collectif.
+
+### Que savoir ?
 
 -   Le type de document ne dépend pas de son support ou de son format : papier ou électronique (PDF, html, etc.).
 
     -   Exemple : une présentation dans un congrès peut se présenter sous différentes formes : enregistrement Youtube, affiche PDF ou imprimée, article, présentation Powerpoint, enregistrement sonore, etc.
 
--   Les grands types de document :
+-   Voici les principaux grands types de document :
 
     -   Les **monographies** (livres, manuels, rapports de recherche, etc.) ou les sites web dans leur ensemble.
-
     -   Les **parties de document** (chapitres de livre, articles dans un acte de congrès, pages web d'un site, articles d'encyclopédie, etc.).
-
     -   Les **articles de périodique** (articles de revue, de magazine, de quotidien, bulletins, séries statistiques, etc.).
 
-   Informations importantes   Monographie   Partie de document   Article de périodique
-  -------------------------- ------------- -------------------- -----------------------
-        Titre complet          Toujours          Toujours              Toujours
-          Auteur(s)            Toujours          Toujours              Toujours
-     Date de publication       Toujours          Toujours              Toujours
-           Éditeurs             Souvent          Souvent                  Non
-       Maison d'édition        Toujours          Toujours                 Non
-          Contenant               Non            Toujours              Toujours
-            Numéro             Rarement          Rarement               Souvent
-            Volume              Parfois          Parfois                Souvent
-       Numéro d'édition         Souvent          Souvent                  Non
+    | Informations importantes | Monographie | Partie de document | Article de périodique |
+    |:------------------------:|:-----------:|:------------------:|:---------------------:|
+    |      Titre complet       |  Toujours   |      Toujours      |       Toujours        |
+    |        Auteur(s)         |  Toujours   |      Toujours      |       Toujours        |
+    |   Date de publication    |  Toujours   |      Toujours      |       Toujours        |
+    |         Éditeurs         |   Souvent   |      Souvent       |          Non          |
+    |     Maison d'édition     |  Toujours   |      Toujours      |          Non          |
+    |        Contenant         |     Non     |      Toujours      |       Toujours        |
+    |          Numéro          |  Rarement   |      Rarement      |        Souvent        |
+    |          Volume          |   Parfois   |      Parfois       |        Souvent        |
+    |     Numéro d'édition     |   Souvent   |      Souvent       |          Non          |
 
 -   Les auteurs et les éditeurs doivent être mentionnés dans l'ordre dans lequel ils apparaissent dans le document.
 
 -   Dans un logiciel de gestion bibliographique comme Zotero, la fiche pour saisir sa référence est différente selon le type de document choisi.
 
-    []{style="color: purple"}
-
-
-
-
 ## Identifier une référence bibliographique
+
+### Styles bibliographiques
+
+-   Il existe trois grandes familles de styles bibliographiques (voir @sex-citer) :
+    -   Les styles (auteur, date)
+    -   Les styles notes de bas de page
+    -   Les styles numérotés.
+-   Quelque soit le style, les références contiennent plusieurs éléments clés à bien identifier pour permettre d'en déduire de quel type de document il s'agit.
+    -   Parfois, cela ne suffit pas et il faut aller voir le document original ou sa description dans un catalogue ou une base de données pour identifier correctement ce dont il s'agit. Ex : une référence d'une thèse, d'un livre ou d'une étude non publiée d'un chercheur peuvent beaucoup se ressembler.
+
+### Éléments-clés communs à toutes les références
+
+-   Le(s) auteur(s) du document :
+    -   Au début de la référence bibliographique.
+    -   Classés dans un ordre défini.
+    -   Parfois ils sont anonymisés ou remplacés par le nom d'un département ou le nom d'un service d'une institution.
+-   Date de publication.
+    -   Plus ou moins précise : année seulement pour les livres ou les articles de revues scientifiques ; jour, mois et année pour un article de quotidien.
+-   Titre du document :
+    -   C'est toujours le **premier groupe de mots** qui ressemble à un titre.
+    -   C'est le titre le plus spécifique (voir ci-dessous).
+    -   Parfois (mais pas toujours) avec une mise en forme différente (entre guillemets, etc.)
+
+### Éléments distinctifs 
+
+-   Titre du contenant :
+    -   S'il existe, c'est le **second groupe de mots** qui ressemble à un titre.
+    -   Cela peut être le titre d'un livre si la référence est un chapitre de livre, ou le nom d'un périodique si la référence est un article, etc.
+-   Éditeurs :
+    -   S'ils existent, c'est un second groupe de noms de personnes dans le milieu de la référence.
+    -   Ce sont des personnes (*editors*). À ne pas confondre avec la maison d'édition (*publisher*).
+    -   Parfois (mais pas toujours), le groupe de noms est précédé ou suivi de : « sous la direction de », ou « dir. » ou « editors » ou « éditeurs », ou « ed. », ou autres. C'est souvent le signe que le document est un chapitre de livre collectif.
+
++-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
+| Types de document     | Auteur, date, titre | Contenant          | Éditeurs                    | Autres                           |
++=======================+=====================+====================+=============================+==================================+
+| Livre                 | Oui                 | Non                | Si livre édité              | Maison d'édition \               |
+|                       |                     |                    |                             | (parfois : lieu de publication)\ |
+|                       |                     |                    |                             | (parfois : nom de la collection) |
++-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
+| Site web au complet   | Oui                 | Non                | Non                         | URL \                            |
+|                       |                     |                    |                             | (parfois : date de consultation) |
++-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
+| Rapport               | Oui                 | Parfois (si série) | Non                         | Numéro \                         |
+|                       |                     |                    |                             | Nom de l'institution             |
++-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
+| Thèse                 | Oui                 | Non                | Parfois (dir. de recherche) | Université                       |
++-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
+| Chapitre de livre     | Oui                 | Titre du livre     | Oui                         | Intervalle de pages\             |
+|                       |                     |                    |                             | Maison d'édition \               |
+|                       |                     |                    |                             | (parfois : lieu de publication)  |
++-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
+| Article de périodique | Oui                 | Nom du périodique  | Non                         | numéro et/ou volume \            |
+|                       |                     |                    |                             | (parfois : intervalle de pages)  |
++-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
+| Page d'un site web    | Oui                 | Nom du site web    | Non                         | URL \                            |
+|                       |                     |                    |                             | (parfois : date de consultation) |
++-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
+
+: Tableau récapitulatif des principales caractéristiques de références bibliographiques selon le type de document

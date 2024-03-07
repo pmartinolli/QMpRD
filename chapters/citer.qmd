@@ -4,8 +4,6 @@
 
     -   Dans la définition classique et grand public, **citer** (*quotation*) c'est reprendre un extrait des mots exacts d'un auteur.
 
-        -   
-
     -   Citer veut aussi dire **référencer/sourcer** (*citation*, *reference*), c'est à dire indiquer la source d'une idée, d'un propos, d'une information factuelle, d'un extrait de mots exacts d'un auteur, etc. Quand nous allons parler de citer, c'est ce sens-là qui sera privilégié.
 
         -   « Je pense donc je suis. »
@@ -202,7 +200,6 @@
 
     -   Une fois choisi, vous conservez le même style dans tout le document (sauf pour une thèse par article où chaque partie peut avoir un style différent).
 
-        []{style="color: purple"}
 
 ##  Comment citer ?
 

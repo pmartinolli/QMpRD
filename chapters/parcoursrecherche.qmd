@@ -365,63 +365,7 @@
 
 ## Quelques outils de cartographie de l'information
 
--   Exercices pratiques 1 : explorer ces ressources en ligne
-
-    -   \[15min.\]***CitationTree*** <https://www.citationtree.org/>
-
-        -   Explorer l'essentiel d'une bibliographie et de son arbre de citations à partir du DOI d'un article source.
-
-        -   Basé sur le graphe de citations de Crossref et Semantic Scholar.
-
-        -   Soumettre le DOI d'un article pertinent et générer l'arbre de sa bibliographie. ☐
-
-    -   ***ResearchRabbit*** <https://www.researchrabbit.ai/>\[1h\]
-
-        -   À partir d'un article ou un ensemble d'articles, augmenter la collection de vos résultats pertinents en repérant qui les a cité et quels sont leurs bibliographies, leurs auteurs, etc.
-
-        -   Se créer un compte. ☐
-
-        -   Créer une nouvelle collection de référence avec*New Collection.☐*
-
-        -   Ajouter un ou plusieurs articles dans cette collection avec*Add Papers*. Possibilité d'ajouter des documents en lot au format BibTeX ou RIS.☐
-
-        -   Augmenter la collection avec les options :
-
-            -   *Similar papers*(bof), ☐
-
-            -   *All references*(ce qui a été cité en bibliographie des documents de la collection : pas mal), ☐
-
-            -   *All Citations*(les documents qui ont cité les documents de la collection : pas mal), ☐
-
-            -   *These Authors*(les autres publications des auteurs des documents de la collection : pas mal).☐
-
-        -   Recommencer encore et encore. Des vues graphiques en réseau sont utilisables.☐
-
-        -   Synchronisable avec Zotero \[1h+\].
-
-    -   ***Litmaps*** <https://www.litmaps.com/>\[1h\]
-
-        -   À partir d'un article ou d'un ensemble d'articles, créer une carte (seed map) constituée d'une liste de références.
-
-        -   Visualiser le poids et les liens de citations de chacun.
-
-        -   Possibilité d'exporter la liste des références vers un logiciel bibliographique (format bibTeX).
-
-        -   Nécessite de se créer un compte.
-
-    -   ***Inciteful***.xyz <https://inciteful.xyz/>\[1h\]
-
-        -   À partir d'un article ou d'un ensemble d'articles, permet de repérer des références qui citent les mêmes sources (Similar Papers) et de repérer des références très citées ou incontournables (Most Important Papers in the Graph).
-
-        -   Il existe une extension Zotero avec les fonctions de base Voir p. ..
-
--   Exercices pratiques 2 (avancés) : installer ces logiciels de visualisation
-
-    -   Un outil de visualisation permet d'avoir une vue d'ensemble sur un corpus déjà constitué. Ils peuvent être utiles lorsqu'on veut débroussailler un sujet et faire ressortir des réseaux de termes, de revues ou d'auteurs importants.
-
-    -   Ces outils sont difficiles à manipuler et des compétences en bibliométrie sont parfois nécessaires pour comprendre les éléments à paramétrer. Typiquement, vous avez déjà un ensemble de plusieurs centaines de références, vous les exportez dans un logiciel comme VOSviewer et vous paramétrer les visualisations pertinentes.
-
-    -   *VOS Viewer* <https://www.vosviewer.com/>\[1h\].
+Voir @sec-cartographieinformation.
 
 ## Eureka.cc : texte intégral d'articles de journaux et de magazine
 

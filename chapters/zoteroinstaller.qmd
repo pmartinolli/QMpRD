@@ -6,41 +6,36 @@
 -   Pour organiser vos lectures (trier, classer, annoter, etc.).
 -   Logiciel libre, simple et puissant.
 -   Infonuage gratuit (300 Mo).
--   On offre du support et de la formation à l'UdeM [^zoteroinstaller-1].
-
-[^zoteroinstaller-1]: [https://bib.umontreal.ca/citer/logiciels-bibliographiques/zotero/](https://bib.umontreal.ca/citer/logiciels-bibliographiques/zotero/installer){.uri}
+-   On offre du [support](https://bib.umontreal.ca/citer/logiciels-bibliographiques/zotero/installer) et de la formation à l'UdeM.
 
 ## Comment ?
 
-### Installation de base 
+### Installation de base
 
--   Installer le **programme**[^zoteroinstaller-2]
+-   [Installer](https://bib.umontreal.ca/public/bib/soutien-informatique/ZOT1-installation-zotero.pdf) le **programme**
     -   Vérifier que l'onglet dans MS Word ou la barre d'icônes LibreOffice Writer s'est bien installé
 -   Installer le **connecteur** pour votre navigateur favori.
 -   Se créer un compte en ligne et le synchroniser avec son Zotero
--   Important : pour bénéficier des **300 Mo gratuits**, il faut ne pas dépasser ce quota en décochant les 2 cases sous Édition \> Préférences \> Synchronisation \> Synchronisation des fichiers : décocher les 2 lignes « Synchroniser les fichiers joints... ».
-
-[^zoteroinstaller-2]: <https://bib.umontreal.ca/public/bib/soutien-informatique/ZOT1-installation-zotero.pdf>
+    -   Important : pour bénéficier des **300 Mo gratuits**, il faut ne pas dépasser ce quota en décochant les 2 cases sous Édition \> Préférences \> Synchronisation \> Synchronisation des fichiers : décocher les 2 lignes « Synchroniser les fichiers joints... ».
 
 ### Paramétrages de base :
 
 -   Édition \> Préférences \> Générales : décocher Faire une capture automatique...
 -   Édition \> Préférences \> Citer \> Styles : Obtenir d'autres styles. Utilisez le filtre Title Search pour repérer un ou plusieurs de ces styles utilisés à l'UdeM :
-  -   *Université de Montréal - APA (Français - Canada)*
-  -   *Vancouver (Français - Canada)*
-  -   *Chicago Manual of Style 17th edition (full note, Français)*
-  -   *Chicago Manual of Style 17th edition (author-date, Français)*
-  -   *Guide des références pour la rédaction juridique 7e édition*(Guide Lluelles, Français - Canada)
-  -   *Manuel canadien de la référence juridique 9e édition*(Guide McGill, Français - Canada)
+    -   *Université de Montréal - APA (Français - Canada)*
+    -   *Vancouver (Français - Canada)*
+    -   *Chicago Manual of Style 17th edition (full note, Français)*
+    -   *Chicago Manual of Style 17th edition (author-date, Français)*
+    -   *Guide des références pour la rédaction juridique 7e édition*(Guide Lluelles, Français - Canada)
+    -   *Manuel canadien de la référence juridique 9e édition*(Guide McGill, Français - Canada)
 -   Édition \> Préférences \> Avancées : Fichiers et dossiers : Emplacement du répertoire de données : Personnalisé. Créer un sous-dossier`/MaBaseZotero`dans votre dossier maître nommé`/MaRecherche`.
 -   Édition \> Préférences \> Avancées : Générales : OpenURL. Résolveur de liens : https://libkey.io/libraries/2401/pdfexpress/openurl
 
 ### Extensions recommandées.
 
 -   Repérer et télécharger les fichiers XPI pour chacune des extensions ci-dessous. Puis Zotero \> Outils \> Extensions \> Tools... \> Install add-on from file... : choisir le fichier XPI. Recommencer pour les autres.
--   Zutilo ☐ <https://github.com/wshanks/Zutilo/releases>
-  -   Paramètres de Zutilo recommandés (Options \> Préférences de Zutilo : Menu contextuel de Zutilo) : Copier les marqueurs, Coller les marqueurs, Associer les documents, Créer une notice Chapitre de livre.
--   Zotero Preview <https://github.com/dcartertod/zotero-plugins>
--   ZotFile <http://zotfile.com/>pour déposer vos pièces jointes (PDF) sur un infonuage en dehors de Zotero (OneDrive par exemple) : Plus d'informations à <https://zotero.hypotheses.org/2838>. Plus généralement, je recommande de suivre ce blogue pour manier Zotero avec expertise.
--   Extension Inciteful <https://github.com/inciteful-xyz/inciteful-zotero-plugin> pour repérer d'autres articles par citations Voir les outils de cartographie de l'information p. ..
+-   [Zutilo](https://github.com/wshanks/Zutilo/releases)
+    -   Paramètres de Zutilo recommandés (Options \> Préférences de Zutilo : Menu contextuel de Zutilo) : Copier les marqueurs, Coller les marqueurs, Associer les documents, Créer une notice Chapitre de livre.
+-   [Zotero Preview](https://github.com/dcartertod/zotero-plugins)
+-   Extension [Inciteful](https://github.com/inciteful-xyz/inciteful-zotero-plugin) pour repérer d'autres articles par citations (voir @sec-cartographieinformation).
 -   En cas de problème d'installation, demandez l'aide d'un technicien en soutien informatique (communauté UdeM seulement) : Page des bibliothèque <https://bib.umontreal.ca/> : bulle Clavarder en bas à droite.
