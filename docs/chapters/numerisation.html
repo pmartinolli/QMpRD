@@ -529,7 +529,18 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#du-papier-à-lélectronique-image" id="toc-du-papier-à-lélectronique-image" class="nav-link active" data-scroll-target="#du-papier-à-lélectronique-image"><span class="header-section-number">22.1</span> Du papier à l’électronique (image)</a></li>
+  <li><a href="#de-limage-au-texte-électronique" id="toc-de-limage-au-texte-électronique" class="nav-link" data-scroll-target="#de-limage-au-texte-électronique"><span class="header-section-number">22.2</span> De l’image au texte électronique</a>
+  <ul class="collapse">
+  <li><a href="#sur-téléphone-ios" id="toc-sur-téléphone-ios" class="nav-link" data-scroll-target="#sur-téléphone-ios"><span class="header-section-number">22.2.1</span> Sur téléphone iOS</a></li>
+  <li><a href="#à-partir-dun-pdf" id="toc-à-partir-dun-pdf" class="nav-link" data-scroll-target="#à-partir-dun-pdf"><span class="header-section-number">22.2.2</span> À partir d’un PDF</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -553,12 +564,63 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="du-papier-à-lélectronique-image" class="level2" data-number="22.1">
+<h2 data-number="22.1" class="anchored" data-anchor-id="du-papier-à-lélectronique-image"><span class="header-section-number">22.1</span> Du papier à l’électronique (image)</h2>
 <ul>
 <li><p>Dans la BLSH, vous pouvez accéder à un numériseur de livre rapide (venez avec votre clé USB) et à des numériseurs de précision (pour les photos, les documents d’identité, etc.).</p></li>
-<li><p>Si le résultat de votre numérisation est un fichier PDF, vous voulez peut être aussi ajouter une couche électronique de reconnaissance de texte. En effet, si nous ne le faites pas, votre PDF ne contient que des images. Pour ajouter cette couche électronique de texte cliquable, sélectionnable, copier-collable, il faut utiliser la version professionnelle de Adode Acrobat. Elle est disponible sur certains postes des bibliothèques (pas tous) <a href="https://bib.umontreal.ca/travailler/logiciels#c77346" class="uri">https://bib.umontreal.ca/travailler/logiciels#c77346</a>.</p></li>
+<li><p>Les téléphones cellualaires sont aussi souvent utilisé pour numériser rapidement des pages. Choisissez un endroit bien éclairé pour prendre en photo les pages. Puis importez les images en lot sur votre ordinateur.</p></li>
+</ul>
+</section>
+<section id="de-limage-au-texte-électronique" class="level2" data-number="22.2">
+<h2 data-number="22.2" class="anchored" data-anchor-id="de-limage-au-texte-électronique"><span class="header-section-number">22.2</span> De l’image au texte électronique</h2>
+<ul>
+<li>Souvent les textes imprimés sont numérisés sous la forme d’images uniques ou d’images assemblées dans un fichier PDF.</li>
+<li>Pour pouvoir utiliser le texte (éditer, copier-coller, etc.) il va falloir transformer cette image en texte électronique, en laçant une procédure appelée reconnaissance optique de caractère (<em>OCR</em>).</li>
+</ul>
+<section id="sur-téléphone-ios" class="level3" data-number="22.2.1">
+<h3 data-number="22.2.1" class="anchored" data-anchor-id="sur-téléphone-ios"><span class="header-section-number">22.2.1</span> Sur téléphone iOS</h3>
+<ul>
+<li>Un outil rudimentaire mais pratique se trouve sur la caméra de votre iPhone : survolez le texte jusqu’à ce qu’il soit encadré. Une icône jaune avec des lignes devrait apparaître en bas à droite. Cliquez dessus pour copier-coller le texte reconnu.</li>
+</ul>
+</section>
+<section id="à-partir-dun-pdf" class="level3" data-number="22.2.2">
+<h3 data-number="22.2.2" class="anchored" data-anchor-id="à-partir-dun-pdf"><span class="header-section-number">22.2.2</span> À partir d’un PDF</h3>
+<section id="sécuritairement-sur-un-ordinateur-local" class="level4" data-number="22.2.2.1">
+<h4 data-number="22.2.2.1" class="anchored" data-anchor-id="sécuritairement-sur-un-ordinateur-local"><span class="header-section-number">22.2.2.1</span> Sécuritairement (sur un ordinateur local)</h4>
+<ul>
+<li>Un fichier PDF à la fois : Si le résultat de votre numérisation est un fichier PDF, vous pouvez ajouter une couche électronique de reconnaissance de texte. En effet, si nous ne le faites pas, votre PDF ne contient que des images. Pour ajouter cette couche électronique de texte cliquable, sélectionnable, copier-collable, il faut utiliser la <strong>version professionnelle</strong> de Adode Acrobat. Elle est disponible sur certains <a href="https://bib.umontreal.ca/travailler/logiciels#c77346">postes</a> des bibliothèques (pas tous). La qualité du résultat est très variable.</li>
+<li>En lot : rédigez un script Python pour traiter en lot une série de fichiers images ou PDF (avec Tesseract).</li>
+</ul>
+</section>
+<section id="non-sécuritairement-sur-un-serveur-distant" class="level4" data-number="22.2.2.2">
+<h4 data-number="22.2.2.2" class="anchored" data-anchor-id="non-sécuritairement-sur-un-serveur-distant"><span class="header-section-number">22.2.2.2</span> Non sécuritairement (sur un serveur distant)</h4>
+<ul>
+<li>Attention, le PDF ne doit pas contenir de données sensibles.</li>
+<li><a href="https://app.transkribus.eu/home">Transkribus</a> :
+<ul>
+<li>Gratuit pour une utilisation limitée (par mois).</li>
+<li>Reconnaissance de très bonne qualité si on choisit le bon modèle.</li>
+<li>Exportations : fichiers texte, xml et PDF avec couche de texte.</li>
+<li>C’est aussi l’outil recommandé pour faire de la reconnaissance d’écriture manuscrite (à la main), grâce à des réglages avancés. Demandez à votre bibliothécaire pour en savoir plus.</li>
+</ul></li>
+<li><a href="https://digipdf.app">DigiPDF</a> &gt; OCR / Nettoyage des numérisations
+<ul>
+<li>Versez votre PDF (pas trop gros).</li>
+<li>Pas trop mal, basé sur Tesseract et autres outils libres.</li>
+</ul></li>
+<li>Google Doc :
+<ul>
+<li>Plutôt performant.</li>
+<li>On peut verser des images ou des PDF.</li>
+<li>Dans le cas d’un gros fichier PDF, il faudrait d’abord le découper en petits fichiers de 50 pages maximum (avec <a href="https://digipdf.app">DigiPDF</a> par exemple). Ensuite, on verse les fichiers dans Google Drive.</li>
+<li>Dans Google Drive, ouvrir chaque image/ PDF (trois points à droite) avec Google Doc. Ça prend un peu de temps chaque fois. À la fin, vous avez un dossier complet de PDF et de transcriptions.</li>
+</ul></li>
 </ul>
 
 
+</section>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

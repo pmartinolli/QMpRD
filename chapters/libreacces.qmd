@@ -140,9 +140,11 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
 
 #### Voie verte
 
--   Je publie avec la revue en conservant des droits d'auteur pour faire un dépôt institutionnel du postprint.
+-   Je publie avec la revue
+    -   en **conservant** des droits d'auteur
+    -   pour faire un dépôt institutionnel du ***postprint***.
 
-##### Négocier son contrat d'édition pour conserver des droits d'auteur 
+##### Négocier son contrat d'édition pour conserver des droits d'auteur
 
 -   Comme auteur.e, vous êtes titulaire du droit d'auteur.
     -   À MOINS que vous ne cédiez les droits à une autre personne dans le cadre d'une entente signée.

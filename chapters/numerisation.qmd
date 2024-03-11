@@ -1,5 +1,40 @@
 # Numérisation {#sec-numerisation}
 
+## Du papier à l'électronique (image)
+
 -   Dans la BLSH, vous pouvez accéder à un numériseur de livre rapide (venez avec votre clé USB) et à des numériseurs de précision (pour les photos, les documents d'identité, etc.).
 
--   Si le résultat de votre numérisation est un fichier PDF, vous voulez peut être aussi ajouter une couche électronique de reconnaissance de texte. En effet, si nous ne le faites pas, votre PDF ne contient que des images. Pour ajouter cette couche électronique de texte cliquable, sélectionnable, copier-collable, il faut utiliser la version professionnelle de Adode Acrobat. Elle est disponible sur certains postes des bibliothèques (pas tous) <https://bib.umontreal.ca/travailler/logiciels#c77346>.
+-   Les téléphones cellualaires sont aussi souvent utilisé pour numériser rapidement des pages. Choisissez un endroit bien éclairé pour prendre en photo les pages. Puis importez les images en lot sur votre ordinateur.
+
+## De l'image au texte électronique
+
+-   Souvent les textes imprimés sont numérisés sous la forme d'images uniques ou d'images assemblées dans un fichier PDF.
+-   Pour pouvoir utiliser le texte (éditer, copier-coller, etc.) il va falloir transformer cette image en texte électronique, en laçant une procédure appelée reconnaissance optique de caractère (*OCR*).
+
+### Sur téléphone iOS
+
+-   Un outil rudimentaire mais pratique se trouve sur la caméra de votre iPhone : survolez le texte jusqu'à ce qu'il soit encadré. Une icône jaune avec des lignes devrait apparaître en bas à droite. Cliquez dessus pour copier-coller le texte reconnu.
+
+### À partir d'un PDF
+
+#### Sécuritairement (sur un ordinateur local)
+
+-   Un fichier PDF à la fois : Si le résultat de votre numérisation est un fichier PDF, vous pouvez ajouter une couche électronique de reconnaissance de texte. En effet, si nous ne le faites pas, votre PDF ne contient que des images. Pour ajouter cette couche électronique de texte cliquable, sélectionnable, copier-collable, il faut utiliser la **version professionnelle** de Adode Acrobat. Elle est disponible sur certains [postes](https://bib.umontreal.ca/travailler/logiciels#c77346) des bibliothèques (pas tous). La qualité du résultat est très variable.
+-   En lot : rédigez un script Python pour traiter en lot une série de fichiers images ou PDF (avec Tesseract).
+
+#### Non sécuritairement (sur un serveur distant)
+
+-   Attention, le PDF ne doit pas contenir de données sensibles.
+-   [Transkribus](https://app.transkribus.eu/home) :
+    -   Gratuit pour une utilisation limitée (par mois).
+    -   Reconnaissance de très bonne qualité si on choisit le bon modèle.
+    -   Exportations : fichiers texte, xml et PDF avec couche de texte.
+    -   C'est aussi l'outil recommandé pour faire de la reconnaissance d'écriture manuscrite (à la main), grâce à des réglages avancés. Demandez à votre bibliothécaire pour en savoir plus.
+-   [DigiPDF](https://digipdf.app) \> OCR / Nettoyage des numérisations
+    -   Versez votre PDF (pas trop gros).
+    -   Pas trop mal, basé sur Tesseract et autres outils libres.
+-   Google Doc :
+    -   Plutôt performant.
+    -   On peut verser des images ou des PDF.
+    -   Dans le cas d'un gros fichier PDF, il faudrait d'abord le découper en petits fichiers de 50 pages maximum (avec [DigiPDF](https://digipdf.app) par exemple). Ensuite, on verse les fichiers dans Google Drive.
+    -   Dans Google Drive, ouvrir chaque image/ PDF (trois points à droite) avec Google Doc. Ça prend un peu de temps chaque fois. À la fin, vous avez un dossier complet de PDF et de transcriptions.

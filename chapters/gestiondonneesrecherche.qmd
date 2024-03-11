@@ -463,9 +463,17 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 
 -   Tous les fichiers du projet de recherche sont rassemblé dans un dossier maître sur l'ordinateur du chercheur principal. Chaque dossier et sous-dossier est rédigé sans accent, ni espace ni caractère problématique.
 
--   Les noms de fichiers sont rédigés sans accent, ni espace ni caractère problématique. Les fichiers qui sont modifiés contiennent la date de modification dans le nom du fichier. Les fichiers passés sont conservés dans un sous-dossier \_archive présent dans tous les sous-dossiers où il est nécessaire. Aucun fichier n'est supprimé du projet de recherche.
+-   Une convention d'écriture des noms de fichiers et de dossier est utilisée.
 
-    -   Tous les fichiers de données textuels (texte, Markdown, CSV) sont aussi synchronisés avec git.
+    -   Chaque nom de fichier commence par une description ou un acronyme synthétisant son contenu, suivi de la date de création et la version.
+
+    -   Les noms de fichiers sont rédigés sans accent, ni espace ni caractère problématique.
+
+    -   Les fichiers qui sont modifiés contiennent la date de modification à la fin du nom du fichier.
+
+    -   Les fichiers désuets sont conservés dans un sous-dossier \_archive présent dans tous les sous-dossiers où il est nécessaire. Aucun fichier n'est supprimé du projet de recherche.
+
+        -   Tous les fichiers de données textuels (texte, Markdown, CSV) sont aussi synchronisés avec git.
 
 -   Un fichier Readme, déposé à la racine du dossier maître, contient les métadonnées du projet ; l'explication de l'organisation du projet de recherche en sous-dossier ; les conventions d'écriture ; les règles d'exportation régulières ; le dictionnaire des données ;
 
@@ -481,6 +489,8 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 
 -   Dans le fichier Readme : Un **dictionnaire des données** contenant les ontologies des données raffinées.
 
+    -   Les noms des variables, leurs types et des explications sur leurs codages sont décrits.
+
     -   Un glossaire de définitions spécifiques au projet.
 
     -   Des listes d'autorité de personnes, d'institutions et de lieux.
@@ -489,7 +499,7 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 
 ##### Comment vous assurerez-vous de documenter le projet de façon systématique tout au long du processus?
 
--   Un **carnet de recherche** sous la forme d'un journal de bord journalier est rédigé chaque jour de recherche. Il documente les décisions prises ; les hypothèses et les questions soulevées et les conditions pour y répondre; ainsi que les résultats obtenus.
+-   Un **carnet de recherche** sous la forme d'un journal de bord journalier est rédigé chaque jour de recherche. Il documente les protocoles de recherche ; les décisions prises ; les hypothèses et les questions soulevées et les conditions pour y répondre; les hypothèses et les questions écartées ; ainsi que les résultats obtenus.
 
 -   Une partie de ces informations d'avancement est **bloguée** régulièrement sur le blogue du projet de recherche dans un but de vulgarisation, de pédagogie et de documentation d'avancement du projet pour les chercheurs intéressés (collaborateurs, sponsors, etc.).
 
@@ -497,13 +507,15 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 
 -   Un système de **tags spécifiques** dans la bibliothéque de références et dans le système de notes liées permet de rajouter une couche d'organisation pour repérer rapidement toutes les questions méthodologiques ou thématiques par rapport à un point précis.
 
+-   Le questionnaire et les lettres de consentement informé sont conservés.
+
 ##### Si vous utilisez une norme de métadonnées ou des outils pour documenter et décrire vos données, veuillez les énumérer ici.
 
 -   Les listes d'autorité et les mots-clés seront enrichies d'identifiants Wikidata pour permettre l'enrichissement des données raffinées, pour lier les données à d'autres données, et pour une meilleure robustesse sémantique.
 
 -   Les rôles des contributeurs sont codés selon la taxonomie CRediT.
 
--   Les identifiants de chercheurs collaborateurs utilisent ORCID.
+-   Les chercheurs collaborant au projet de recherche sont indexés avec leurs identifiants ORCID.
 
 -   Dans la mesure du possible, les institutions mentionnées utilisent les identifiants ROR.
 
@@ -513,15 +525,15 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 
 -   Le volume de stockage représente environ 2 Go.
 
--   Le stockage actif sur l'ordinateur, les comptes infonuagiques et les clés USB devrait durer 2 ans.
+-   Le stockage actif du projet de recherche sur l'ordinateur du chercheur principal, de ses comptes infonuagiques et de ses clés USB devrait durer 2 ans.
 
 -   Une sélection des données de recherche pour une diffusion dans un dépôt de données de recherche nécessitera un stockage d'une durée indéfinie de 1 Go environ (ou de 2 Go en cas de stockage de l'intégralité des données).
 
 ##### Comment vos données seront-elles stockées et sauvegardées pendant votre projet de recherche et à quel endroit le seront-elles?
 
--   Le stockage principal se trouve sur le disque dur du chercheur principal.
+-   Le stockage principal se trouve sur le disque dur de l'ordinateur du chercheur principal. L'ordinateur est protégé par mot de passe.
 
--   Les stockages de sauvegarde se trouvent sur des serveurs distants qui ne sont que des dépôts passifs de données.
+-   Les stockages de sauvegarde se trouvent sur des serveurs distants qui ne sont que des dépôts passifs de données. Les serveurs de stockage sont protégés par mot de passe.
 
     -   La totalité du projet est archivée en miroir avec l'application de synchronisation Windows sur OneDrive de l'UdeM.
 
@@ -533,34 +545,77 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 
 -   Le chercheur principal accéde et modifie les données directement sur son ordinateur personnel.
 
--   Lorsqu'il souhaite recevoir la révision ou la rétroaction ou la collaboration d'un autre chercheur, il dépose une copie des données dans un dossier partagé de OneDrive. Il intègre ensuite manuellement les modifications choisies dans son projet principal.
+-   Lorsqu'il souhaite recevoir la révision ou la rétroaction ou la collaboration d'un autre chercheur, il dépose une copie des données dans un dossier partagé et protégé par mot de passe de OneDrive. Il intègre ensuite manuellement les modifications choisies dans son projet principal.
 
 #### Préservation :
 
 ##### Où déposerez-vous vos données en vue de l'accès et de la préservation à long terme à la fin de votre projet de recherche?
 
+-   Une sélection des données de recherche sera déposé dans Dataverse UdeM.
+
 ##### Indiquez comment vous assurerez que vos données sont prêtes pour la conservation. À prendre en considération: formats de fichier appropriés pour la conservation mais qui préservent l'intégrité des données; anonymisation et dépersonnalisation des fichiers, y compris les fichiers de documentation.
+
+-   Les données sont partagées en format texte. Plusieurs balisages sont choisis en fonctions des type de données :
+
+    -   csv pour les données tabulées ;
+
+    -   json pour les données hiérarchiques ;
+
+    -   txt ou markdown pour les textes rédigés ;
+
+    -   yaml pour certaines métadonnées.
+
+-   Les graphes produits sont convertis au format svg et png pour une préservation sur le long terme.
 
 #### Partage et réutilisation :
 
 ##### Quelles données partagerez-vous et sous quelle forme? (p. ex. données brutes, traitées, analysées, définitives)?
 
+-   Les données de recherche analysées seront partagées pour le public universitaire sous la forme de présentation dans des colloques et des congrès, ou sous la forme de publication dans des revues révisées par les pairs, ou sous la forme de chapitre de livre collectifs.
+
+-   Une partie des résultats sera partagée au grand public sous la forme de billets de blogues, d'articles de magazines et d'entretiens dans les médias.
+
 ##### Avez-vous examiné quel type de licence d'utilisation inclure avec vos données?
 
+-   Les données de recherche seront partagées avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ##### Quelles mesures seront prises pour faire connaître l'existence de vos données au milieu de la recherche?
+
+-   Nous créérons des liens vers les données de recherche à partir de toutes les présentations ou publications qui seront produites de cette recherche.
+
+-   Un DOI sera associé à ce jeu de données, assurant un identifiant permanent et persistant vers le dépôt Dataverse UdeM.
 
 #### Responsabilités et ressources :
 
 ##### Identifiez qui sera responsable de la gestion des données de ce projet pendant et après le projet ainsi que les principales tâches associées à ces responsabilités.
 
+-   Le chercheur principal est responsable de la gestion des données de recherche pendant toute la durée du projet. Les décisions d'accès, de partage et d'utilisation seront faites collaborativement avec l'équipe de recherche.
+
+-   Une fois une projet terminé, le chercheur principal et son équipe décideront collaborativement quelles données seront archivées et quelles données seront détruites. Les décisions seront prises en accord avec les obligations des organismes de subventions, des comités d'éthique et des sujets de recherche.
+
 ##### De quelle façon les responsabilités relatives à la gestion des données seront-elles gérées si des changements importants surviennent au sein du personnel qui supervise les données du projet, y compris un changement de chercheur principal?
 
+-   Nous ne pensons pas qu'il y aura de changements importants. Il y a plusieurs chercheurs dans l'équipe qui savent comment sont gérées les données selon ce plan de gestion des données de recherche. Si nécessaire, nous demanderons de l'aide et du conseil auprès d'experts de notre institution de recherche.
+
 ##### De quelles ressources aurez-vous besoin pour mettre en œuvre votre plan de gestion des données? À combien évaluez-vous le coût total de la gestion des données?
+
+-   Ce projet devrait mettre en oeuvre des ressources et des compétences déjà disponibles pour tous les membres de l'équipe et aucun coût supplémentaire n'est prévu tout au long de sa durée. Le chercheur principal partagera toutes les données
+    nécessaires avec les membres de son équipe. L'équipe prévoit d'utiliser le service Dataverse UdeM pour le dépôt à long terme, sans frais supplémentaires.
 
 #### Conformité aux lois et à l'éthique :
 
 ##### Si votre projet comprend des données sensibles, comment vous assurerez-vous qu'il est géré de manière sécuritaire et que les données sont accessibles uniquement aux membres approuvés du projet?
 
+-   Le projet ne contient pas de données sensibles.
+
+-   Le projet contient des données sensibles avec des personnes vivantes, dont les méthodes et le traitement a été validé par le comité éthique de l'UdeM. Toutes les données sensibles du projet sont stockées sur les serveurs sécurisés du réseau de l'UdeM, répondant aux besoins de ce type de données. Seul le chercheur principal a accès aux données brutes, non anonymisées. Si un chercheur collaborateur veut avoir accès aux données anonymisées, il peut les télécharger via OneDrive (avec mot de passe) sur son ordinateur personnel protégé par mot de passe.
+
 ##### Le cas échéant, quelles stratégies adopterez-vous pour traiter les utilisations secondaires des données sensibles?
 
+-   Nous ne prevoyons pas de partager des données sensibles identifiables pour une utilisation secondaire.
+
 ##### Comment traiterez-vous les questions d'ordre juridique, éthique et de propriété intellectuelle?
+
+-   Selon les règles du comité d'éthique, le chercheur principal collecte et archive tous les formulaires de consentement.
+
+-   Le statut de droits d'auteur des documents primaires est indiqué dans les métadonnées de ceux-ci. Les documents primaires qui ne permettent pas une rediffusion libre ne sont pas diffusés avec les données de recherche.
