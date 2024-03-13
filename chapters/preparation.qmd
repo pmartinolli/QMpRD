@@ -35,9 +35,9 @@
     -   Parce que les logiciels par défaut dans les systèmes d'exploitation sont souvent insuffisants (exemple : le Bloc-notes de Windows ajoute des caractères non désirés et il encode dans des formats non recommandés).
 -   Suggestions :
     -   Pour Windows : installer le logiciel libre [*Notepad++*](https://notepad-plus-plus.org/)
-    -   Pour Mac : installer [BBEdit](https://www.barebones.com/products/bbedit/) et rester avec la version gratuite (*free*)
+    -   Pour Windows, Mac, Linux : [VSCodium](https://vscodium.com/)
     -   S'autoformer aux formats et aux manipulations de fichiers à @sec-formats
-    -   S'autoformer à Markdown, un langage de balisage léger @sec-markdown
+    -   S'autoformer à Markdown, un langage de balisage léger @sec-markdown (en passant, Markdown est le langage utilisé pour rédiger ce manuel)
 
 ### Avoir un logiciel de prise de notes liées
 

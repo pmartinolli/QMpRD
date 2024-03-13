@@ -1,4 +1,4 @@
-# Accès et droits 
+# Accès et droits {#sec-accesetdroit}
 
 -   Ce manuel est téléchargeable librement à : <https://bib.umontreal.ca/multidisciplinaire/plu6058> ou <https://pmartinolli.github.io/QMpRD/>. Il devrait être mis à jour régulièrement selon le principe du document vivant (*living document*).
 
@@ -8,4 +8,4 @@
 
     - Citation universtaire : Martinolli, Pascal, et collaborations. (2024). *Manuel pratique de recherche documentaire pour le séminaire PLU6058*. https://pmartinolli.github.io/QMpRD/
 
--   La version 4 de ce manuel est rédigée avec la série de logiciels libres R Studio et Quarto dans le langage de balisage R Markdown. Vous pouvez facilement reprendre son contenu à https://github.com/pmartinolli/QMpRD et l'adapter à vos besoins. En plus de nous citer, merci de nous envoyer votre version à (pascal \[point\] martinolli \[à\] umontreal \[point\] ca). Ça nous fait toujours plaisir.
+-   La version 4 de ce manuel est rédigée avec la série de logiciels libres R Studio et Quarto, et avec le langage de balisage R Markdown. Vous pouvez facilement reprendre son contenu à https://github.com/pmartinolli/QMpRD et l'adapter à vos besoins. Si c'est le cas, en plus de nous citer, merci de nous envoyer votre version à (pascal \[point\] martinolli \[à\] umontreal \[point\] ca). Ça nous fait toujours plaisir.

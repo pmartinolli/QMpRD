@@ -109,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Statut</span></a>
+ <span class="menu-text">Version PDF</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -535,9 +535,9 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#quoi" id="toc-quoi" class="nav-link active" data-scroll-target="#quoi"><span class="header-section-number">30.0.1</span> Quoi ?</a></li>
   <li><a href="#pourquoi-le-contenu-de-ce-chapitre-a-été-rédigé-selon-les-principes-et-bonnes-pratiques-enseignés-dans-les-ateliers-débugue-tes-humanités-de-ludem." id="toc-pourquoi-le-contenu-de-ce-chapitre-a-été-rédigé-selon-les-principes-et-bonnes-pratiques-enseignés-dans-les-ateliers-débugue-tes-humanités-de-ludem." class="nav-link" data-scroll-target="#pourquoi-le-contenu-de-ce-chapitre-a-été-rédigé-selon-les-principes-et-bonnes-pratiques-enseignés-dans-les-ateliers-débugue-tes-humanités-de-ludem."><span class="header-section-number">30.0.2</span> Pourquoi ? Le contenu de ce chapitre a été rédigé selon les principes et bonnes pratiques enseignés dans les ateliers « Débugue tes humanités » de l’UdeM.</a></li>
-  <li><a href="#comment-installer-le-programme-qui-pilote-le-terminal" id="toc-comment-installer-le-programme-qui-pilote-le-terminal" class="nav-link" data-scroll-target="#comment-installer-le-programme-qui-pilote-le-terminal"><span class="header-section-number">30.0.3</span> Comment installer le programme qui pilote le terminal ?</a></li>
+  <li><a href="#comment-installer-un-programme-bash-qui-pilote-le-terminal" id="toc-comment-installer-un-programme-bash-qui-pilote-le-terminal" class="nav-link" data-scroll-target="#comment-installer-un-programme-bash-qui-pilote-le-terminal"><span class="header-section-number">30.0.3</span> Comment installer un programme BASH qui pilote le terminal ?</a></li>
   <li><a href="#comment-utiliser-le-terminal" id="toc-comment-utiliser-le-terminal" class="nav-link" data-scroll-target="#comment-utiliser-le-terminal"><span class="header-section-number">30.0.4</span> Comment utiliser le terminal ?</a></li>
-  <li><a href="#attention-avec-de-grands-pouvoirs-viennent-de-grandes-responsabilités" id="toc-attention-avec-de-grands-pouvoirs-viennent-de-grandes-responsabilités" class="nav-link" data-scroll-target="#attention-avec-de-grands-pouvoirs-viennent-de-grandes-responsabilités"><span class="header-section-number">30.0.5</span> Attention : « avec de grands pouvoirs viennent de grandes responsabilités »</a></li>
+  <li><a href="#attention-avec-de-grands-pouvoirs-viennent-de-grandes-responsabilités" id="toc-attention-avec-de-grands-pouvoirs-viennent-de-grandes-responsabilités" class="nav-link" data-scroll-target="#attention-avec-de-grands-pouvoirs-viennent-de-grandes-responsabilités"><span class="header-section-number">30.0.5</span> ATTENTION : « Avec de grands pouvoirs viennent de grandes responsabilités »</a></li>
   <li><a href="#pour-aller-plus-loin..." id="toc-pour-aller-plus-loin..." class="nav-link" data-scroll-target="#pour-aller-plus-loin..."><span class="header-section-number">30.0.6</span> Pour aller plus loin...</a></li>
   </ul>
 </nav>
@@ -567,78 +567,75 @@ ul.task-list li input[type="checkbox"] {
 <section id="quoi" class="level3" data-number="30.0.1">
 <h3 data-number="30.0.1" class="anchored" data-anchor-id="quoi"><span class="header-section-number">30.0.1</span> Quoi ?</h3>
 <ul>
-<li><p>Un <strong>terminal</strong> permet d’écrire des commandes pour lancer des programmes de base pour gérer les fichiers de votre ordinateur.</p></li>
-<li><p>Le <strong>shell Bash</strong> est le langage de programmation de ces commande, fonctionnant dans tous les systèmes d’exploitation classiques (Windows, Mac, Linux).</p></li>
+<li>Un <strong>terminal</strong> permet d’écrire des commandes pour lancer des programmes de base pour gérer les fichiers de votre ordinateur.</li>
+<li>Le <strong>shell Bash</strong> est le langage de programmation de ces commande, fonctionnant dans tous les systèmes d’exploitation classiques (Windows, Mac, Linux).</li>
 </ul>
 </section>
 <section id="pourquoi-le-contenu-de-ce-chapitre-a-été-rédigé-selon-les-principes-et-bonnes-pratiques-enseignés-dans-les-ateliers-débugue-tes-humanités-de-ludem." class="level3" data-number="30.0.2">
 <h3 data-number="30.0.2" class="anchored" data-anchor-id="pourquoi-le-contenu-de-ce-chapitre-a-été-rédigé-selon-les-principes-et-bonnes-pratiques-enseignés-dans-les-ateliers-débugue-tes-humanités-de-ludem."><span class="header-section-number">30.0.2</span> Pourquoi ? Le contenu de ce chapitre a été rédigé selon les principes et bonnes pratiques enseignés dans les ateliers « Débugue tes humanités » de l’UdeM.</h3>
 <ul>
-<li><p>Pour avoir plus de contrôle sur ce que l’on peut faire avec les fichiers : les renommer en lot, créer des listes, lancer des sauvegardes des nouveaux fichiers, etc.</p></li>
-<li><p>Pour gagner du temps de qualité :</p>
+<li>Pour avoir plus de contrôle sur ce que l’on peut faire avec les fichiers : les renommer en lot, créer des listes, lancer des sauvegardes des nouveaux fichiers, etc.</li>
+<li>Pour gagner du temps de qualité :
 <ul>
-<li><p>Pour construire des commandes adaptées à nos besoins, plus ou moins complexes, plus ou moins courantes.</p></li>
-<li><p>Pour lancer automatiquement des programmes et des traitements de fichiers de manières répétitives.</p></li>
-<li><p>Par exemple : « va dans tous les dossiers et sous-dossiers de tel emplacement, chaque fois que tu trouves un PDF lance un programme de reconnaissance de texte et créer à côté du fichier PDF un fichier texte de même nom contenant le résultat de la reconnaissance de texte. Si il existe déjà un fichier texte de même nom (sous entendu, une reconnaissance de texte à déjà été faite), alors ignore cette opération. Créé-moi au passage une liste de tous les fichiers texte créés ainsi et leurs emplacements. »</p></li>
+<li>Pour construire des commandes adaptées à nos besoins, plus ou moins complexes, plus ou moins courantes.</li>
+<li>Pour lancer automatiquement des programmes et des traitements de fichiers de manières répétitives.</li>
+<li>Par exemple : « va dans tous les dossiers et sous-dossiers de tel emplacement, chaque fois que tu trouves un PDF lance un programme de reconnaissance de texte et créer à côté du fichier PDF un fichier texte de même nom contenant le résultat de la reconnaissance de texte. Si il existe déjà un fichier texte de même nom (sous entendu, une reconnaissance de texte à déjà été faite), alors ignore cette opération. Créé-moi au passage une liste de tous les fichiers texte créés ainsi et leurs emplacements. »</li>
 </ul></li>
-<li><p>Pour faire plein de choses que l’interface graphique classique (boutons, souris, clics) des systèmes d’exploitation ne permet pas de faire habituellement.</p></li>
+<li>Pour faire plein de choses que l’interface graphique classique (boutons, souris, clics) des systèmes d’exploitation ne permet pas de faire habituellement.</li>
 </ul>
 </section>
-<section id="comment-installer-le-programme-qui-pilote-le-terminal" class="level3" data-number="30.0.3">
-<h3 data-number="30.0.3" class="anchored" data-anchor-id="comment-installer-le-programme-qui-pilote-le-terminal"><span class="header-section-number">30.0.3</span> Comment installer le programme qui pilote le terminal ?</h3>
+<section id="comment-installer-un-programme-bash-qui-pilote-le-terminal" class="level3" data-number="30.0.3">
+<h3 data-number="30.0.3" class="anchored" data-anchor-id="comment-installer-un-programme-bash-qui-pilote-le-terminal"><span class="header-section-number">30.0.3</span> Comment installer un programme BASH qui pilote le terminal ?</h3>
 <ul>
-<li><p>Windows :</p>
-<ul>
-<li><p>installer le « BASH natif » <a href="https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/" class="uri">https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/</a></p></li>
-<li><p>ou installer Git BASH <a href="https://gitforwindows.org/" class="uri">https://gitforwindows.org/</a> ou <a href="https://mintty.github.io/" class="uri">https://mintty.github.io/</a> qui est un peu moins complet que le BASH natif.</p></li>
-</ul></li>
-<li><p>La syntaxe est presque la même pour tous les terminaux BASH et tous les systèmes d’exploitation (Windows, Mac, Linux).</p></li>
+<li>Installer <a href="https://gitforwindows.org/">Git BASH</a>, qui est un peu moins complet que le BASH <a href="https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/">natif</a>.</li>
+<li>La syntaxe est presque la même pour tous les terminaux BASH et tous les systèmes d’exploitation (Windows, Mac, Linux).</li>
 </ul>
 </section>
 <section id="comment-utiliser-le-terminal" class="level3" data-number="30.0.4">
 <h3 data-number="30.0.4" class="anchored" data-anchor-id="comment-utiliser-le-terminal"><span class="header-section-number">30.0.4</span> Comment utiliser le terminal ?</h3>
 <ul>
-<li><p>Quelques commandes de base :</p>
+<li>Quelques commandes de base :
 <ul>
-<li><p><code>pwd</code> : nom du chemin du dossier actuel.</p></li>
-<li><p><code>ls</code> : liste les fichiers du dossier actuel.</p></li>
-<li><p><code>clear</code> : efface le terminal.</p></li>
-<li><p><code>mkdir NomDuDossier</code> : créé un dossier NomDuDossier.</p></li>
-<li><p><code>cd NomDuDossier</code> : va dans le dossier nommé NomDuDossier.</p>
+<li><code>pwd</code> : nom du chemin du dossier actuel.</li>
+<li><code>ls</code> : liste les fichiers du dossier actuel.</li>
+<li><code>clear</code> : efface le terminal.</li>
+<li><code>mkdir NomDuDossier</code> : créé un dossier NomDuDossier.
 <ul>
+<li><code>cd NomDuDossier</code> : va dans le dossier nommé NomDuDossier.</li>
 <li><code>cd ..</code>: remonte d’un niveau dans l’arborescence des dossiers.</li>
 </ul></li>
-<li><p><code>history</code> : historique de toutes les commandes lancées.</p></li>
-<li><p><code>mv</code> : déplace un fichier.</p></li>
-<li><p><code>rm</code> : supprime un fichier.</p>
+<li><code>history</code> : historique de toutes les commandes lancées.</li>
+<li><code>mv</code> : déplace un fichier.</li>
+<li><code>rm</code> : supprime un fichier.
 <ul>
 <li><code>rm -R</code> : supprime un dossier et tout ce qu’il contient.</li>
 </ul></li>
-<li><p><code>cat</code> : affiche le contenu d’un fichier.</p></li>
-<li><p><code>touch</code> : créé un fichier.</p></li>
+<li><code>cat</code> : affiche le contenu d’un fichier.</li>
+<li><code>touch</code> : créé un fichier.</li>
 </ul></li>
-<li><p>Astuces :</p>
+<li>Astuces :
 <ul>
-<li><p>tabulation = autocomplétion.</p></li>
-<li><p>flèche du haut = historique des commandes.</p></li>
-<li><p>CTRL+R : rechercher dans l’historique.</p></li>
-<li><p>Écrire une séquence de commandes dans un fichier texte nommé <code>prog.sh</code> puis exécuter ce fichier avec <code>bash prog.sh</code></p></li>
+<li>tabulation = autocomplétion.</li>
+<li>flèche du haut = historique des commandes.</li>
+<li>CTRL+R : rechercher dans l’historique.</li>
+<li>Écrire une séquence de commandes dans un fichier texte qui se termine par <code>.sh</code>, par exemple nommé <code>prog.sh</code>, puis exécuter ce fichier avec <code>bash prog.sh</code></li>
+<li>Autres <a href="https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh">commandes</a>.</li>
 </ul></li>
-<li><p>Autres commandes <a href="https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh" class="uri">https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh</a>.</p></li>
 </ul>
 </section>
 <section id="attention-avec-de-grands-pouvoirs-viennent-de-grandes-responsabilités" class="level3" data-number="30.0.5">
-<h3 data-number="30.0.5" class="anchored" data-anchor-id="attention-avec-de-grands-pouvoirs-viennent-de-grandes-responsabilités"><span class="header-section-number">30.0.5</span> Attention : « avec de grands pouvoirs viennent de grandes responsabilités »</h3>
+<h3 data-number="30.0.5" class="anchored" data-anchor-id="attention-avec-de-grands-pouvoirs-viennent-de-grandes-responsabilités"><span class="header-section-number">30.0.5</span> ATTENTION : « Avec de grands pouvoirs viennent de grandes responsabilités »</h3>
 <ul>
-<li><p>Il existe des commandes qui peuvent tout effacer sur votre ordinateur, ou tout renommer vos fichiers (y compris les fichiers de programmes) en toto.txt, ou tout autre manipulation en lot.</p></li>
-<li><p>Il n’y a pas de fonction Annuler ou <em>undo</em>.</p></li>
+<li>Il existe des commandes en lot qui peuvent tout effacer sur votre ordinateur (ou tout renommer ou tout déplacer)</li>
+<li>Il n’y a pas de message qui vous avertit du danger.</li>
+<li>Il n’y a pas de fonction Annuler ou <em>undo</em>.</li>
 </ul>
 </section>
 <section id="pour-aller-plus-loin..." class="level3" data-number="30.0.6">
 <h3 data-number="30.0.6" class="anchored" data-anchor-id="pour-aller-plus-loin..."><span class="header-section-number">30.0.6</span> Pour aller plus loin...</h3>
 <ul>
-<li><p>Les ateliers « Débugue tes humanités » de l’UdeM : parcours en ligne, séminaires enregistrés, documentation en libre accès <a href="https://debugue.ecrituresnumeriques.ca/" class="uri">https://debugue.ecrituresnumeriques.ca/</a>.</p></li>
-<li><p>Cours en ligne « Maîtriser le shell Bash » par Fun MOOC <a href="https://www.fun-mooc.fr/fr/cours/maitriser-le-shell-bash/" class="uri">https://www.fun-mooc.fr/fr/cours/maitriser-le-shell-bash/</a>.</p></li>
+<li>Les ateliers « Débugue tes humanités » de l’UdeM : parcours en ligne, séminaires enregistrés, documentation en libre accès <a href="https://debugue.ecrituresnumeriques.ca/" class="uri">https://debugue.ecrituresnumeriques.ca/</a>. Remerciements particuliers à Giulia Ferretti et Louis-Olivier Brassard qui m’ont enseigné le BASH.</li>
+<li>Cours en ligne « Maîtriser le shell Bash » par Fun MOOC <a href="https://www.fun-mooc.fr/fr/cours/maitriser-le-shell-bash/" class="uri">https://www.fun-mooc.fr/fr/cours/maitriser-le-shell-bash/</a>.</li>
 </ul>
 
 
