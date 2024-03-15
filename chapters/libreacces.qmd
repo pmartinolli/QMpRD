@@ -150,16 +150,14 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
     -   À MOINS que vous ne cédiez les droits à une autre personne dans le cadre d'une entente signée.
 -   Les ententes traditionnelles d'édition demandent souvent une cession des droits exclusifs à l'éditeur
     -   MAIS les auteur.e.s négocient de plus en plus afin de conserver une partie de leurs droits.
-    -   Un outil pour négocier : l'addenda de l'auteur de l'ABRC. Permet de conserver certains droits sur votre article/chapitre[^libreacces-3].
-
-[^libreacces-3]: Addenda : <http://carl-abrc.ca/doc/FrePubAgree.pdf>. Guide : <http://www.carl-abrc.ca/wp-content/uploads/2016/05/AuthorAddendum_Brochure2015_FR.pdf>
+    -   Un outil pour négocier : l'addenda de l'auteur de l'ABRC. Permet de conserver certains droits sur votre article/chapitre. [Addenda](http://carl-abrc.ca/doc/FrePubAgree.pdf) et [guide](http://www.carl-abrc.ca/wp-content/uploads/2016/05/AuthorAddendum_Brochure2015_FR.pdf).
 
 ##### Dépôt institutionnel dans Papyrus
 
 -   Les bibliothèques peuvent vous aider. Contactez-nous.
 -   Déposer la version *postprint* dans un **dépôt institutionnel** (comme [Papyrus](https://papyrus.bib.umontreal.ca/) à l'UdeM).
     -   [Guide](https://bib.umontreal.ca/public/bib/gerer-diffuser/guide_du_deposant.pdf) d'aide.
-    -   Pour vous faire aider à n'importe quelle étape : N'hésitez pas à contacter votre bibliothécaire disciplinaire ou à l'équipe Papyrus [depot\@bib.umontreal.ca](mailto:).
+    -   Pour vous faire aider à n'importe quelle étape : N'hésitez pas à contacter votre bibliothécaire disciplinaire ou à l'équipe Papyrus depot\@bib.umontreal.ca
     -   Déposez immédiatement après acceptation, c'est la bibliothèque qui gère l'embargo automatiquement pour vous et bonifient les métadonnées.
     -   Un membre de votre équipe peut faire le dépôt pour vous si vous êtes trop occupé.
     -   Pas d'autres démarches.

@@ -6,7 +6,7 @@
 -   Pour organiser vos lectures (trier, classer, annoter, etc.).
 -   Logiciel libre, simple et puissant.
 -   Infonuage gratuit (300 Mo).
--   On offre du [support](https://bib.umontreal.ca/citer/logiciels-bibliographiques/zotero/installer) et de la formation à l'UdeM.
+-   Les Bibliothèques/UdeM offrent du [support](https://bib.umontreal.ca/citer/logiciels-bibliographiques/zotero/installer) et de la formation à Zotero.
 
 ## Comment ?
 
@@ -31,7 +31,7 @@
 -   Édition \> Préférences \> Avancées : Fichiers et dossiers : Emplacement du répertoire de données : Personnalisé. Créer un sous-dossier`/MaBaseZotero`dans votre dossier maître nommé`/MaRecherche`.
 -   Édition \> Préférences \> Avancées : Générales : OpenURL. Résolveur de liens : https://libkey.io/libraries/2401/pdfexpress/openurl
 
-### Extensions recommandées.
+### Extensions recommandées (pour la version 6)
 
 -   Repérer et télécharger les fichiers XPI pour chacune des extensions ci-dessous. Puis Zotero \> Outils \> Extensions \> Tools... \> Install add-on from file... : choisir le fichier XPI. Recommencer pour les autres.
 -   [Zutilo](https://github.com/wshanks/Zutilo/releases)
