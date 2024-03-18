@@ -18,7 +18,7 @@
 
 -   **Auteur de correspondance** (*Corresponding author*) : Contributeur d'une étude à contacter. Souvent l'auteur principal ou le reponsable.
 
--   **Auto-plagiat** (*autoplagiarism*) : faire un travail et recevoir deux récompenses.
+-   **Auto-plagiat** ou **autoplagiat** (*autoplagiarism*) : faire un travail et recevoir deux récompenses.
 
 -   **Base de connaissance** (*knowledge base*, *knowledge graph*) : base de données dont les éléments sont liés les uns aux autres. Wikidata est un exemple.
 

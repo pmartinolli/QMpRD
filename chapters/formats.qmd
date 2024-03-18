@@ -17,6 +17,7 @@
 -   C'est un format plus **pérenne**.
 
     -   Pas besoin de la dernière version du logiciel, peu lié à une entreprise.
+    -   Adapté pour la préservation ([RCIP](https://www.canada.ca/fr/reseau-information-patrimoine/services/preservation-numerique/recommandations-formats-fichier-preservation-numerique.html), [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/))
 
 -   C'est un format plus **robuste**.
 
