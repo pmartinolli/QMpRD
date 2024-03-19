@@ -64,7 +64,7 @@
     -   Emploi ou statut actuel
     -   Si vous ne voulez pas tout faire dans ORCID : ajouter un lien web vers un profil plus complet sur une autre plateforme.
 3.  Pour un CV complet, complétez avec :
-    -   Informations diverses : Sites web et liens sociaux (voir métaprofil plus bas), mots-clés,*pays*.
+    -   Informations diverses : Sites web et liens sociaux (voir métaprofil plus bas), mots-clés, pays.
     -   Vos publications (Travaux).
         -   Il est possible d'importer un fichier BibTeX ou de récupérer vos informations à partir de nombreuses ressources liées comme Base Search. Demandez de l'aide à votre bibliothécaire disciplinaire.
         -   Vos présentations, vos billets de blogue notables, vos articles de magazine, vos codes sources, etc.
@@ -99,10 +99,10 @@
     -   Cochez Rendre mon profil public.
     -   Réclamez des publications : Bouton + puis Ajouter des articles.
         -   Choisissez d'ajouter les articles (*Add articles*; puis *Add articles manually*pour ceux qui ne sont pas dans Google Scholar).
-        -   *Configure articles updates*\> cocher *Don't automatically update my profile. Send me email to review and confirm updates.*
+        -   *Configure articles updates*\> cocher ***Don't automatically update my profile**. Send me email to review and confirm updates.* Sinon, Google peut vous attribuer des travaux qui ne sont pas de vous.
         -   Attention aux personnes qui ont le même nom que vous.
         -   Vous n'êtes pas obligé de tout choisir (exemple: vous pouvez choisir d'ignorer les bulletins de nouvelles, les éditoriaux, les comptes-rendus de lecture, etc.).
-        -   Il est possible de fusionner des références qui existeraient en doublon dans Google Scholar <https://harzing.com/blog/2021/09/how-to-keep-your-google-scholar-profile-clean>. Abonnez-vous à vous-même en cliquant sur *Follows* \> cocher *New citations to my articles.*
+        -   Il est possible de fusionner des références qui existeraient en [doublon](https://harzing.com/blog/2021/09/how-to-keep-your-google-scholar-profile-clean) dans Google Scholar. Abonnez-vous à vous-même en cliquant sur *Follows* \> cocher *New citations to my articles.*
 
 ## Avoir une stratégie de « métaprofil »
 
@@ -176,7 +176,7 @@ Voir @sec-promouvoir.
 -   Au moins une fois par année, allez faire un tour sur chacun de vos profils sur les plateformes en ligne.
 -   Optionnel :
     -   Faites une recherche dans Google avec votre nom (comme vu précédemment) pour vérifier si des éditeurs prédateurs n'ont pas mis votre nom sur des faux comités scientifiques à votre insu (voir les éditeurs prédateurs @sec-predateurs).
-    -   Créez une alerte dans Google Alerts <https://www.google.com/alerts> sur votre nom. Exemple `"Pascal Martinolli" OR "Martinolli, Pascal"`
+    -   Créez une alerte dans [Google Alerts](https://www.google.com/alerts) sur votre nom. Exemple `"Pascal Martinolli" OR "Martinolli, Pascal"`
     -   Dans les plateformes qui offrent cette fonction, créez d'autres alertes pour recevoir des notifications sur les citations que vous recevez, (voir @sec-alertes). Exemple : l'option *Follow* dans Google Scholar.
 
 ## Signatures et liens

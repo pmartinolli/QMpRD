@@ -1,8 +1,8 @@
 # Bibliométrie {#sec-bibliometrie}
 
-Cette section est une contribution partagée entre Cynthia Gagné (contributrice principale) et Pascal Martinolli (en appui).
+Cette section est une contribution partagée entre Cynthia Gagné (contributrice principale) et Pascal Martinolli.
 
-###  Principes et limites
+### Principes et limites
 
 ##### Définition
 
@@ -36,7 +36,7 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
     -   Exemple : D'abord utilisé pour orienter les abonnements des bibliothèques, puis utilisé pour évaluer la performance individuelle des chercheuses et des chercheurs.
 
-    -   En Italie, le Facteur d'impact a servi d' « outils de justice » pour pousser plus de valeurs méritocratiques au lieu de pratiques clientélistes au sein du monde de la recherche <https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/04/bibliometrics-at-large-the-role-of-metrics-beyond-academia/>. Les indicateurs bibliométriques sont parfois utilisés dans la presse grand public comme un « sceau de qualité ».
+    -   En [Italie](https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/04/bibliometrics-at-large-the-role-of-metrics-beyond-academia/), le Facteur d'impact a servi d' « outils de justice » pour pousser plus de valeurs méritocratiques au lieu de pratiques clientélistes au sein du monde de la recherche. Les indicateurs bibliométriques sont parfois utilisés dans la presse grand public comme un « sceau de qualité ».
 
 -   Souvent, elle sert à faire des **généralités abusives** basées sur des raccourcis de pensée.
 
@@ -50,11 +50,11 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
     -   Pour valider des titularisations de professeurs, pour leur promotion, pour leurs subventions, pour leurs reconnaissance, etc.
 
-    -   Pour faire des raccourcis de jugement (heuristiques) qui sauvent du temps aux évaluateurs <https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/>.
+    -   Pour faire des raccourcis de jugement ([heuristiques](https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/)) qui sauvent du temps aux évaluateurs.
 
-    -   Pour donner un semblant d'objectivité lors de prises de décisions hors expertise <https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/>.
+    -   Pour donner un [semblant](https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/) d'objectivité lors de prises de décisions hors expertise.
 
-##### Limites 
+##### Limites
 
 -   **Quantitatif** et non qualitatif.
 
@@ -62,7 +62,7 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
     -   Couverture variable selon les disciplines.
 
-    -   On ne peut pas comparer deux disciplines car leurs pratiques de recherche (durée par exemple), de citation (nombre de références citées par exemple), de publication (durée d'acceptation par exemple), de collaboration (nombre de co-auteurs par exemple),\... sont différents.
+    -   On ne peut pas comparer deux disciplines car leurs pratiques de recherche (durée par exemple), de citation (nombre de références citées par exemple), de publication (durée d'acceptation par exemple), de collaboration (nombre de co-auteurs par exemple),... sont différents.
 
     -   Les arts et les sciences humaines sont vraiment sous-représentés par rapport aux sciences naturelles, de la santé et aux sciences sociales.
 
@@ -76,17 +76,17 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
     -   Les thématiques locales sont sous-représentées.
 
-    -   Les femmes sont sous-représentées (sous-valorisées <https://doi.org/10.1073/pnas.1915378117>, moins de publications <https://doi.org/10.1073/pnas.1914221117>, moins première autrice, moins de collaboration, moins citées <https://doi.org/10.1038/s41586-022-04966-w>, etc.).
+    -   Les femmes sont sous-représentées ([sous-valorisées](https://doi.org/10.1073/pnas.1915378117), [moins](https://doi.org/10.1073/pnas.1914221117) de publications, moins première autrice, moins de collaboration, moins [citées](https://doi.org/10.1038/s41586-022-04966-w), etc.).
 
     -   Les langues autres que l'anglais sont sous-représentées.
 
     -   Certains types de documents sont plus cités que d'autres : les *Review articles* par exemple.
 
-    -   Des sources peuvent être citées négativement (« on est en désaccord » ou « on contredit ») : Très rare (moins de 1%) <https://elifesciences.org/articles/72737>.
+    -   Des sources peuvent être citées [négativement](https://elifesciences.org/articles/72737) (« on est en désaccord » ou « on contredit ») : Très rare (moins de 1%).
 
     -   Biais de citation : les résultats positifs sont plus cités.
 
-    -   Non adapté pour des petits ensembles : évaluation de jeunes chercheurs par exemple. Mieux adapté pour de très grands ensembles : au niveau institutionnel ou national par exemple <https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/>.
+    -   Non adapté pour des petits ensembles : évaluation de jeunes chercheurs par exemple. Mieux adapté pour de très grands ensembles : au niveau institutionnel ou national par [exemple](https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/).
 
 -   Erreurs dans les données publiées (erreurs de citation) ou collectées (erreurs d'attribution, problème d'ambigüité sur les noms D'où l'importance d'indicateurs pérennes de chercheurs comme ORCID.).
 
@@ -108,7 +108,7 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
 -   Google Scholar (Alphabet) : *PageRank*.
 
-### *PageRank []{#sec:PageRank label="sec:PageRank"}*
+### *PageRank*
 
 -   C'est l'élément de l'algorithme de Google qui a le plus contribué au succès de ce moteur de recherche.
 
@@ -126,39 +126,39 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
 #### *Cited References* pour un auteur ou un article
 
--   [Avec l'option ]{style="color: purple"}*[Cited References Search]{style="color: purple"}*[ : calculer combien de citations pour un article ou un auteur. ]{style="color: purple"}**[BIB+]{style="color: purple"}**
+-   Avec l'option *Cited References Search* : calculer combien de citations pour un article ou un auteur. Demandez de l'aide à votre bibliothécaire.
 
 #### *Analyze Results* sur un sujet
 
--   [ Avec la recherche d'articles de base + l'option ]{style="color: purple"}***[Analyze Results]{style="color: purple"}***[.]{style="color: purple"}
+-   Avec la recherche d'articles de base + l'option ***Analyze Results***.
 
-    -   [Lancez une recherche simple (avec peu de mots-clés pour avoir un nombre significatif de résultats) ☐]{style="color: purple"}
+    -   Lancez une recherche simple (avec peu de mots-clés pour avoir un nombre significatif de résultats)
 
-    -   [Dans la page de résultats, cliquez sur ]{style="color: purple"}*[Analyze Results.]{style="color: purple"}*[ ☐]{style="color: purple"}
+    -   Dans la page de résultats, cliquez sur *Analyze Results.*
 
-        -   [Analyser les résultats par auteurs (]{style="color: purple"}*[Authors]{style="color: purple"}*[) : quels chercheurs ont le plus publiés sur ce sujet ? ☐]{style="color: purple"}
+        -   Analyser les résultats par auteurs (*Authors*) : quels chercheurs ont le plus publiés sur ce sujet ?
 
-        -   [Par institutions (]{style="color: purple"}*[Affiliations]{style="color: purple"}*[) : où aller chercher des collaborations, aller faire son post-doc, etc. ? ☐]{style="color: purple"}
+        -   Par institutions (*Affiliations*) : où aller chercher des collaborations, aller faire son post-doc, etc. ?
 
-        -   [Par revues (]{style="color: purple"}*[Publication Titles]{style="color: purple"}*[) : où soumettre ses recherches ? ☐]{style="color: purple"}
+        -   Par revues (*Publication Titles*) : où soumettre ses recherches ?
 
-        -   [Par subventions de recherche (]{style="color: purple"}*[Funding agencies]{style="color: purple"}*[) ☐]{style="color: purple"}
+        -   Par subventions de recherche (*Funding agencies*)
 
 #### Facteur d'impact d'une revue
 
 -   C'est le plus ancien indicateur et le plus connu.
 
--   *Impact Factor* et Facteur d'impact sont des marques déposées par Clarivate (Web of Science, JCR,\...) <https://clarivate.com/webofsciencegroup/essays/impact-factor/>.
+-   *Impact Factor* et Facteur d'impact sont des marques déposées par [Clarivate](https://clarivate.com/webofsciencegroup/essays/impact-factor/) (Web of Science, JCR,...).
 
 -   Il est calculé à partir des données de Web of Science.
 
 -   Calcul standard :
 
-    -   Facteur d'impact d'une revue X en 2020 = Nombre de citations recues par la revue X / Nombre de publications de la revue X en 2018 et 2019.
+    -   Facteur d'impact d'une revue X en 2020 = $\frac{Nombre\ de\ citations\ reçues\ par\ la\ revue X}{Nombre\ de\ publications\ de\ la\ revue\ X\ en\ 2018\ et\ 2019}$.
 
     -   Problèmes dans la façon qu'il est calculé :
 
-        -   Asymétrie numérateur / dénominateur. Le dénominateur inclut seulement les articles citables (par exemple, les éditoriaux ne sont pas inclus), mais les citations de tous les types d'articles sont inclus au nominateur -> plus gros facteur d'impact. Les revues peuvent jouer avec ce qu'elles incluent au dénominateur.
+        -   Asymétrie numérateur / dénominateur. Le dénominateur inclut seulement les articles citables (par exemple, les éditoriaux ne sont pas inclus), mais les citations de tous les types d'articles sont inclus au nominateur -\> plus gros facteur d'impact. Les revues peuvent jouer avec ce qu'elles incluent au dénominateur.
 
         -   Asymétrie de la distribution (non paramétrique) : certains articles sont très cités et beaucoup très peu, donc la moyenne ne veut rien dire.
 
@@ -166,21 +166,21 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
 -   Calcul sur 5 ans recommandé pour les sciences sociales (temps long de la citation).
 
--   On le trouve dans un outil nommé le JCR (*Journal Citation Reports*) <https://jcr.clarivate.com/jcr/home> :
+-   On le trouve dans un outil nommé le [JCR](https://jcr.clarivate.com/jcr/home) (*Journal Citation Reports*).
 
-    -   [Aller dans la section du bas ]{style="color: purple"}*[See full listings and refine your search]{style="color: purple"}*[ \> ]{style="color: purple"}*[Browse categories]{style="color: purple"}*[ ]{style="color: purple"}
+    -   Aller dans la section du bas*See full listings and refine your search*\>*Browse categories*
 
-    -   [Sélectionner votre domaine et un sous-domaine, puis cliquer sur le nombre dans la colonne \# of journals du SCIE (sciences), du SSCI (sciences sociales) ou du AHCI (arts et humanités).]{style="color: purple"}
+    -   Sélectionner votre domaine et un sous-domaine, puis cliquer sur le nombre dans la colonne \# of journals du SCIE (sciences), du SSCI (sciences sociales) ou du AHCI (arts et humanités).
 
-    -   [Trier par facteur d'impact (JIF). ☐]{style="color: purple"}
+    -   Trier par facteur d'impact (JIF). ☐
 
 #### InCites
 
 -   Basé sur Web of Science Core Collection.
 
--   Se créer un compte <https://incites.clarivate.com/>. **BIB+**
+-   Se créer un [compte](https://incites.clarivate.com/).
 
--   Permet de calculer et comparer des indices de collaboration, de spécialisation et d'expertise :
+    Permet de calculer et comparer des indices de collaboration, de spécialisation et d'expertise :
 
     -   Institutions de recherche.
 
@@ -188,31 +188,31 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
     -   Éditeurs scientifiques.
 
-### Avec SCImago Journal Rank 
+### Avec SCImago Journal Rank
 
 -   Créé par Scopus (Elsevier) en concurrence à Web of Science.
 
--   Accès gratuit <https://www.scimagojr.com/>.
+-   [Accès](https://www.scimagojr.com/) gratuit.
 
 -   **SJR Indicator** : Basé sur le principe du *PageRank* mais pour les publications scientifiques : si une citation est issue d'une revue très citée, alors elle compte plus.
 
-    -   Mesure dépendante de la taille du producteur d'information (plus il publie, plus le SJR monte). Contrairement au Facteur d'impact (indépendant) <http://musingsaboutlibrarianship.blogspot.com/2022/07/4-interesting-things-about.html>.
+    -   Mesure dépendante de la taille du producteur d'information (plus il publie, plus le SJR monte). Contrairement au Facteur d'impact ([indépendant](http://musingsaboutlibrarianship.blogspot.com/2022/07/4-interesting-things-about.html)).
 
 -   **Cites per Doc. (2y)** : calcul équivalent au Facteur d'impact, mais calculé sur les données de Scopus (pas de WoS).
 
--   [Consulter le SCImago]{style="color: purple"}
+-   Consulter le SCImago
 
-    -   [Cliquer sur Journal ranking (en haut).]{style="color: purple"}
+    -   Cliquer sur Journal ranking (en haut).
 
-    -   [Sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories). ]{style="color: purple"}
+    -   Sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories).
 
-    -   [Trier par SJR ou Cites per doc. ☐]{style="color: purple"}
+    -   Trier par SJR ou Cites per doc. ☐
 
 ### h-index
 
 -   C'est un indicateur **à la mode** mais **très controversé**.
 
-    -   Son créateur l'a renié avec horreur [https://arxiv.org/ftp/arxiv/papers/2001/2001.09496.pdf ](https://arxiv.org/ftp/arxiv/papers/2001/2001.09496.pdf%20).
+    -   Son créateur l'a [renié](https://arxiv.org/ftp/arxiv/papers/2001/2001.09496.pdf) avec horreur.
 
     -   Son principe même est douteux et confus : combiner un indicateur de nombre de citation et un indicateur de nombre de publications dans un seul indicateur.
 
@@ -222,17 +222,17 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
     -   Calculé pour les individus, les groupes de personnes, les institutions, les pays, etc. (sic).
 
--   Il a connu un grand succès grâce à Google Scholar, puis grâce au logiciel Publish or Perish [https://harzing.com/resources/publish-or-perish ](https://harzing.com/resources/publish-or-perish%20).
+-   Il a connu un grand succès grâce à Google Scholar, puis grâce au logiciel [Publish or Perish](https://harzing.com/resources/publish-or-perish).
 
 ### Autres indicateurs
 
-#### JCI 
+#### JCI
 
--   En 2021, Clarivate (Web of Science, JCR,\...) a proposé un indicateur qui permettrait de comparer entre les disciplines (grâce à la normalisation) et qui serait pertinent pour les arts et humanités : le **Journal Citation Indicator** (**JCI**).
+-   En 2021, Clarivate (Web of Science, JCR,...) a proposé un indicateur qui permettrait de comparer entre les disciplines (grâce à la normalisation) et qui serait pertinent pour les arts et humanités : le **Journal Citation Indicator** (**JCI**).
 
-    -   Pour rester poli, on va dire que ça n'a pas convaincu grand monde en raison de très nombreux problèmes de méthodologie et de compréhension des disciplines <https://scholarlykitchen.sspnet.org/2021/05/24/journal-citation-indicator/>.
+    -   Pour rester poli, on va dire que ça n'a pas convaincu grand monde en raison de très nombreux [problèmes](https://scholarlykitchen.sspnet.org/2021/05/24/journal-citation-indicator/) de méthodologie et de compréhension des disciplines.
 
-#### altmetrics[]{#subsec:altmetrics label="subsec:altmetrics"}
+#### altmetrics
 
 -   Les ***altmetrics*** (*alternative metrics*), ou mesures d'impact immédiat ou mesures d'impact alternatives, sont des méthodes quantitatives.
 
@@ -240,7 +240,7 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
 -   Elles sont basées surtout sur la **visibilité médiatique** des publications de la recherche ou d'autres critères non-traditionnels.
 
-    -   Permet de repérer la **conversation scientifique** après publication Exemple : <https://bmjopen.bmj.com/content/3/8/e002998.altmetrics> :
+    -   Permet de repérer la **conversation scientifique** après publication. [Exemples](https://bmjopen.bmj.com/content/3/8/e002998.altmetrics) :
 
         -   Qui a twitté et commenté ?
 
@@ -252,10 +252,10 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
     -   Autres critères : nombre de références importées dans Mendeley ou Zotero, combien de téléchargements de l'article en PDF, etc.
 
--   Les altmetrics comportent eux-aussi plusieurs limites <http://www.carl-abrc.ca/doc/CARL2013-altmetrics-FR-FA2.pdf> (section Mises en garde).
+-   Les altmetrics comportent eux-aussi plusieurs [limites](http://www.carl-abrc.ca/doc/CARL2013-altmetrics-FR-FA2.pdf) (section Mises en garde).
 
 -   On peut s'en servir pour mesurer la « viralité » d'une publication de recherche.
 
 #### Faux indicateurs : Citefactor, Global Impact Factor
 
--   Voir le chapitre sur les éditeurs prédateurs p. .
+-   Voir le chapitre sur les éditeurs prédateurs (\@sec-predateurs).

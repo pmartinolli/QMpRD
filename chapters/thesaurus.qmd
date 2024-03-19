@@ -17,7 +17,7 @@
         -   Si elle est disponible, la fonction *Focus* permet de chercher seulement le terme sélectionné.
 -   Comment ?
     -   Allez explorer les thésaurus de certaines bases de données :*MEDLINE, PsychInfo, Sociological Abstracts,*etc.
-        -   Pour les catalogues d'institution québécoises, le thésaurus est souvent le Répertoire des vedettes-matières de l'Université Laval (RVM) <https://rvmweb.bibl.ulaval.ca/>. Je suis allé le parcourir : ☐
+        -   Pour les catalogues d'institution québécoises, le thésaurus est souvent le Répertoire des vedettes-matières de l'Université Laval ([RVM](https://rvmweb.bibl.ulaval.ca/)).
     -   Séquence d'utilisation simple :
         1.  Parcourir un thésaurus (souvent dans les menus en haut de l'interface).
         2.  Repérer les mots Sujets pertinents et les prendre en note.
@@ -27,7 +27,7 @@
         -   Plus complexe et risque d'erreurs voir p. pour un exemple de manipulation du thésaurus MeSH de MEDLINE (en médecine)..
 -   Construire votre propre thésaurus pour Zotero, voir p. .
 
-##  Marqueurs et thésaurus personnel dans Zotero (ou autre)
+## Marqueurs et thésaurus personnel dans Zotero (ou autre)
 
 -   Organisation pertinente pour un grand nombre de notices car il est facile de combiner plusieurs marqueurs pour repérer des notices.
 
@@ -37,7 +37,7 @@
 
     -   Puis indexer les notices avec ces marqueurs.
 
-####  Créer un thésaurus personnel 
+#### Créer un thésaurus personnel
 
 -   Pourquoi ?
 
@@ -69,7 +69,7 @@
 
     -   Des marqueurs thématiques (l'essentiel des marqueurs)
 
-##### Marqueurs de méthode de travail : 
+##### Marqueurs de méthode de travail :
 
 -   `_nettoyé` : la notice électronique de la référence dans Zotero a été vérifiée, elle peut être citée dans un travail.
 
@@ -93,7 +93,7 @@
 
     -   `_0.99` : solide et vérifié. Je peux m'appuyer dessus sans soucis.
 
-##### Marqueurs thématiques : 
+##### Marqueurs thématiques :
 
 -   Faite une liste de 50 à 100 marqueurs **maximum**.
 
@@ -103,40 +103,14 @@
 
 -   Faites un thésaurus basé sur vos objectifs de recherche et votre corpus, pas sur l'organisation théorique et complète des informations. Un thésaurus est toujours **adapté** à un projet.
 
-    -   Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoir $\begin{array}{cc}
-        natation\\
-        waterpolo\\
-        plongeon\\
-        autre
-        \end{array}$` `plutôt que $\begin{array}{cc}
-        natation\\
-        waterpolo\\
-        plongeon\\
-        course\\
-        lancer\\
-        saut\\
-        v\acute{e}lo\\
-        p\acute{e}tanque
-        \end{array}$` `.
+    -   Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoir $\begin{array}{cc} natation\\ waterpolo\\ plongeon\\ autre \end{array}$ plutôt que $\begin{array}{cc} natation\\ waterpolo\\ plongeon\\ course\\ lancer\\ saut\\ v\acute{e}lo\\ p\acute{e}tanque \end{array}$.
 
     -   Constituez votre thésaurus ou paufinez-le quand vous avez déjà plusieurs centaines de références, c'est plus facile pour baliser votre terrain et repérez des marqueurs candidats.
 
 -   Astuce de la « sous-catégorie obèse » : fusionnez une sous-catégorie trop volumineuse (par rapport à toutes les autres qui sont rachitiques) avec la catégorie supérieure.
 
-    -   Exemple : Avant (bof) : $\begin{array}{clc}
-        \\
-        LIS &  & (n=52)\\
-         & Archive & (n=6)\\
-         & Biblioth\grave{e}que & (n=32)\\
-         & Citation & (n=4)\\
-         & Textmining & (n=3)\\
-        \\
-        \end{array}$ -->Après (mieux) : $\begin{array}{clc}
-        Biblioth\grave{e}que &  & (n=52)\\
-         & Archive & (n=6)\\
-         & Citation & (n=4)\\
-         & Textmining & (n=3)
-        \end{array}$
+    -   Exemple : Avant (bof) : $\begin{array}{clc} \\ LIS & & (n=52)\\ & Archive & (n=6)\\ & Biblioth\grave{e}que & (n=32)\\ & Citation & (n=4)\\ & Textmining & (n=3)\\ \\ \end{array}$
+    -   --\>Après (mieux) : $\begin{array}{clc} Biblioth\grave{e}que & & (n=52)\\ & Archive & (n=6)\\ & Citation & (n=4)\\ & Textmining & (n=3) \end{array}$
 
 -   Astuce du « petit verbeux » : si vous avez une base de données sur le jeu, il n'est peut être pas nécessaire de créer un marqueur `_jeu` qui serait présent dans toutes les références. À évaluer.
 
@@ -144,126 +118,121 @@
 
 #### Création des marqueurs dans Zotero
 
--   [Dans une notice : onglet Marqueurs \> Ajouter \> rédiger un nouveau marqueur.]{style="color: purple"}
+-   Dans une notice : onglet Marqueurs \> Ajouter \> rédiger un nouveau marqueur.
 
--   [☐ Astuce : faire précéder chaque marqueur unique du ]{style="color: purple"}**[caractère \_]{style="color: purple"}**
+-   Astuce : faire précéder chaque marqueur unique du **caractère \_**
 
-    -   [Ils sont signés comme étant vos marqueurs à vous, issus d'une précieuse liste contrôlée.]{style="color: purple"}
+    -   Ils sont signés comme étant vos marqueurs à vous, issus d'une précieuse liste contrôlée.
 
-    -   [Ils apparaissent en haut des listes.]{style="color: purple"}
+    -   Ils apparaissent en haut des listes.
 
--   [☐ Astuce : faire précéder vos marqueurs temporaires ou de « cuisine interne » (réorganisation, hésitation, archives, etc.) avec le ]{style="color: purple"}**[caractère =]{style="color: purple"}**
+-   Astuce : faire précéder vos marqueurs temporaires ou de « cuisine interne » (réorganisation, hésitation, archives, etc.) avec le **caractère =**
 
-    -   [Ils sont signés aussi, et ils ne se mélangent pas à votre liste contrôlée de \_marqueurs.]{style="color: purple"}
+    -   Ils sont signés aussi, et ils ne se mélangent pas à votre liste contrôlée de \_marqueurs.
 
-    -   [Ils apparaissent en groupe, juste après les \_marqueurs.]{style="color: purple"}
+    -   Ils apparaissent en groupe, juste après les \_marqueurs.
 
--   [☐ Astuce : vous pouvez colorer avec 9 couleurs des marqueurs qui seront fixés de manière permanente dans le nuage des marqueurs à droite.]{style="color: purple"}
+-   Astuce : vous pouvez colorer avec 9 couleurs des marqueurs qui seront fixés de manière permanente dans le nuage des marqueurs à droite.
 
-    -   [Nuage des marqueurs \> clic-droit sur un marqueur \> Attribuer une couleur.]{style="color: purple"}
+    -   Nuage des marqueurs \> clic-droit sur un marqueur \> Attribuer une couleur.
 
-    -   [Suggestion de marqueurs à colorer : ]{style="color: purple"}[`_nettoyé`]{style="color: purple"}[,]{style="color: purple"}[` _publication majeure`]{style="color: purple"}[,]{style="color: purple"}[` _lu`]{style="color: purple"}[.]{style="color: purple"}
+    -   Suggestion de marqueurs à colorer :`_nettoyé`,`_publication majeure`,`_lu`.
 
-#### Création du thésaurus personnel dans un tableau 
+#### Création du thésaurus personnel dans un tableau
 
--   [☐ Ouvrir un fichier Word ou LibreOffice :]{style="color: purple"}
+-   Ouvrir un fichier Word ou LibreOffice :
 
-    -   [☐ Faire tout tenir sur une page recto : Réduire les marges et haut et bas de page. Créer 2 colonnes. ]{style="color: purple"}
+    -   Faire tout tenir sur une page recto : Réduire les marges et haut et bas de page. Créer 2 colonnes.
 
-    -   [☐ Une fois terminé, imprimer cette page et la coller comme couverture de votre cahier de recherche. Ainsi, vous l'aurez facilement toujours sous les yeux. ]{style="color: purple"}
+    -   Une fois terminé, imprimer cette page et la coller comme couverture de votre cahier de recherche. Ainsi, vous l'aurez facilement toujours sous les yeux.
 
--   [☐ Faire 2 ou 3 colonnes : ]{style="color: purple"}
+-   Faire 2 ou 3 colonnes :
 
-    -   [2 colonnes = une colonne pour les marqueurs uniques, une colonne pour les renvois.]{style="color: purple"}
+    -   2 colonnes = une colonne pour les marqueurs uniques, une colonne pour les renvois.
 
-    -   [3 colonnes = deux colonnes pour les marqueurs uniques (organisés sur deux niveaux), une colonne pour les renvois.]{style="color: purple"}
+    -   3 colonnes = deux colonnes pour les marqueurs uniques (organisés sur deux niveaux), une colonne pour les renvois.
 
-        -   [Voir Exemple ci-dessous.]{style="color: purple"}
+        -   Voir Exemple ci-dessous.
 
--   [☐ Lister tous les marqueurs uniques. \[3h+\]]{style="color: purple"}
+-   Lister tous les marqueurs uniques. \[3h+\]
 
-    -   [Choisir une règle de forme unique ]{style="color: purple"}
+    -   Choisir une règle de forme unique
 
-        -   [Exemple : en français, au singulier et débutant avec une majuscule après le \_ ou le =. ]{style="color: purple"}
+        -   Exemple : en français, au singulier et débutant avec une majuscule après le \_ ou le =.
 
-        -   [Exemple : en anglais, au singulier et tout en minuscule (mon préféré).]{style="color: purple"}
+        -   Exemple : en anglais, au singulier et tout en minuscule (mon préféré).
 
-        -   [Car dans Zotero les marqueurs sont sensibles à la casse et aux accents. ]{style="color: purple"}
+        -   Car dans Zotero les marqueurs sont sensibles à la casse et aux accents.
 
-    -   [☐ Parcourir sa collection de références et repérer les thèmes. Si un nouveau thème est pertinent, créez un marqueur.]{style="color: purple"}
+    -   Parcourir sa collection de références et repérer les thèmes. Si un nouveau thème est pertinent, créez un marqueur.
 
--   [☐ Regrouper les marqueurs par grands thèmes (niveau 1). ]{style="color: purple"}
+-   Regrouper les marqueurs par grands thèmes (niveau 1).
 
-    -   [Si on veut, on peut donner un niveau supplémentaire pour nicher certains sous-thèmes (niveau 2) dans des grands thèmes (niveau 1).]{style="color: purple"}
+    -   Si on veut, on peut donner un niveau supplémentaire pour nicher certains sous-thèmes (niveau 2) dans des grands thèmes (niveau 1).
 
--   [☐ Lister tous les renvois, alias, variants, thèmes proches ou thèmes plus spécifiques pertinents dans la colonne des renvois. \[2h+\]]{style="color: purple"}
+-   Lister tous les renvois, alias, variants, thèmes proches ou thèmes plus spécifiques pertinents dans la colonne des renvois.
 
 ##### Exemple
 
-  **Thème niveau 1**   **Thème niveau 2**   **Renvois, variants, alias, sujets proches, plus spécifiques ou plus généraux**
-  -------------------- -------------------- ------------------------------------------------------------------------------------------------------------------------
-  `_copyright`                              *Creative Commons*, droit d'auteur, plagiat, contrefaçon, notoriété publique, domaine public, propriété intellectuelle
-  `_apprentissage`                          éducation, *learning*, apprentissage, formation
-                       `_ludification`      gamification, jeu sérieux, jeu éducatif
-  `_jeu`                                    
-                       `_jeu de société`    jeu de carte, jeu de dé, jeu de plateau
-                       `_jeu de rôle`       grandeur nature, *live action rpg*
-                       `_wargame`           *megagame*
-  `_collaboration`                          négociation, coopération, communication
-  `_agentivité`                             choix, *railroading*, dilemme, prise de décision, *decision making*
+| **Thème niveau 1** | **Thème niveau 2** | **Renvois, variants, alias, sujets proches, plus spécifiques ou plus généraux**                                        |
+|:------------|:------------|:----------------------------------------------|
+| `_copyright`       |                    | *Creative Commons*, droit d'auteur, plagiat, contrefaçon, notoriété publique, domaine public, propriété intellectuelle |
+| `_apprentissage`   |                    | éducation, *learning*, apprentissage, formation                                                                        |
+|                    | `_ludification`    | gamification, jeu sérieux, jeu éducatif                                                                                |
+| `_jeu`             |                    |                                                                                                                        |
+|                    | `_jeu de société`  | jeu de carte, jeu de dé, jeu de plateau                                                                                |
+|                    | `_jeu de rôle`     | grandeur nature, *live action rpg*                                                                                     |
+|                    | `_wargame`         | *megagame*                                                                                                             |
+| `_collaboration`   |                    | négociation, coopération, communication                                                                                |
+| `_agentivité`      |                    | choix, *railroading*, dilemme, prise de décision, *decision making*                                                    |
 
 -   Avec l'exemple ci-dessus, on peut voir que l'on peut utiliser :
 
     -   `_apprentissage` : seul
 
-    -   `_ludification` et` _apprentissage` : toujours ensemble
+    -   `_ludification` et`_apprentissage` : toujours ensemble
 
-    -   `_jeu` et` _jeu de société` : toujours ensemble
+    -   `_jeu` et`_jeu de société` : toujours ensemble
 
     -   etc.
-
-
-
 
 ## Exemples de thesaurus
 
 ### Répertoire des vedettes-matières de l'ULaval
 
-- Utilisé par beaucoup d'établissements universitaires au Québec pour indexer les sujets de leurs catalogues.
+-   [Utilisé](https://rvmweb.bibl.ulaval.ca/) par beaucoup d'établissements universitaires au Québec pour indexer les sujets de leurs catalogues.
 
-- <https://rvmweb.bibl.ulaval.ca/>
+### Thésaurus MeSH de Ovid MEDLINE
 
-### Thésaurus MeSH de Ovid MEDLINE 
+-   Utilisé par Medline et PubMed pour les articles scientifiques en santé.
 
-- Utilisé par Medline et PubMed pour les articles scientifiques en santé.
+-   Ouvrir la base de données Ovid [MEDLINE](https://libguides.bib.umontreal.ca/MEDLINE_OVID).
 
--   Ouvrir la base de données Ovid MEDLINE <https://libguides.bib.umontreal.ca/MEDLINE_OVID>.
+### Option de recherche simple :
 
-### Option de recherche simple : 
+-   On arrive sur la recherche avancée avec une requête cochée sur Keyword. Il faut donc :
 
--   [On arrive sur la recherche avancée avec une requête cochée sur Keyword. Il faut donc : ]{style="color: purple"}
+    -   Chercher d'abord un Keyword à la fois et ensuite combiner les historiques de recherche.
 
-    -   [Chercher d'abord un Keyword à la fois et ensuite combiner les historiques de recherche.]{style="color: purple"}
+    OU
 
-    [OU ]{style="color: purple"}
+    -   Lancer une recherche avec plusieurs Keywords mais séparés par un`AND`explicite.
 
-    -   [Lancer une recherche avec plusieurs Keywords mais séparés par un ]{style="color: purple"}[`AND`]{style="color: purple"}[ explicite. ]{style="color: purple"}
+        -   En effet, c'est une des rares base de données qui ne remplace pas les espaces entre les mots par des`AND`. Par défaut, des mots séparés par des espaces sont cherchés comme un groupe de mots entre guillemets.
 
-        -   [En effet, c'est une des rares base de données qui ne remplace pas les espaces entre les mots par des ]{style="color: purple"}[`AND`]{style="color: purple"}[. Par défaut, des mots séparés par des espaces sont cherchés comme un groupe de mots entre guillemets.]{style="color: purple"}
+### Option de recherche avancée
 
-### Option de recherche avancée 
+-   Ouvrir le*Term Finder*(bouton vert).
 
--   [Ouvrir le ]{style="color: purple"}*[Term Finder ]{style="color: purple"}*[(bouton vert). ]{style="color: purple"}
+-   Chercher un terme, le cocher puis et cliquer sur*Add to Search Options*.
 
--   [Chercher un terme, le cocher puis et cliquer sur ]{style="color: purple"}*[Add to Search Options]{style="color: purple"}*[. ]{style="color: purple"}
+    -   Les termes MeSH ont une hiérarchie avancée : des termes plus génériques et des termes plus spécifiques.
 
-    -   [Les termes MeSH ont une hiérarchie avancée : des termes plus génériques et des termes plus spécifiques. ]{style="color: purple"}
+        -   Cocher*Explode*pour chercher un niveau général et tous les niveaux plus spécifiques.
 
-        -   [Cocher]{style="color: purple"}*[ Explode]{style="color: purple"}*[ pour chercher un niveau général et tous les niveaux plus spécifiques.]{style="color: purple"}
+    -   Cocher*Focus*pour chercher seulement les sujets qui ont été indexés comme sujets majeurs du document (ceux précédés d'une astérisque).
 
-    -   [Cocher ]{style="color: purple"}*[Focus ]{style="color: purple"}*[pour chercher seulement les sujets qui ont été indexés comme sujets majeurs du document (ceux précédés d'une astérisque).]{style="color: purple"}
-
--   [Recommencer pour chaque terme puis combiner les recherches pertinentes.]{style="color: purple"}
+-   Recommencer pour chaque terme puis combiner les recherches pertinentes.
 
 ### Notes
 

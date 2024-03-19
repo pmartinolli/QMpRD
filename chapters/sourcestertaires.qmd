@@ -64,7 +64,7 @@
 
 -   Pourquoi ? Un *handbook* est un manuel de base de haut niveau qui est reconnu dans une discipline et qui synthétise les notions essentielles à connaître.
 -   Comment ?
-    -   Consulter la liste des *Oxford Handbooks Online (OHO)* <https://www.oxfordhandbooks.com/>
+    -   Consulter la liste des *Oxford Handbooks Online ([OHO](https://www.oxfordhandbooks.com/))*
         -   Il est possible de repérer directement des articles par sujets.
     -   Repérer d'autres *handbooks* :
         -   Lancer une recherche dans Sofia sous la forme : chercher la **discipline** en anglais et **handbook\*** dans les titres.
@@ -75,7 +75,7 @@
 
 -   Pourquoi ? Des expert.es reconnus ont peut être déjà constitué des bibliographies thématiques sur votre sujet. Parfois, ce sont de véritables mines d'or, soigneusement sélectionnées et commentées. C'est comme si vous preniez un café avec votre professeur.e sur votre sujet et que vous repartiez avec ses notes.
 -   Comment ? 
-    -   Consulter la liste des*Oxford Bibliographies Online*(*OBO*) <https://www.oxfordbibliographies.com/>
+    -   Consulter la liste des*Oxford Bibliographies Online ([OBO](https://www.oxfordbibliographies.com/)*
     -   Lancer une recherche dans Sofia sous la forme : discipline et bibliograph\*.
         -   Exemple :``` sociolog``*`` bibliograph``* ```
         -   Limiter aux livres.
@@ -85,7 +85,7 @@
 
 -   Pourquoi ? Pour connaître les différentes méthodes utilisées pour mener des recherches : leurs forces, leurs limites, les logiciels adaptés, etc.
 -   Comment ? 
-    -   Consulter la liste des*SAGE Research Methods*(*SRM*) <https://methods.sagepub.com/>
+    -   Consulter la liste des*SAGE Research Methods ([SRM](https://methods.sagepub.com/))
         -   SRM est une base de données sur la méthodologie de recherche en sciences sociales donnant accès au texte intégral d'une importante collection de dictionnaires, encyclopédies, manuels, articles et vidéos de l'éditeur SAGE.
     -   Repérer d'autres ouvrages de méthodes.
         -   Lancer une recherche dans Sofia sous la forme : discipline et method\*.
@@ -97,14 +97,14 @@
 -   Pourquoi ? Les articles de revue de littérature sont des synthèses d'autres articles scientifiques. Il en existe de plusieurs sortes : *literature review*, ou *review article*, ou *systematic review*, ou méta analyses, etc. Voir le chapitre sur les revues de littérature pour en savoir plus, p. ..
 -   Comment ?
     -   Lancer des recherches dans des bases de données généralistes ou spécialisées en filtrant seulement les articles de revue de littérature \[2h\].
-    -   *Annual Review* <https://www.annualreviews.org/>: une base de données spécialisées en revues de littérature et des synthèses des principales avancées dans de nombreux domaines, appuyées sur des sources d'autorité.
+    -   *[Annual Review](https://www.annualreviews.org/)* : une base de données spécialisées en revues de littérature et des synthèses des principales avancées dans de nombreux domaines, appuyées sur des sources d'autorité.
         -   Utilisez peu de mots-clés dans votre équation de recherche.
         -   Exemple :``` violen``*`` video game``*`` ```pour repérer l'étude de Fergusson (2018) qui synthétise la recherche récente sur la controverse des jeux vidéo violents.
-    -   *Google Scholar* <https://scholar.google.com/>(généraliste):
+    -   *[Google Scholar](https://scholar.google.com/)* (généraliste):
         -   Option 1 : Lancez une recherche avec votre sujet puis ajoutez le mot-clé`intitle:review`
             -   Exemple :`gerontology dementia game intitle:review`
         -   ou Option 2 : lancez une recherche avec votre sujet puis utiliser le filtre*Review Article*à gauche.
-    -   *Web of Science* <https://www.webofknowledge.com/>(généraliste) :
+    -   *[Web of Science](https://www.webofknowledge.com/)* (généraliste) :
         -   Lancer une recherche avec votre sujet puis utiliser le filtre*Review Article*à gauche.
     -   Pour aller plus loin : repérer des articles de revue de littérature dans une base de données spécialisée
         -   *PubMed*(médecine) : lancer une recherche avec votre sujet puis utiliser le filtre*Review Article + Review + Meta Analysis*à gauche.
@@ -115,14 +115,14 @@
 
 ## Syllabus de cours universitaires
 
--   Le site OpenSyllabus <https://www.opensyllabus.org/> recense beaucoup de plans de cours (*syllabus*) universitaires. De plus, il fait un comptage bibliométrique de chaque document mentionné en lecture obligatoire ou recommandée. C'est donc un bon indicateur pour savoir quels sont les travaux utiliséspar les enseignants pour étudier un sujet.
+-   Le site [OpenSyllabus](https://www.opensyllabus.org/) recense beaucoup de plans de cours (*syllabus*) universitaires. De plus, il fait un comptage bibliométrique de chaque document mentionné en lecture obligatoire ou recommandée. C'est donc un bon indicateur pour savoir quels sont les travaux utiliséspar les enseignants pour étudier un sujet.
 -   Il est possible d'y faire une recherche par mots-clés dans les titres des documents. OpenSyllabus Explorer \> Title : choisir un mot-clé simple et lancer la recherche.
 
 ## Encyclopédies généralistes
 
 -   Les encyclopédies généralistes sont des outils de **qualité variable selon les articles**. C'est-à-dire qu'une encyclopédie généraliste peut traiter très bien un sujet et très médiocrement un autre.
-    -   *Encyclopædia Universalis* <https://www.universalis.fr/>. En français.
-    -   *Encyclopedia Britannica* <https://www.britannica.com/>. En anglais.
-    -   *Wikipédia* <https://fr.wikipedia.org/>. Un portail de sources intéressantes et d'informations synthétiques MAIS à condition d'éviter deux écueils Pour en savoir plus, voir p.. :
+    -   *[Encyclopædia Universalis](https://www.universalis.fr/)*. En français.
+    -   *[Encyclopedia Britannica](https://www.britannica.com/)*. En anglais.
+    -   *[Wikipédia](https://fr.wikipedia.org/)*. Un portail de sources intéressantes et d'informations synthétiques MAIS à condition d'éviter deux écueils (voir @sec-wikipourlarecherche).
         -   la possibilité d'un traitement partiel ou inégal d'un sujet ;
         -   la persistance d'erreurs non corrigées par la communauté des contributeurs.

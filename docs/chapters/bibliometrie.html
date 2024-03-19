@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -534,7 +563,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#principes-et-limites" id="toc-principes-et-limites" class="nav-link active" data-scroll-target="#principes-et-limites"><span class="header-section-number">42.0.1</span> Principes et limites</a></li>
-  <li><a href="#pagerank" id="toc-pagerank" class="nav-link" data-scroll-target="#pagerank"><span class="header-section-number">42.0.2</span> <em>PageRank <span id="sec:PageRank" label="sec:PageRank"></span></em></a></li>
+  <li><a href="#pagerank" id="toc-pagerank" class="nav-link" data-scroll-target="#pagerank"><span class="header-section-number">42.0.2</span> <em>PageRank</em></a></li>
   <li><a href="#web-of-science-et-facteur-dimpact" id="toc-web-of-science-et-facteur-dimpact" class="nav-link" data-scroll-target="#web-of-science-et-facteur-dimpact"><span class="header-section-number">42.0.3</span> Web of Science et facteur d’impact</a></li>
   <li><a href="#avec-scimago-journal-rank" id="toc-avec-scimago-journal-rank" class="nav-link" data-scroll-target="#avec-scimago-journal-rank"><span class="header-section-number">42.0.4</span> Avec SCImago Journal Rank</a></li>
   <li><a href="#h-index" id="toc-h-index" class="nav-link" data-scroll-target="#h-index"><span class="header-section-number">42.0.5</span> h-index</a></li>
@@ -564,7 +593,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Cette section est une contribution partagée entre Cynthia Gagné (contributrice principale) et Pascal Martinolli (en appui).</p>
+<p>Cette section est une contribution partagée entre Cynthia Gagné (contributrice principale) et Pascal Martinolli.</p>
 <section id="principes-et-limites" class="level3" data-number="42.0.1">
 <h3 data-number="42.0.1" class="anchored" data-anchor-id="principes-et-limites"><span class="header-section-number">42.0.1</span> Principes et limites</h3>
 <section id="définition" class="level5" data-number="42.0.1.0.1">
@@ -596,7 +625,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Il y a eu un <strong>détournement</strong> de son intention originelle.</p>
 <ul>
 <li><p>Exemple : D’abord utilisé pour orienter les abonnements des bibliothèques, puis utilisé pour évaluer la performance individuelle des chercheuses et des chercheurs.</p></li>
-<li><p>En Italie, le Facteur d’impact a servi d’ « outils de justice » pour pousser plus de valeurs méritocratiques au lieu de pratiques clientélistes au sein du monde de la recherche <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/04/bibliometrics-at-large-the-role-of-metrics-beyond-academia/" class="uri">https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/04/bibliometrics-at-large-the-role-of-metrics-beyond-academia/</a>. Les indicateurs bibliométriques sont parfois utilisés dans la presse grand public comme un « sceau de qualité ».</p></li>
+<li><p>En <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/04/bibliometrics-at-large-the-role-of-metrics-beyond-academia/">Italie</a>, le Facteur d’impact a servi d’ « outils de justice » pour pousser plus de valeurs méritocratiques au lieu de pratiques clientélistes au sein du monde de la recherche. Les indicateurs bibliométriques sont parfois utilisés dans la presse grand public comme un « sceau de qualité ».</p></li>
 </ul></li>
 <li><p>Souvent, elle sert à faire des <strong>généralités abusives</strong> basées sur des raccourcis de pensée.</p>
 <ul>
@@ -609,8 +638,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Pour le meilleur ou pour le pire, les résultats des méthodes bibliométriques servent à <strong>prendre des décisions critiques</strong> pour la recherche :</p>
 <ul>
 <li><p>Pour valider des titularisations de professeurs, pour leur promotion, pour leurs subventions, pour leurs reconnaissance, etc.</p></li>
-<li><p>Pour faire des raccourcis de jugement (heuristiques) qui sauvent du temps aux évaluateurs <a href="https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/" class="uri">https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/</a>.</p></li>
-<li><p>Pour donner un semblant d’objectivité lors de prises de décisions hors expertise <a href="https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/" class="uri">https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/</a>.</p></li>
+<li><p>Pour faire des raccourcis de jugement (<a href="https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/">heuristiques</a>) qui sauvent du temps aux évaluateurs.</p></li>
+<li><p>Pour donner un <a href="https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/">semblant</a> d’objectivité lors de prises de décisions hors expertise.</p></li>
 </ul></li>
 </ul>
 </section>
@@ -621,7 +650,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>Biais disciplinaires</strong> :</p>
 <ul>
 <li><p>Couverture variable selon les disciplines.</p></li>
-<li><p>On ne peut pas comparer deux disciplines car leurs pratiques de recherche (durée par exemple), de citation (nombre de références citées par exemple), de publication (durée d’acceptation par exemple), de collaboration (nombre de co-auteurs par exemple),... sont différents.</p></li>
+<li><p>On ne peut pas comparer deux disciplines car leurs pratiques de recherche (durée par exemple), de citation (nombre de références citées par exemple), de publication (durée d’acceptation par exemple), de collaboration (nombre de co-auteurs par exemple),… sont différents.</p></li>
 <li><p>Les arts et les sciences humaines sont vraiment sous-représentés par rapport aux sciences naturelles, de la santé et aux sciences sociales.</p></li>
 <li><p>Tentatives de « normalisation » pour comparer des disciplines différentes mais peu concluant.</p></li>
 </ul></li>
@@ -630,12 +659,12 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Ne tient compte que des articles (pas des livres ou des chapitres, très importants dans certaines disciplines).</p></li>
 <li><p>Les sujets peu populaires sont mal représentés.</p></li>
 <li><p>Les thématiques locales sont sous-représentées.</p></li>
-<li><p>Les femmes sont sous-représentées (sous-valorisées <a href="https://doi.org/10.1073/pnas.1915378117" class="uri">https://doi.org/10.1073/pnas.1915378117</a>, moins de publications <a href="https://doi.org/10.1073/pnas.1914221117" class="uri">https://doi.org/10.1073/pnas.1914221117</a>, moins première autrice, moins de collaboration, moins citées <a href="https://doi.org/10.1038/s41586-022-04966-w" class="uri">https://doi.org/10.1038/s41586-022-04966-w</a>, etc.).</p></li>
+<li><p>Les femmes sont sous-représentées (<a href="https://doi.org/10.1073/pnas.1915378117">sous-valorisées</a>, <a href="https://doi.org/10.1073/pnas.1914221117">moins</a> de publications, moins première autrice, moins de collaboration, moins <a href="https://doi.org/10.1038/s41586-022-04966-w">citées</a>, etc.).</p></li>
 <li><p>Les langues autres que l’anglais sont sous-représentées.</p></li>
 <li><p>Certains types de documents sont plus cités que d’autres : les <em>Review articles</em> par exemple.</p></li>
-<li><p>Des sources peuvent être citées négativement (« on est en désaccord » ou « on contredit ») : Très rare (moins de 1%) <a href="https://elifesciences.org/articles/72737" class="uri">https://elifesciences.org/articles/72737</a>.</p></li>
+<li><p>Des sources peuvent être citées <a href="https://elifesciences.org/articles/72737">négativement</a> (« on est en désaccord » ou « on contredit ») : Très rare (moins de 1%).</p></li>
 <li><p>Biais de citation : les résultats positifs sont plus cités.</p></li>
-<li><p>Non adapté pour des petits ensembles : évaluation de jeunes chercheurs par exemple. Mieux adapté pour de très grands ensembles : au niveau institutionnel ou national par exemple <a href="https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/" class="uri">https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/</a>.</p></li>
+<li><p>Non adapté pour des petits ensembles : évaluation de jeunes chercheurs par exemple. Mieux adapté pour de très grands ensembles : au niveau institutionnel ou national par <a href="https://researchprofessionalnews.com/rr-news-europe-views-of-europe-2023-2-metrics-have-their-merits/">exemple</a>.</p></li>
 </ul></li>
 <li><p>Erreurs dans les données publiées (erreurs de citation) ou collectées (erreurs d’attribution, problème d’ambigüité sur les noms D’où l’importance d’indicateurs pérennes de chercheurs comme ORCID.).</p></li>
 <li><p>Fraudes :</p>
@@ -659,7 +688,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </section>
 <section id="pagerank" class="level3" data-number="42.0.2">
-<h3 data-number="42.0.2" class="anchored" data-anchor-id="pagerank"><span class="header-section-number">42.0.2</span> <em>PageRank <span id="sec:PageRank" label="sec:PageRank"></span></em></h3>
+<h3 data-number="42.0.2" class="anchored" data-anchor-id="pagerank"><span class="header-section-number">42.0.2</span> <em>PageRank</em></h3>
 <ul>
 <li><p>C’est l’élément de l’algorithme de Google qui a le plus contribué au succès de ce moteur de recherche.</p></li>
 <li><p>Il est basé sur un calcul bibliométrique créé par Eugene Garfield (1955) qui dit que plus qu’un élément est cité par d’autres éléments et plus il a de valeur.</p>
@@ -676,21 +705,21 @@ ul.task-list li input[type="checkbox"] {
 <section id="cited-references-pour-un-auteur-ou-un-article" class="level4" data-number="42.0.3.1">
 <h4 data-number="42.0.3.1" class="anchored" data-anchor-id="cited-references-pour-un-auteur-ou-un-article"><span class="header-section-number">42.0.3.1</span> <em>Cited References</em> pour un auteur ou un article</h4>
 <ul>
-<li><span style="color: purple">Avec l’option</span><em><span style="color: purple">Cited References Search</span></em><span style="color: purple">: calculer combien de citations pour un article ou un auteur.</span><strong><span style="color: purple">BIB+</span></strong></li>
+<li>Avec l’option <em>Cited References Search</em> : calculer combien de citations pour un article ou un auteur. Demandez de l’aide à votre bibliothécaire.</li>
 </ul>
 </section>
 <section id="analyze-results-sur-un-sujet" class="level4" data-number="42.0.3.2">
 <h4 data-number="42.0.3.2" class="anchored" data-anchor-id="analyze-results-sur-un-sujet"><span class="header-section-number">42.0.3.2</span> <em>Analyze Results</em> sur un sujet</h4>
 <ul>
-<li><p><span style="color: purple">Avec la recherche d’articles de base + l’option</span><strong><em><span style="color: purple">Analyze Results</span></em></strong><span style="color: purple">.</span></p>
+<li><p>Avec la recherche d’articles de base + l’option <strong><em>Analyze Results</em></strong>.</p>
 <ul>
-<li><p><span style="color: purple">Lancez une recherche simple (avec peu de mots-clés pour avoir un nombre significatif de résultats) ☐</span></p></li>
-<li><p><span style="color: purple">Dans la page de résultats, cliquez sur</span><em><span style="color: purple">Analyze Results.</span></em><span style="color: purple">☐</span></p>
+<li><p>Lancez une recherche simple (avec peu de mots-clés pour avoir un nombre significatif de résultats)</p></li>
+<li><p>Dans la page de résultats, cliquez sur <em>Analyze Results.</em></p>
 <ul>
-<li><p><span style="color: purple">Analyser les résultats par auteurs (</span><em><span style="color: purple">Authors</span></em><span style="color: purple">) : quels chercheurs ont le plus publiés sur ce sujet ? ☐</span></p></li>
-<li><p><span style="color: purple">Par institutions (</span><em><span style="color: purple">Affiliations</span></em><span style="color: purple">) : où aller chercher des collaborations, aller faire son post-doc, etc. ? ☐</span></p></li>
-<li><p><span style="color: purple">Par revues (</span><em><span style="color: purple">Publication Titles</span></em><span style="color: purple">) : où soumettre ses recherches ? ☐</span></p></li>
-<li><p><span style="color: purple">Par subventions de recherche (</span><em><span style="color: purple">Funding agencies</span></em><span style="color: purple">) ☐</span></p></li>
+<li><p>Analyser les résultats par auteurs (<em>Authors</em>) : quels chercheurs ont le plus publiés sur ce sujet ?</p></li>
+<li><p>Par institutions (<em>Affiliations</em>) : où aller chercher des collaborations, aller faire son post-doc, etc. ?</p></li>
+<li><p>Par revues (<em>Publication Titles</em>) : où soumettre ses recherches ?</p></li>
+<li><p>Par subventions de recherche (<em>Funding agencies</em>)</p></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -699,11 +728,11 @@ ul.task-list li input[type="checkbox"] {
 <h4 data-number="42.0.3.3" class="anchored" data-anchor-id="facteur-dimpact-dune-revue"><span class="header-section-number">42.0.3.3</span> Facteur d’impact d’une revue</h4>
 <ul>
 <li><p>C’est le plus ancien indicateur et le plus connu.</p></li>
-<li><p><em>Impact Factor</em> et Facteur d’impact sont des marques déposées par Clarivate (Web of Science, JCR,...) <a href="https://clarivate.com/webofsciencegroup/essays/impact-factor/" class="uri">https://clarivate.com/webofsciencegroup/essays/impact-factor/</a>.</p></li>
+<li><p><em>Impact Factor</em> et Facteur d’impact sont des marques déposées par <a href="https://clarivate.com/webofsciencegroup/essays/impact-factor/">Clarivate</a> (Web of Science, JCR,…).</p></li>
 <li><p>Il est calculé à partir des données de Web of Science.</p></li>
 <li><p>Calcul standard :</p>
 <ul>
-<li><p>Facteur d’impact d’une revue X en 2020 = Nombre de citations recues par la revue X / Nombre de publications de la revue X en 2018 et 2019.</p></li>
+<li><p>Facteur d’impact d’une revue X en 2020 = <span class="math inline">\(\frac{Nombre\ de\ citations\ reçues\ par\ la\ revue X}{Nombre\ de\ publications\ de\ la\ revue\ X\ en\ 2018\ et\ 2019}\)</span>.</p></li>
 <li><p>Problèmes dans la façon qu’il est calculé :</p>
 <ul>
 <li><p>Asymétrie numérateur / dénominateur. Le dénominateur inclut seulement les articles citables (par exemple, les éditoriaux ne sont pas inclus), mais les citations de tous les types d’articles sont inclus au nominateur -&gt; plus gros facteur d’impact. Les revues peuvent jouer avec ce qu’elles incluent au dénominateur.</p></li>
@@ -712,11 +741,11 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 </ul></li>
 <li><p>Calcul sur 5 ans recommandé pour les sciences sociales (temps long de la citation).</p></li>
-<li><p>On le trouve dans un outil nommé le JCR (<em>Journal Citation Reports</em>) <a href="https://jcr.clarivate.com/jcr/home" class="uri">https://jcr.clarivate.com/jcr/home</a> :</p>
+<li><p>On le trouve dans un outil nommé le <a href="https://jcr.clarivate.com/jcr/home">JCR</a> (<em>Journal Citation Reports</em>).</p>
 <ul>
-<li><p><span style="color: purple">Aller dans la section du bas</span><em><span style="color: purple">See full listings and refine your search</span></em><span style="color: purple">&gt;</span><em><span style="color: purple">Browse categories</span></em><span style="color: purple"></span></p></li>
-<li><p><span style="color: purple">Sélectionner votre domaine et un sous-domaine, puis cliquer sur le nombre dans la colonne # of journals du SCIE (sciences), du SSCI (sciences sociales) ou du AHCI (arts et humanités).</span></p></li>
-<li><p><span style="color: purple">Trier par facteur d’impact (JIF). ☐</span></p></li>
+<li><p>Aller dans la section du bas<em>See full listings and refine your search</em>&gt;<em>Browse categories</em></p></li>
+<li><p>Sélectionner votre domaine et un sous-domaine, puis cliquer sur le nombre dans la colonne # of journals du SCIE (sciences), du SSCI (sciences sociales) ou du AHCI (arts et humanités).</p></li>
+<li><p>Trier par facteur d’impact (JIF). ☐</p></li>
 </ul></li>
 </ul>
 </section>
@@ -724,8 +753,8 @@ ul.task-list li input[type="checkbox"] {
 <h4 data-number="42.0.3.4" class="anchored" data-anchor-id="incites"><span class="header-section-number">42.0.3.4</span> InCites</h4>
 <ul>
 <li><p>Basé sur Web of Science Core Collection.</p></li>
-<li><p>Se créer un compte <a href="https://incites.clarivate.com/" class="uri">https://incites.clarivate.com/</a>. <strong>BIB+</strong></p></li>
-<li><p>Permet de calculer et comparer des indices de collaboration, de spécialisation et d’expertise :</p>
+<li><p>Se créer un <a href="https://incites.clarivate.com/">compte</a>.</p>
+<p>Permet de calculer et comparer des indices de collaboration, de spécialisation et d’expertise :</p>
 <ul>
 <li><p>Institutions de recherche.</p></li>
 <li><p>Fonds et instituts de subvention de recherche.</p></li>
@@ -738,17 +767,17 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="42.0.4" class="anchored" data-anchor-id="avec-scimago-journal-rank"><span class="header-section-number">42.0.4</span> Avec SCImago Journal Rank</h3>
 <ul>
 <li><p>Créé par Scopus (Elsevier) en concurrence à Web of Science.</p></li>
-<li><p>Accès gratuit <a href="https://www.scimagojr.com/" class="uri">https://www.scimagojr.com/</a>.</p></li>
+<li><p><a href="https://www.scimagojr.com/">Accès</a> gratuit.</p></li>
 <li><p><strong>SJR Indicator</strong> : Basé sur le principe du <em>PageRank</em> mais pour les publications scientifiques : si une citation est issue d’une revue très citée, alors elle compte plus.</p>
 <ul>
-<li>Mesure dépendante de la taille du producteur d’information (plus il publie, plus le SJR monte). Contrairement au Facteur d’impact (indépendant) <a href="http://musingsaboutlibrarianship.blogspot.com/2022/07/4-interesting-things-about.html" class="uri">http://musingsaboutlibrarianship.blogspot.com/2022/07/4-interesting-things-about.html</a>.</li>
+<li>Mesure dépendante de la taille du producteur d’information (plus il publie, plus le SJR monte). Contrairement au Facteur d’impact (<a href="http://musingsaboutlibrarianship.blogspot.com/2022/07/4-interesting-things-about.html">indépendant</a>).</li>
 </ul></li>
 <li><p><strong>Cites per Doc. (2y)</strong> : calcul équivalent au Facteur d’impact, mais calculé sur les données de Scopus (pas de WoS).</p></li>
-<li><p><span style="color: purple">Consulter le SCImago</span></p>
+<li><p>Consulter le SCImago</p>
 <ul>
-<li><p><span style="color: purple">Cliquer sur Journal ranking (en haut).</span></p></li>
-<li><p><span style="color: purple">Sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories).</span></p></li>
-<li><p><span style="color: purple">Trier par SJR ou Cites per doc. ☐</span></p></li>
+<li><p>Cliquer sur Journal ranking (en haut).</p></li>
+<li><p>Sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories).</p></li>
+<li><p>Trier par SJR ou Cites per doc. ☐</p></li>
 </ul></li>
 </ul>
 </section>
@@ -757,7 +786,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><p>C’est un indicateur <strong>à la mode</strong> mais <strong>très controversé</strong>.</p>
 <ul>
-<li><p>Son créateur l’a renié avec horreur <a href="https://arxiv.org/ftp/arxiv/papers/2001/2001.09496.pdf%20">https://arxiv.org/ftp/arxiv/papers/2001/2001.09496.pdf</a>.</p></li>
+<li><p>Son créateur l’a <a href="https://arxiv.org/ftp/arxiv/papers/2001/2001.09496.pdf">renié</a> avec horreur.</p></li>
 <li><p>Son principe même est douteux et confus : combiner un indicateur de nombre de citation et un indicateur de nombre de publications dans un seul indicateur.</p></li>
 <li><p>Idée simple : combien un nombre <em>h</em> d’articles ont été cité <em>h</em> fois ?</p>
 <ul>
@@ -765,7 +794,7 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 <li><p>Calculé pour les individus, les groupes de personnes, les institutions, les pays, etc. (sic).</p></li>
 </ul></li>
-<li><p>Il a connu un grand succès grâce à Google Scholar, puis grâce au logiciel Publish or Perish <a href="https://harzing.com/resources/publish-or-perish%20">https://harzing.com/resources/publish-or-perish</a>.</p></li>
+<li><p>Il a connu un grand succès grâce à Google Scholar, puis grâce au logiciel <a href="https://harzing.com/resources/publish-or-perish">Publish or Perish</a>.</p></li>
 </ul>
 </section>
 <section id="autres-indicateurs" class="level3" data-number="42.0.6">
@@ -773,20 +802,20 @@ ul.task-list li input[type="checkbox"] {
 <section id="jci" class="level4" data-number="42.0.6.1">
 <h4 data-number="42.0.6.1" class="anchored" data-anchor-id="jci"><span class="header-section-number">42.0.6.1</span> JCI</h4>
 <ul>
-<li><p>En 2021, Clarivate (Web of Science, JCR,...) a proposé un indicateur qui permettrait de comparer entre les disciplines (grâce à la normalisation) et qui serait pertinent pour les arts et humanités : le <strong>Journal Citation Indicator</strong> (<strong>JCI</strong>).</p>
+<li><p>En 2021, Clarivate (Web of Science, JCR,…) a proposé un indicateur qui permettrait de comparer entre les disciplines (grâce à la normalisation) et qui serait pertinent pour les arts et humanités : le <strong>Journal Citation Indicator</strong> (<strong>JCI</strong>).</p>
 <ul>
-<li>Pour rester poli, on va dire que ça n’a pas convaincu grand monde en raison de très nombreux problèmes de méthodologie et de compréhension des disciplines <a href="https://scholarlykitchen.sspnet.org/2021/05/24/journal-citation-indicator/" class="uri">https://scholarlykitchen.sspnet.org/2021/05/24/journal-citation-indicator/</a>.</li>
+<li>Pour rester poli, on va dire que ça n’a pas convaincu grand monde en raison de très nombreux <a href="https://scholarlykitchen.sspnet.org/2021/05/24/journal-citation-indicator/">problèmes</a> de méthodologie et de compréhension des disciplines.</li>
 </ul></li>
 </ul>
 </section>
 <section id="altmetrics" class="level4" data-number="42.0.6.2">
-<h4 data-number="42.0.6.2" class="anchored" data-anchor-id="altmetrics"><span class="header-section-number">42.0.6.2</span> altmetrics<span id="subsec:altmetrics" label="subsec:altmetrics"></span></h4>
+<h4 data-number="42.0.6.2" class="anchored" data-anchor-id="altmetrics"><span class="header-section-number">42.0.6.2</span> altmetrics</h4>
 <ul>
 <li><p>Les <strong><em>altmetrics</em></strong> (<em>alternative metrics</em>), ou mesures d’impact immédiat ou mesures d’impact alternatives, sont des méthodes quantitatives.</p></li>
 <li><p>Elles ont vu le jour en raison des nombreuses limites des indicateurs traditionnels.</p></li>
 <li><p>Elles sont basées surtout sur la <strong>visibilité médiatique</strong> des publications de la recherche ou d’autres critères non-traditionnels.</p>
 <ul>
-<li><p>Permet de repérer la <strong>conversation scientifique</strong> après publication Exemple : <a href="https://bmjopen.bmj.com/content/3/8/e002998.altmetrics" class="uri">https://bmjopen.bmj.com/content/3/8/e002998.altmetrics</a> :</p>
+<li><p>Permet de repérer la <strong>conversation scientifique</strong> après publication. <a href="https://bmjopen.bmj.com/content/3/8/e002998.altmetrics">Exemples</a> :</p>
 <ul>
 <li><p>Qui a twitté et commenté ?</p></li>
 <li><p>Qui a utilisé la source dans une page Wikipédia ?</p></li>
@@ -795,14 +824,14 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 <li><p>Autres critères : nombre de références importées dans Mendeley ou Zotero, combien de téléchargements de l’article en PDF, etc.</p></li>
 </ul></li>
-<li><p>Les altmetrics comportent eux-aussi plusieurs limites <a href="http://www.carl-abrc.ca/doc/CARL2013-altmetrics-FR-FA2.pdf" class="uri">http://www.carl-abrc.ca/doc/CARL2013-altmetrics-FR-FA2.pdf</a> (section Mises en garde).</p></li>
+<li><p>Les altmetrics comportent eux-aussi plusieurs <a href="http://www.carl-abrc.ca/doc/CARL2013-altmetrics-FR-FA2.pdf">limites</a> (section Mises en garde).</p></li>
 <li><p>On peut s’en servir pour mesurer la « viralité » d’une publication de recherche.</p></li>
 </ul>
 </section>
 <section id="faux-indicateurs-citefactor-global-impact-factor" class="level4" data-number="42.0.6.3">
 <h4 data-number="42.0.6.3" class="anchored" data-anchor-id="faux-indicateurs-citefactor-global-impact-factor"><span class="header-section-number">42.0.6.3</span> Faux indicateurs : Citefactor, Global Impact Factor</h4>
 <ul>
-<li>Voir le chapitre sur les éditeurs prédateurs p.&nbsp;.</li>
+<li>Voir le chapitre sur les éditeurs prédateurs (@sec-predateurs).</li>
 </ul>
 
 

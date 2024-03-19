@@ -20,7 +20,7 @@
 
 -   J'ai un lien d'intérêt et un biais en faveur des valeurs du bien commun en général, ainsi que du libre accès, de l'utilisation libre et de la transparence en particulier.
 
--   Utilisation de l'humour dans ce manuel. Les méthodes sont une excellente manière de compresser le temps et de travailler de manière rigoureuse. Cependant, je pense que lister ou décrire des méthodes est souvent fortement ennuyeux. Donc, j'utilise l'humour, la légèreté ou la familiarité tout le long de ce document. Dans ce cadre, mes objectifs sont Voir la vidéo de Viviane sur Sci+ sur *L'intérêt d'utiliser l'humour dans la vulgarisation scientifique* : <https://www.youtube.com/watch?v=CP-B936Klew>:
+-   Utilisation de l'humour dans ce manuel. Les méthodes sont une excellente manière de compresser le temps et de travailler de manière rigoureuse. Cependant, je pense que lister ou décrire des méthodes est souvent fortement ennuyeux. Donc, j'utilise l'humour, la légèreté ou la familiarité tout le long de ce document. Dans ce cadre, mes objectifs sont Voir la vidéo de Viviane sur Sci+ sur *L'intérêt d'utiliser l'[humour](https://www.youtube.com/watch?v=CP-B936Klew) dans la vulgarisation scientifique* :
 
     -   briser la monotonie pour garder votre attention;
 
@@ -34,11 +34,11 @@
 
 ## Historique
 
--   2013 : Conception d'un portfolio documentaire (versions 1 et 2) dans le cadre du séminaire PLU6058 pour documenter les démarches de recherche d'information par rapport à un sujet de thèse ou mémoire <https://bib.umontreal.ca/multidisciplinaire/plu6058>.
--   2016 : Transposition partielle de la fonction « journal de bord » en tant que collection partagée pour Zotero (« ZotLog ») <https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/>.
--   2017 : Transposition partielle de la fonction « parcours de formation » sous la forme d'une feuille de personnage du chercheur <https://github.com/pmartinolli/TM_SchoCharSheet>.
--   2020 : Transposition partielle et simplifiée (pour étudiant.es de 1er cycle) de la fonction « parcours de formation » sous la forme d'un MOOC en 8 modules pour mettre à jour ses compétences informationnelles de base <https://catalogue.edulib.org/fr/cours/BIB-BONICI/>.
--   2021 : Transposition partielle de la fonction « parcours de formation » sous la forme d'un poster et d'un index en ligne <https://bib.umontreal.ca/parcours>.
+-   2013 : Conception d'un portfolio documentaire (versions 1 et 2) dans le cadre du séminaire [PLU6058](https://bib.umontreal.ca/multidisciplinaire/plu6058) pour documenter les démarches de recherche d'information par rapport à un sujet de thèse ou mémoire.
+-   2016 : Transposition partielle de la fonction « journal de bord » en tant que collection partagée pour Zotero (« [ZotLog](https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/) »).
+-   2017 : Transposition partielle de la fonction « parcours de formation » sous la forme d'une [feuille](https://github.com/pmartinolli/TM_SchoCharSheet) de personnage du chercheur.
+-   2020 : Transposition partielle et simplifiée (pour étudiant.es de 1er cycle) de la fonction « parcours de formation » sous la forme d'un [MOOC](https://catalogue.edulib.org/fr/cours/BIB-BONICI/) en 8 modules pour mettre à jour ses compétences informationnelles de base.
+-   2021 : Transposition partielle de la fonction « [parcours de formation](https://bib.umontreal.ca/parcours) » sous la forme d'un poster et d'un index en ligne.
 -   2022 : Mise à jour du portfolio original sous la forme d'un manuel (version 3), un document plus ambitieux pour synthétiser l'ensemble des éléments que j'enseigne dans les Bibliothèques de l'UdeM. Utilisation dans le séminaire PLU6058 comme document d'accompagnement.
 -   2023 : Projet de création d'un cahier séparé pour renseigner les informations, notes et étapes de l'étudiant.
 -   2024 : Version 4. Transformation du manuel en projet Quarto utilisant Markdown.

@@ -625,7 +625,7 @@ window.Quarto = {
 <ul>
 <li>Allez explorer les thésaurus de certaines bases de données :<em>MEDLINE, PsychInfo, Sociological Abstracts,</em>etc.
 <ul>
-<li>Pour les catalogues d’institution québécoises, le thésaurus est souvent le Répertoire des vedettes-matières de l’Université Laval (RVM) <a href="https://rvmweb.bibl.ulaval.ca/" class="uri">https://rvmweb.bibl.ulaval.ca/</a>. Je suis allé le parcourir : ☐</li>
+<li>Pour les catalogues d’institution québécoises, le thésaurus est souvent le Répertoire des vedettes-matières de l’Université Laval (<a href="https://rvmweb.bibl.ulaval.ca/">RVM</a>).</li>
 </ul></li>
 <li>Séquence d’utilisation simple :
 <ol type="1">
@@ -709,39 +709,13 @@ window.Quarto = {
 </ul></li>
 <li><p>Faites un thésaurus basé sur vos objectifs de recherche et votre corpus, pas sur l’organisation théorique et complète des informations. Un thésaurus est toujours <strong>adapté</strong> à un projet.</p>
 <ul>
-<li><p>Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoir <span class="math inline">\(\begin{array}{cc}
-natation\\
-waterpolo\\
-plongeon\\
-autre
-\end{array}\)</span><code></code>plutôt que <span class="math inline">\(\begin{array}{cc}
-natation\\
-waterpolo\\
-plongeon\\
-course\\
-lancer\\
-saut\\
-v\acute{e}lo\\
-p\acute{e}tanque
-\end{array}\)</span><code></code>.</p></li>
+<li><p>Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoir <span class="math inline">\(\begin{array}{cc} natation\\ waterpolo\\ plongeon\\ autre \end{array}\)</span> plutôt que <span class="math inline">\(\begin{array}{cc} natation\\ waterpolo\\ plongeon\\ course\\ lancer\\ saut\\ v\acute{e}lo\\ p\acute{e}tanque \end{array}\)</span>.</p></li>
 <li><p>Constituez votre thésaurus ou paufinez-le quand vous avez déjà plusieurs centaines de références, c’est plus facile pour baliser votre terrain et repérez des marqueurs candidats.</p></li>
 </ul></li>
 <li><p>Astuce de la « sous-catégorie obèse » : fusionnez une sous-catégorie trop volumineuse (par rapport à toutes les autres qui sont rachitiques) avec la catégorie supérieure.</p>
 <ul>
-<li>Exemple : Avant (bof) : <span class="math inline">\(\begin{array}{clc}
-\\
-LIS &amp;  &amp; (n=52)\\
-&amp; Archive &amp; (n=6)\\
-&amp; Biblioth\grave{e}que &amp; (n=32)\\
-&amp; Citation &amp; (n=4)\\
-&amp; Textmining &amp; (n=3)\\
-\\
-\end{array}\)</span> –&gt;Après (mieux) : <span class="math inline">\(\begin{array}{clc}
-Biblioth\grave{e}que &amp;  &amp; (n=52)\\
-&amp; Archive &amp; (n=6)\\
-&amp; Citation &amp; (n=4)\\
-&amp; Textmining &amp; (n=3)
-\end{array}\)</span></li>
+<li>Exemple : Avant (bof) : <span class="math inline">\(\begin{array}{clc} \\ LIS &amp; &amp; (n=52)\\ &amp; Archive &amp; (n=6)\\ &amp; Biblioth\grave{e}que &amp; (n=32)\\ &amp; Citation &amp; (n=4)\\ &amp; Textmining &amp; (n=3)\\ \\ \end{array}\)</span></li>
+<li>–&gt;Après (mieux) : <span class="math inline">\(\begin{array}{clc} Biblioth\grave{e}que &amp; &amp; (n=52)\\ &amp; Archive &amp; (n=6)\\ &amp; Citation &amp; (n=4)\\ &amp; Textmining &amp; (n=3) \end{array}\)</span></li>
 </ul></li>
 <li><p>Astuce du « petit verbeux » : si vous avez une base de données sur le jeu, il n’est peut être pas nécessaire de créer un marqueur <code>_jeu</code> qui serait présent dans toutes les références. À évaluer.</p></li>
 <li><p>Si vous voulez travailler fort sur votre thésaurus, travaillez sur les renvois ou les synonymes d’un marqueur unique : tous les mots qui seront des variants, des termes proches, des termes plus spécifiques ou génériques, etc.</p></li>
@@ -751,59 +725,64 @@ Biblioth\grave{e}que &amp;  &amp; (n=52)\\
 <section id="création-des-marqueurs-dans-zotero" class="level4" data-number="28.2.0.2">
 <h4 data-number="28.2.0.2" class="anchored" data-anchor-id="création-des-marqueurs-dans-zotero"><span class="header-section-number">28.2.0.2</span> Création des marqueurs dans Zotero</h4>
 <ul>
-<li><p><span style="color: purple">Dans une notice : onglet Marqueurs &gt; Ajouter &gt; rédiger un nouveau marqueur.</span></p></li>
-<li><p><span style="color: purple">☐ Astuce : faire précéder chaque marqueur unique du</span><strong><span style="color: purple">caractère _</span></strong></p>
+<li><p>Dans une notice : onglet Marqueurs &gt; Ajouter &gt; rédiger un nouveau marqueur.</p></li>
+<li><p>Astuce : faire précéder chaque marqueur unique du <strong>caractère _</strong></p>
 <ul>
-<li><p><span style="color: purple">Ils sont signés comme étant vos marqueurs à vous, issus d’une précieuse liste contrôlée.</span></p></li>
-<li><p><span style="color: purple">Ils apparaissent en haut des listes.</span></p></li>
+<li><p>Ils sont signés comme étant vos marqueurs à vous, issus d’une précieuse liste contrôlée.</p></li>
+<li><p>Ils apparaissent en haut des listes.</p></li>
 </ul></li>
-<li><p><span style="color: purple">☐ Astuce : faire précéder vos marqueurs temporaires ou de « cuisine interne » (réorganisation, hésitation, archives, etc.) avec le</span><strong><span style="color: purple">caractère =</span></strong></p>
+<li><p>Astuce : faire précéder vos marqueurs temporaires ou de « cuisine interne » (réorganisation, hésitation, archives, etc.) avec le <strong>caractère =</strong></p>
 <ul>
-<li><p><span style="color: purple">Ils sont signés aussi, et ils ne se mélangent pas à votre liste contrôlée de _marqueurs.</span></p></li>
-<li><p><span style="color: purple">Ils apparaissent en groupe, juste après les _marqueurs.</span></p></li>
+<li><p>Ils sont signés aussi, et ils ne se mélangent pas à votre liste contrôlée de _marqueurs.</p></li>
+<li><p>Ils apparaissent en groupe, juste après les _marqueurs.</p></li>
 </ul></li>
-<li><p><span style="color: purple">☐ Astuce : vous pouvez colorer avec 9 couleurs des marqueurs qui seront fixés de manière permanente dans le nuage des marqueurs à droite.</span></p>
+<li><p>Astuce : vous pouvez colorer avec 9 couleurs des marqueurs qui seront fixés de manière permanente dans le nuage des marqueurs à droite.</p>
 <ul>
-<li><p><span style="color: purple">Nuage des marqueurs &gt; clic-droit sur un marqueur &gt; Attribuer une couleur.</span></p></li>
-<li><p><span style="color: purple">Suggestion de marqueurs à colorer :</span><span style="color: purple"><code>_nettoyé</code></span><span style="color: purple">,</span><span style="color: purple"><code>_publication majeure</code></span><span style="color: purple">,</span><span style="color: purple"><code>_lu</code></span><span style="color: purple">.</span></p></li>
+<li><p>Nuage des marqueurs &gt; clic-droit sur un marqueur &gt; Attribuer une couleur.</p></li>
+<li><p>Suggestion de marqueurs à colorer :<code>_nettoyé</code>,<code>_publication majeure</code>,<code>_lu</code>.</p></li>
 </ul></li>
 </ul>
 </section>
 <section id="création-du-thésaurus-personnel-dans-un-tableau" class="level4" data-number="28.2.0.3">
 <h4 data-number="28.2.0.3" class="anchored" data-anchor-id="création-du-thésaurus-personnel-dans-un-tableau"><span class="header-section-number">28.2.0.3</span> Création du thésaurus personnel dans un tableau</h4>
 <ul>
-<li><p><span style="color: purple">☐ Ouvrir un fichier Word ou LibreOffice :</span></p>
+<li><p>Ouvrir un fichier Word ou LibreOffice :</p>
 <ul>
-<li><p><span style="color: purple">☐ Faire tout tenir sur une page recto : Réduire les marges et haut et bas de page. Créer 2 colonnes.</span></p></li>
-<li><p><span style="color: purple">☐ Une fois terminé, imprimer cette page et la coller comme couverture de votre cahier de recherche. Ainsi, vous l’aurez facilement toujours sous les yeux.</span></p></li>
+<li><p>Faire tout tenir sur une page recto : Réduire les marges et haut et bas de page. Créer 2 colonnes.</p></li>
+<li><p>Une fois terminé, imprimer cette page et la coller comme couverture de votre cahier de recherche. Ainsi, vous l’aurez facilement toujours sous les yeux.</p></li>
 </ul></li>
-<li><p><span style="color: purple">☐ Faire 2 ou 3 colonnes :</span></p>
+<li><p>Faire 2 ou 3 colonnes :</p>
 <ul>
-<li><p><span style="color: purple">2 colonnes = une colonne pour les marqueurs uniques, une colonne pour les renvois.</span></p></li>
-<li><p><span style="color: purple">3 colonnes = deux colonnes pour les marqueurs uniques (organisés sur deux niveaux), une colonne pour les renvois.</span></p>
+<li><p>2 colonnes = une colonne pour les marqueurs uniques, une colonne pour les renvois.</p></li>
+<li><p>3 colonnes = deux colonnes pour les marqueurs uniques (organisés sur deux niveaux), une colonne pour les renvois.</p>
 <ul>
-<li><span style="color: purple">Voir Exemple ci-dessous.</span></li>
+<li>Voir Exemple ci-dessous.</li>
 </ul></li>
 </ul></li>
-<li><p><span style="color: purple">☐ Lister tous les marqueurs uniques. [3h+]</span></p>
+<li><p>Lister tous les marqueurs uniques. [3h+]</p>
 <ul>
-<li><p><span style="color: purple">Choisir une règle de forme unique</span></p>
+<li><p>Choisir une règle de forme unique</p>
 <ul>
-<li><p><span style="color: purple">Exemple : en français, au singulier et débutant avec une majuscule après le _ ou le =.</span></p></li>
-<li><p><span style="color: purple">Exemple : en anglais, au singulier et tout en minuscule (mon préféré).</span></p></li>
-<li><p><span style="color: purple">Car dans Zotero les marqueurs sont sensibles à la casse et aux accents.</span></p></li>
+<li><p>Exemple : en français, au singulier et débutant avec une majuscule après le _ ou le =.</p></li>
+<li><p>Exemple : en anglais, au singulier et tout en minuscule (mon préféré).</p></li>
+<li><p>Car dans Zotero les marqueurs sont sensibles à la casse et aux accents.</p></li>
 </ul></li>
-<li><p><span style="color: purple">☐ Parcourir sa collection de références et repérer les thèmes. Si un nouveau thème est pertinent, créez un marqueur.</span></p></li>
+<li><p>Parcourir sa collection de références et repérer les thèmes. Si un nouveau thème est pertinent, créez un marqueur.</p></li>
 </ul></li>
-<li><p><span style="color: purple">☐ Regrouper les marqueurs par grands thèmes (niveau 1).</span></p>
+<li><p>Regrouper les marqueurs par grands thèmes (niveau 1).</p>
 <ul>
-<li><span style="color: purple">Si on veut, on peut donner un niveau supplémentaire pour nicher certains sous-thèmes (niveau 2) dans des grands thèmes (niveau 1).</span></li>
+<li>Si on veut, on peut donner un niveau supplémentaire pour nicher certains sous-thèmes (niveau 2) dans des grands thèmes (niveau 1).</li>
 </ul></li>
-<li><p><span style="color: purple">☐ Lister tous les renvois, alias, variants, thèmes proches ou thèmes plus spécifiques pertinents dans la colonne des renvois. [2h+]</span></p></li>
+<li><p>Lister tous les renvois, alias, variants, thèmes proches ou thèmes plus spécifiques pertinents dans la colonne des renvois.</p></li>
 </ul>
 <section id="exemple" class="level5" data-number="28.2.0.3.1">
 <h5 data-number="28.2.0.3.1" class="anchored" data-anchor-id="exemple"><span class="header-section-number">28.2.0.3.1</span> Exemple</h5>
 <table class="table">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 17%">
+<col style="width: 64%">
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;"><strong>Thème niveau 1</strong></th>
@@ -876,29 +855,28 @@ Biblioth\grave{e}que &amp;  &amp; (n=52)\\
 <section id="répertoire-des-vedettes-matières-de-lulaval" class="level3" data-number="28.3.1">
 <h3 data-number="28.3.1" class="anchored" data-anchor-id="répertoire-des-vedettes-matières-de-lulaval"><span class="header-section-number">28.3.1</span> Répertoire des vedettes-matières de l’ULaval</h3>
 <ul>
-<li><p>Utilisé par beaucoup d’établissements universitaires au Québec pour indexer les sujets de leurs catalogues.</p></li>
-<li><p><a href="https://rvmweb.bibl.ulaval.ca/" class="uri">https://rvmweb.bibl.ulaval.ca/</a></p></li>
+<li><a href="https://rvmweb.bibl.ulaval.ca/">Utilisé</a> par beaucoup d’établissements universitaires au Québec pour indexer les sujets de leurs catalogues.</li>
 </ul>
 </section>
 <section id="thésaurus-mesh-de-ovid-medline" class="level3" data-number="28.3.2">
 <h3 data-number="28.3.2" class="anchored" data-anchor-id="thésaurus-mesh-de-ovid-medline"><span class="header-section-number">28.3.2</span> Thésaurus MeSH de Ovid MEDLINE</h3>
 <ul>
 <li><p>Utilisé par Medline et PubMed pour les articles scientifiques en santé.</p></li>
-<li><p>Ouvrir la base de données Ovid MEDLINE <a href="https://libguides.bib.umontreal.ca/MEDLINE_OVID" class="uri">https://libguides.bib.umontreal.ca/MEDLINE_OVID</a>.</p></li>
+<li><p>Ouvrir la base de données Ovid <a href="https://libguides.bib.umontreal.ca/MEDLINE_OVID">MEDLINE</a>.</p></li>
 </ul>
 </section>
 <section id="option-de-recherche-simple" class="level3" data-number="28.3.3">
 <h3 data-number="28.3.3" class="anchored" data-anchor-id="option-de-recherche-simple"><span class="header-section-number">28.3.3</span> Option de recherche simple :</h3>
 <ul>
-<li><p><span style="color: purple">On arrive sur la recherche avancée avec une requête cochée sur Keyword. Il faut donc :</span></p>
+<li><p>On arrive sur la recherche avancée avec une requête cochée sur Keyword. Il faut donc :</p>
 <ul>
-<li><span style="color: purple">Chercher d’abord un Keyword à la fois et ensuite combiner les historiques de recherche.</span></li>
+<li>Chercher d’abord un Keyword à la fois et ensuite combiner les historiques de recherche.</li>
 </ul>
-<p><span style="color: purple">OU</span></p>
+<p>OU</p>
 <ul>
-<li><p><span style="color: purple">Lancer une recherche avec plusieurs Keywords mais séparés par un</span><span style="color: purple"><code>AND</code></span><span style="color: purple">explicite.</span></p>
+<li><p>Lancer une recherche avec plusieurs Keywords mais séparés par un<code>AND</code>explicite.</p>
 <ul>
-<li><span style="color: purple">En effet, c’est une des rares base de données qui ne remplace pas les espaces entre les mots par des</span><span style="color: purple"><code>AND</code></span><span style="color: purple">. Par défaut, des mots séparés par des espaces sont cherchés comme un groupe de mots entre guillemets.</span></li>
+<li>En effet, c’est une des rares base de données qui ne remplace pas les espaces entre les mots par des<code>AND</code>. Par défaut, des mots séparés par des espaces sont cherchés comme un groupe de mots entre guillemets.</li>
 </ul></li>
 </ul></li>
 </ul>
@@ -906,16 +884,16 @@ Biblioth\grave{e}que &amp;  &amp; (n=52)\\
 <section id="option-de-recherche-avancée" class="level3" data-number="28.3.4">
 <h3 data-number="28.3.4" class="anchored" data-anchor-id="option-de-recherche-avancée"><span class="header-section-number">28.3.4</span> Option de recherche avancée</h3>
 <ul>
-<li><p><span style="color: purple">Ouvrir le</span><em><span style="color: purple">Term Finder</span></em><span style="color: purple">(bouton vert).</span></p></li>
-<li><p><span style="color: purple">Chercher un terme, le cocher puis et cliquer sur</span><em><span style="color: purple">Add to Search Options</span></em><span style="color: purple">.</span></p>
+<li><p>Ouvrir le<em>Term Finder</em>(bouton vert).</p></li>
+<li><p>Chercher un terme, le cocher puis et cliquer sur<em>Add to Search Options</em>.</p>
 <ul>
-<li><p><span style="color: purple">Les termes MeSH ont une hiérarchie avancée : des termes plus génériques et des termes plus spécifiques.</span></p>
+<li><p>Les termes MeSH ont une hiérarchie avancée : des termes plus génériques et des termes plus spécifiques.</p>
 <ul>
-<li><span style="color: purple">Cocher</span><em><span style="color: purple">Explode</span></em><span style="color: purple">pour chercher un niveau général et tous les niveaux plus spécifiques.</span></li>
+<li>Cocher<em>Explode</em>pour chercher un niveau général et tous les niveaux plus spécifiques.</li>
 </ul></li>
-<li><p><span style="color: purple">Cocher</span><em><span style="color: purple">Focus</span></em><span style="color: purple">pour chercher seulement les sujets qui ont été indexés comme sujets majeurs du document (ceux précédés d’une astérisque).</span></p></li>
+<li><p>Cocher<em>Focus</em>pour chercher seulement les sujets qui ont été indexés comme sujets majeurs du document (ceux précédés d’une astérisque).</p></li>
 </ul></li>
-<li><p><span style="color: purple">Recommencer pour chaque terme puis combiner les recherches pertinentes.</span></p></li>
+<li><p>Recommencer pour chaque terme puis combiner les recherches pertinentes.</p></li>
 </ul>
 </section>
 <section id="notes" class="level3" data-number="28.3.5">
