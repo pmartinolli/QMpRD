@@ -69,35 +69,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -562,15 +533,15 @@ window.Quarto = {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#pourquoi-utiliser-un-thesaurus-si-disponible" id="toc-pourquoi-utiliser-un-thesaurus-si-disponible" class="nav-link active" data-scroll-target="#pourquoi-utiliser-un-thesaurus-si-disponible"><span class="header-section-number">28.1</span> Pourquoi utiliser un thesaurus (si disponible)</a></li>
-  <li><a href="#marqueurs-et-thésaurus-personnel-dans-zotero-ou-autre" id="toc-marqueurs-et-thésaurus-personnel-dans-zotero-ou-autre" class="nav-link" data-scroll-target="#marqueurs-et-thésaurus-personnel-dans-zotero-ou-autre"><span class="header-section-number">28.2</span> Marqueurs et thésaurus personnel dans Zotero (ou autre)</a></li>
-  <li><a href="#exemples-de-thesaurus" id="toc-exemples-de-thesaurus" class="nav-link" data-scroll-target="#exemples-de-thesaurus"><span class="header-section-number">28.3</span> Exemples de thesaurus</a>
+  <li><a href="#pourquoi-utiliser-un-thesaurus-si-disponible" id="toc-pourquoi-utiliser-un-thesaurus-si-disponible" class="nav-link active" data-scroll-target="#pourquoi-utiliser-un-thesaurus-si-disponible"><span class="header-section-number">28.1</span> Pourquoi utiliser un thesaurus (si disponible)</a>
   <ul class="collapse">
-  <li><a href="#répertoire-des-vedettes-matières-de-lulaval" id="toc-répertoire-des-vedettes-matières-de-lulaval" class="nav-link" data-scroll-target="#répertoire-des-vedettes-matières-de-lulaval"><span class="header-section-number">28.3.1</span> Répertoire des vedettes-matières de l’ULaval</a></li>
-  <li><a href="#thésaurus-mesh-de-ovid-medline" id="toc-thésaurus-mesh-de-ovid-medline" class="nav-link" data-scroll-target="#thésaurus-mesh-de-ovid-medline"><span class="header-section-number">28.3.2</span> Thésaurus MeSH de Ovid MEDLINE</a></li>
-  <li><a href="#option-de-recherche-simple" id="toc-option-de-recherche-simple" class="nav-link" data-scroll-target="#option-de-recherche-simple"><span class="header-section-number">28.3.3</span> Option de recherche simple :</a></li>
-  <li><a href="#option-de-recherche-avancée" id="toc-option-de-recherche-avancée" class="nav-link" data-scroll-target="#option-de-recherche-avancée"><span class="header-section-number">28.3.4</span> Option de recherche avancée</a></li>
-  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes"><span class="header-section-number">28.3.5</span> Notes</a></li>
+  <li><a href="#exemples-de-thesaurus" id="toc-exemples-de-thesaurus" class="nav-link" data-scroll-target="#exemples-de-thesaurus"><span class="header-section-number">28.1.1</span> Exemples de thesaurus</a></li>
+  </ul></li>
+  <li><a href="#se-construire-son-propre-thésaurus-personnel-pour-zotero-ou-tout-autre-système" id="toc-se-construire-son-propre-thésaurus-personnel-pour-zotero-ou-tout-autre-système" class="nav-link" data-scroll-target="#se-construire-son-propre-thésaurus-personnel-pour-zotero-ou-tout-autre-système"><span class="header-section-number">28.2</span> Se construire son propre thésaurus personnel (pour Zotero ou tout autre système)</a>
+  <ul class="collapse">
+  <li><a href="#pour-se-créer-un-thésaurus-personnel" id="toc-pour-se-créer-un-thésaurus-personnel" class="nav-link" data-scroll-target="#pour-se-créer-un-thésaurus-personnel"><span class="header-section-number">28.2.1</span> Pour se créer un thésaurus personnel</a></li>
+  <li><a href="#comment-se-créer-un-thésaurus" id="toc-comment-se-créer-un-thésaurus" class="nav-link" data-scroll-target="#comment-se-créer-un-thésaurus"><span class="header-section-number">28.2.2</span> Comment se créer un thésaurus ?</a></li>
+  <li><a href="#consigner-le-thésaurus-personnel-dans-un-tableau" id="toc-consigner-le-thésaurus-personnel-dans-un-tableau" class="nav-link" data-scroll-target="#consigner-le-thésaurus-personnel-dans-un-tableau"><span class="header-section-number">28.2.3</span> Consigner le thésaurus personnel dans un tableau</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -621,9 +592,9 @@ window.Quarto = {
 <li>Si elle est disponible, la fonction <em>Focus</em> permet de chercher seulement le terme sélectionné.</li>
 </ul></li>
 </ul></li>
-<li>Comment ?
+<li>Comment utiliser un thésaurus pour la recherche de documents ?
 <ul>
-<li>Allez explorer les thésaurus de certaines bases de données :<em>MEDLINE, PsychInfo, Sociological Abstracts,</em>etc.
+<li>Allez explorer les thésaurus de certaines bases de données : <em>MEDLINE, PsychInfo, Sociological Abstracts,</em>etc.
 <ul>
 <li>Pour les catalogues d’institution québécoises, le thésaurus est souvent le Répertoire des vedettes-matières de l’Université Laval (<a href="https://rvmweb.bibl.ulaval.ca/">RVM</a>).</li>
 </ul></li>
@@ -636,26 +607,69 @@ window.Quarto = {
 <li>Séquence d’utilisation avancée :
 <ul>
 <li>Naviguer dans le thésaurus et activer les mots Sujets au fur et à mesure.</li>
-<li>Plus complexe et risque d’erreurs voir p.&nbsp;pour un exemple de manipulation du thésaurus MeSH de MEDLINE (en médecine)..</li>
+<li>Plus complexe et risque d’erreurs voir p.&nbsp;pour un exemple de manipulation du thésaurus MeSH de MEDLINE (en médecine).</li>
 </ul></li>
 </ul></li>
-<li>Construire votre propre thésaurus pour Zotero, voir p.&nbsp;.</li>
+</ul>
+<section id="exemples-de-thesaurus" class="level3" data-number="28.1.1">
+<h3 data-number="28.1.1" class="anchored" data-anchor-id="exemples-de-thesaurus"><span class="header-section-number">28.1.1</span> Exemples de thesaurus</h3>
+<section id="répertoire-des-vedettes-matières-de-lulaval" class="level4" data-number="28.1.1.1">
+<h4 data-number="28.1.1.1" class="anchored" data-anchor-id="répertoire-des-vedettes-matières-de-lulaval"><span class="header-section-number">28.1.1.1</span> Répertoire des vedettes-matières de l’ULaval</h4>
+<ul>
+<li><a href="https://rvmweb.bibl.ulaval.ca/">Utilisé</a> par beaucoup d’établissements universitaires au Québec pour indexer les sujets de leurs catalogues.</li>
 </ul>
 </section>
-<section id="marqueurs-et-thésaurus-personnel-dans-zotero-ou-autre" class="level2" data-number="28.2">
-<h2 data-number="28.2" class="anchored" data-anchor-id="marqueurs-et-thésaurus-personnel-dans-zotero-ou-autre"><span class="header-section-number">28.2</span> Marqueurs et thésaurus personnel dans Zotero (ou autre)</h2>
+<section id="thésaurus-mesh-de-ovid-medline" class="level4" data-number="28.1.1.2">
+<h4 data-number="28.1.1.2" class="anchored" data-anchor-id="thésaurus-mesh-de-ovid-medline"><span class="header-section-number">28.1.1.2</span> Thésaurus MeSH de Ovid MEDLINE</h4>
 <ul>
-<li><p>Organisation pertinente pour un grand nombre de notices car il est facile de combiner plusieurs marqueurs pour repérer des notices.</p></li>
-<li><p>Principe :</p>
+<li><p>Utilisé par Medline et PubMed pour les articles scientifiques en santé.</p></li>
+<li><p>Ouvrir la base de données Ovid <a href="https://libguides.bib.umontreal.ca/MEDLINE_OVID">MEDLINE</a>.</p></li>
+</ul>
+<section id="option-de-recherche-simple" class="level5" data-number="28.1.1.2.1">
+<h5 data-number="28.1.1.2.1" class="anchored" data-anchor-id="option-de-recherche-simple"><span class="header-section-number">28.1.1.2.1</span> Option de recherche simple :</h5>
 <ul>
-<li><p>D’abord, se créer un <strong>thésaurus personnel</strong> d’une centaine de marqueurs uniques.</p></li>
-<li><p>Puis indexer les notices avec ces marqueurs.</p></li>
+<li><p>On arrive sur la recherche avancée avec une requête cochée sur Keyword. Il faut donc :</p>
+<ul>
+<li>Chercher d’abord un Keyword à la fois et ensuite combiner les historiques de recherche.</li>
+</ul>
+<p>OU</p>
+<ul>
+<li><p>Lancer une recherche avec plusieurs Keywords mais séparés par un<code>AND</code>explicite.</p>
+<ul>
+<li>En effet, c’est une des rares base de données qui ne remplace pas les espaces entre les mots par des<code>AND</code>. Par défaut, des mots séparés par des espaces sont cherchés comme un groupe de mots entre guillemets.</li>
+</ul></li>
 </ul></li>
 </ul>
-<section id="créer-un-thésaurus-personnel" class="level4" data-number="28.2.0.1">
-<h4 data-number="28.2.0.1" class="anchored" data-anchor-id="créer-un-thésaurus-personnel"><span class="header-section-number">28.2.0.1</span> Créer un thésaurus personnel</h4>
+</section>
+<section id="option-de-recherche-avancée" class="level5" data-number="28.1.1.2.2">
+<h5 data-number="28.1.1.2.2" class="anchored" data-anchor-id="option-de-recherche-avancée"><span class="header-section-number">28.1.1.2.2</span> Option de recherche avancée</h5>
 <ul>
-<li><p>Pourquoi ?</p>
+<li><p>Ouvrir le<em>Term Finder</em>(bouton vert).</p></li>
+<li><p>Chercher un terme, le cocher puis et cliquer sur<em>Add to Search Options</em>.</p>
+<ul>
+<li><p>Les termes MeSH ont une hiérarchie avancée : des termes plus génériques et des termes plus spécifiques.</p>
+<ul>
+<li>Cocher<em>Explode</em>pour chercher un niveau général et tous les niveaux plus spécifiques.</li>
+</ul></li>
+<li><p>Cocher<em>Focus</em>pour chercher seulement les sujets qui ont été indexés comme sujets majeurs du document (ceux précédés d’une astérisque).</p></li>
+</ul></li>
+<li><p>Recommencer pour chaque terme puis combiner les recherches pertinentes.</p></li>
+</ul>
+</section>
+<section id="notes" class="level5" data-number="28.1.1.2.3">
+<h5 data-number="28.1.1.2.3" class="anchored" data-anchor-id="notes"><span class="header-section-number">28.1.1.2.3</span> Notes</h5>
+<ul>
+<li><p>Si, dans une référence, un MeSH commence par un astérisque, alors ça veut dire que ce MeSH est un sujet majeur du document.</p></li>
+<li><p>Pour une utilisation avancée du thésaurus MeSH de Ovid MEDLINE, veuillez contacter les bibliothécaires disciplinaires.</p></li>
+</ul>
+</section>
+</section>
+</section>
+</section>
+<section id="se-construire-son-propre-thésaurus-personnel-pour-zotero-ou-tout-autre-système" class="level2" data-number="28.2">
+<h2 data-number="28.2" class="anchored" data-anchor-id="se-construire-son-propre-thésaurus-personnel-pour-zotero-ou-tout-autre-système"><span class="header-section-number">28.2</span> Se construire son propre thésaurus personnel (pour Zotero ou tout autre système)</h2>
+<section id="pour-se-créer-un-thésaurus-personnel" class="level3" data-number="28.2.1">
+<h3 data-number="28.2.1" class="anchored" data-anchor-id="pour-se-créer-un-thésaurus-personnel"><span class="header-section-number">28.2.1</span> Pour se créer un thésaurus personnel</h3>
 <ul>
 <li><p>Pour mieux retrouver ses références bibliographiques.</p></li>
 <li><p>Pour bien délimiter votre sujet de recherche.</p></li>
@@ -664,12 +678,14 @@ window.Quarto = {
 <li><p>Organisation est plus adaptée aux changements, aux ajouts, aux suppressions, etc.</p></li>
 <li><p>C’est mieux exportable vers d’autres systèmes. En effet, les mot-clés/marqueurs sont intégrés dans la référence de chaque document (dans un système par dossier, l’organisation est extérieure au document).</p></li>
 <li><p>Facilité pour croiser plusieurs mot-clés/marqueurs pour rechercher des documents (plus facile que des dossiers-collections).</p></li>
-</ul></li>
-<li><p>Comment ?</p>
+</ul>
+</section>
+<section id="comment-se-créer-un-thésaurus" class="level3" data-number="28.2.2">
+<h3 data-number="28.2.2" class="anchored" data-anchor-id="comment-se-créer-un-thésaurus"><span class="header-section-number">28.2.2</span> Comment se créer un thésaurus ?</h3>
 <ul>
 <li><p>En créant une liste de marqueurs uniques, uniformes, contrôlés.</p></li>
-<li><p>En indexant ses références bibliographiques avec les marqueurs uniques pertinents.</p></li>
-</ul></li>
+<li><p>En indexant ses références bibliographiques avec ces marqueurs uniques pertinents.</p></li>
+<li><p>Un thésaurus est toujours lié aux possibilités informatiques du logiciel dans lequel il est implanté. Les méthodes ci-dessous sont adaptées au logiciel Zotero mais elles peuvent être traduites et adaptées à d’autres logiciels. Le terme «marqueur» est utilisé car c’est le terme de Zotero. Dans le vocabulaire des thésaurus, un marqueur s’appelle un «descripteur».</p></li>
 <li><p>Il y a trois grandes familles de marqueurs :</p>
 <ul>
 <li><p>Des marqueurs de méthodes de travail (une poignée)</p></li>
@@ -677,20 +693,20 @@ window.Quarto = {
 <li><p>Des marqueurs thématiques (l’essentiel des marqueurs)</p></li>
 </ul></li>
 </ul>
-<section id="marqueurs-de-méthode-de-travail" class="level5" data-number="28.2.0.1.1">
-<h5 data-number="28.2.0.1.1" class="anchored" data-anchor-id="marqueurs-de-méthode-de-travail"><span class="header-section-number">28.2.0.1.1</span> Marqueurs de méthode de travail :</h5>
+<section id="suggestions-de-marqueurs-de-méthode-de-travail" class="level4" data-number="28.2.2.1">
+<h4 data-number="28.2.2.1" class="anchored" data-anchor-id="suggestions-de-marqueurs-de-méthode-de-travail"><span class="header-section-number">28.2.2.1</span> Suggestions de marqueurs de méthode de travail :</h4>
 <ul>
 <li><p><code>_nettoyé</code> : la notice électronique de la référence dans Zotero a été vérifiée, elle peut être citée dans un travail.</p></li>
 <li><p><code>_lu</code> : lu.</p></li>
 <li><p><code>_bibliographie analysée</code> : toutes les références bibliographiques pertinentes mentionnées dans ce document ont été ajoutées à ma base Zotero.</p></li>
 </ul>
 </section>
-<section id="marqueurs-de-description-ou-dévaluation" class="level5" data-number="28.2.0.1.2">
-<h5 data-number="28.2.0.1.2" class="anchored" data-anchor-id="marqueurs-de-description-ou-dévaluation"><span class="header-section-number">28.2.0.1.2</span> Marqueurs de description ou d’évaluation :</h5>
+<section id="suggestions-de-marqueurs-de-description-ou-dévaluation" class="level4" data-number="28.2.2.2">
+<h4 data-number="28.2.2.2" class="anchored" data-anchor-id="suggestions-de-marqueurs-de-description-ou-dévaluation"><span class="header-section-number">28.2.2.2</span> Suggestions de marqueurs de description ou d’évaluation :</h4>
 <ul>
 <li><p><code>_publication majeure</code> : LE document incontournable, central, solide à propos de ce sujet. À ne mettre qu’à moins d’un document sur 20 (moins de 5%).</p></li>
 <li><p><code>_pas intéressant</code> : le titre était tellement bon, mais quand j’ai eu le document en main j’ai évalué que ce n’était pas bon pour mon travail. Je mets ce marqueur car je suis sûr.e que dans 6 mois ou 1 an, j’aurai oublié que je l’ai déjà évalué et rejeté.</p></li>
-<li><p>Pour aller plus loin, plus finement : une cote de sérieux du document ?</p>
+<li><p>Pour aller plus loin : une cote de sérieux du document ?</p>
 <ul>
 <li><p><code>_0.00</code> : foutaise, rétraction, erreur, fausse science</p></li>
 <li><p><code>_0.33</code> : méthode douteuse ou bancale, conclusion exagérée, etc.</p></li>
@@ -699,36 +715,98 @@ window.Quarto = {
 </ul></li>
 </ul>
 </section>
-<section id="marqueurs-thématiques" class="level5" data-number="28.2.0.1.3">
-<h5 data-number="28.2.0.1.3" class="anchored" data-anchor-id="marqueurs-thématiques"><span class="header-section-number">28.2.0.1.3</span> Marqueurs thématiques :</h5>
+<section id="comment-constituer-une-liste-de-marqueurs-thématiques" class="level4" data-number="28.2.2.3">
+<h4 data-number="28.2.2.3" class="anchored" data-anchor-id="comment-constituer-une-liste-de-marqueurs-thématiques"><span class="header-section-number">28.2.2.3</span> Comment constituer une liste de marqueurs thématiques ?</h4>
 <ul>
-<li><p>Faite une liste de 50 à 100 marqueurs <strong>maximum</strong>.</p>
+<li><p>Commencez par lister entre <strong>10 et 15 grands thèmes</strong>. Ce seront vos marqueurs génériques. Plus tard, listez d’autres thèmes, sous-thèmes, etc.</p>
 <ul>
-<li><p>L’erreur classique est de créer un thésaurus « trop beau intellectuellement » mais surtout trop détaillé avec beaucoup trop de marqueurs uniques.</p></li>
-<li><p>En cas de doute, conserver un marqueur pour un ou plusieurs concepts. Car ce qui fait la force des marqueurs, c’est qu’en les combinant ensemble on ait toujours une liste <strong>exhaustive</strong> de tous les documents pertinents.</p></li>
+<li>Astuce : rédigez les marqueurs génériques TOUT EN MAJUSCULES. Et rédigez les autres marqueurs tout en minuscules.</li>
 </ul></li>
-<li><p>Faites un thésaurus basé sur vos objectifs de recherche et votre corpus, pas sur l’organisation théorique et complète des informations. Un thésaurus est toujours <strong>adapté</strong> à un projet.</p>
+<li><p>Commencez à créer votre thésaurus à partir des 50 références les plus importantes de votre corpus. Puis ensuite, intégrer les autres références pour le compléter.</p></li>
+<li><p>Ne pas dépasser 100 marqueurs différents. Idéalement rester entre 50 et 100 maximum.</p>
 <ul>
-<li><p>Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoir <span class="math inline">\(\begin{array}{cc} natation\\ waterpolo\\ plongeon\\ autre \end{array}\)</span> plutôt que <span class="math inline">\(\begin{array}{cc} natation\\ waterpolo\\ plongeon\\ course\\ lancer\\ saut\\ v\acute{e}lo\\ p\acute{e}tanque \end{array}\)</span>.</p></li>
+<li><p>Un thésaurus trop granulaire (trop précis et trop détaillé partout) sera inefficace. En effet, un thesaurus est efficace pour rassembler des termes proches en un seul terme.</p></li>
+<li><p>Si vous avez 1000 références, dites-vous que si vous croisez 2-3 marqueurs et que vous obtenez 50-70 résultats, alors vous avez un thésaurus parfait. En effet, il est alors très simple de parcourir ou trier/filtrer cette liste et terminer le travail de sélection. Le thésaurus a fait le gros du travail. Ce qui fait la force des marqueurs, c’est qu’en les combinant ensemble on ait toujours une liste <strong>exhaustive</strong> de tous les documents pertinents.</p></li>
+<li><p>L’erreur classique est de créer un thésaurus « trop beau intellectuellement » mais trop détaillé avec beaucoup trop de marqueurs utilisés moins de 10 fois.</p></li>
+<li><p>En cas de doute, sélectionnez un seul marqueur pour décrire un ou plusieurs concepts, même un peu différents (ex: copyright pour contrefaçon ou reproduction ou plagiat par ex.).</p></li>
+</ul></li>
+<li><p>Faites un thésaurus basé sur vos objectifs de recherche et votre corpus, pas sur l’organisation théorique et complète des informations. Un thésaurus est toujours <strong>adapté</strong> à un projet.</p></li>
+</ul>
+<p>Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoir …</p>
+<table class="table">
+<colgroup>
+<col style="width: 22%">
+<col style="width: 34%">
+<col style="width: 22%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>_natation<em><br>
+_</em>waterpolo<br>
+_plongeon</p>
+<p><strong>_autre</strong></p></td>
+<td>… est mieux que …</td>
+<td><p>_natation<em><br>
+_</em>waterpolo<br>
+_plongeon</p>
+<p><strong>_course<em><br>
+_</em>saut<br>
+_vélo<em><br>
+_</em>lancer<br>
+_pétanque</strong></p></td>
+</tr>
+</tbody>
+</table>
+<ul>
 <li><p>Constituez votre thésaurus ou paufinez-le quand vous avez déjà plusieurs centaines de références, c’est plus facile pour baliser votre terrain et repérez des marqueurs candidats.</p></li>
-</ul></li>
 <li><p>Astuce de la « sous-catégorie obèse » : fusionnez une sous-catégorie trop volumineuse (par rapport à toutes les autres qui sont rachitiques) avec la catégorie supérieure.</p>
+<p>Exemple :</p></li>
+</ul>
+<table class="table">
+<colgroup>
+<col style="width: 21%">
+<col style="width: 64%">
+<col style="width: 13%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Avant (bof)</td>
+<td><p>_INFORMATION</p>
+<p>_archives<br>
+<strong>_bibliothèque</strong><br>
+_citation<br>
+_fouille de texte</p></td>
+<td><p>n=52</p>
+<p>6<br>
+<strong>32</strong><br>
+4<br>
+3</p></td>
+</tr>
+<tr class="even">
+<td>Après (mieux)</td>
+<td><p>_BIBLIOTHEQUE</p>
+<p>_archives<br>
+_citation<br>
+_fouille de texte</p></td>
+<td><p>52</p>
+<p>6<br>
+4<br>
+3</p></td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>Exemple : Avant (bof) : <span class="math inline">\(\begin{array}{clc} \\ LIS &amp; &amp; (n=52)\\ &amp; Archive &amp; (n=6)\\ &amp; Biblioth\grave{e}que &amp; (n=32)\\ &amp; Citation &amp; (n=4)\\ &amp; Textmining &amp; (n=3)\\ \\ \end{array}\)</span></li>
-<li>–&gt;Après (mieux) : <span class="math inline">\(\begin{array}{clc} Biblioth\grave{e}que &amp; &amp; (n=52)\\ &amp; Archive &amp; (n=6)\\ &amp; Citation &amp; (n=4)\\ &amp; Textmining &amp; (n=3) \end{array}\)</span></li>
-</ul></li>
-<li><p>Astuce du « petit verbeux » : si vous avez une base de données sur le jeu, il n’est peut être pas nécessaire de créer un marqueur <code>_jeu</code> qui serait présent dans toutes les références. À évaluer.</p></li>
-<li><p>Si vous voulez travailler fort sur votre thésaurus, travaillez sur les renvois ou les synonymes d’un marqueur unique : tous les mots qui seront des variants, des termes proches, des termes plus spécifiques ou génériques, etc.</p></li>
+<li>Astuce du « petit verbeux » : si vous avez une base de données sur le jeu, il n’est peut être pas nécessaire de créer un marqueur <code>_jeu</code> qui serait présent dans toutes les références. À évaluer.</li>
+<li>Si vous voulez travailler fort sur votre thésaurus, travaillez sur les <strong>renvois</strong> (on dit aussi alias), c’est-à-dire les synonymes d’un marqueur unique : tous les mots qui seront des variants, des termes proches, des termes plus spécifiques ou génériques, etc.</li>
 </ul>
 </section>
-</section>
-<section id="création-des-marqueurs-dans-zotero" class="level4" data-number="28.2.0.2">
-<h4 data-number="28.2.0.2" class="anchored" data-anchor-id="création-des-marqueurs-dans-zotero"><span class="header-section-number">28.2.0.2</span> Création des marqueurs dans Zotero</h4>
+<section id="création-des-marqueurs-dans-zotero" class="level4" data-number="28.2.2.4">
+<h4 data-number="28.2.2.4" class="anchored" data-anchor-id="création-des-marqueurs-dans-zotero"><span class="header-section-number">28.2.2.4</span> Création des marqueurs dans Zotero</h4>
 <ul>
 <li><p>Dans une notice : onglet Marqueurs &gt; Ajouter &gt; rédiger un nouveau marqueur.</p></li>
-<li><p>Astuce : faire précéder chaque marqueur unique du <strong>caractère _</strong></p>
+<li><p>Astuce : faire précéder chaque marqueur unique du <strong>caractère _</strong> (tiret bas, ou <em>underscore</em>).</p>
 <ul>
-<li><p>Ils sont signés comme étant vos marqueurs à vous, issus d’une précieuse liste contrôlée.</p></li>
+<li><p>Ils sont ainsi « signés » comme étant vos marqueurs à vous et issus d’une précieuse liste contrôlée.</p></li>
 <li><p>Ils apparaissent en haut des listes.</p></li>
 </ul></li>
 <li><p>Astuce : faire précéder vos marqueurs temporaires ou de « cuisine interne » (réorganisation, hésitation, archives, etc.) avec le <strong>caractère =</strong></p>
@@ -743,8 +821,9 @@ window.Quarto = {
 </ul></li>
 </ul>
 </section>
-<section id="création-du-thésaurus-personnel-dans-un-tableau" class="level4" data-number="28.2.0.3">
-<h4 data-number="28.2.0.3" class="anchored" data-anchor-id="création-du-thésaurus-personnel-dans-un-tableau"><span class="header-section-number">28.2.0.3</span> Création du thésaurus personnel dans un tableau</h4>
+</section>
+<section id="consigner-le-thésaurus-personnel-dans-un-tableau" class="level3" data-number="28.2.3">
+<h3 data-number="28.2.3" class="anchored" data-anchor-id="consigner-le-thésaurus-personnel-dans-un-tableau"><span class="header-section-number">28.2.3</span> Consigner le thésaurus personnel dans un tableau</h3>
 <ul>
 <li><p>Ouvrir un fichier Word ou LibreOffice :</p>
 <ul>
@@ -759,7 +838,7 @@ window.Quarto = {
 <li>Voir Exemple ci-dessous.</li>
 </ul></li>
 </ul></li>
-<li><p>Lister tous les marqueurs uniques. [3h+]</p>
+<li><p>Lister tous les marqueurs uniques.</p>
 <ul>
 <li><p>Choisir une règle de forme unique</p>
 <ul>
@@ -775,13 +854,13 @@ window.Quarto = {
 </ul></li>
 <li><p>Lister tous les renvois, alias, variants, thèmes proches ou thèmes plus spécifiques pertinents dans la colonne des renvois.</p></li>
 </ul>
-<section id="exemple" class="level5" data-number="28.2.0.3.1">
-<h5 data-number="28.2.0.3.1" class="anchored" data-anchor-id="exemple"><span class="header-section-number">28.2.0.3.1</span> Exemple</h5>
+<section id="exemple" class="level4" data-number="28.2.3.1">
+<h4 data-number="28.2.3.1" class="anchored" data-anchor-id="exemple"><span class="header-section-number">28.2.3.1</span> Exemple</h4>
 <table class="table">
 <colgroup>
-<col style="width: 17%">
-<col style="width: 17%">
-<col style="width: 64%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 73%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -792,12 +871,12 @@ window.Quarto = {
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><code>_copyright</code></td>
+<td style="text-align: left;"><code>_COPYRIGHT</code></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><em>Creative Commons</em>, droit d’auteur, plagiat, contrefaçon, notoriété publique, domaine public, propriété intellectuelle</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><code>_apprentissage</code></td>
+<td style="text-align: left;"><code>_APPRENTISSAGE</code></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">éducation, <em>learning</em>, apprentissage, formation</td>
 </tr>
@@ -807,7 +886,7 @@ window.Quarto = {
 <td style="text-align: left;">gamification, jeu sérieux, jeu éducatif</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><code>_jeu</code></td>
+<td style="text-align: left;"><code>_JEU</code></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -827,83 +906,29 @@ window.Quarto = {
 <td style="text-align: left;"><em>megagame</em></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><code>_collaboration</code></td>
+<td style="text-align: left;"><code>_COLLABORATION</code></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">négociation, coopération, communication</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><code>_agentivité</code></td>
+<td style="text-align: left;"><code>_AGENTIVITÉ</code></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">choix, <em>railroading</em>, dilemme, prise de décision, <em>decision making</em></td>
 </tr>
 </tbody>
 </table>
 <ul>
-<li><p>Avec l’exemple ci-dessus, on peut voir que l’on peut utiliser :</p>
+<li><p>Avec l’exemple ci-dessus, on peut voir que l’on utilise :</p>
 <ul>
-<li><p><code>_apprentissage</code> : seul</p></li>
-<li><p><code>_ludification</code> et<code>_apprentissage</code> : toujours ensemble</p></li>
-<li><p><code>_jeu</code> et<code>_jeu de société</code> : toujours ensemble</p></li>
+<li><p><code>_APPRENTISSAGE</code>: seul</p></li>
+<li><p><code>_APPRENTISSAGE</code>et <code>_ludification</code> : toujours ensemble</p></li>
+<li><p><code>_JEU</code> et <code>_jeu de société</code> : toujours ensemble</p></li>
 <li><p>etc.</p></li>
 </ul></li>
 </ul>
-</section>
-</section>
-</section>
-<section id="exemples-de-thesaurus" class="level2" data-number="28.3">
-<h2 data-number="28.3" class="anchored" data-anchor-id="exemples-de-thesaurus"><span class="header-section-number">28.3</span> Exemples de thesaurus</h2>
-<section id="répertoire-des-vedettes-matières-de-lulaval" class="level3" data-number="28.3.1">
-<h3 data-number="28.3.1" class="anchored" data-anchor-id="répertoire-des-vedettes-matières-de-lulaval"><span class="header-section-number">28.3.1</span> Répertoire des vedettes-matières de l’ULaval</h3>
-<ul>
-<li><a href="https://rvmweb.bibl.ulaval.ca/">Utilisé</a> par beaucoup d’établissements universitaires au Québec pour indexer les sujets de leurs catalogues.</li>
-</ul>
-</section>
-<section id="thésaurus-mesh-de-ovid-medline" class="level3" data-number="28.3.2">
-<h3 data-number="28.3.2" class="anchored" data-anchor-id="thésaurus-mesh-de-ovid-medline"><span class="header-section-number">28.3.2</span> Thésaurus MeSH de Ovid MEDLINE</h3>
-<ul>
-<li><p>Utilisé par Medline et PubMed pour les articles scientifiques en santé.</p></li>
-<li><p>Ouvrir la base de données Ovid <a href="https://libguides.bib.umontreal.ca/MEDLINE_OVID">MEDLINE</a>.</p></li>
-</ul>
-</section>
-<section id="option-de-recherche-simple" class="level3" data-number="28.3.3">
-<h3 data-number="28.3.3" class="anchored" data-anchor-id="option-de-recherche-simple"><span class="header-section-number">28.3.3</span> Option de recherche simple :</h3>
-<ul>
-<li><p>On arrive sur la recherche avancée avec une requête cochée sur Keyword. Il faut donc :</p>
-<ul>
-<li>Chercher d’abord un Keyword à la fois et ensuite combiner les historiques de recherche.</li>
-</ul>
-<p>OU</p>
-<ul>
-<li><p>Lancer une recherche avec plusieurs Keywords mais séparés par un<code>AND</code>explicite.</p>
-<ul>
-<li>En effet, c’est une des rares base de données qui ne remplace pas les espaces entre les mots par des<code>AND</code>. Par défaut, des mots séparés par des espaces sont cherchés comme un groupe de mots entre guillemets.</li>
-</ul></li>
-</ul></li>
-</ul>
-</section>
-<section id="option-de-recherche-avancée" class="level3" data-number="28.3.4">
-<h3 data-number="28.3.4" class="anchored" data-anchor-id="option-de-recherche-avancée"><span class="header-section-number">28.3.4</span> Option de recherche avancée</h3>
-<ul>
-<li><p>Ouvrir le<em>Term Finder</em>(bouton vert).</p></li>
-<li><p>Chercher un terme, le cocher puis et cliquer sur<em>Add to Search Options</em>.</p>
-<ul>
-<li><p>Les termes MeSH ont une hiérarchie avancée : des termes plus génériques et des termes plus spécifiques.</p>
-<ul>
-<li>Cocher<em>Explode</em>pour chercher un niveau général et tous les niveaux plus spécifiques.</li>
-</ul></li>
-<li><p>Cocher<em>Focus</em>pour chercher seulement les sujets qui ont été indexés comme sujets majeurs du document (ceux précédés d’une astérisque).</p></li>
-</ul></li>
-<li><p>Recommencer pour chaque terme puis combiner les recherches pertinentes.</p></li>
-</ul>
-</section>
-<section id="notes" class="level3" data-number="28.3.5">
-<h3 data-number="28.3.5" class="anchored" data-anchor-id="notes"><span class="header-section-number">28.3.5</span> Notes</h3>
-<ul>
-<li><p>Si, dans une référence, un MeSH commence par un astérisque, alors ça veut dire que ce MeSH est un sujet majeur du document.</p></li>
-<li><p>Pour une utilisation avancée du thésaurus MeSH de Ovid MEDLINE, veuillez contacter les bibliothécaires disciplinaires.</p></li>
-</ul>
 
 
+</section>
 </section>
 </section>
 

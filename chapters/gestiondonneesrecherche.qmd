@@ -94,6 +94,12 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
 
 ### Quelques questions avancées
 
+- Distinguer :
+  - Données brutes : données issues d'une expérience, d'une enquête, d'un rassemblement inédit de documents, etc. 
+  - Données construites, ou agrégée : constituée à partir de données brutes.
+  - Données personnelles : données liées à une personne qui peut être identifiée, directement ou indirectement. 
+  - Données sensibles : information réglementée et protégée en raison de risques (naturels, national, personnels, communautaires, commercial, etc.). 
+  - ... 
 - Stockage et sauvegarde : Voir @sec-sauvegardedurable
 - Préservation : Voir @sec-archivage
 -   **Personne-contact** du jeu de données ?

@@ -1,4 +1,4 @@
-#  Citer sans plagier {#sec-citer}
+# Citer sans plagier {#sec-citer}
 
 -   **Citer** ou **référencer/sourcer** Ce chapitre s'appuie partiellement sur Thomas, Mathieu. « Citations, références et plagiat. Formation de mise à niveau : étudiants à la maîtrise ». Université de Montréal, septembre 2020 et sur Croteau, Marc-Olivier, Myrian Grondin et Pascal Martinolli. « Citer ses sources ». Université de Montréal, septembre 2021.?
 
@@ -8,7 +8,7 @@
 
         -   « Je pense donc je suis. »
 
-##  Pourquoi citer ?
+## Pourquoi citer ?
 
 -   Dans la recherche, on cite principalement :
 
@@ -62,7 +62,7 @@
 
     -   Il est possible qu'un document rédigé pour une discipline n'ait pas les mêmes conditions de notoriété publique dans une autre discipline.
 
-##  Éviter le plagiat
+## Éviter le plagiat
 
 -   **Plagier, c'est laisser croire qu'on est l'auteur d'un travail, qui est en réalité le travail de quelqu'un d'autre.**
 
@@ -98,7 +98,7 @@
 
     -   Travailler en équipe sur un travail dont l'évaluation est individuelle sans que le professeur est été avisé de ce travail commun.
 
--   Le plagiat doit être distingué de la contrefaçon ou des aspects juridiques Commentaire de PrPissenlit : <https://www.youtube.com/watch?v=91G8UN7UTQ0&lc=Ugzxf819Wt8bLr-IDPB4AaABAg>. Il peut y avoir plagiat sans poursuite pénale.
+-   Le plagiat doit être distingué de la contrefaçon ou des aspects [juridiques](https://www.youtube.com/watch?v=91G8UN7UTQ0&lc=Ugzxf819Wt8bLr-IDPB4AaABAg). Il peut y avoir plagiat sans poursuite pénale.
 
     -   Exemple : paraphraser une recette de cuisine trouvée ailleurs et la publier sur son blogue. C'est du plagiat, même si légalement on a le droit. Dans le cadre universitaire, c'est condamnable.
 
@@ -109,6 +109,8 @@
     -   Il empêche de connaître les travaux sur lesquels un travail se base.
 
     -   Il empêche de repérer les sophismes et les arguments fallacieux (exemples : aucune source ou sur mauvaises sources).
+
+-   Deux formations en ligne UdeM sont disponibles : Pour les [enseignant.es](https://studiumfc.umontreal.ca/course/view.php?id=64513) et pour les [étudiant.es](https://studiumfc.umontreal.ca/course/view.php?id=64513). Voir aussi la section [Intégrité](https://integrite.umontreal.ca/accueil/) du site web de l'UdeM.
 
 ### Solution : savoir quand citer
 
@@ -152,7 +154,7 @@
 
         -   Dans le contexte d'un travail universitaire : laisser du temps puis rédiger votre paraphrase sans consulter le document original. Vérifiez ensuite dans un second temps. Et citez la source!
 
-##  Choisir son style
+## Choisir son style
 
 -   Il existe plusieurs manières de présenter les citations courtes, longues, abrégées et la bibliographie finale.
 
@@ -200,8 +202,7 @@
 
     -   Une fois choisi, vous conservez le même style dans tout le document (sauf pour une thèse par article où chaque partie peut avoir un style différent).
 
-
-##  Comment citer ?
+## Comment citer ?
 
 1.  Choisir un **style bibliographique** ou suivre le style bibliographique imposé pour son travail.
 
@@ -253,7 +254,7 @@
 
         -   S'il y a des erreurs dans le texte original ou des idées outrageantes, vous pouvez mettre `(sic)` ce qui veut dire *sic transit gloria mundi* (= « ainsi passe la gloire du monde » = Oh lala, c'est du grand n'importe quoi!).
 
-        -   Si vous voulez sauter une partie non pertinente pour raccourcir la citation, remplacez la partie par `(...)` ou` ``[``...``]`
+        -   Si vous voulez sauter une partie non pertinente pour raccourcir la citation, remplacez la partie par `(...)` ou``` ``[``...``] ```
 
         -   **Citation exacte et courte** (moins de 3 lignes) : à insérer dans le texte en continu.
 
@@ -287,11 +288,9 @@
 
     -   sous la forme de **citations complètes**.
 
-
 ## Savoir identifier un document
 
-Voir @sec-identifierdocument 
-
+Voir @sec-identifierdocument
 
 ## Document inaccessible ou partiel
 
@@ -319,7 +318,7 @@ Voir @sec-identifierdocument
 
         -   Il y a une manière spécifique pour citer un chapitre (qui est différente de la manière de citer un livre).
 
-##  Bibliographie finale et liste de références
+## Bibliographie finale et liste de références
 
 -   « Bibliographie finale » ou « Liste des références » :
 
@@ -341,11 +340,11 @@ Voir @sec-identifierdocument
 
     -   Les « **bibliographie** » (*bibliography*) peuvent contenir des **références bibliographiques supplémentaires**, qui n'ont pas été mentionnées dans le texte mais qui ont aidé à la compréhension du sujet.
 
-##  Auto-plagiat
+## Auto-plagiat
 
 -   *Self-plagiarism, autoplagiarism*
 
-    -   « Vamos à la plagiat ! » Titre d'un chapitre de *Ça tourne mal ! L'histoire méconnue et tumultueuse du cinéma français* de Philippe Lombard, 2019. Édition La Tengo.\... Non, ce n'est pas aller en auto à la plage.
+    -   « Vamos à la plagiat ! » Titre d'un chapitre de *Ça tourne mal ! L'histoire méconnue et tumultueuse du cinéma français* de Philippe Lombard, 2019. Édition La Tengo.... Non, ce n'est pas aller en auto à la plage.
 
 -   C'est quand on fait **un travail** et qu'on reçoit **deux récompenses**. Exemples :
 
@@ -353,13 +352,15 @@ Voir @sec-identifierdocument
 
     -   Je conduis une étude et je rédige ses résultats de manière quasiment identiques et je les soumets à deux revues révisées par les pairs différentes.
 
--   C'est une sorte de « fraude de recyclage » où on ressert un document que l'on a déjà utilisé ailleurs.
+-   C'est une sorte de « fraude de recyclage » où on ressert un travail que l'on a déjà utilisé ailleurs.
 
 -   Le nom est proche de celui du plagiat et il est traité avec le même rejet dans la communauté de la recherche. Cependant, ce n'est pas la même chose.
 
--   Notez que pour publier autre chose que des recherches originales, c'est une pratique tout à fait normale dans plusieurs contextes. Par exemple, dans le contexte de l'industrie ou de l'éducation il est tout à fait normal de réutiliser des présentations, des exercices, etc.
+-   Notez que pour publier autre chose que des recherches originales ou rendre des travaux universitaires, c'est une pratique tout à fait normale dans plusieurs autres contextes. Par exemple, dans le contexte de l'industrie ou de l'éducation, il est normal de réutiliser des présentations, des exercices, etc.
 
-##  Fausses citations
+-   Par défaut, l'auto-plagiat est interdit à l'UdeM ([1er cycle](https://secretariatgeneral.umontreal.ca/public/secretariatgeneral/documents/doc_officiels/reglements/enseignement/ens30_3-reglement-disciplinaire-plagiat-fraude-etudiants-premier-cycle.pdf), [cycle supérieur](https://secretariatgeneral.umontreal.ca/public/secretariatgeneral/documents/doc_officiels/reglements/enseignement/ens30_12-reglement-disciplinaire-plagiat-fraude-etudiants-cycles-superieurs.pdf)). Demandez à votre évaluateur pour des cas spécifiques.
+
+## Fausses citations
 
 -   On dit aussi **citation apocryphe** pour faire plus chic.
 
@@ -367,7 +368,7 @@ Voir @sec-identifierdocument
 
 -   Ne commencez pas un travail avec une fausse citation car tout de suite on va repérer que vous n'avez pas vérifié vos sources. Même si le reste de votre travail est excellent.
 
-##  Droit d'auteur et citation
+## Droit d'auteur et citation
 
 -   Le droit d'auteur n'a rien à voir avec l'**obligation éthique de bien citer** dans le monde de la recherche.
 
@@ -375,20 +376,6 @@ Voir @sec-identifierdocument
 
 -   Bien citer permet de respecter l'aspect moral du droit d'auteur mais, dans le cas d'une diffusion de votre recherche, cela ne suffit pas car il y aussi un aspect **patrimonial** au droit d'auteur (ie. les droits liés à l'utilisation).
 
-    -   Si votre travail est diffusé, soyez attentif à ce que toutes les parties dont le droit d'auteur ne vous appartient pas n'enfreignent pas les droits d'auteur d'autres personnes ou institutions les détenant :
+    -   Si votre travail est diffusé, soyez attentif à ce que toutes les parties dont le droit d'auteur ne vous appartient pas n'enfreignent pas les droits d'auteur d'autres personnes ou institutions les détenant : portions de texte, graphiques, schémas, photographies, tableaux, données, etc. Voir @sec-droitdauteur
 
-        -   portions de texte,
-
-        -   graphiques,
-
-        -   schémas,
-
-        -   photographies,
-
-        -   tableaux,
-
-        -   données, etc.
-
-    -   Voir p. .
-
--   Rappel : Ce manuel est rendu disponible à des fins d'information uniquement et ne constitue d'aucune manière un avis juridique.
+-   [Rappel : Ce manuel est rendu disponible à des fins d'information uniquement et ne constitue d'aucune manière un avis juridique.]{style="red"}

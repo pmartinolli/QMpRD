@@ -33,9 +33,10 @@
 
 ### Extensions recommandées (pour la version 6)
 
--   Repérer et télécharger les fichiers XPI pour chacune des extensions ci-dessous. Puis Zotero \> Outils \> Extensions \> Tools... \> Install add-on from file... : choisir le fichier XPI. Recommencer pour les autres.
+-   Pour installer chacune des extensions ci-dessous : repérer et télécharger les fichiers XPI . Puis Zotero \> Outils \> Extensions \> Tools... \> Install add-on from file... : choisir le fichier XPI. Recommencer pour les autres.
 -   [Zutilo](https://github.com/wshanks/Zutilo/releases)
     -   Paramètres de Zutilo recommandés (Options \> Préférences de Zutilo : Menu contextuel de Zutilo) : Copier les marqueurs, Coller les marqueurs, Associer les documents, Créer une notice Chapitre de livre.
 -   [Zotero Preview](https://github.com/dcartertod/zotero-plugins)
 -   Extension [Inciteful](https://github.com/inciteful-xyz/inciteful-zotero-plugin) pour repérer d'autres articles par citations (voir @sec-cartographieinformation).
+-   Si vous voulez travailler avec BibTeX, installez [Better BibTeX](https://retorque.re/zotero-better-bibtex/). Cela vous permet de maintenir un ou plusieurs fichiers `.bib` automatiquement à jour pour vos travaux.
 -   En cas de problème d'installation, demandez l'aide d'un technicien en soutien informatique (communauté UdeM seulement) : Page des bibliothèque <https://bib.umontreal.ca/> : bulle Clavarder en bas à droite.
