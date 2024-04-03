@@ -38,6 +38,7 @@
     -   Un **livre vert** (*green paper*) est un rapport officiel contenant des propositions qui seront discutées pour établir une politique.
     -   Un **livre bleu** (*blue book*) est un recueil de données factuelles chiffrées sur un sujet (rapport annuel, statistiques, etc.).
     -   Il existe d'autres types de couleurs de livre (rose, rouge, orange, etc.) dont les définitions et les usages varient selon les pays.
+    - [Policy Commons](https://policycommons.net/) est une base de données contenant de nombreuses publications gouvernementales et non-gouvernementales. 
 
 ## Dépôts de prépublications (*preprints*)
 

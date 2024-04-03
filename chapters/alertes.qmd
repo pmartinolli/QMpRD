@@ -1,117 +1,123 @@
-#  Se ternir à jour avec les alertes {#sec-alertes}
+# Se ternir à jour avec les alertes {#sec-alertes}
 
-## Objectifs Le contenu de ce chapitre est adapté partiellement des formations sur la veille de Justine Lamoureux, bibliothécaire UQÀM. 
+Le contenu de ce chapitre est adapté partiellement des formations sur la veille de Justine Lamoureux, bibliothécaire UQÀM.
+
+## Objectifs
+
+[TL;PL](https://bib.umontreal.ca/guides/methodologie/veille) : Être informé automatiquement, par divers moyens passifs, des nouveautés dans un domaine choisi.
 
 ### À court terme
 
 -   **Se consacrer à ses recherches** et arrêter de rechercher des documents. En effet, activement chercher sans cesse des nouveaux documents peut être une stratégie de procrastination pour éviter de lire et synthétiser ceux que l'on a déjà, ou pour éviter de se plonger dans sa recherche.
-
 -   Savoir que les documents pertinents vont **immédiatement arriver** dans nos systèmes d'alerte dès qu'ils vont être publiés.
-
 -   Avoir le plaisir de **trier des informations calibrées** qui viennent à soi plutôt que d'aller les chercher activement. Ça se fait bien le matin avec un bon café, ou à des moments creux de la journée.
 
 ### À long terme
 
 -   Développer une compétence professionnelle très prisée pendant le temps de l'université. Comme ça demande beaucoup de pratiques dans plein d'outils différents, c'est le moment idéal de développer cette compétence avec vos recherches.
-
     -   Ajouter une ligne de plus dans son CV : « Je sais me tenir à jour sur un thème et créer des systèmes d'alertes pour faire de la veille. »
-
 -   Être capable de monter des systèmes de redistribution d'information à partir de votre veille.
 
 ### Enjeux généraux à maîtriser
 
 -   Savoir manipuler **plusieurs types** d'outils différents (fils RSS, courriels, abonnements, *tweets*, etc.).
-
     -   S'attendre à expérimenter de l'instabilité technique : des outils qui ne fonctionnent plus ou seulement partiellement, des fournisseurs d'alertes qui interrompent leurs services sans prévenir ou qui ne mettent pas à jour leurs spécifications techniques, des incompatibilités entre systèmes et formats de fichiers, etc.
-
 -   Savoir **calibrer** ses alertes (sélections, options, mots-clés, etc.) et les **réajuster** *a posteriori* si besoin.
-
 -   **Compartimenter** les flux d'information en fonction de leurs débits ou de leurs thèmes.
-
 -   Choisir de faire des alertes **ciblées** ou une veille plus **large**.
+-   Savoir rédiger et rediffuser le fruit de ses alertes.
 
-##  Alertes par courriel
+## Alertes par courriel
 
 -   Ce sont les plus simples, il suffit :
-
     -   D'avoir une adresse courriel
+    -   Que le service que l'on veut suivre possède un service d'alerte par courriel. Ex :
+        -   Les alertes Google Scholar et Google Alerts.
+        -   Les alertes Web of Science.
+        -   La plupart des alertes par mot-clés dans des bases de données.
+        -   Sommaires de revues savantes via [Browzine](https://browzine.com/).
 
-    -   Que le service que l'on veut suivre possède un service d'alerte par courriel.
-
--   [Bonne pratique recommandée : Créer un compte courriel spécifiquement pour recevoir des alertes.]{style="color: purple"}
+### Bonne pratique recommandée : Créer un compte courriel spécifiquement pour recevoir des alertes
 
 -   Pour compartimenter les flux d'information et mieux les gérer.
+-   Pour ne pas encombrer votre courriel institutionnel et votre courriel personnel.
+-   Quand vous ouvrez ce courriel d'alertes, vous savez que le niveau d'importance est très faible. Ça vous évite mentalement de vous poser la question pour chaque élément (comme vous le faites dans votre boîte de réception de votre courriel institutionnel par exemple).
+-   Pour vous suivre, quelle que soit votre institution actuelle.
+-   Pour servir de tampon et ne pas envahir vos comptes courriels de spam potentiels ou autres.
+-   Un compte [Gmail](https://www.google.com/intl/fr/gmail/about/) est une option à considérer car il permet d'accéder à d'autres outils Google intéressant : Google scholar, Google Alert, Google Drive, etc. (NB: je n'ai pas de conflits d'intérêt avec Google).
 
-    -   Pour ne pas encombrer vos courriels institutionnels et personnels.
+### Exemples d'alertes Google par courriel
 
-        -   Quand vous arrivez dans ce compte courriel, vous savez que le niveau d'importance est très faible et que chaque élément est une évaluation d'information pour vos recherches. Ça vous évite mentalement de vous poser la question pour chaque élément, comme vous le faites dans votre boîte de réception de votre courriel institutionnel par exemple.
+-   Avoir un compte Google connecté
+-   Aller sur [Google Scholar](https://scholar.google.com/) :
+    -   Lancer une recherche, puis dans la liste de résultat, repérer l'option *Create alert* dans le menu de gauche.
+    -   Cliquer sur un auteur cliquable. Sur sa page de profil, cliquer sur *Follow* puis *New articles by this author*.
+    -   Ou (dans le cas où le chercheur n'a pas de profil cliquable) : lancer une recherche de type `author:"Pascal Martinolli" OR author:"Martinolli P"` et ensuite *Create alert* avec le menu de gauche.
+-   Aller sur [Google Alerts](https://www.google.com/alerts) :
+    -   Rédiger une requête **ciblée** et créer l'alerte.
+    -   Exemple : `ballet site:lemonde.fr OR site:lapresse.ca OR site:ledevoir.com`
+    -   Exemple : ``` "``Pascal Martinolli``" OR "Martinolli, Pascal" ```
 
-    -   Pour vous suivre, quelque soit votre institution actuelle.
+### Exemple d'alerte par mot-clé typique
 
-    -   Pour servir de tampon et ne pas envahir vos comptes courriels de spam potentiels ou autres.
+-   Accéder à une base de données bibliographiques.
+-   Optionnel (selon la base) : se créer et se connecter à un compte.
+-   Lancer une recherche.
+-   Aller dans les résultats (ou dans l’historique des recherches).
+-   Chercher l’option de création d'alerte et créer l'alerte.
+-   Optionnel (selon la base) : modifier ou supprimer l'alerte créée.
 
-    -   Un compte Gmail est une idée à considérer car il permet d'accéder à d'autres outils Google intéressant : Google scholar, Google Alert, Google Drive, etc. (NB: je n'ai pas de conflits d'intérêt avec Google).
+### Alertes de citation
 
-##  Alertes par RSS
+-   Fonction disponible dans Web of Science : repérer un article, cliquer sur le titre pour ouvrir la référence au complet. Dans le menu de droite, repérer le nombre de citations à ce jour et l'option *Create citation alert*. Toutes les nouvelles citations de cette référence seront envoyées par courriel.
 
--   Un lien RSS est un contenu en ligne qui se met à jour régulièrement. On dit aussi fil RSS, ou flux RSS, ou Atom, ou Feed.
+-   Fonction disponible dans Google Scholar : Repérer un chercheur. Cliquer sur Follow + *New citations to this author*. Cela peut engendrer beaucoup de résultats.
 
--   Il doit être collecté dans un logiciel ou un service spécialisé appelé **aggrégateur RSS**.
+## Alertes par RSS
 
-    -   Logiciel à installer : RSS Owl <http://www.rssowl.org/> ou QuiteRSS <https://quiterss.org/>
+-   Idéal pour les sommaires de revues savantes, pour les blogues et les podcasts, pour les rubriques de certains quotidiens, etc.
+-   Un lien RSS est un contenu en ligne qui se met à jour régulièrement.
+    -   On dit aussi fil RSS, ou flux RSS, ou Atom, ou Feed.
+    -   Une fois le lien repéré :
+        -   Cliquer sur le lien. La plupart du temps, une page peu lisible (code XML ou autre) apparaît. Copier l'URL de cette page.
+        -   ou *Copier l'adresse du lien*.
+-   Ce lien doit être collecté dans un **aggrégateur RSS** :
+    -   Un logiciel libre à installer ([RSS Owl](http://www.rssowl.org/) ou autre) ou un service en ligne gratuit ([Feedly](https://feedly.com/) ou autre).
+    -   Créer un nouveau élément (*Feed*) dans l'agrégateur en coller le lien précédent.
+    -   Collectionner une série de fil RSS. On peut classer les fils RSS par dossiers pour les regrouper.
+    -   Une fois le fil parcouru, il est possible de régler l'affichage de l'agrégateur pour que les informations lues soient cachées. Ainsi, chaque fois que l'aggrégateur est ouvert, seules les nouveautés non-lues sont affichées. C'est comme un journal qui se met à jour selon nos abonnements.
 
-    -   ou service en ligne gratuit : Feedly <https://feedly.com/> ou InoReader <https://www.inoreader.com>.
+## Alertes par réseau social
 
--   Une fois le fil parcouru, il est possible de régler l'affichage pour que les informations lues deviennent invisibles avant de disparaître complètement quelques mois plus tard. Ainsi, chaque fois que l'aggrégateur est ouvert, seules les nouveautés non-lues sont affichées. C'est comme un journal qui se met à jour selon nos abonnements.
-
--   On peut classer les fils RSS par dossiers pour les regrouper.
-
--   Dès qu'une information semble pertinente, on l'envoie dans Zotero dans la collection `À évaluer`.
-
-## Alertes par Twitter
-
--   [Suivi de compte Twitter : ]{style="color: purple"}
-
-    -   [Cliquer sur l'usager de Twitter à suivre + Follow]{style="color: purple"}
-
-    -   [Consulter régulièrement Twitter.]{style="color: purple"}
-
--   [Suivi de hashtags : ]{style="color: purple"}
-
-    -   [Outil TweetDeck]{style="color: purple"} [<https://tweetdeck.twitter.com/>]{style="color: purple"}[ : ajouter des colonnes selon un ou plusieurs mot-clés à suivre.]{style="color: purple"}
-
-    -   [Consulter régulièrement le TweetDeck.]{style="color: purple"}
-
--   [Service d'alertes : Warble]{style="color: purple"} [<https://warble.co/alerts>]{style="color: purple"}
-
-    -   [Voir opérateurs avancés de Twitter (p. ) ]{style="color: purple"}
-
-        -   [NB: tous ne fonctionnent pas dans Warble.]{style="color: purple"}
-
-    -   [Laisser Warble vous envoyer les informations.]{style="color: purple"}
+-   Sélectionner les comptes à suivre.
+-   Surtout pertinent pour savoir ce qu'il se passe dans votre domaine et autour de votre sujet.
+-   Moins efficace pour cibler exactement votre sujet de recherche.
 
 ## Alertes humaines
 
--   Ne pas hésiter à parler de votre sujet autout de soi et être ouvert à recevoir des informations dessus si vos contacts en repèrent dans leurs propres investigations.
+-   Ne pas hésiter à parler de votre sujet autour de soi et être ouvert à recevoir des informations sur votre sujet si vos contacts en repèrent dans leurs propres investigations.
+
+## Alertes de modification de page web
+
+-   Pour être averti quand une page web statique est modifiée.
+-   Exemple : [Update Scanner](https://sneakypete81.github.io/updatescanner/), une extension pour Firefox.
 
 ## Collecter les alertes
 
--   Créer une collection spécifique dans votre Zotero. Avec des sous-collections : Reçu, envoyé, commenté, twitté, etc. selon vos besoins.
+-   Créer une collection spécifique dans votre Zotero.
+-   Avec des sous-collections : Reçu, envoyé, commenté, twitté, etc. selon vos besoins.
 
 ## Redistribuer les alertes
 
--   Renvoyer le fruit de votre veille à votre groupe de recherche ou votre réseau.
-
+-   Faire suivre le fruit de votre veille à votre groupe de recherche ou votre réseau.
 -   Avec quelques commentaires pour de la valeur ajoutée (pourquoi c'est pertinent, quelle question ça soulève, comment vous y avez réagit, etc.).
-
 -   Plusieurs outils :
-
     -   Par courriel.
 
-    -   Avec un billet de votre blogue de recherche voir p. [\[chap:Bloguer\]](#chap:Bloguer){reference-type="ref" reference="chap:Bloguer"}.
+    -   Avec un billet de votre blogue de recherche (voir @sec-bloguersarecherche).
 
-    -   Avec Twitter (avec un compte ou un #hashtag dédié).
+    -   Avec Mastodon/ BlueSky/ XTwitter : avec un compte ou un #hashtag dédié (voir @sec-microbloguer).
 
     -   Par messagerie interne à votre institution (exemple : un canal Teams).
 
-    -   Avec une page web simple Par exemple, j'utilise le service hackmd.io pour créer du contenu de balisage léger Markdown et diffuser ma veille de bibliothécaire universitaire pour mes collègues et mes étudiants : <https://tinyurl.com/lefiltre>. Gratuit et simple..
+    -   Avec une page web simple. Par exemple, j'utilise le service [hackmd.io](https://hackmd.io/) pour créer du contenu de balisage léger Markdown et diffuser ma veille de bibliothécaire universitaire pour mes collègues et mes étudiants : [LeFiltre.](https://tinyurl.com/lefiltre) Gratuit et simple.

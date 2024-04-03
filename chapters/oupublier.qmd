@@ -1,6 +1,6 @@
 # Dans quelle revue diffuser ma recherche ? {#sec-oupublier}
 
-Ce chapitre est une contribution égale de Valérie Rioux, Cynthia Gagné et Pascal Martinolli (Université de Montréal) Diffusée originellement à <https://github.com/pmartinolli/where2publish>
+Ce chapitre est une contribution égale de Valérie Rioux, Cynthia Gagné et Pascal Martinolli (Université de Montréal). Diffusée originellement à <https://github.com/pmartinolli/where2publish>
 
 -   En bref :
 
@@ -14,39 +14,39 @@ Ce chapitre est une contribution égale de Valérie Rioux, Cynthia Gagné et Pas
 
 ### Créer un tableau
 
--   [Créer un document tabulé dans LibreOffice Calc ou MS Excel. ☐]{style="color: purple"}
+-   Créer un document tabulé dans LibreOffice Calc ou MS Excel.
 
--   [Noms des colonnes]{style="color: purple"} [Voir exemple de tableau pour publier dans une revue sur les jeux de rôle sur table : <https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv>]{style="color: purple"}[ : ☐]{style="color: purple"}
+-   Noms des colonnes Voir [exemple](https://github.com/pmartinolli/where2publish/blob/main/where2publish-example-TTRPG.csv) de tableau pour publier dans une revue sur les jeux de rôle sur table :
 
-    -   **[Nom de la revue ]{style="color: purple"}**
+    -   **Nom de la revue**
 
-    -   **[Pairs]{style="color: purple"}**[ : Y a-t-il un processus de révision par les pairs valide ? Est-il clair ? ]{style="color: purple"}
+    -   **Pairs**: Y a-t-il un processus de révision par les pairs valide ? Est-il clair ?
 
-    -   **[Focus]{style="color: purple"}**[ : La revue a-t-elle un focus sur mon sujet de recherche ? Option : combien d'articles sur mon sujet ont-ils déjà été publiés ? ]{style="color: purple"}
+    -   **Focus**: La revue a-t-elle un focus sur mon sujet de recherche ? Option : combien d'articles sur mon sujet ont-ils déjà été publiés ?
 
-    -   **[Soumission]{style="color: purple"}**[ : Types de soumission d'articles à la revue : permanent, sur appel, etc. Aussi les préférences de la revue sur le type de recherche et la longueur d'article à soumettre. ]{style="color: purple"}
+    -   **Soumission**: Types de soumission d'articles à la revue : permanent, sur appel, etc. Aussi les préférences de la revue sur le type de recherche et la longueur d'article à soumettre.
 
-    -   **[Langues]{style="color: purple"}**[ : de publication des articles ]{style="color: purple"}
+    -   **Langues**: de publication des articles
 
-    -   **[Facteur d'Impact]{style="color: purple"}**[ : Est-ce que la revue est indexée dans Web of Science]{style="color: purple"} [Master Journal List à <https://mjl.clarivate.com/home?utm_source=wos&utm_medium=web&utm_campaign=header-na>]{style="color: purple"}[? Quel est son plus récent facteur d'impact (si pertinent pour votre discipline) ? ]{style="color: purple"}
+    -   **Facteur d'Impact**: Est-ce que la revue est indexée dans [Web of Science Master Journal List](https://mjl.clarivate.com/home?utm_source=wos&utm_medium=web&utm_campaign=header-na) ? Quel est son plus récent facteur d'impact (si pertinent pour votre discipline) ?
 
-    -   **[Medline/PubMed]{style="color: purple"}**[ : Est-ce que la revue est indexée dans Medline ou PubMed]{style="color: purple"} [<https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/>]{style="color: purple"}[ ? (si pertinent pour votre discipline) ]{style="color: purple"}
+    -   **Medline/PubMed**: Est-ce que la revue est indexée dans Medline ou [PubMed](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/) ? (si pertinent pour votre discipline)
 
-    -   **[Google Scholar ]{style="color: purple"}**[: Les articles de la revue sont-ils indexés dans Google Scholar ? ]{style="color: purple"}
+    -   **Google Scholar**: Les articles de la revue sont-ils indexés dans Google Scholar ?
 
-    -   **[DOI]{style="color: purple"}**[ : La revue fournit-elle un DOI pour chaque article publié ? ]{style="color: purple"}
+    -   **DOI**: La revue fournit-elle un DOI pour chaque article publié ?
 
-    -   **[ORCID]{style="color: purple"}**[ : La revue demande-t-elle des ORCID pour les auteurs (encore peu courant en 2021) ? ]{style="color: purple"}
+    -   **ORCID**: La revue demande-t-elle des ORCID pour les auteurs (encore peu courant en 2021) ?
 
-    -   **[Libre accès]{style="color: purple"}**[ : Y a-t-il une politique de libre accès ]{style="color: purple"} [Voir Sherpa Romeo à <https://v2.sherpa.ac.uk/romeo/>]{style="color: purple"}[ ?]{style="color: purple"}
+    -   **Libre accès**: Y a-t-il une politique de libre accès Voir [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) ?
 
-    -   **[Frais de publication/APC]{style="color: purple"}**[ : Quels sont les frais de publication ou les sur-frais de libre accès ? Parfois difficile à trouver ]{style="color: purple"} [Voir la fiche DOAJ de la revue à <https://doaj.org/>]{style="color: purple"}[. ]{style="color: purple"}
+    -   **Frais de publication/APC**: Quels sont les frais de publication ou les sur-frais de libre accès ? Parfois difficile à trouver. Voir la fiche [DOAJ](https://doaj.org/).
 
-    -   **[Score]{style="color: purple"}**[ : MON propre jugement sur cette revue. 0 = rejeté. 1 = à considérer en priorité. 2 = peut-être. 3 = peu pertinent. ]{style="color: purple"}
+    -   **Score**: MON propre jugement sur cette revue. 0 = rejeté. 1 = à considérer en priorité. 2 = peut-être. 3 = peu pertinent.
 
-    -   **[Notes]{style="color: purple"}**[ : MES notes personnelles sur mon score et mon jugement. ]{style="color: purple"}
+    -   **Notes**: MES notes personnelles sur mon score et mon jugement.
 
-    -   **[URL]{style="color: purple"}**[ : lien vers le site de la revue.]{style="color: purple"}
+    -   **URL**: lien vers le site de la revue.
 
 ### Constituer une liste de revues pour ma recherche
 
@@ -56,59 +56,59 @@ Ce chapitre est une contribution égale de Valérie Rioux, Cynthia Gagné et Pas
 
 -   Ces techniques consistent à apparier votre sujet de recherche avec des revues qui ont déjà publié des articles sur ce sujet. Ce sont les techniques recommandées. Car il est possible que pour deux articles sur des sujets différents, vous ayez à produire deux tableaux (un peu ou très différents).
 
--   **[A1 : Zotero/Endnote]{style="color: purple"}**
+-   **A1 : Zotero/Endnote**
 
-    -   [À partir de sa collection de références bibliographiques sur son sujet de recherche]{style="color: purple"} [Astuce Zotero pour l'extraction : <https://jdr.hypotheses.org/18>]{style="color: purple"}[. ]{style="color: purple"}
+    -   À partir de sa collection de références bibliographiques sur son sujet de recherche. [Astuce](https://observablehq.com/@pascaliensis/zoterojsnalysis) Zotero pour l'extraction.
 
-    -   [Fonctionne bien si : vous avez déjà une bonne revue de littérature sur votre sujet dans votre base Zotero/Endnote. ]{style="color: purple"}
+    -   Fonctionne bien si : vous avez déjà une bonne revue de littérature sur votre sujet dans votre base Zotero/Endnote.
 
--   **[A2 : Web of Science - Analyze Results]{style="color: purple"}**
+-   **A2 : Web of Science - Analyze Results**
 
-    -   [À partir d'une liste de résultats de recherche sur des mots-clés de votre sujet.]{style="color: purple"}
+    -   À partir d'une liste de résultats de recherche sur des mots-clés de votre sujet.
 
-    -   [Fonctionne bien si : il y a des résultats pertinents.]{style="color: purple"}
+    -   Fonctionne bien si : il y a des résultats pertinents.
 
-    -   [Se connecter à Web of Science. Lancer une recherche pertinente. En parcourant manuellement la liste des résultats. repérer les noms de revue des résultats les plus pertinents. Puis, dans cette liste des résultats cliquer sur Analyze Results et Source Titles. Vous obtiendrez les sources qui reviennent le plus souvent dans la liste de résultats. Note: Book Series Titles (pour les livres) ou Meeting Titles (pour les actes de congrès) peuvent être intéressants. ]{style="color: purple"}
+    -   Se connecter à Web of Science. Lancer une recherche pertinente. En parcourant manuellement la liste des résultats. repérer les noms de revue des résultats les plus pertinents. Puis, dans cette liste des résultats cliquer sur Analyze Results et Source Titles. Vous obtiendrez les sources qui reviennent le plus souvent dans la liste de résultats. Note: Book Series Titles (pour les livres) ou Meeting Titles (pour les actes de congrès) peuvent être intéressants.
 
--   **[A3 : Autres jumelages]{style="color: purple"}**
+-   **A3 : Autres jumelages**
 
-    -   [Consultez la section Outils de jumelage manuscrit/revue]{style="color: purple"} [<https://bib.umontreal.ca/gerer-diffuser/communication-savante/publier-article-scientifique>]{style="color: purple"}[. ]{style="color: purple"}
+    -   Consultez la section [Outils de jumelage manuscrit/revue](https://bib.umontreal.ca/gerer-diffuser/communication-savante/publier-article-scientifique).
 
-        -   [L'outil B!SON]{style="color: purple"} [<https://service.tib.eu/bison/>]{style="color: purple"}[ semble intéressant pour certaines disciplines (basé sur DOAJ pour le titre et le résumé et sur OpenCitation pour la bibliographie).]{style="color: purple"}
+        -   L'outil B!SON <https://service.tib.eu/bison/>semble intéressant pour certaines disciplines (basé sur DOAJ pour le titre et le résumé et sur OpenCitation pour la bibliographie).
 
-        -   [Notez que ces outils ne sont pas neutres car ils servent à faire la promotion des revues des éditeurs qui les proposent.]{style="color: purple"}
+        -   Notez que ces outils ne sont pas neutres car ils servent à faire la promotion des revues des éditeurs qui les proposent.
 
 #### Techniques B : Listes par disciplines
 
 -   Ces techniques consistent à repérer des listes de revues par disciplines ou grands domaines. Elles sont plus générales que la technique précédente par appariement. Elles servent surtout à identifier les principales revues d'un domaine.
 
--   **[B1 : Journal Citation Reports]{style="color: purple"}**
+-   **B1 : Journal Citation Reports**
 
-    -   [La base de données JCR est construite à partir des données de citation de Web of Science et permet de classer et repérer les revues les plus citées.]{style="color: purple"}
+    -   La base de données JCR est construite à partir des données de citation de Web of Science et permet de classer et repérer les revues les plus citées.
 
-    -   [Fonctionne bien si : le JCR a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes et les revues en arts et sciences humaines y sont très peu représentées]{style="color: purple"} [<https://support.clarivate.com/ScientificandAcademicResearch/s/article/Journal-Citation-Reports-Reasons-for-not-calculating-Impact-Factors-for-journals-covered-in-Arts-Humanities-Citation-Index?language=en_US>]{style="color: purple"}[).]{style="color: purple"}
+    -   Fonctionne bien si : le JCR a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes et les revues en arts et sciences humaines y sont très [peu](https://support.clarivate.com/ScientificandAcademicResearch/s/article/Journal-Citation-Reports-Reasons-for-not-calculating-Impact-Factors-for-journals-covered-in-Arts-Humanities-Citation-Index?language=en_US) représentées).
 
-    -   [Consulter le Journal Citation Reports]{style="color: purple"} [<https://jcr.clarivate.com/>]{style="color: purple"}[. Dans la colonne de droite, cliquer sur Select Categories. Sélectionner votre domaine, tout en bas de la colonne cliquer sur Submit. Trier par facteur d'impact (Journal Impact Factor). ]{style="color: purple"}
+    -   Consulter le [Journal Citation Reports](https://jcr.clarivate.com/). Dans la colonne de droite, cliquer sur Select Categories. Sélectionner votre domaine, tout en bas de la colonne cliquer sur Submit. Trier par facteur d'impact (*Journal Impact Factor*).
 
--   **[B2 : SCImago]{style="color: purple"}**
+-   **B2 : SCImago**
 
-    -   [La base de données SCImago est construite à partir des données de Scopus et permet de classer et repérer les revues les plus citées.]{style="color: purple"}
+    -   La base de données SCImago est construite à partir des données de Scopus et permet de classer et repérer les revues les plus citées.
 
-    -   [Fonctionne bien si : SCImago a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes).]{style="color: purple"}
+    -   Fonctionne bien si : SCImago a une catégorie de revues pour votre sujet ou votre discipline (par exemple, des catégories multidisciplinaires sont absentes).
 
-    -   [Consulter le SCImago]{style="color: purple"} [<http://www.scimagojr.com/>]{style="color: purple"}[. Cliquer sur Journal ranking (en haut), puis sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories). Puis trier par SJR ou Cites per doc. ]{style="color: purple"}
+    -   Consulter le [SCImago](http://www.scimagojr.com/). Cliquer sur Journal ranking (en haut), puis sélectionner votre domaine et un sous-domaine (dérouler les cases All-subject area et all-subject categories). Puis trier par SJR ou Cites per doc.
 
--   **[B3 : Ulrich's Periodical Directory]{style="color: purple"}**
+-   **B3 : Ulrich's Periodical Directory**
 
-    -   [Lister des revues par domaines et vérifier si vos revues ont un comité de lecture.]{style="color: purple"}
+    -   Lister des revues par domaines et vérifier si vos revues ont un comité de lecture.
 
-    -   [Fonctionne bien si : Ulrich est à jour (parfois les données n'ont pas été actualisées).]{style="color: purple"}
+    -   Fonctionne bien si : Ulrich est à jour (parfois les données n'ont pas été actualisées).
 
-    -   [Consulter Ulrich's Periodical Directory]{style="color: purple"} [<https://www.ulrichsweb.com/>]{style="color: purple"}[. Recherche avancée. Rechercher par Sujet (mot-clé) : Filtrer en ne gardant que les revues "Arbitrées" ou "Refereed /Peer-reviewed". ]{style="color: purple"}
+    -   Consulter [Ulrich's Periodical Directory](https://www.ulrichsweb.com/). Recherche avancée. Rechercher par Sujet (mot-clé) : Filtrer en ne gardant que les revues "Arbitrées" ou "Refereed /Peer-reviewed".
 
--   **[B4 : Listes par des institutions]{style="color: purple"}**
+-   **B4 : Listes par des institutions**
 
-    -   [Dans Oxford Bibliographies, dans des livres, dans des articles de revue, dans des plans de cours, dans des guides en ligne de bibliothèques, etc.]{style="color: purple"}
+    -   Dans Oxford Bibliographies, dans des livres, dans des articles de revue, dans des plans de cours, dans des guides en ligne de bibliothèques, etc.
 
 ### Notes importantes
 
@@ -122,19 +122,18 @@ Ce chapitre est une contribution égale de Valérie Rioux, Cynthia Gagné et Pas
 
     -   Notez que de manière générale, un article révisé par les pairs aura un peu plus de visibilité qu'un chapitre de livre.
 
--   **Libre accès ?** voir p. pour en savoir plus sur le libre accès.
+-   **Libre accès ?** voir @sec-libreacces. pour en savoir plus sur le libre accès.
 
     -   Notez que de manière générale, un article publié en libre accès aura un peu plus de chance d'être lu et donc d'être cité.
 
-    -   Nous vous recommandons d'utiliser Sherpa Romeo <https://v2.sherpa.ac.uk/romeo/> pour vous permettre de vérifier les politiques de libre accès des revues.
+    -   Nous vous recommandons d'utiliser [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) pour vous permettre de vérifier les politiques de libre accès des revues.
 
-    -   N'oubliez pas que pour certaines options de libre accès avec une revue, vous pouvez déposer la version postprint de votre article dans le dépôt institutionnel de votre université (ex: Papyrus <https://papyrus.bib.umontreal.ca/> pour l'UdeM). NB: ResearchGate, Academia et votre site personnel ne sont pas considérés comme valables dans la majorité des options de libre accès.
+    -   N'oubliez pas que pour certaines options de libre accès avec une revue, vous pouvez déposer la version postprint de votre article dans le dépôt institutionnel de votre université (ex: [Papyrus](https://papyrus.bib.umontreal.ca/) pour l'UdeM). NB: ResearchGate, Academia et votre site personnel ne sont pas considérés comme valables dans la majorité des options de libre accès.
 
 -   **Demandez conseil à :**
 
-    -   votre directeur de recherche
+    -   Votre directeur de recherche ;
 
-    -   votre bibliothécaire disciplinaire **BIB+**
+    -   Votre bibliothécaire disciplinaire ;
 
-    -   vos pairs
-
+    -   Vos pairs.

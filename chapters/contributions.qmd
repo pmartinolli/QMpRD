@@ -1,6 +1,6 @@
 # Contributions significatives à ce manuel {#sec-contributions}
 
--   Selon la **taxonomie [CRediT](https://coop-ist.cirad.fr/etre-auteur/reconnaitre-tous-les-contributeurs/3-la-taxonomie-credit-pour-identifier-toutes-les-contributions**. Un petit outil très simple pour générer des blocs de citation CRediT pour attribuer les bons rôles à tous les collaborateurs d'une [étude](https://rollercoaster.shinyapps.io/tenzing/). Il serait aussi possible de lister les contributions selon les rôles.
+-   Selon la **taxonomie [CRediT](https://coop-ist.cirad.fr/etre-auteur/reconnaitre-tous-les-contributeurs/3-la-taxonomie-credit-pour-identifier-toutes-les-contributions)**. Un petit outil très simple pour générer des blocs de citation CRediT pour attribuer les bons rôles à tous les collaborateurs d'une [étude](https://rollercoaster.shinyapps.io/tenzing/). Il serait aussi possible de lister les contributions selon les rôles.
 
 -   Pascal Martinolli
         -   Roles : Conceptualisation (principale), Méthodologie (principale), Visualisation, Rédaction - version originelle, Rédaction - révision et correction.
