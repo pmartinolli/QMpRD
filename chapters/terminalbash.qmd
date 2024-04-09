@@ -1,11 +1,11 @@
 # Utiliser le terminal et le shell Bash {#sec-terminalbash}
 
-### Quoi ?
+## Quoi ?
 
 -   Un **terminal** permet d'écrire des commandes pour lancer des programmes de base pour gérer les fichiers de votre ordinateur.
 -   Le **shell Bash** est le langage de programmation de ces commande, fonctionnant dans tous les systèmes d'exploitation classiques (Windows, Mac, Linux).
 
-### Pourquoi ? Le contenu de ce chapitre a été rédigé selon les principes et bonnes pratiques enseignés dans les ateliers « Débugue tes humanités » de l'UdeM.
+## Pourquoi ? Le contenu de ce chapitre a été rédigé selon les principes et bonnes pratiques enseignés dans les ateliers « Débugue tes humanités » de l'UdeM.
 
 -   Pour avoir plus de contrôle sur ce que l'on peut faire avec les fichiers : les renommer en lot, créer des listes, lancer des sauvegardes des nouveaux fichiers, etc.
 -   Pour gagner du temps de qualité :
@@ -14,12 +14,12 @@
     -   Par exemple : « va dans tous les dossiers et sous-dossiers de tel emplacement, chaque fois que tu trouves un PDF lance un programme de reconnaissance de texte et créer à côté du fichier PDF un fichier texte de même nom contenant le résultat de la reconnaissance de texte. Si il existe déjà un fichier texte de même nom (sous entendu, une reconnaissance de texte à déjà été faite), alors ignore cette opération. Créé-moi au passage une liste de tous les fichiers texte créés ainsi et leurs emplacements. »
 -   Pour faire plein de choses que l'interface graphique classique (boutons, souris, clics) des systèmes d'exploitation ne permet pas de faire habituellement.
 
-### Comment installer un programme BASH qui pilote le terminal ?
+## Comment installer un programme BASH qui pilote le terminal ?
 
 -   Installer [Git BASH](https://gitforwindows.org/), qui est un peu moins complet que le BASH [natif](https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/).
 -   La syntaxe est presque la même pour tous les terminaux BASH et tous les systèmes d'exploitation (Windows, Mac, Linux).
 
-### Comment utiliser le terminal ?
+## Comment utiliser le terminal ?
 
 -   Quelques commandes de base :
     -   `pwd` : nom du chemin du dossier actuel.
@@ -41,14 +41,14 @@
     -   Écrire une séquence de commandes dans un fichier texte qui se termine par `.sh`, par exemple nommé `prog.sh`, puis exécuter ce fichier avec `bash prog.sh`
     -   Autres [commandes](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh).
 
-### ATTENTION : « Avec de grands pouvoirs viennent de grandes responsabilités »
+## ATTENTION : « Avec de grands pouvoirs viennent de grandes responsabilités »
 
 -   Il existe des commandes en lot qui peuvent tout effacer sur votre ordinateur (ou tout renommer ou tout déplacer)
   - Il n'y a pas de message qui vous avertit du danger. 
   - Il n'y a pas de fonction Annuler ou *undo*.
 
-### Pour aller plus loin\...
+## Pour aller plus loin
 
--   Les ateliers « Débugue tes humanités » de l'UdeM : parcours en ligne, séminaires enregistrés, documentation en libre accès <https://debugue.ecrituresnumeriques.ca/>. Remerciements particuliers à Giulia Ferretti et Louis-Olivier Brassard qui m'ont enseigné le BASH.
--   Cours en ligne « Maîtriser le shell Bash » par Fun MOOC <https://www.fun-mooc.fr/fr/cours/maitriser-le-shell-bash/>.
+-   Les ateliers « [Débogue tes humanités](https://debogue.ecrituresnumeriques.ca/) » de l'UdeM : parcours en ligne, séminaires enregistrés, documentation en libre accès. Remerciements particuliers à Giulia Ferretti et Louis-Olivier Brassard qui m'ont enseigné le BASH.
+-   Cours en ligne « [Maîtriser le shell Bash](https://www.fun-mooc.fr/fr/cours/maitriser-le-shell-bash/) » par Fun MOOC.
 

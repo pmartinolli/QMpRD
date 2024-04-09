@@ -277,5 +277,8 @@
   },
   "chapters/llm.qmd": {
     "llm.html": "203570ed"
+  },
+  "chapters/git.qmd": {
+    "git.html": "a83e7a87"
   }
 }

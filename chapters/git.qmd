@@ -1,0 +1,76 @@
+# Git {#sec-git}
+
+## Pourquoi ?
+
+-   Pour archiver des versions successives de documents texte et pouvoir revenir aux versions antérieures.
+-   Pour partager et collaborer sur un projet commun, si on veut.
+-   Pour avoir un site web automatique, si on veut.
+-   Principalement pour le code source informatique mais aussi pour tout projet basé sur des fichiers texte.
+    -   Par exemple : ce manuel est archivé en tant que code source sur [GitHub](https://github.com/pmartinolli/QMpRD) et diffusé sous la forme d'un site web par [GitHub.io](https://pmartinolli.github.io/QMpRD/)
+
+## Comment ?
+
+-   En choisissant un service git Le plus connu est [GitHub](https://github.com/), mais il y a aussi [GitLab](https://about.gitlab.com/) et [FramaGit](https://framagit.org/).
+-   En installant un programme pour exécuter les commandes. [GitHub Desktop](https://desktop.github.com/) par exemple.
+
+### GitHub Desktop
+
+-   Se créer un compte sur GitHub.
+-   Dans GitHub Desktop, aller dans *Sign In* pour reporter les informations du compte et se connecter.
+
+### Créer un dépôt sur GitHub
+
+-   Ouvrir le logiciel GitHub Desktop \> File \> New repository
+    -   Donner un nom et une description.
+    -   Sélectionner le dossier contenant votre projet sur votre ordinateur (*local path*).
+    -   Cocher *Iniatialize with a README*
+    -   *Git ignore : None*
+    -   *License : None* (à moins que vous sachiez quelle licence choisir pour votre projet).
+    -   *Create repository*
+    -   Sur la page suivante : *Publish repository* (option : *Keep this code private*)
+
+### Travailler sur votre projet en local
+
+### Envoyer la mise à jour du projet sur GitHub
+
+1.  Ouvrir le logiciel GitHub Desktop \> Ouvrir le *Current repository* (car il peut y avoir plusieurs projets dans d'autres dépôts)
+2.  Dans la case en bas à gauche, indiquer les modifications faites (on peut mettre encore plus de précision dans Description). Puis cliquer sur *Commit to main*.
+
+-   Il s'agit de l'opération *Commit*, c'est-à-dire que c'est une « étape » dans votre projet. On pourrait dire aussi un « point de sauvegarde » comme dans les jeux vidéos. Cela va permettre de baliser les étapes de progression de votre projet. On peut revenir à chaque étape antérieure. En général, on publie chaque étape (voir l'opération suivante).
+
+3.  Puis cliquer sur *Push origin*.
+
+-   Il s'agit de l'opération *Push*, c'est-à-dire « envoyer en ligne ».
+
+4.  C'est terminé.
+
+-   Votre projet est archivé.
+-   S'il est public, alors d'autres peuvent le lire et suggérer des modifications.
+
+## Optionnel : transformer votre dépôt de code en site web
+
+-   Se connecter à votre compte GitHub en ligne.
+-   Aller dans le repository de votre projet \> Settings
+-   Code & automation \> Pages
+    -   Branch = main
+    -   Folder = /docs
+    -   Save
+
+Il faut donc que vos fichiers html de votre site web se trouvent dans le dossier `/docs`. 
+
+### Quarto
+
+Si vous utilisez [Quarto](https://quarto.org/docs/publishing/github-pages.html) (comme pour ce manuel), c'est une méthode idéale pour publier votre travail facilement. Voici la routine de travail :
+
+- Ouvrir R Studio
+  - Ouvrir le projet Quarto depuis le fichier ` .Rproj`
+  - Travailler sur votre projet.
+  - *Render PDF* d'abord.
+  - *Render HMTL* ensuite.
+- Avec GitHub Desktop :
+  - *commit* 
+  - puis *push*.
+  
+Le site web sera à l'adresse : https://<votreIdentifiantGithub>.github.io/<nomDuDépôt> 
+
+
