@@ -1,8 +1,7 @@
 # Micropublications {#sec-micropublication}
 
-
--   Pourquoi ? 
-   - Pour vous construire progressivement une réputation avec des étapes moins fastidieuses que la soutenance de thèse ou la publication d'articles révisés par les pairs.
+-   Pourquoi ?
+-   Pour vous construire progressivement une réputation avec des étapes moins fastidieuses que la soutenance de thèse ou la publication d'articles révisés par les pairs.
 
 ## Bloguer sur son sujet de recherche
 
@@ -10,15 +9,30 @@
 
 ## Déposer ses travaux étudiants significatifs
 
--   **[Papyrus]{style="color: purple"}**[]{style="color: purple"} [<https://bib.umontreal.ca/papyrus>]{style="color: purple"}[ : dépôt institutionnel de l'Université de Montréal. ]{style="color: purple"}
+-   **Papyrus** <https://bib.umontreal.ca/papyrus>: dépôt institutionnel de l'Université de Montréal.
 
-    -   [Certains département ont un espace « Production étudiante » en parallèle de l'espace de dépôt « Mémoires et thèses » ]{style="color: purple"} [Exemple : <https://papyrus.bib.umontreal.ca/xmlui/handle/1866/2951>]{style="color: purple"}[. ☐ ]{style="color: purple"}
+    -   Certains département ont un espace « Production étudiante » en parallèle de l'espace de dépôt « Mémoires et thèses » Exemple : <https://papyrus.bib.umontreal.ca/xmlui/handle/1866/2951>.
+
+## Publier un *data paper*
+
+-   Un article de données est une publication scientifique revue par les pairs dont le but est de décrire un ou plusieurs jeux de données.
+
+-   **Pourquoi** ? Améliorer votre visibilité, montrer sur quoi vous travaillez, meilleure reproductibilité de votre recherche, possiblement plus de citations, établir l'antériorité de votre découverte, etc.
+
+-   [Comment](https://www.meshs.fr/page/un_data_paper_en_shs_pourquoi_pour_qui_comment) ?
+
+    -   En mettrant en oeuvre les méthodes de la gestion de données de recherche @sec-gdr
+
+    -   En suivant la structure recommandée d'un *data paper*
+
+    -   En choisissant une revue adaptée
+
+    -   Ou. plus modestement, en déposant un ***métadata paper*** (qui ne fait que décrire vos données)
 
 ## Partager vos codes source
 
 -   Idéal pour avoir une adresse URL pérenne, quelles que soient les versions des documents.
 
--   Possibilité d'avoir un historique complet des versions.
+-   Fonction de sauvegarde : Possibilité d'avoir un historique complet des versions.
 
--   **[GitHub]{style="color: purple"}**[]{style="color: purple"} [<https://github.com/>]{style="color: purple"}[ ou ]{style="color: purple"}**[GitLab]{style="color: purple"}** [<https://about.gitlab.com/>]{style="color: purple"}[ : ☐ ]{style="color: purple"}
-
+-   [GitHub](https://github.com/) ou [GitLab](https://about.gitlab.com/) ou [FramaGit](https://framagit.org/)

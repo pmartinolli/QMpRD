@@ -1,7 +1,6 @@
 # Prépublications {#sec-prepublication}
 
-
--   C'est diffuser rapidement et efficacement une version préliminaire mais avancée de ses travaux.
+-   Pour diffuser rapidement et efficacement une version préliminaire mais avancée de ses travaux.
 
     -   Permet des rétroactions rapides, internationales et nombreuses <https://scholarlykitchen.sspnet.org/2022/02/28/guest-post-preprint-feedback-is-here-lets-make-it-constructive-and-fast/>.
 
@@ -23,7 +22,7 @@
 
 -   Déposer son projet de recherche sous la forme d'une *pre-registration* (expliquer ses hypothèses et ses méthodes avant d'entreprendre la recherche) peut rendre la recherche plus robuste et plus fiable.
 
--   Bien discuter de la pertinence de le faire avec son directeur de recherche.
+-   Bien discuter de la pertinence de le faire avec sa directrice ou son directeur de recherche.
 
     -   Comme le titre et les auteurs sont explicites, cela peut contrenir à certaines révisions par les pairs qui demandent une révision en double aveugle stricte.
 
@@ -49,8 +48,6 @@
 
 -   Quelques plateformes :
 
-    -   **[Borealis ]{style="color: purple"}**[(Dataverse) ]{style="color: purple"} [<https://borealisdata.ca/>]{style="color: purple"}[☐ ]{style="color: purple"}
+    -   [OSF](https://osf.io/) : Open Science Framework
 
-    -   **[OSF]{style="color: purple"}**[: Open Science Framework ]{style="color: purple"} [<https://osf.io/>]{style="color: purple"}[ ☐ ]{style="color: purple"}
-
-    -   **[Zenodo]{style="color: purple"}**[]{style="color: purple"} [<https://zenodo.org/>]{style="color: purple"}[ ☐ ]{style="color: purple"}
+    -   [Zenodo](https://zenodo.org/)

@@ -54,7 +54,7 @@
 
 #### Surtout
 
--   En élaborant un outil dédié : un **plan de gestion de données de recherche**[^gestiondonneesrecherche-2] (ou PGD, ou *Data management plan*, *DMP*)
+-   En élaborant un outil dédié : un **plan de gestion de données de recherche** (ou PGD, ou *Data management plan*, *DMP*)
     -   **Confidentiel** : il n'est connu que de vous, de vos collaborateurs, et (souvent) des institutions qui vous soutiennent ou vous financent.
     -   Il devrait être conçu dès le **début** du projet de recherche et il faudrait le mettre à jour **au cours** de la recherche.
     -   Il vous permet de vous poser les **bonnes questions**

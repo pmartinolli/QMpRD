@@ -1,6 +1,6 @@
-# Communication par affiche *(poster session) {#sec-communicationparaffiche}
+# Communication par affiche {#sec-communicationparaffiche}
 
-Ce chapitre a été rédigé grâce à l'atelier « S'afficher? Pourquoi pas! L'ABC de la présentation par affiche » de Christine Dufour (EBSI, UdeM), à *La vulgarisation scientifique par l'affiche* <http://accros.etsmtl.ca/affiche_scientifique/guide.pdf> de Réjane Gélinas et *Affiche scientifique - Carrefour Communication Scientifique* <https://uquebec.libguides.com/carrefour-communication-scientifique/affiche-scientifique/contenu> de Catherine Séguin (UQO).
+Ce chapitre a été rédigé grâce à l'atelier « S'afficher? Pourquoi pas! L'ABC de la présentation par affiche » de Christine Dufour (EBSI, UdeM), à [*La vulgarisation scientifique par l'affiche*](http://accros.etsmtl.ca/affiche_scientifique/guide.pdf) de Réjane Gélinas et [*Affiche scientifique - Carrefour Communication Scientifique*](https://uquebec.libguides.com/carrefour-communication-scientifique/affiche-scientifique/contenu) de Catherine Séguin (UQO).
 
 ### Pourquoi ?
 
@@ -14,7 +14,7 @@ Ce chapitre a été rédigé grâce à l'atelier « S'afficher? Pourquoi pas! L'
 
 -   En un événement (typiquement un colloque/ congrès/ conférence/ journée d'étude), présenter beaucoup de projets et faire communiquer les chercheuses et les chercheurs un-à-un.
 
--   Les *poster-sessions* vont-elle disparaître au profit de communications en ligne plus efficaces ? <https://www.redactionmedicale.fr/2022/04/les-nouveaux-posters-vont-bientot-arriver-un-message-en-quelques-mots>
+-   Les *poster-sessions* vont-elle [disparaître](https://www.redactionmedicale.fr/2022/04/les-nouveaux-posters-vont-bientot-arriver-un-message-en-quelques-mots) au profit de communications en ligne plus efficaces ?
 
 ### Comment ?
 
@@ -58,7 +58,7 @@ Ce chapitre a été rédigé grâce à l'atelier « S'afficher? Pourquoi pas! L'
 
 -   \+ les informations de contact
 
-#### Résumé 
+#### Résumé
 
 -   Discutable, car l'affiche est censée être un résumé.
 
@@ -130,7 +130,7 @@ Ce chapitre a été rédigé grâce à l'atelier « S'afficher? Pourquoi pas! L'
 
     -   dynamique (compréhensible du premier regard, depuis les images jusqu'au texte).
 
--   Choisir une palette de couleurs adaptées <https://www.w3schools.com/Colors/colors_palettes.asp>.
+-   Choisir une [palette](https://www.w3schools.com/Colors/colors_palettes.asp) de couleurs adaptées .
 
     -   Optionnel : s'habiller en accord avec la palette des couleurs.
 
@@ -154,7 +154,7 @@ Ce chapitre a été rédigé grâce à l'atelier « S'afficher? Pourquoi pas! L'
 
     -   Bonne résolution.
 
-    -   Logo UdeM : avez-vous le droit de l'utiliser ? si oui en bas à droite en respectant les consignes <http://www.bcrp.umontreal.ca/guide-normes/> <https://brandpad.io/umontreal.ca/>.
+    -   Logo UdeM : avez-vous le droit de l'utiliser ? si oui en bas à droite en respectant les [consignes](http://www.bcrp.umontreal.ca/guide-normes/ https://brandpad.io/umontreal.ca/).
 
         -   Idem pour les logos des autres institutions pertinentes.
 
@@ -186,20 +186,20 @@ Ce chapitre a été rédigé grâce à l'atelier « S'afficher? Pourquoi pas! L'
 
 ### Logiciels recommandés
 
--   Logiciels libres facile :
+-   Logiciels libres faciles :
 
-    -   LibreOffice Impress <https://fr.libreoffice.org/discover/impress/>.
+    -   LibreOffice [Impress](https://fr.libreoffice.org/discover/impress/).
 
         -   Diapo \> Propriétés de la diapo \> Format: Utilisateur. Largeur = 121 cm, hauteur = 91 cm (ou autre).
 
-    -   ou mieux LibreOffice Draw <https://fr.libreoffice.org/discover/draw/>.
+    -   ou mieux LibreOffice [Draw](https://fr.libreoffice.org/discover/draw/).
 
--   Logiciels libres avancé :
+-   Logiciels libres avancés :
 
-    -   Scribus <https://www.scribus.net/>.
+    -   [Scribus](https://www.scribus.net/).
 
 -   Logiciels pas libres :
 
-    -   Modèle MS PowerPoint .pptx de l'APA <https://convention.apa.org/blog/rethinking-the-science-poster>.
+    -   Modèle MS PowerPoint[.pptx](https://convention.apa.org/blog/rethinking-the-science-poster) de l'APA .
 
     -   MS Publisher.
