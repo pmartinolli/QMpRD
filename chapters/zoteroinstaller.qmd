@@ -39,4 +39,5 @@
 -   [Zotero Preview](https://github.com/dcartertod/zotero-plugins)
 -   Extension [Inciteful](https://github.com/inciteful-xyz/inciteful-zotero-plugin) pour repérer d'autres articles par citations (voir @sec-cartographieinformation).
 -   Si vous voulez travailler avec BibTeX, installez [Better BibTeX](https://retorque.re/zotero-better-bibtex/). Cela vous permet de maintenir un ou plusieurs fichiers `.bib` automatiquement à jour pour vos travaux.
+-   [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate) : traduit les titres et les résumés des références Zotero pour les placer dans deux nouveaux champs. Traduction par défaut par Google (recommandé). On ne peut pas dépasser 10 références à la fois sans clé d'accès.
 -   En cas de problème d'installation, demandez l'aide d'un technicien en soutien informatique (communauté UdeM seulement) : Page des bibliothèque <https://bib.umontreal.ca/> : bulle Clavarder en bas à droite.

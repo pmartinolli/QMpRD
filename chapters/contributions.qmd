@@ -24,7 +24,7 @@
 
 -   Remerciements à mes collègues des Bibliothèques UdeM pour leurs apports et leurs retours d'expérience depuis 2007.
 -   Remerciements à Benjamin Constantineau pour son expertise LaTeX.
--   Remerciement aux étudiantes et étudiants du séminaire PLU6058 qui ont utilisé ce manuel sous ses différentes formes et qui ont contribué à son amélioration depuis 2013. Spécialement à Thiago Cruzeiro Rocha, Samantha Vila, Naziha Sabri et Edgar Schnepp.
+-   Remerciement aux étudiantes et étudiants du séminaire PLU6058 qui ont utilisé ce manuel sous ses différentes formes et qui ont contribué à son amélioration depuis 2013. Spécialement à Thiago Cruzeiro Rocha, Samantha Vila, Naziha Sabri, Edgar Schnepp et Adolphe Yemtim.
 -   Remerciements aux conseillers pédagogiques du Centre de pédagogie universitaire de l'Université de Montréal pour leurs conseils et suggestions.
 -   Voir les sources spécifiques indiquées dans les notes de bas de page.
 -   Voir la Bibliographie voir p. . pour une liste des ressources génériques les plus significatives.
