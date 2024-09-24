@@ -6,11 +6,11 @@
 
 -   **Alerte** (*alert*) : requête automatique envoyant une information ciblée à la personne qui l'a créé pour faire de la veille sur un sujet.
 
--   **Anonymiser** : Traiter des données pour rendre impossible l'identification d'éléments. Plus fort que « dépersonnaliser » (un traitement plus léger). 
+-   **Anonymiser** : Traiter des données pour rendre impossible l'identification d'éléments. Plus fort que « dépersonnaliser » (un traitement plus léger).
 
 -   ***APC*** (*Authors processing charges*) : souvent les revues universitaires demandent des frais de publication. Les revues prédatrices aussi.
 
--   **Archéologie numérique** : techniques et méthodes pour exploiter des formats et des supports désuets (diskettes, etc.). Important pour les données longitudinales sur le très long terme. 
+-   **Archéologie numérique** : techniques et méthodes pour exploiter des formats et des supports désuets (diskettes, etc.). Important pour les données longitudinales sur le très long terme.
 
 -   **Article de données** (*data paper*) : article principalement constitué de données de recherche.
 
@@ -62,7 +62,9 @@
 
 -   **Désherbage** (*weeding*) : terme de bibliothécaire indiquant une élimination régulière et raisonnée d'une collection de livre (principalement pour faire de la place aux nouveaux livres).
 
--   **Document de métadonnées** : Document déposé dans un dépôt institutionnel de données de recherche comme Boréalis et décrivant un jeu de données ainsi que son emplacement ailleurs. 
+-   **Désinformation** (*disinformation*) : Fausse information dont l'intention est de causer de manipuler, causer du tort et induire les gens à prendre de mauvaises décisions. Différent de mésinformation et *malinformation*.
+
+-   **Document de métadonnées** : Document déposé dans un dépôt institutionnel de données de recherche comme Boréalis et décrivant un jeu de données ainsi que son emplacement ailleurs.
 
 -   **Document vivant**, ou document dynamique (*living document*) : document souvent en ligne, en constante modification, selon des règles, par une personne ou une institution ou une communauté. Voir *Record of versions*. Ce manuel est un document vivant.
 
@@ -90,7 +92,7 @@
 
 -   **Identifiant pérenne** (ou identifiant persistant, ou *persistent identifier*, ou PID) : identifiant unique, un code numérique ou alphanumérique utilisé par une institution stable pour définir une entité. Ex: DOI, ORCID, ISBN, ISSN, ROR, etc.
 
--   **Intelligence articifielle** (IA, *artificial intelligence*, *AI*) : raccourci et mot-étiquette pour signaler qu'un programme informatique est gros et puissant\... mais pas intelligent.
+-   **Intelligence articifielle** (IA, *artificial intelligence*, *AI*) : raccourci et mot-étiquette pour signaler qu'un programme informatique est gros et puissant, c'est-à-dire capable d'accomplir des tâches normalement réservées aux humains (reconnaître des formes, apprendre par expérience, tirer des conclusions, faire des prédictions, etc. L'expression est inventée en 1956 par le professeur John McCarthy comme terme promotionnel pour recruter des chercheurs et obtenir des financements, et peut-être pour se distinguer des [études](https://www.sciencehistory.org/stories/magazine/thinking-machines-the-search-for-artificial-intelligence/) [en](https://youtu.be/03p2CADwGF8) [automatisation](https://www.engadget.com/hitting-the-books-how-data-happened-wiggins-jones-ww-norton-143036972.html).
 
 -   **ISBN** : numéro d'identifiant unique de livre (en fait un par édition, donc un livre pourrait avoir plusieurs ISBN). Codé en ISBN-13 ou ISBN-10.
 
@@ -114,15 +116,19 @@
 
 -   **Maison d'édition** (*publisher*) : institution en charge de publier des documents. Son éditeur est le responsable de ce qui est publié.
 
+-   ***Malinformation*** : Qui est issue d'une information vraie mais qui est souvent exagéré ou déformé d'une manière qui trompe ou cause du tort. Différent de désinformation et mésinformation.
+
+-   ***Mapping tool*** : (ou *citation mapping tool*) dit « outil de cartographie ». Permet de repérer, de collecter et d'afficher un ensemble d'articles liés par des citations.
+
 -   **Markdown** : Format (.md) de balisage léger de fichier texte pour les rendre plus lisible (niveaux de titres, listes, liens, notes de bas de pages, etc.).
 
 -   **Marqueur** (*tag*) : voir mot-clé.
 
--   ***Mapping tool*** : (ou *citation mapping tool*) dit « outil de cartographie ». Permet de repérer, de collecter et d'afficher un ensemble d'articles liés par des citations.
-
 -   **Méta analyse** (*meta-analysis*) : Synthèse raisonnée et méthodique de plusieurs études sélectionnées pour répondre à une question de recherche ciblée. Produit un très haut niveau de certitude scientifique sur un sujet.
 
 -   **Metadata paper** : voir Document de métadonnées.
+
+-   **Mésinformation** (*misinformation*) : Fausse information qui n'a pas nécessairement l'intention de causer du tort. Différent de désinformation et *malinformation*.
 
 -   **Moteur (métamoteur) de recherche du web** (*search engine*) : un moteur de recherche qui référence un grand nombre de pages web mondiales. Exemples : Google, Bing, Duckduckgo, etc.
 

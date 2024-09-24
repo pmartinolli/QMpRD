@@ -1,4 +1,4 @@
-#  Zotero pour organiser la documentation {#sec-zoteroorganiser}
+# Zotero pour organiser la documentation {#sec-zoteroorganiser}
 
 -   Si vous avez des centaines ou des milliers de références dans votre bibliothèque Zotero, il faut penser à des manières de les organiser pour les retrouver Ce chapitre est basé sur un billet de blogue <https://zotero.hypotheses.org/3298>. Les 2 principales sont :
 
@@ -18,75 +18,73 @@
 
     -   Les **collections** sont pratiques pour regrouper des documents par utilité (travaux en cours, projets, etc.) ou pour compartimenter sa base de références en grandes catégories (disciplinaires par exemple).
 
-###  Collections
+### Collections
 
 #### Comment ?
 
--   [☐ Création :]{style="color: purple"}
+-   [ ] Création :
 
-    -   [Clic-droit sur Ma Bibliothèque \> Nouvelle collection.]{style="color: purple"}
+    -   Clic-droit sur Ma Bibliothèque \> Nouvelle collection.
 
-        -   [Faire une sous-collection : Clic-droit sur une collection \> Nouvelle sous-collection]{style="color: purple"}
+        -   Faire une sous-collection : Clic-droit sur une collection \> Nouvelle sous-collection
 
-        -   [Recommandation : ne pas créer de niveaux de sous-collections trop profonds.]{style="color: purple"}
+-   [ ] Manipulation :
 
--   [☐ Manipulation : ]{style="color: purple"}
+    -   Déplacer des notices dans les collections en les glissant-déposant.
 
-    -   [Déplacer des notices dans les collections en les glissant-déposant. ]{style="color: purple"}
+        -   Ainsi, des raccourcis (et non des doublons) sont créés.
 
-        -   [Ainsi, des raccourcis (et non des doublons) sont créés.]{style="color: purple"}
+        -   Inverse : clic-droit sur un document \> Retirer le document de la collection. Supprime le raccourci de la notice cette collection uniquement.
 
-        -   [Inverse : clic-droit sur un document \> Retirer le document de la collection. Supprime le raccourci de la notice cette collection uniquement.]{style="color: purple"}
+    -   Afficher toutes les notices dans les sous-collections sélectionnées : Affichage \> Afficher tous les documents des sous-collections.
 
-    -   [Afficher toutes les notices dans les sous-collections sélectionnées : Affichage \> Afficher tous les documents des sous-collections.]{style="color: purple"}
+#### Astuces générales
 
-#### Astuces générales 
+-   Créer **trois grandes collections**(avec les sous-collections suggérées) :
 
--   [Créer ]{style="color: purple"}**[trois grandes collections]{style="color: purple"}**[ (avec les sous-collections suggérées) : ]{style="color: purple"}
+    -   Une **collection `Méthodes`**
 
-    -   [Une ]{style="color: purple"}**[collection ]{style="color: purple"}[`Méthodes`]{style="color: purple"}**[]{style="color: purple"} [J'ai appelé la mienne ]{style="color: purple"}[`ZotLog`]{style="color: purple"}[, pour Zotero + Log (journal de bord de navire). Pour en savoir plus : <https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/> ]{style="color: purple"}[ dont le but est de canaliser le flux des nouvelles notices qui arrivent dans votre bibliothèque Zotero. Sous-collections suggérées : ]{style="color: purple"}
+        -   J'ai appelé la mienne `ZotLog`, pour [Zotero + Log](https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/) (journal de bord de navire). Son but est de canaliser le flux des nouvelles notices qui arrivent dans la bibliothèque Zotero. Sous-collections suggérées :
 
-        -   [Historique de recherche]{style="color: purple"}
+            -   Historique de recherche
 
-        -   [À évaluer]{style="color: purple"}
+            -   À évaluer
 
-        -   [À lire d'urgence]{style="color: purple"}
+            -   À lire d'urgence
 
-        -   [En cours de lecture]{style="color: purple"}
+            -   En cours de lecture
 
-        -   [À twitter]{style="color: purple"}
+            -   À twitter
 
-        -   [Pas intéressant]{style="color: purple"}
+            -   Pas intéressant
 
-    -   [Une ]{style="color: purple"}**[collection thématique ]{style="color: purple"}**[`[``nom du thème``]`]{style="color: purple"}[ dont le but est de garder de manière durable les notices pertinentes pour votre recherche.]{style="color: purple"}
+    -   Une **collection thématique** ``` [``nom du thème``] ```dont le but est de garder de manière durable les notices pertinentes pour votre recherche.
 
-        -   [Sous-collections suggérées : ]{style="color: purple"}[`[``nom du sous-thème 1``]`]{style="color: purple"}[,]{style="color: purple"}[` ``[``nom du sous-thème 2``]`]{style="color: purple"}[,]{style="color: purple"}[` ``[``nom du sous-thème 3``]`]{style="color: purple"}[, etc.]{style="color: purple"}
+        -   Sous-collections suggérées :``` [``nom du sous-thème 1``] ```,``` ``[``nom du sous-thème 2``] ```,``` ``[``nom du sous-thème 3``] ```, etc.
 
-        -   [Éviter trop de niveaux de profondeur.]{style="color: purple"}
+        -   Éviter trop de niveaux de profondeur.
 
-    -   [Une ]{style="color: purple"}**[collection ]{style="color: purple"}[`Projets`]{style="color: purple"}**[` `]{style="color: purple"}[dont le but est de regrouper des notices selon des projets transversaux ou temporaires ou autres. Exemples de sous-collections : ]{style="color: purple"}
+    -   Une **collection `Projets`** dont le but est de regrouper des notices selon des projets transversaux ou temporaires ou autres. Exemples de sous-collections :
 
-        -   [Conférence Machin2022]{style="color: purple"}
+        -   Conférence Machin2025
 
-        -   [Chapitre 7 de ma thèse]{style="color: purple"}
+        -   Chapitre 7 de ma thèse
 
-        -   [Réunion du 2022-04-01]{style="color: purple"}
+        -   Réunion du 2024-04-01
 
-        -   [Billet de blogue sur bidule, etc. ]{style="color: purple"}
+        -   Billet de blogue sur bidule, etc.
 
 #### Pros & Cons des collections
 
 -   Pros : Facile à créer, à comprendre, à alimenter.
 
--   Cons : Pas facile à combiner pour trouver des notices qui seraient dans plusieurs collections à la fois. C'est plus facile avec des marqueurs\...
-
+-   Cons : Pas facile à combiner pour trouver des notices qui seraient dans plusieurs collections à la fois. C'est plus facile avec des marqueurs...
 
 #### Utiliser un thesaurus personnel
 
 Voir @sec-thesaurus
 
-
-#### Indexation des documents de votre bibliothèque de références Zotero \[3h+\]
+#### Indexation des documents de votre bibliothèque de références Zotero
 
 -   Principes généraux :
 
@@ -98,17 +96,17 @@ Voir @sec-thesaurus
 
         -   Si une référence est moyennement ou peu pertinente, il est normal qu'elle ait : peu de marqueurs, voire seulement des marqueurs très génériques.
 
-    -   Si vous avez un système de marqueurs à 2 niveaux (ex: `_sport` \> `_natation`) et si vous voulez indexer un terme spécifique (ex : `_natation`), alors il faut indexer avec les **marqueurs des deux niveaux** pour chaque référence (ex :` _sport` et `_natation`)
+    -   Si vous avez un système de marqueurs à 2 niveaux (ex: `_sport` \> `_natation`) et si vous voulez indexer un terme spécifique (ex : `_natation`), alors il faut indexer avec les **marqueurs des deux niveaux** pour chaque référence (ex :`_sport` et `_natation`)
 
--   [Commencez indexer vos références les plus importantes avec les marqueurs pertinents. \[1h\]]{style="color: purple"}
+-   Commencez indexer vos références les plus importantes avec les marqueurs pertinents.
 
--   [Continuez avec les références moins importantes. \[2h+\] ]{style="color: purple"}
+-   Continuez avec les références moins importantes.
 
--   [Si besoin, on peut exporter toute la liste des marqueurs de votre bibliothèque Zotero dans un fichier externe : Installer l'extension Zutilo, puis aller à la racine de la Bibliothèque Zotero \> Sélectionner toutes les références \> Zutilo \> Copier les marqueurs dans le presse-papier. Ouvrir un logiciel éditeur de texte (comme Notepad++ par exemple) \> Coller. ]{style="color: purple"}
+-   Si besoin, on peut exporter toute la liste des marqueurs de votre bibliothèque Zotero dans un fichier externe : Installer l'extension Zutilo, puis aller à la racine de la Bibliothèque Zotero \> Sélectionner toutes les références \> Zutilo \> Copier les marqueurs dans le presse-papier. Ouvrir un logiciel éditeur de texte (comme Notepad++ par exemple) \> Coller. (Zutilo n'est pas disponible dans la version 7 de Zotero pour le moment).
 
--   Exemples, aide mémoire et fichiers modèles <https://github.com/pmartinolli/TM-MyThesaurus>.
+-   [Exemples, aide mémoire et fichiers modèles](https://github.com/pmartinolli/TM-MyThesaurus).
 
--   Une base de données Zotero utilisant ces principes <https://www.zotero.org/groups/446523>.
+-   Une [base](https://www.zotero.org/groups/446523) de données Zotero utilisant ces principes.
 
 ### Rechercher
 
@@ -126,17 +124,19 @@ Voir @sec-thesaurus
 
 -   Clic-droit sur Ma Bibliothèque \> Nouvelle recherche enregistrée.
 
-    -   [Exemple : ]{style="color: purple"}*[À nettoyer devant la TV ]{style="color: purple"}*[: ]{style="color: purple"}
+    -   Exemple : *À nettoyer devant la TV*:
 
-    -   [Chercher dans la bibliothèque : Ma Bibliothèque]{style="color: purple"}
+    -   Chercher dans la bibliothèque : Ma Bibliothèque
 
-    -   [Correspond : à toutes les conditions suivantes ]{style="color: purple"}
+    -   Correspond : à toutes les conditions suivantes
 
-    -   [Marqueurs : ne contient pas : ]{style="color: purple"}[`_nettoyé`]{style="color: purple"}[.]{style="color: purple"}
+    -   Marqueurs : ne contient pas : `_nettoyé`.
 
-    -   [Cocher Recherche dans les sous-collections et Ne montrer que les documents de niveaux supérieurs. ]{style="color: purple"}
+    -   Cocher Recherche dans les sous-collections et Ne montrer que les documents de niveaux supérieurs.
 
-    -   Astuce : Très utile pour afficher toutes les références non vérifiées. Pourquoi « devant la TV » ? Parce que ce n'est pas une tâche très demandante et il vaut mieux le faire à un moment de la journée où vous avez moins d'attention à consacrer (le soir devant la TV). Les moments de la journée où vous êtes bien réveillé et bien motivé doivent être consacré à des tâches de type lecture, synthèse, etc.
+    -   Astuce : Très utile pour afficher toutes les références non vérifiées.
+
+        -   Pourquoi « devant la TV » ? Parce que ce n'est pas une tâche très demandante et il vaut mieux le faire à un moment de la journée où vous avez moins d'attention à consacrer (le soir devant la TV). Les moments de la journée où vous êtes bien réveillé et bien motivé doivent être consacré à des tâches de type lecture, synthèse, etc.
 
     -   Astuce : ne nettoyez que les références que vous voulez citer dans vos travaux. Ce n'est pas la peine de le faire pour les références de documents que vous ne citez pas (dans mon cas, c'est presque 90% de références non citées).
 
@@ -150,7 +150,7 @@ Voir @sec-thesaurus
 
     -   Plusieurs volumes d'une même série, etc.
 
--   [Onglet Connexe : Ajouter + sélectionner un ou plusieurs documents. ]{style="color: purple"}
+-   Onglet Connexe : Ajouter + sélectionner un ou plusieurs documents.
 
 -   Fragilité de cette structure : si vous exportez votre bibliothèque (en Zotero RDF) ou si vous les versez dans une bibliothèque de groupe, les liens connexes ne seront pas exportés.
 

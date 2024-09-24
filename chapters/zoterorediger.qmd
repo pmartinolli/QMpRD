@@ -8,66 +8,66 @@
 
 -   Pourquoi ? Parce que Zotero va automatiquement générer des références bibliographiques de grande qualité MAIS à la condition que les informations qu'il possède soit complètes, dans les bonnes cases et sans erreur (ponctuation, accents, etc.).
 
--   [Comment ?]{style="color: purple"}
+-   Comment ?
 
-    -   [Il faut vérifier manuellement toutes les références que vous voulez citer.]{style="color: purple"}
+    -   Il faut vérifier manuellement toutes les références que vous voulez citer.
 
-        -   [Ne vérifiez pas TOUTES vos références Zotero. Ce serait une perte de temps inutile. Par exemple, moi je n'ai vérifié que 400-500 références dans ma base de 5000 références.]{style="color: purple"}
+        -   Ne vérifiez pas TOUTES vos références Zotero. Ce serait une perte de temps inutile. Par exemple, moi je n'ai vérifié que 400-500 références dans ma base de 5000 références.
 
-        -   [Souvent, la vérification est très rapide (moins de 30 secondes). Mais parfois, cela peut prendre 5 à 10 minutes d'enquête.]{style="color: purple"}
+        -   Souvent, la vérification est très rapide (moins de 30 secondes). Mais parfois, cela peut prendre 5 à 10 minutes d'enquête.
 
-        -   [Les champs qui posent habituellement problème :]{style="color: purple"}
+        -   Les champs qui posent habituellement problème :
 
-            -   [Type de document]{style="color: purple"}
+            -   Type de document
 
-            -   [Auteur (changez le rôle pour Éditeur si besoin, ou Traducteur. Ignorez les autres rôles)]{style="color: purple"}
+            -   Auteur (changez le rôle pour Éditeur si besoin, ou Traducteur. Ignorez les autres rôles)
 
-            -   [Edition (Gardez seulement le chiffre de l'édition)]{style="color: purple"}
+            -   Edition (Gardez seulement le chiffre de l'édition)
 
-            -   [Titre (Clic-droit pour changer la casse si besoin)]{style="color: purple"}
+            -   Titre (Clic-droit pour changer la casse si besoin)
 
-            -   [Pages (seulement un petit trait d'union - entre les numéros de page).]{style="color: purple"}
+            -   Pages (seulement un petit trait d'union - entre les numéros de page).
 
-    -   [Astuces :]{style="color: purple"}
+    -   Astuces :
 
-        -   [Pour marquer les références qui ont été vérifiées. Ajoutez le marqueur`_nettoyé`(ou`_vérifié`ou`_validé`).]{style="color: purple"}
+        -   Pour marquer les références qui ont été vérifiées. Ajoutez le marqueur `_nettoyé`(ou `_vérifié`ou `_validé`).
 
-        -   [Ne vérifiez pas vos références quand vous êtes en pleine forme (le matin après votre café par exemple). Faites ce travail fastidieux et ennuyeux en regardant votre série préférée ou en écoutant vos podcasts favoris, tard le soir. Sinon ce serait un gaspillage d'énergie.]{style="color: purple"}
+        -   Ne vérifiez pas vos références quand vous êtes en pleine forme (le matin après votre café par exemple). Faites ce travail fastidieux et ennuyeux en regardant votre série préférée ou en écoutant vos podcasts favoris, tard le soir. Sinon ce serait un gaspillage d'énergie.
 
-        -   [Quelques règles pour la saisie ou la correction des informations ](https://hdl.handle.net/1866/33090) (de Nino Gabrielli)
+        -   [Quelques règles pour la saisie ou la correction des informations](https://hdl.handle.net/1866/33090) (de Nino Gabrielli)
 
 ## Bibliographie simple
 
--   [Sélectionner une ou plusieurs références (avec la touche Majuscule ou Ctrl enfoncée).]{style="color: purple"}
+-   Sélectionner une ou plusieurs références (avec la touche Majuscule ou Ctrl enfoncée).
 
--   [Clic-droit \> Créer une bibliographie à partir des documents...]{style="color: purple"}
+-   Clic-droit \> Créer une bibliographie à partir des documents...
 
--   [Sélectionner un style bibliographique.]{style="color: purple"}
+-   Sélectionner un style bibliographique.
 
--   [Choisir Bibliographie + Copier dans le presse-papier + OK.]{style="color: purple"}
+-   Choisir Bibliographie + Copier dans le presse-papier + OK.
 
--   [Dans un traitement de texte, dans un fichier électronique, dans un courriel : faire l'option Coller (Ctrl+V).]{style="color: purple"}
+-   Dans un traitement de texte, dans un fichier électronique, dans un courriel : faire l'option Coller (Ctrl+V).
 
 -   Vous avez produit une bibliographie de texte brute. Si vous voulez la mettre à jour, il faut recommencer. Astuce : créer une collection pour rassembler et sélectionner facilement les références à citer de cette manière la prochaine fois.
 
 ## Références dans le texte et bibliographie finale synchronisée
 
--   [Ouvrir LibreOffice Writer ou MS Word.]{style="color: purple"}
+-   Ouvrir LibreOffice Writer ou MS Word.
 
-    -   [Vérifier que les icônes ou l'onglet Zotero sont bien installés.]{style="color: purple"}
+    -   Vérifier que les icônes ou l'onglet Zotero sont bien installés.
 
--   [Dans le texte, rédiger une citation courte ou une paraphrase puis, à la fin de celle-ci, cliquer sur l'option*Add Citation.*]{style="color: purple"}
+-   Dans le texte, rédiger une citation courte ou une paraphrase puis, à la fin de celle-ci, cliquer sur l'option*Add Citation.*
 
-    -   [La première fois, une fenêtre s'ouvre pour demander le style bibliographique du document.]{style="color: purple"}
+    -   La première fois, une fenêtre s'ouvre pour demander le style bibliographique du document.
 
-    -   [Une fenêtre rouge devrait apparaître. Saisir quelques mots du titre ou de l'auteur de la référence puis sélectionner la référence OU cliquer sur le Z rouge et sélectionner Vue classique pour sélectionner la référence. Taper Entrée pour valider. Une référence abrégée est insérée dans le texte.]{style="color: purple"}
+    -   Une fenêtre rouge devrait apparaître. Saisir quelques mots du titre ou de l'auteur de la référence puis sélectionner la référence OU cliquer sur le Z rouge et sélectionner Vue classique pour sélectionner la référence. Taper Entrée pour valider. Une référence abrégée est insérée dans le texte.
 
-    -   [*Edit citation*: pour ajouter la page dans une citation abrégée.]{style="color: purple"}
+    -   *Edit citation*: pour ajouter la page dans une citation abrégée.
 
--   [À la fin du document, créer une section Bibliographie puis cliquer sur l'option*Add Bibliography*.]{style="color: purple"}
+-   À la fin du document, créer une section Bibliographie puis cliquer sur l'option *Add Bibliography*.
 
-    -   [Une bibliographie est créée à partir de toutes les références ajoutée avec l'option*Add Citation.*]{style="color: purple"}
+    -   Une bibliographie est créée à partir de toutes les références ajoutée avec l'option *Add Citation.*
 
-    -   [*Preferences*: pour changer de style bibliographique.]{style="color: purple"}
+    -   *Preferences*: pour changer de style bibliographique.
 
--   [*Remove links*: ATTENTION, faire cette opération seulement dans une copie de votre fichier de travail. En effet, tous les liens entre votre fichier de traitement de texte et Zotero vont être cassés et tout va devenir du texte brut figé. Il n'est pas possible de faire*Undo*/Annuler.]{style="color: purple"}
+-   *Remove links* : ATTENTION, faire cette opération seulement dans une copie de votre fichier de travail. En effet, tous les liens entre votre fichier de traitement de texte et Zotero vont être cassés et tout va devenir du texte brut figé. Il n'est pas possible de faire *Undo*/Annuler.

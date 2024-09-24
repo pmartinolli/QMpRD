@@ -4,9 +4,11 @@
 
     -   Dans la définition classique et grand public, **citer** (*quotation*) c'est reprendre un extrait des mots exacts d'un auteur.
 
+        -   [« Je pense donc je suis. »]{.underline}
+
     -   Citer veut aussi dire **référencer/sourcer** (*citation*, *reference*), c'est à dire indiquer la source d'une idée, d'un propos, d'une information factuelle, d'un extrait de mots exacts d'un auteur, etc. Quand nous allons parler de citer, c'est ce sens-là qui sera privilégié.
 
-        -   « Je pense donc je suis. »
+        -   « Je pense donc je suis. » [(Descartes, 1637)]{.underline}
 
 ## Pourquoi citer ?
 
@@ -72,7 +74,7 @@
 
     -   «Laisser croire» = pas citer, mal citer, citer incomplètement, citer avec mauvaise foi, citer faussement, etc.
 
--   Autre définition : Plagier, c'est utiliser le travail d'autrui, **sans donner une attribution appropriée** <https://www.plagiarismtoday.com/2023/02/16/the-definition-of-plagiarism/>.
+-   Autre définition : [Plagier](https://www.plagiarismtoday.com/2023/02/16/the-definition-of-plagiarism/), c'est utiliser le travail d'autrui, **sans donner une attribution appropriée**.
 
 -   Exemples :
 
@@ -140,7 +142,7 @@
 
     -   Citer, quel que soient les droits d'auteur du document : du copyright complet au domaine public.
 
-    -   Reconnaître qu'on est influencé constamment par les informations que nous absorbons Vidéo de Viviane de Sci+ *À partir de quand c'est du plagiat ?* <https://youtu.be/91G8UN7UTQ0>.
+    -   Reconnaître qu'on est influencé constamment par les informations que nous absorbons ([Viviane](https://youtu.be/91G8UN7UTQ0) de Sci+ *À partir de quand c'est du plagiat ?*)
 
     -   Diversifier ses sources.
 
@@ -150,7 +152,7 @@
 
     -   Laisser décanter loin des documents originaux :
 
-        -   Dans le contexte d'une création artistique ou conceptuelle ou pratique : si vous voulez créer un travail original, commencez par rédiger le premier brouillon ou le plan sans consulter d'autres sources (consultées dans un second temps) Vidéo de Viviane de Sci+ *À partir de quand c'est du plagiat ?* <https://youtu.be/91G8UN7UTQ0>.
+        -   Dans le contexte d'une création artistique ou conceptuelle ou pratique : si vous voulez créer un travail original, commencez par rédiger le premier brouillon ou le plan sans consulter d'autres sources (consultées dans un second temps).
 
         -   Dans le contexte d'un travail universitaire : laisser du temps puis rédiger votre paraphrase sans consulter le document original. Vérifiez ensuite dans un second temps. Et citez la source!
 
@@ -238,7 +240,7 @@
 
             -   Traduire mot à mot un énoncé d'une autre langue n'est pas de la paraphrase. C'est une citation exacte.
 
-            -   Reprendre les mots exacts d'une source, mais sans mettre de guillemets, est considéré comme du plagiat (même si vous mettez la référence à la source) <https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing>.
+            -   Reprendre les mots [exacts](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing) d'une source, mais sans mettre de guillemets, est considéré comme du plagiat (même si vous mettez la référence à la source).
 
     -   Ou avec une **citation exacte**
 
@@ -300,7 +302,7 @@ Voir @sec-identifierdocument
 
         -   C'est une des bases de la recherche documentaire.
 
-        -   Ne faites pas confiance au document A pour avoir retranscrit fidèlement ou exactement les idées de B À ce sujet, je vous invite à lire l'article « L'histoire de la note de bas de page mortelle » qui parle du manque d'éthique de ne pas aller vérifier la source soi-même et des dizaines de milliers de morts qui peuvent en être la conséquence à <http://www.slate.fr/story/147105/medecine-100-mots-tuer-en-medecine>.
+        -   Ne faites pas confiance au document A pour avoir retranscrit fidèlement ou exactement les idées de B À ce sujet, je vous invite à lire l'article « L'histoire de la note de bas de page mortelle » qui parle du manque d'éthique de ne pas aller vérifier la source soi-même et des dizaines de milliers de morts qui peuvent en être la [conséquence](http://www.slate.fr/story/147105/medecine-100-mots-tuer-en-medecine).
 
     -   « Oui mais, si je ne peux pas \[c'est dans une langue que je ne maîtrise pas, dans un manuscrit unique d'un monastère en haut d'une montagne, gardé par des moines récalcitrants\] »
 
@@ -344,7 +346,8 @@ Voir @sec-identifierdocument
 
 -   *Self-plagiarism, autoplagiarism*
 
-    -   « Vamos à la plagiat ! » Titre d'un chapitre de *Ça tourne mal ! L'histoire méconnue et tumultueuse du cinéma français* de Philippe Lombard, 2019. Édition La Tengo.... Non, ce n'est pas aller en auto à la plage.
+    -   « Vamos à la plagiat ! » [^citer-1]
+    -   Non, l'auto-plagiat ce n'est pas aller en auto à la plage.
 
 -   C'est quand on fait **un travail** et qu'on reçoit **deux récompenses**. Exemples :
 
@@ -359,6 +362,8 @@ Voir @sec-identifierdocument
 -   Notez que pour publier autre chose que des recherches originales ou rendre des travaux universitaires, c'est une pratique tout à fait normale dans plusieurs autres contextes. Par exemple, dans le contexte de l'industrie ou de l'éducation, il est normal de réutiliser des présentations, des exercices, etc.
 
 -   Par défaut, l'auto-plagiat est interdit à l'UdeM ([1er cycle](https://secretariatgeneral.umontreal.ca/public/secretariatgeneral/documents/doc_officiels/reglements/enseignement/ens30_3-reglement-disciplinaire-plagiat-fraude-etudiants-premier-cycle.pdf), [cycle supérieur](https://secretariatgeneral.umontreal.ca/public/secretariatgeneral/documents/doc_officiels/reglements/enseignement/ens30_12-reglement-disciplinaire-plagiat-fraude-etudiants-cycles-superieurs.pdf)). Demandez à votre évaluateur pour des cas spécifiques.
+
+[^citer-1]: Titre d'un chapitre de *Ça tourne mal ! L'histoire méconnue et tumultueuse du cinéma français* de Philippe Lombard, 2019. Édition La Tengo.
 
 ## Fausses citations
 
@@ -378,4 +383,4 @@ Voir @sec-identifierdocument
 
     -   Si votre travail est diffusé, soyez attentif à ce que toutes les parties dont le droit d'auteur ne vous appartient pas n'enfreignent pas les droits d'auteur d'autres personnes ou institutions les détenant : portions de texte, graphiques, schémas, photographies, tableaux, données, etc. Voir @sec-droitdauteur
 
--   [Rappel : Ce manuel est rendu disponible à des fins d'information uniquement et ne constitue d'aucune manière un avis juridique.]{style="red"}
+-   **Rappel : Ce manuel est rendu disponible à des fins d'information uniquement et ne constitue d'aucune manière un avis juridique.**

@@ -5,7 +5,7 @@
 [^cartographieinformation-1]: Ce chapitre a été originellement rédigé en 2022 par une équipe de bibliothécaires de la BLSH de l'UdeM : Émilie Dalpé, Pascal Martinolli, David Patenaude et Mathieu Thomas. Il a été édité et augmenté par Pascal Martinolli, 2024.
 
 -   Depuis quelques années, plusieurs plateformes proposent des services en ligne de repérage et de visualisation de la littérature universitaire. On appelle souvent ces outils des *literature mapping tools* ou encore des *smart literature finders*.
--   Ces plateformes sont principalement basées sur les données de citation en accès libre comme CrossRef, OpenCitation et autres.
+-   Ces plateformes sont principalement basées sur les données de citation en accès libre comme CrossRef, OpenCitation, [OpenAlex](https://openalex.org/) et autres.
 
 ## Pourquoi sont-ils intéressants ?
 
@@ -21,7 +21,7 @@
 
 ## Biais
 
--   Les recherches dans ces outils sont très inégales selon les disciplines, voire même selon les sous-disciplines.
+-   Les recherches dans ces outils sont très inégales selon les disciplines, voire même selon les sous-disciplines. La qualité des résultats dépend des données de citation utilisées par l'outil.
 -   Les documents avec DOI et les documents de langue anglaise sont sur-représentés.
 -   Parfois ces outils ne repèrent pas les documents récents car les données de citation ne sont pas intégrées régulièrement.
 -   Il y a globalement peu de transparence dans les algorithmes de recommandation des articles (« *similar articles* » , etc.) donc peu de reproductibilité et peu de prédictibilité des résultats. Autre manque de transparence : il faut chercher un peu pour connaître la composition du corpus documentaire de ces outils.
@@ -30,7 +30,12 @@
 
 ## Suggestions d'outils
 
-Il existe une grande variété d’outils offrant parfois des fonctionnalités très différentes et originales.
+-   Il existe une grande variété d’outils offrant parfois des fonctionnalités très différentes et originales.
+
+-   Leur principe d'utilisation est le suivant :
+
+    -   Soumettre un ou plusieurs articles
+    -   Ensuite ces outils vont proposer d'autres articles les citant (en aval) ou ayant été cité par ces articles (en amont).
 
 ### [Litmaps](https://www.litmaps.com/)
 
@@ -39,12 +44,12 @@ Il existe une grande variété d’outils offrant parfois des fonctionnalités t
 -   Nécessite de se créer un compte (gratuit en février 2023). Litmaps Free permet d’entrer 20 “input articles”. Litmaps Pro (10\$/mois) donne accès à un nombre illimité de recherches.
 -   Basé sur les graphes de citations de: OpenAlex, Crossref and Semantic Scholar Academic Graph. Seulement les éléments avec des DOI.
 -   Une séquence d’utilisation typique :
-  -   Créer un nouvel espace de travail (Workspace) puis une nouvelle carte (Map). Débuter la nouvelle carte avec un article ou un ensemble d’articles.
-  -   Litmaps créé une nouvelle carte avec des suggestions.
-      -   Décocher les articles non-pertinents pour les faire disparaître de la carte (à partir du menu-liste en bas à droite, cocher x).
-      -   Cliquer sur l’onglet Explore et ajouter de nouveaux articles (à partir du menu-liste en bas à droite, cocher +).
-      -   Alterner entre les onglets Map et Explore pour améliorer votre sélection.
-  -   Lorsque satisfait, exporter votre sélection au format BibTeX vers votre logiciel bibliographique.
+-   Créer un nouvel espace de travail (Workspace) puis une nouvelle carte (Map). Débuter la nouvelle carte avec un article ou un ensemble d’articles.
+-   Litmaps créé une nouvelle carte avec des suggestions.
+    -   Décocher les articles non-pertinents pour les faire disparaître de la carte (à partir du menu-liste en bas à droite, cocher x).
+    -   Cliquer sur l’onglet Explore et ajouter de nouveaux articles (à partir du menu-liste en bas à droite, cocher +).
+    -   Alterner entre les onglets Map et Explore pour améliorer votre sélection.
+-   Lorsque satisfait, exporter votre sélection au format BibTeX vers votre logiciel bibliographique.
 
 ### [Inciteful.xyz](https://inciteful.xyz/)
 
@@ -54,8 +59,8 @@ Il existe une grande variété d’outils offrant parfois des fonctionnalités t
 -   À partir d’un article ou d’un ensemble d’articles, permet de repérer des références qui citent les mêmes sources (*Similar Papers*) et de repérer des références très citées ou incontournables (*Most Important Papers in the Graph*) ou la distance entre deux articles (et le chemin).
 -   Les *similar papers* tendent à être plus récents, les most important papers tendent à être plus anciens.
 -   Fonctionne de deux manières:
-  -   On recherche un article de départ (*seed paper*) pour se construire un réseau de références, histoire de trouver la littérature la plus pertinente;
-  -   On sélectionne deux articles pour voir comment la littérature les connecte.
+-   On recherche un article de départ (*seed paper*) pour se construire un réseau de références, histoire de trouver la littérature la plus pertinente;
+-   On sélectionne deux articles pour voir comment la littérature les connecte.
 -   Basé sur les graphes de citations de : OpenAlex, Crossref, OpenCitations, Semantic Scholar Academic Graph.
 
 ### [CitationTree](https://www.citationtree.org/)
@@ -70,11 +75,11 @@ Il existe une grande variété d’outils offrant parfois des fonctionnalités t
 -   Se créer un compte.
 -   Créer une nouvelle collection de référence avec *New Collection.*
 -   Ajouter un ou plusieurs articles dans cette collection avec *Add Papers*. Possibilité d'ajouter des documents en lot au format BibTeX ou RIS.
--   Augmenter la collection avec les options : 
-  - *Similar papers* (bof), 
-  - *All references* (ce qui a été cité en bibliographie des documents de la collection : pas mal), 
-  - *All Citations* (les documents qui ont cité les documents de la collection : pas mal), 
-  - *These Authors* (les autres publications des auteurs des documents de la collection : pas mal).
+-   Augmenter la collection avec les options :
+-   *Similar papers* (bof),
+-   *All references* (ce qui a été cité en bibliographie des documents de la collection : pas mal),
+-   *All Citations* (les documents qui ont cité les documents de la collection : pas mal),
+-   *These Authors* (les autres publications des auteurs des documents de la collection : pas mal).
 -   Recommencer encore et encore. Des vues graphiques en réseau sont utilisables.
 -   Synchronisable avec Zotero.
 
@@ -87,7 +92,7 @@ Il existe une grande variété d’outils offrant parfois des fonctionnalités t
 
 ### [VOS Viewer](https://www.vosviewer.com/)
 
-- À installer. Paramétrage complexe. Fonctionnalités en développement constant.
+-   À installer. Paramétrage complexe. Fonctionnalités en développement constant.
 
 ### [ZoteroRnalysis](https://github.com/pmartinolli/ZoteroRnalysis)
 
@@ -95,4 +100,3 @@ Il existe une grande variété d’outils offrant parfois des fonctionnalités t
 -   Pour bien fonctionner, il faut que votre bibliothèque de références soit bien indexée, qu’elle ait une certaine cohérence et qu’elle ait un certain volume (plusieurs centaines de références sur un sujet).
 -   Il existe une fonctionnalité supplémentaire qui utilise le logiciel OpenRefine pour aller enrichir des données à partir de données existantes dans Wikidata. À partir d’une série d’institutions, il est par exemple possible d’aller chercher le pays de celles-ci dans un processus qui s’appelle “la réconciliation de données”. Pour le moment, ce processus n’est pas expliqué dans le code.
 -   [ZoteroJSnalysis](https://observablehq.com/@pascaliensis/zoterojsnalysis) : Une version plus facile d’utilisation est disponible en javascript sur la plateforme ObservableHQ. Sans rien installer, un utilisateur peut s’y créer un compte, dupliquer le code et y verser sa bibliothèque (à la vue de tous avec un compte gratuit).
-

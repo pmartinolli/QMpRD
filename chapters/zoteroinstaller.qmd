@@ -16,28 +16,13 @@
     -   Vérifier que l'onglet dans MS Word ou la barre d'icônes LibreOffice Writer s'est bien installé
 -   Installer le **connecteur** pour votre navigateur favori.
 -   Se créer un compte en ligne et le synchroniser avec son Zotero
-    -   Important : pour bénéficier des **300 Mo gratuits**, il faut ne pas dépasser ce quota en décochant les 2 cases sous Édition \> Préférences \> Synchronisation \> Synchronisation des fichiers : décocher les 2 lignes « Synchroniser les fichiers joints... ».
+    -   Important : pour bénéficier des **300 Mo gratuits**, il faut ne pas dépasser ce quota en décochant les 2 cases sous Édition \> Paramètres \> Synchronisation \> Synchronisation des fichiers : décocher les 2 lignes « Synchroniser les fichiers joints... ».
 
 ### Paramétrages de base :
 
--   Édition \> Préférences \> Générales : décocher Faire une capture automatique...
--   Édition \> Préférences \> Citer \> Styles : Obtenir d'autres styles. Utilisez le filtre Title Search pour repérer un ou plusieurs de ces styles utilisés à l'UdeM :
+-   Édition \> Paramètres \> Générales : décocher Faire une capture automatique...
+-   Édition \> Paramètres \> Citer \> Styles : Obtenir d'autres styles. Utilisez le filtre Title Search pour repérer un ou plusieurs de ces styles utilisés à l'UdeM :
     -   *Université de Montréal - APA (Français - Canada)*
-    -   *Vancouver (Français - Canada)*
-    -   *Chicago Manual of Style 17th edition (full note, Français)*
+    -   *Chicago Manual of Style 17th edition (full note, Français)* : pour les notes de bas de page
     -   *Chicago Manual of Style 17th edition (author-date, Français)*
-    -   *Guide des références pour la rédaction juridique 7e édition*(Guide Lluelles, Français - Canada)
-    -   *Manuel canadien de la référence juridique 9e édition*(Guide McGill, Français - Canada)
--   Édition \> Préférences \> Avancées : Fichiers et dossiers : Emplacement du répertoire de données : Personnalisé. Créer un sous-dossier`/MaBaseZotero`dans votre dossier maître nommé`/MaRecherche`.
--   Édition \> Préférences \> Avancées : Générales : OpenURL. Résolveur de liens : https://libkey.io/libraries/2401/pdfexpress/openurl
-
-### Extensions recommandées (pour la version 6)
-
--   Pour installer chacune des extensions ci-dessous : repérer et télécharger les fichiers XPI . Puis Zotero \> Outils \> Extensions \> Tools... \> Install add-on from file... : choisir le fichier XPI. Recommencer pour les autres.
--   [Zutilo](https://github.com/wshanks/Zutilo/releases)
-    -   Paramètres de Zutilo recommandés (Options \> Préférences de Zutilo : Menu contextuel de Zutilo) : Copier les marqueurs, Coller les marqueurs, Associer les documents, Créer une notice Chapitre de livre.
--   [Zotero Preview](https://github.com/dcartertod/zotero-plugins)
--   Extension [Inciteful](https://github.com/inciteful-xyz/inciteful-zotero-plugin) pour repérer d'autres articles par citations (voir @sec-cartographieinformation).
--   Si vous voulez travailler avec BibTeX, installez [Better BibTeX](https://retorque.re/zotero-better-bibtex/). Cela vous permet de maintenir un ou plusieurs fichiers `.bib` automatiquement à jour pour vos travaux.
--   [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate) : traduit les titres et les résumés des références Zotero pour les placer dans deux nouveaux champs. Traduction par défaut par Google (recommandé). On ne peut pas dépasser 10 références à la fois sans clé d'accès.
--   En cas de problème d'installation, demandez l'aide d'un technicien en soutien informatique (communauté UdeM seulement) : Page des bibliothèque <https://bib.umontreal.ca/> : bulle Clavarder en bas à droite.
+-   Édition \> Paramètres \> Avancées : Fichiers et dossiers : Emplacement du répertoire de données : Personnalisé. Créer un sous-dossier`/MaBaseZotero`dans votre dossier maître nommé`/MaRecherche`.

@@ -8,11 +8,14 @@ Ce chapitre est basé sur un atelier conçu par Thien Sa Hoang et Pascal Martino
 -   Après sa publication
     -   par une revue à comité de lecture ou par un dépôt de prépublication
     -   et après le jugement des éditeurs de la revue ou du dépôt.
--   En raison d'une cause majeure de dysfonctionnement :
+-   En raison d'une ou plusieures causes majeures de dysfonctionnement :
     -   Données erronées, fabriquées, etc.
     -   Erreurs honnêtes dans les données ou leur traitement.
     -   Plagiat, duplication d'études, etc.
-    -   Révision frauduleuse, conflits d'intérêts non-déclarés, etc. ...
+    -   Révision frauduleuse, conflits d'intérêts non-déclarés, manquements éthiques, etc. ...
+- C'est un [mécanisme important](https://library.hkust.edu.hk/sc/understanding-retraction/) pour maintenir l'intégrité, l'exactitude et la crédibilité de la publication scientifique. 
+    - Cela permet de corriger des erreurs ou des méconduites et éviter la propagation d'informations erronnées et/ou frauduleuses. 
+    - Bien que négativement perçue, cela permet aux auteurs de prendre leurs responsabilités pour leurs travaux et maintenir leur crédibilité. 
 
 #### Quelques faits : 
 

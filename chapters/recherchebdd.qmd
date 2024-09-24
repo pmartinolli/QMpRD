@@ -38,11 +38,11 @@
 
 ## Moteurs de recherche académiques
 
--   Par exemple Google Scholar ou BASE search.
--   Outils généralistes mais plutôt exploratoires et complémentaires aux base de données bibliographiques traditionnelles <https://doi.org/10.18167/coopist/0068>.
+-   Par exemple [Google Scholar](https://scholar.google.com/) ou [BASE Search](https://www.base-search.net/) ou [Matilda](https://matilda.science/).
+-   Outils généralistes mais plutôt [exploratoires et complémentaires](https://doi.org/10.18167/coopist/0068) aux base de données bibliographiques traditionnelles.
 -   Sélection variable et peu transparente des contenus.
 -   Traitements avancés des contenus pour un meilleure expérience utilisateur (visualisation, indexation texte intégral, recommandations, etc.).
--   Les outils de cartographies de l'information peuvent être classés dans cette catégorie Voir p. .
+-   Les outils de cartographies de l'information peuvent être classés dans cette catégorie @sec-cartographieinformation.
 
 ## Notion de plateforme
 
@@ -110,13 +110,7 @@
     -   Scite
     -   Scinapse
 
-## Outils de cartographie de l'information
+### Outils de cartographie de l'information
 
 -   Les outils de type *mapping tool* permettent d'automatiser une partie des opérations de découverte et de collecte des articles cités les uns par les autres. Ce sont des outils récents (années 2020s) qui s'appuient sur des données ouvertes de citation.
-    -   Repérer des documents qui peuvent nous avoir échappé ;
-    -   Valider que nous avons déjà repérer l'essentiel de la littérature ;
-    -   Visualisant le graphe de citation de la littérature citée et donc en nous aider à mieux évaluer l'information.
--   Leur principe d'utilisation est :
-    -   Soumettez un ou plusieurs articles et ces outils vont vous proposer d'autres articles les citant (en aval) ou ayant été cité par ces articles (en amont).
-    -   Certaines disciplines sont mieux représentées que d'autres.
-    -   La qualité des résultats dépend des données de citation utilisées par l'outil.
+-   Voir @sec-cartographieinformation

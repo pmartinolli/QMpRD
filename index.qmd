@@ -1,5 +1,3 @@
-<!-- version 4.10 -->
-
 ### Version PDF {.unnumbered}
 
 - Télécharger tout le [manuel en PDF](https://pmartinolli.github.io/QMpRD/Manuel-pratique-de-recherche-documentaire.pdf).
