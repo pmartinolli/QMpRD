@@ -1,6 +1,6 @@
 # Bloguer sur votre sujet de recherche {#sec-bloguersarecherche}
 
-Une partie de ce chapitre est issue de séries d'ateliers donnés pour l'Université de Montréal depuis 2016 <https://github.com/pmartinolli/TM-incubablog>, pour l'ACFAS depuis 2018 <https://www.acfas.ca/activites> avec Akhésa Moummi (EHESS) <https://laicites.hypotheses.org/>, et pour le *Vulgarisathon de l'ACFAS* avec Catherine Forget (ETS) en 2021.
+Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/pmartinolli/TM-incubablog) donnés pour l'Université de Montréal depuis 2016, pour l'[ACFAS](https://www.acfas.ca/activites) depuis 2018 avec [Akhésa Moummi](https://laicites.hypotheses.org/) (EHESS), et pour le *Vulgarisathon de l'ACFAS* avec Catherine Forget (ETS) en 2021.
 
 ### Pourquoi ?
 

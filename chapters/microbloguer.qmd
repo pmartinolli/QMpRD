@@ -4,7 +4,7 @@ Note : Depuis 2023, les changements de Twitter/X rendent obsolètes une partie d
 
 -   Pourquoi ?
 
-    -   Pour **veiller** sur mes sujets et ma discipline (voir @sec-alertes)
+    -   Pour [**veiller**](#sec-alertes) sur mes sujets et ma discipline
 
     -   Pour **relayer** et/ou commenter des informations de qualité et participer à une conversation scientifique (outre les conférences, les articles, etc.).
 

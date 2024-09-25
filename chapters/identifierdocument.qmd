@@ -23,17 +23,27 @@
     -   Les **parties de document** (chapitres de livre, articles dans un acte de congrès, pages web d'un site, articles d'encyclopédie, etc.).
     -   Les **articles de périodique** (articles de revue, de magazine, de quotidien, bulletins, séries statistiques, etc.).
 
-    | Informations importantes | Monographie | Partie de document | Article de périodique |
-    |:------------------------:|:-----------:|:------------------:|:---------------------:|
-    |      Titre complet       |  Toujours   |      Toujours      |       Toujours        |
-    |        Auteur(s)         |  Toujours   |      Toujours      |       Toujours        |
-    |   Date de publication    |  Toujours   |      Toujours      |       Toujours        |
-    |         Éditeurs         |   Souvent   |      Souvent       |          Non          |
-    |     Maison d'édition     |  Toujours   |      Toujours      |          Non          |
-    |        Contenant         |     Non     |      Toujours      |       Toujours        |
-    |          Numéro          |  Rarement   |      Rarement      |        Souvent        |
-    |          Volume          |   Parfois   |      Parfois       |        Souvent        |
-    |     Numéro d'édition     |   Souvent   |      Souvent       |          Non          |
+    +--------------------------+---------------+--------------------+-----------------------+
+    | Informations importantes | Monographie   | Partie de document | Article de périodique |
+    +:========================:+:=============:+:==================:+:=====================:+
+    | Titre complet            | Toujours      | Toujours           | Toujours              |
+    +--------------------------+---------------+--------------------+-----------------------+
+    | Auteur(s)                | Toujours      | Toujours           | Toujours              |
+    +--------------------------+---------------+--------------------+-----------------------+
+    | Date de publication      | Toujours      | Toujours           | Toujours              |
+    +--------------------------+---------------+--------------------+-----------------------+
+    | Éditeurs                 | Souvent       | Souvent            | Non                   |
+    +--------------------------+---------------+--------------------+-----------------------+
+    | Maison d'édition         | Toujours      | Toujours           | Non                   |
+    +--------------------------+---------------+--------------------+-----------------------+
+    | Contenant                | Non           | Toujours           | Toujours              |
+    +--------------------------+---------------+--------------------+-----------------------+
+    | Numéro                   | Rarement      | Rarement           | Souvent               |
+    +--------------------------+---------------+--------------------+-----------------------+
+    | Volume                   | Parfois       | Parfois            | Souvent               |
+    +--------------------------+---------------+--------------------+-----------------------+
+    | Numéro d'édition         | Souvent       | Souvent            | Non                   |
+    +--------------------------+---------------+--------------------+-----------------------+
 
 -   Les auteurs et les éditeurs doivent être mentionnés dans l'ordre dans lequel ils apparaissent dans le document.
 
@@ -43,7 +53,7 @@
 
 ### Styles bibliographiques
 
--   Il existe trois grandes familles de styles bibliographiques (voir @sex-citer) :
+-   Il existe trois grandes familles de [styles](#sec-citer) bibliographiques :
     -   Les styles (auteur, date)
     -   Les styles notes de bas de page
     -   Les styles numérotés.
@@ -63,7 +73,7 @@
     -   C'est le titre le plus spécifique (voir ci-dessous).
     -   Parfois (mais pas toujours) avec une mise en forme différente (entre guillemets, etc.)
 
-### Éléments distinctifs 
+### Éléments distinctifs
 
 -   Titre du contenant :
     -   S'il existe, c'est le **second groupe de mots** qui ressemble à un titre.
@@ -76,26 +86,26 @@
 +-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
 | Types de document     | Auteur, date, titre | Contenant          | Éditeurs                    | Autres                           |
 +=======================+=====================+====================+=============================+==================================+
-| Livre                 | Oui                 | Non                | Si livre édité              | Maison d'édition \               |
+| Livre                 | Oui                 | Non                | Si livre édité              | Maison d'édition\                |
 |                       |                     |                    |                             | (parfois : lieu de publication)\ |
 |                       |                     |                    |                             | (parfois : nom de la collection) |
 +-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
-| Site web au complet   | Oui                 | Non                | Non                         | URL \                            |
+| Site web au complet   | Oui                 | Non                | Non                         | URL\                             |
 |                       |                     |                    |                             | (parfois : date de consultation) |
 +-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
-| Rapport               | Oui                 | Parfois (si série) | Non                         | Numéro \                         |
+| Rapport               | Oui                 | Parfois (si série) | Non                         | Numéro\                          |
 |                       |                     |                    |                             | Nom de l'institution             |
 +-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
 | Thèse                 | Oui                 | Non                | Parfois (dir. de recherche) | Université                       |
 +-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
 | Chapitre de livre     | Oui                 | Titre du livre     | Oui                         | Intervalle de pages\             |
-|                       |                     |                    |                             | Maison d'édition \               |
+|                       |                     |                    |                             | Maison d'édition\                |
 |                       |                     |                    |                             | (parfois : lieu de publication)  |
 +-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
-| Article de périodique | Oui                 | Nom du périodique  | Non                         | numéro et/ou volume \            |
+| Article de périodique | Oui                 | Nom du périodique  | Non                         | numéro et/ou volume\             |
 |                       |                     |                    |                             | (parfois : intervalle de pages)  |
 +-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
-| Page d'un site web    | Oui                 | Nom du site web    | Non                         | URL \                            |
+| Page d'un site web    | Oui                 | Nom du site web    | Non                         | URL\                             |
 |                       |                     |                    |                             | (parfois : date de consultation) |
 +-----------------------+---------------------+--------------------+-----------------------------+----------------------------------+
 

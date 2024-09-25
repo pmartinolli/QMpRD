@@ -30,4 +30,4 @@
 
 -   Notez qu'il est généralement recommandé de :
     -   Citer l'**article ou l'entrée** d'une encyclopédie (avec son auteur) plutôt que l'encyclopédie dans son ensemble.
-    -   **Ne pas citer un article Wikipédia** (voir @sec-wikipourlarecherche). Si vous devez le faire, il est recommandé de citer la page à un moment donné car le contenu change constamment. Pour cela aller dans l'onglet Historique et cliquez sur la dernière version. Cela devrait générer un lien qui ressemble à ce modèle <https://fr.wikipedia.org/w/index.php?title=Bushido&oldid=184618350>.
+    -   **Ne pas citer un article [Wikipédia](#sec-wikipourlarecherche)**. Si vous devez le faire, il est recommandé de citer la page à un moment donné car le contenu change constamment. Pour cela aller dans l'onglet Historique et cliquez sur la dernière version. Cela devrait générer un lien qui ressemble à ce modèle <https://fr.wikipedia.org/w/index.php?title=Bushido&oldid=184618350>.

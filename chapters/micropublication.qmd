@@ -5,7 +5,7 @@
 
 ## Bloguer sur son sujet de recherche
 
--   Pourquoi et comment ? Voir @sec-bloguersarecherche
+-   [Pourquoi et comment](#sec-bloguersarecherche) ?  
 
 ## Déposer ses travaux étudiants significatifs
 
@@ -21,7 +21,7 @@
 
 -   [Comment](https://www.meshs.fr/page/un_data_paper_en_shs_pourquoi_pour_qui_comment) ?
 
-    -   En mettrant en oeuvre les méthodes de la gestion de données de recherche @sec-gdr
+    -   En mettrant en oeuvre les méthodes de la [gestion de données de recherche](#sec-gdr)
 
     -   En suivant la structure recommandée d'un *data paper*
 

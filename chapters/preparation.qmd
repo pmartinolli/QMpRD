@@ -4,11 +4,11 @@
 
 ### Avoir des stratégies de sauvegarde durable
 
-- Pour ne pas perdre tout votre travail. Voir @sec-sauvegardedurable
+- Pour ne pas perdre tout votre [travail](#sec-sauvegardedurable).
 
 ### Maintenir un cahier de recherche
 
-- Pour documenter tout votre parcours de recherche. Il peut être en papier ou en électronique. Voir @sec-cahierrecherche
+- Pour [documenter](#sec-cahierrecherche) tout votre parcours de recherche. Il peut être en papier ou en électronique. 
 
 ## Installations logicielles
 
@@ -22,7 +22,7 @@
     -   **Firefox** pour votre recherche
     -   **Chrome** pour le reste : vie privée, loisirs, achats, etc. ?
 -   Extensions recommandées :
-    -   Connecteur Zotero (voir @sec-zoteroinstaller)
+    -   [Connecteur](#sec-zoteroinstaller) Zotero 
     -   [PrintFriendly & PDF](https://www.printfriendly.com/) pour faire des PDF à partir de pages web.
     -   [Internet Archives](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) pour vérifier si une page disparue y est archivée, ou pour y créer une archive.
     -   [PubPeer](https://pubpeer.com/) pour repérer les critiques et les commentaires post-publication, principalement sur des articles scientifiques.
@@ -36,13 +36,13 @@
 -   Suggestions :
     -   Pour Windows : installer le logiciel libre [*Notepad++*](https://notepad-plus-plus.org/)
     -   Pour Windows, Mac, Linux : [VSCodium](https://vscodium.com/)
-    -   S'autoformer aux formats et aux manipulations de fichiers à @sec-formats
-    -   S'autoformer à Markdown, un langage de balisage léger @sec-markdown (en passant, Markdown est le langage utilisé pour rédiger ce manuel)
+    -   S'autoformer aux [formats](#sec-formats) et aux manipulations de fichiers
+    -   S'autoformer à [Markdown](#sec-markdown), un langage de balisage léger (en passant, Markdown est le langage utilisé pour rédiger ce manuel)
 
 ### Avoir un logiciel de prise de notes liées
 
 -   Pour prendre des notes centrées sur les idées et les concepts, plutôt que des notes centrées sur les documents (ce qui est plutôt le point fort de Zotero).
--   Suggestion : Obsidian.md @sec-obsidian
+-   Suggestion : [Obsidian.md](#sec-obsidian) 
 
 ## Paramétrages logiciels
 
@@ -56,4 +56,4 @@
 
 ### Paramétrer OneDrive UdeM
 
-- Pour avoir un infonuage de 1 TB. Voir @sec-sauvegardedurable
+- Pour avoir un [infonuage](#sec-sauvegardedurable) de 1 TB. 

@@ -114,9 +114,9 @@ Le contenu de ce chapitre est adapté partiellement des formations sur la veille
 -   Plusieurs outils :
     -   Par courriel.
 
-    -   Avec un billet de votre blogue de recherche (voir @sec-bloguersarecherche).
+    -   Avec un billet de votre [blogue de recherche](#sec-bloguersarecherche).
 
-    -   Avec Mastodon/ BlueSky/ XTwitter : avec un compte ou un #hashtag dédié (voir @sec-microbloguer).
+    -   Avec Mastodon/ BlueSky/ XTwitter : avec un [compte](#sec-microbloguer) ou un #hashtag dédié.
 
     -   Par messagerie interne à votre institution (exemple : un canal Teams).
 

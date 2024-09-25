@@ -68,7 +68,7 @@
 
 -   Ma préférence : dans les **résultats de recherche** des requêtes que vous avez déjà lancé.
     -   Principalement, dans les champs Titre, Résumé et Mots-clés (ou Sujets).
-    -   Dans les thésaurus de certaines bases de données (les mots des champs Sujets sont souvent issus d'un thésaurus (voir @sec-thesaurus). Notez qu'un des objectifs d'un thésaurus est de soutenir, voire de remplacer, le travail sur les synonymes puisque celui-ci est fait par la base de données. Ce travail est plus ou moins bien fait selon la base de données.
+    -   Dans les [thésaurus](#sec-thesaurus) de certaines bases de données (les mots des champs Sujets sont souvent issus d'un thésaurus. Notez qu'un des objectifs d'un thésaurus est de soutenir, voire de remplacer, le travail sur les synonymes puisque celui-ci est fait par la base de données. Ce travail est plus ou moins bien fait selon la base de données.
 -   Dans des **dictionnaires** de synonymes ou de langue, ou des **thésaurus** documentaires.
 -   Dans les **bibliographies** et les **tables des matières** de documents pertinents.
 -   En lançant des commandes dans des **modèles de langue** (*LLM*) comme ChatGPT.
@@ -80,7 +80,7 @@
 
 ## Combiner les mots avec des opérateurs logiques
 
-- Voir @sec-operateurs
+- [Voir](#sec-operateurs) 
 
 ## Rédiger le tout dans une équation de recherche
 
@@ -106,7 +106,7 @@
 -   À l'opposé, d'autres outils ont un moteur de recherche extrêmement sommaire.
 -   Il va falloir adapter ses requêtes en fonction du type de moteur de recherche.
     -   Exemple : peut-on utiliser des troncatures dans des guillemets ? Il est tentant de lancer une recherche avec ``` jeu``*`` de société ``` mais toutes les bases de données ne sont pas capable d'interpréter correctement cette syntaxe. Si cela ne fonctionne pas, il faut lancer la recherche avec `jeu de société OR jeu de société` ou bien plus simplement `(jeu OR jeux) société`
--   Particularités de chaque type d'outils : voir @sec-recherchebdd
+-   Particularités de chaque [type d'outils](#sec-recherchebdd).
 
 ## Essai-erreur
 
@@ -179,8 +179,7 @@
 
 - Si la base de données possède un thésaurus, il peut être intéressant de consulter et utiliser celui-ci pour faciliter le travail sur les synonymes. 
    - En effet, du personnel qualifié ajoute manuellement des mots-clés issus d'une **liste contrôlée** de mots-clés sur chacun des enregistrements de la base de données. 
-   - Repérer le(s) bons mots-clés dans le thésaurus permet de limiter le travail de collecte de synonymes puisqu'on a identifier le(s) mots pertinents pour un concept donné. 
-   - Voir @sec-thesaurus 
+   - Repérer le(s) bons mots-clés dans le [thésaurus](#sec-thesaurus) permet de limiter le travail de collecte de synonymes puisqu'on a identifier le(s) mots pertinents pour un concept donné. 
 
 
 ## Stratégies de recherche avancée
@@ -197,7 +196,7 @@
     -   dans le logiciel Zotero, sous la forme de notes indépendantes placées dans une collection « Historique de recherche par exemple » <https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/>(voir chapitre Zotero).
     -   dans le logiciel Obsidian.md, sous la forme d'une note ou d'une série de notes dans un dossier voir p..
     -   dans un carnet papier séparé voir le chapitre p.ou au verso de l'impression de ce manuel.
--   Dans le cas où vous menez une revue exhaustive de littérature ou une revue systématique, cette méthode de documentation est très importante car elle va vous permettre de documenter votre processus de recherche, de sélection et de décision (voir @sec-revuelitterature)
+-   Dans le cas où vous menez une [revue exhaustive de littérature ou une revue systématique](#sec-revuelitterature), cette méthode de documentation est très importante car elle va vous permettre de documenter votre processus de recherche, de sélection et de décision.
 
 ### Utilisation du NOT pour un thème très général
 

@@ -1,6 +1,6 @@
 # Zotero pour organiser la documentation {#sec-zoteroorganiser}
 
--   Si vous avez des centaines ou des milliers de références dans votre bibliothèque Zotero, il faut penser à des manières de les organiser pour les retrouver Ce chapitre est basé sur un billet de blogue <https://zotero.hypotheses.org/3298>. Les 2 principales sont :
+-   Si vous avez des centaines ou des milliers de références dans votre bibliothèque Zotero, il faut penser à des manières de les organiser pour les retrouver Ce chapitre est basé sur un [billet](https://zotero.hypotheses.org/3298) de blogue. Les 2 principales sont :
 
     -   Les collections.
 
@@ -82,7 +82,7 @@
 
 #### Utiliser un thesaurus personnel
 
-Voir @sec-thesaurus
+[Voir](#sec-thesaurus)
 
 #### Indexation des documents de votre bibliothèque de références Zotero
 

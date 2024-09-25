@@ -14,37 +14,37 @@
 
         -   Il n'y a pas d'autorité sur laquelle s'appuyer.
 
-        -   Exemple au 21 février 2022, sur le Wikipédia en français, la page Bushido <https://fr.wikipedia.org/w/index.php?title=Bushido&oldid=184618350> laisse à penser qu'il y avait réellement un « code d'honneur » des samourais dans le japon pré-moderne, or ce n'est pas le cas car c'est principalement une invention littéraire et romantique du XIXe siècle avec une très faible réalité historique. Pourtant sur la page Wikipédia, toutes les informations sont vraies et sourcées mais leur quantité et leur présentation biaisée en faveur de la valeur littéraire induisent un contresens.
+        -   Exemple au [21 février 2022](https://fr.wikipedia.org/w/index.php?title=Bushido&oldid=184618350), sur le Wikipédia en français, la page Bushido laisse à penser qu'il y avait réellement un « code d'honneur » des samourais dans le japon pré-moderne, or ce n'est pas le cas car c'est principalement une invention littéraire et romantique du XIXe siècle avec une très faible réalité historique. Pourtant sur la page Wikipédia, toutes les informations sont vraies et sourcées mais leur quantité et leur présentation biaisée en faveur de la valeur littéraire induisent un contresens.
 
 -   Quelques **critères simples** :
 
-    -   [La page a-t-elle beaucoup de contenu ? Est-elle bien rédigée ? ☐]{style="color: purple"}
+    -   La page a-t-elle beaucoup de contenu ? Est-elle bien rédigée ?
 
-    -   [Les informations sont-elles bien sourcées ? Les sources sont-elles de qualité ? ☐ ]{style="color: purple"}
+    -   Les informations sont-elles bien sourcées ? Les sources sont-elles de qualité ?
 
-    -   [Les pages du même sujet dans d'autres langues sont-elles intéressantes ? Y a-t-il des différences significatives ? ☐]{style="color: purple"}
+    -   Les pages du même sujet dans d'autres langues sont-elles intéressantes ? Y a-t-il des différences significatives ?
 
-    -   [Existe-t-il d'autres pages liées intéressantes (liens dans le texte, dans les catégories en bas de page, etc.) ? ☐]{style="color: purple"}
+    -   Existe-t-il d'autres pages liées intéressantes (liens dans le texte, dans les catégories en bas de page, etc.) ?
 
 -   Quelques **critères avancés** :
 
-    -   [Onglet Discussion \> ]{style="color: purple"}
+    -   Onglet Discussion \>
 
-        -   [Quel est le statut de la page selon la communauté Wikipédia ? Le meilleur statut est ]{style="color: purple"}**[Article de qualité]{style="color: purple"}**[ (]{style="color: purple"}*[featured article]{style="color: purple"}*[), puis Bon article (]{style="color: purple"}*[good article]{style="color: purple"}*[) et ainsi de suite jusqu'à Ébauche (]{style="color: purple"}*[stub]{style="color: purple"}*[). ☐]{style="color: purple"}
+        -   Quel est le statut de la page selon la communauté Wikipédia ? Le meilleur statut est**Article de qualité**(*featured article*), puis Bon article (*good article*) et ainsi de suite jusqu'à Ébauche (*stub*).
 
-        -   [Le sujet de la page est-il considéré comme important selon communauté Wikipédia ? Importance : maximum, élevée, moyenne ou faible. ☐]{style="color: purple"}
+        -   Le sujet de la page est-il considéré comme important selon communauté Wikipédia ? Importance : maximum, élevée, moyenne ou faible.
 
-    -   [Menu de gauche \> Informations sur la page \> ]{style="color: purple"}
+    -   Menu de gauche \> Informations sur la page \>
 
-        -   [Nombre de contributeurs ayant la page dans leur liste de suivi. ☐ ]{style="color: purple"}
+        -   Nombre de contributeurs ayant la page dans leur liste de suivi.
 
-        -   [Vues de la page dans les 30 derniers jours. ☐]{style="color: purple"}
+        -   Vues de la page dans les 30 derniers jours.
 
-        -   [Nombre total de modifications. ☐]{style="color: purple"}
+        -   Nombre total de modifications.
 
-    -   [Menu de gauche \> Pages liées : tous les pages qui mênent à l'article en cours. ☐]{style="color: purple"}
+    -   Menu de gauche \> Pages liées : tous les pages qui mênent à l'article en cours.
 
-    -   [Onglet Voir l'historique \> Regarder qui a contribué à la page. ☐]{style="color: purple"}
+    -   Onglet Voir l'historique \> Regarder qui a contribué à la page.
 
 -   Considérer Wikipédia comme un simple portail de liens et de références pour débuter une recherche d'informations.
 
@@ -62,21 +62,21 @@
 
     -   Éditeur : aucune responsabilité. Wikipédia est un hébergeur de pages web et non un éditeur. Dans leur page d'avertissement, il est dit explicitement de ne pas baser ses prises de décision (santé, juridiques, financières) sur les informations dans Wikipédia mais sur des professionnels agréés.
 
-    -   Contenu : intéressant souvent, accessible et synthétique, \... mais instable. La mention d'une page Wikipédia devrait toujours être datée car une page peut complètement être remaniée en l'espace de quelques semaines.
+    -   Contenu : intéressant souvent, accessible et synthétique, ... mais instable. La mention d'une page Wikipédia devrait toujours être datée car une page peut complètement être remaniée en l'espace de quelques semaines.
 
-        -   [Voir l'historique \> Cliquer sur la date heure la plus récente. Dans la boîte jaune : « Ceci est la version actuelle de cette page\... ». Récupérer l'URL sous la forme ?title=\_\_&oldid=\_\_\_ ]{style="color: purple"}
+        -   Voir l'historique \> Cliquer sur la date heure la plus récente. Dans la boîte jaune : « Ceci est la version actuelle de cette page... ». Récupérer l'URL sous la forme `?title=__&oldid=___`
 
-#### Creative Commons 
+#### Creative Commons
 
--   Wikipédia est sous licence CC-BY-SA 3.0
+-   Wikipédia est sous licence [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.fr)
 
-    -   Vous devez légalement citer Wikipédia correctement si vous réutilisez ou adaptez du contenu (copie, vente, remix, transformation) <https://creativecommons.org/licenses/by-sa/3.0/deed.fr>.
+    -   Vous devez légalement citer Wikipédia correctement si vous réutilisez ou adaptez du contenu (copie, vente, remix, transformation).
 
     -   Pour l'éthique de la recherche vous devez AUSSI citer Wikipédia.
 
 ### Contribuer à Wikipédia
 
--   []{style="color: purple"}
+-   
 
     -   Votre adresse IP n'est pas rendue publique quand vous contribuez.
 
@@ -90,19 +90,19 @@
 
 -   **Contribuer progressivement** : commencer simplement et augmenter en complexité au fur et à mesure Un parcours ludifié en 5 niveaux : <https://github.com/pmartinolli/TM-Wikipedibus>.
 
-    -   [Créer des liens entre les pages. ☐]{style="color: purple"}
+    -   Créer des liens entre les pages.
 
-    -   [Ajouter une source. ☐]{style="color: purple"}
+    -   Ajouter une source.
 
-    -   [Ajouter des catégories. ☐ Ajouter un bandeau à une page problématique / critiquer dans Discussion ☐]{style="color: purple"}
+    -   Ajouter des catégories. Ajouter un bandeau à une page problématique / critiquer dans Discussion
 
-    -   [Rédiger un paragraphe avec une ou deux sources. ☐]{style="color: purple"}
+    -   Rédiger un paragraphe avec une ou deux sources.
 
-    -   [Traduire une page vers le français. ☐]{style="color: purple"}
+    -   Traduire une page vers le français.
 
-    -   [Rédiger une nouvelle page avec une quizaine de sources. ☐]{style="color: purple"}
+    -   Rédiger une nouvelle page avec une quizaine de sources.
 
-    -   [Restructurer les informations d'une page existante (le plus difficile selon moi car il faut prendre en compte la réaction de la communauté). ☐]{style="color: purple"}
+    -   Restructurer les informations d'une page existante (le plus difficile selon moi car il faut prendre en compte la réaction de la communauté).
 
 -   **Faire valoriser ses contributions** :
 
@@ -110,9 +110,9 @@
 
     -   Qualitativement : avoir créé une nouvelle page ou avoir significativement amélioré ou enrichi une page existante. en
 
-    -   [Dans l'espace personnel Wikipédia : créer une mini-page vers vos contributions et des liens vers compteurs de contributions]{style="color: purple"} [Exemple : <https://fr.wikipedia.org/wiki/Utilisateur:Pmartinolli>]{style="color: purple"}[. ☐]{style="color: purple"}
+    -   Dans l'espace personnel Wikipédia : créer une mini-page vers vos contributions et des liens vers compteurs de contributions Exemple : <https://fr.wikipedia.org/wiki/Utilisateur:Pmartinolli>.
 
-    -   [Dans votre CV : indiquer votre identifiant avec quelques-unes de vos importantes contributions). ☐]{style="color: purple"}
+    -   Dans votre CV : indiquer votre identifiant avec quelques-unes de vos importantes contributions).
 
 ### Utiliser les données de Wikidata
 
@@ -128,11 +128,11 @@
 
         -   Partiel ? Pour compléter vos données ou pour les aligner sur des identifiants externes.
 
-    -   En phase exploratoire, ou en phase d'éxécution ou en phase de diffusion Pascal Martinolli « Wikidata : un outil pour vous, les chercheurs » ACFAS Magazine, 4 juin 2020. <https://www.acfas.ca/publications/magazine/2020/06/wikidata-outil-vous-chercheurs>.
+    -   En phase exploratoire, ou en phase d'éxécution ou en phase de diffusion Pascal Martinolli « [Wikidata : un outil pour vous, les chercheurs](https://www.acfas.ca/publications/magazine/2020/06/wikidata-outil-vous-chercheurs) » ACFAS Magazine, 4 juin 2020. .
 
-        -   Liste normalisée de concepts / thèmes disciplinaires : sélection de 65000 concepts, classés en 5 niveaux, de OpenAlex <https://docs.openalex.org/about-the-data/concept>.
+        -   Liste normalisée de concepts / thèmes disciplinaires : sélection de 65000 concepts, classés en 5 niveaux, de [OpenAlex](https://docs.openalex.org/about-the-data/concept).
 
-#### Creative Commons 
+#### Creative Commons
 
 -   Les données dans Wikidata sont sous licence CC0.
 
@@ -154,7 +154,7 @@
 
 -   Un excellent MOOC vous permettra de comprendre comment fonctionne et comment contribuer à Wikidata : <https://formations.wikimedia.fr>
 
-### Indexer son profil de chercheur dans Wikidata []{#sec:WikidataID label="sec:WikidataID"}
+### Indexer son profil de chercheur dans Wikidata 
 
 -   Pourquoi ?
 
@@ -162,22 +162,22 @@
 
 -   Comment ? \[1h\]
 
-    -   Éligibilité : En juin 2019, le consensus social sur la **notoriété** [https://www.wikidata.org/wiki/Wikidata:Notability/fr https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6](https://www.wikidata.org/wiki/Wikidata:Notability/fr%20https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6) des éléments de Wikidata dit qu'il est possible de créer un élément Wikidata au nom d'un.e chercheur.se si :
+    -   Éligibilité : En juin 2019, le consensus social sur la [notoriété](https://www.wikidata.org/wiki/Wikidata:Notability/fr) des [éléments](https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6) de Wikidata dit qu'il est possible de créer un élément Wikidata au nom d'un.e chercheur.se si :
 
         -   la personne a publié au moins un article dans une revue universitaire avec comité de lecture;
 
         -   ou un livre publié dont elle est l'autrice ou l'auteur.
 
-    -   [Tutoriel et suggestions pour créer ou améliorer son identifiant Wikidata]{style="color: purple"} <https://www.wikidata.org/wiki/User:Pmartinolli/Curation_chercheurs_UdeM>
+    -   [Tutoriel](https://www.wikidata.org/wiki/User:Pmartinolli/Curation_chercheurs_UdeM) et suggestions pour créer ou améliorer son identifiant Wikidata
 
-    -   [Avertissement : Il est recommandé de se créer un compte Wikimedia et d'ajouter la page de votre élément Q à votre liste de suivi (]{style="color: purple"}[*watchlist*]{style="color: purple"}[) pour être alerté de toutes modifications sur celui-ci. Si vous avez une page Wikipédia à votre nom, faîtes de même. En effet, il est possible que des personnes mal informées ou mal intentionnées indexent des déclarations (]{style="color: purple"}[*statements*]{style="color: purple"}[) privées ou diffamatoires. Si c'est le cas, envoyer un courriel immédiatement au ]{style="color: purple"}[*Wikidata Oversight*]{style="color: purple"}[]{style="color: purple"} [<https://www.wikidata.org/wiki/Wikidata:Oversight>]{style="color: purple"}[ pour masquer les déclarations concernées et leurs historiques de modification. Exemples de déclarations à surveiller : ]{style="color: purple"}*[Place of birth]{style="color: purple"}*[ (P19), ]{style="color: purple"}*[Date of birth]{style="color: purple"}*[ (P569), ]{style="color: purple"}*[Located at street address]{style="color: purple"}*[ (P6375), ]{style="color: purple"}*[Phone number]{style="color: purple"}*[ (P1329),]{style="color: purple"}*[ E-mail address]{style="color: purple"}*[ (P968), ]{style="color: purple"}*[Sexual orientation]{style="color: purple"}*[ (P91), ]{style="color: purple"}*[Political ideology]{style="color: purple"}*[ (P1142), ]{style="color: purple"}*[Religion]{style="color: purple"}*[ (P140), ]{style="color: purple"}*[Medical condition]{style="color: purple"}*[ (P1050), ]{style="color: purple"}*[Cause of death]{style="color: purple"}*[ (P509),\...]{style="color: purple"}
+    -   Avertissement : Il est recommandé de se créer un compte Wikimedia et d'ajouter la page de votre élément Q à votre liste de suivi (*watchlist*) pour être alerté de toutes modifications sur celui-ci. Si vous avez une page Wikipédia à votre nom, faîtes de même. En effet, il est possible que des personnes mal informées ou mal intentionnées indexent des déclarations (*statements*) privées ou diffamatoires. Si c'est le cas, envoyer un courriel immédiatement au [*Wikidata Oversight*](https://www.wikidata.org/wiki/Wikidata:Oversight) pour masquer les déclarations concernées et leurs historiques de modification. Exemples de déclarations à surveiller :*Place of birth*(P19), *Date of birth*(P569), *Located at street address*(P6375), *Phone number*(P1329), *E-mail address*(P968), *Sexual orientation*(P91), *Political ideology*(P1142), *Religion*(P140), *Medical condition*(P1050), *Cause of death*(P509),...
 
-    -   [Utiliser Author-disambiguator]{style="color: purple"} [<https://author-disambiguator.toolforge.org/>]{style="color: purple"}[ pour réclamer vos publications. ]{style="color: purple"}
+    -   Utiliser [Author-disambiguator](https://author-disambiguator.toolforge.org/) pour réclamer vos publications.
 
-        -   [Connectez-vous avec votre login/mot de passe Wikimedia.]{style="color: purple"}
+        -   Connectez-vous avec votre login/mot de passe Wikimedia.
 
-        -   [Lancez une recherche avec votre nom.]{style="color: purple"}
+        -   Lancez une recherche avec votre nom.
 
-        -   [Cochez vos publications. Décochez celles qui ne sont pas de vous.]{style="color: purple"}
+        -   Cochez vos publications. Décochez celles qui ne sont pas de vous.
 
-        -   [Associez avec votre QID.]{style="color: purple"}
+        -   Associez avec votre QID.

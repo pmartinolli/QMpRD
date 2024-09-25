@@ -1,8 +1,8 @@
-#  Évaluer ses sources {#sec-evaluer}
+# Évaluer ses sources {#sec-evaluer}
 
 ### Pourquoi est-ce une compétence centrale de la recherche ?
 
-#### Par ordre d'importance 
+#### Par ordre d'importance
 
 1.  **On ne peut pas refaire** toutes les expériences, les études, les investigations, les réflexions qui ont été menées sur son objet d'étude.
 
@@ -24,7 +24,7 @@
 
 6.  Au delà de la recherche, c'est une compétence à exercer dans de nombreux aspects de la vie quotidienne pour prendre les **bonnes décisions** (finance, santé, législation).
 
-#### Notions essentielles 
+#### Notions essentielles
 
 -   Tous les documents ne se valent pas.
 
@@ -48,11 +48,11 @@
 
         -   Les critères qui devraient emporter votre adhésion ou votre rejet final sont les **critères de contenu**. Ce sont des critères lents, chronophages, énergivores, qui demandent un investissement et un engagement conséquent pour tout bien vérifier. Ils demandent aussi une expertise assez bien rodée dans le domaine pour pouvoir investiguer et vérifier avec compétence.
 
--   Un aide-mémoire surnommé le « **Foutaisomètre** », recense l'essentiel des questions à se poser pour une publication de recherche <https://github.com/pmartinolli/TM-bullshitometer>.
+-   Un aide-mémoire surnommé le « [**Foutaisomètre**](https://github.com/pmartinolli/TM-bullshitometer) », recense l'essentiel des questions à se poser pour une publication de recherche.
 
-###  Distinguer les sources 
+### Distinguer les sources
 
-####  Savoir décrypter une référence bibliographique[]{#id-ref-biblio label="id-ref-biblio"}
+#### Savoir décrypter une référence bibliographique {#sec-ref-biblio}
 
 -   Pourquoi ? Identifier si une référence bibliographique est celle d'un livre, d'un article ou autre est une compétence de base qui va vous permettre :
 
@@ -62,7 +62,7 @@
 
     -   de repérer d'**autres** documents pertinents.
 
-##### Principaux types de documents 
+##### Principaux types de documents
 
 -   Les **monographies** : ou **livres**, ou essais, ou rapports, ou mémoires, ou thèses, ou publications gouvernementales, etc. Ce sont tous les documents qui traitent d'un sujet en un seul document.
 
@@ -114,7 +114,7 @@
 
 -   
 
--   Un tableau des disciplines UdeM et des styles bibliographiques habituellement recommandés <https://bib.umontreal.ca/citer/styles-bibliographiques/choisir-son-style>.
+-   Un [tableau](https://bib.umontreal.ca/citer/styles-bibliographiques/choisir-son-style) des disciplines UdeM et des styles bibliographiques habituellement recommandés.
 
 -   Si vous avez le choix d'un style mais que vous ne savez pas lequel choisir :
 
@@ -126,33 +126,33 @@
 
     -   Les professeurs et les maisons d'édition sont attentifs à respecter les règles de présentation des styles Commentaire personnel : peut être un peu trop strict parfois, car c'est mettre beaucoup d'importance sur la forme et moins sur le fond. Mais c'est tout un débat..
 
--   Les **logiciels bibliographiques** comme Zotero et Endnote automatisent la création de bibliographies et de citations abrégées et vous font gagner un temps précieux et aussi un temps de qualité Voir chapitre p. .
+-   Les **logiciels bibliographiques** comme Zotero et Endnote automatisent la création de bibliographies et de citations abrégées et vous font gagner un temps précieux et aussi un temps de qualité.
 
-##### Évaluez un document par sa bibliographie 
+##### Évaluez un document par sa bibliographie
 
--   Parcourez les références de la bibliographie et repérez les plus intéressantes. ☐
+-   Parcourez les références de la bibliographie et repérez les plus intéressantes.
 
 -   Questions pertinentes :
 
-    -   Les références sont-elles récentes ? ☐
+    -   Les références sont-elles récentes ?
 
-    -   Les références sont-elles toutes d'un seul type de document ? (par exemple : que des livres, que des articles, que des présentations de colloque, etc.) Est-ce normal dans ma discipline ? ☐
+    -   Les références sont-elles toutes d'un seul type de document ? (par exemple : que des livres, que des articles, que des présentations de colloque, etc.) Est-ce normal dans ma discipline ?
 
-    -   Les références semblent-elles provenir de sources fiables ? ☐
+    -   Les références semblent-elles provenir de sources fiables ?
 
-    -   Y a-t-il des mots-clés qui m'ont échappé et avec lesquels je pourrai relancer de nouvelles recherches ? ☐
+    -   Y a-t-il des mots-clés qui m'ont échappé et avec lesquels je pourrai relancer de nouvelles recherches ?
 
--   [Récupérez les références de ces documents pertinents et leurs fichiers PDF dans Zotero.☐]{style="color: purple"}
+-   Récupérez les références de ces documents pertinents et leurs fichiers PDF dans Zotero.
 
--   [Optionnel: dans Zotero, ajoutez le marqueur ]{style="color: purple"}[`_bibliographieAnalysée`]{style="color: purple"}[ à la référence contenant la bibliographie que vous venez d'analyser et de parcourir. Colorez le marqueur si besoin]{style="color: purple"} [voir p. ]{style="color: purple"}[. ☐]{style="color: purple"}
+-   Optionnel: dans Zotero, ajoutez le marqueur \[`_bibliographieAnalysée`\] \[à la référence contenant la bibliographie que vous venez d'analyser et de parcourir. Colorez le marqueur si besoin.
 
-####  Sources primaire, secondaire ou tertiaire
+#### Sources primaire, secondaire ou tertiaire
 
 -   Il existe 3 grands types de sources : sources primaires, secondaires et tertiaires.
 
--   Elles se distinguent par leur nature, leur type de production, leur objectifs, \...
+-   Elles se distinguent par leur nature, leur type de production, leur objectifs, ...
 
-##### Source primaire : 
+##### Source primaire :
 
 -   Ensemble de **données brutes** sur un sujet.
 
@@ -162,7 +162,7 @@
 
 -   Demande une **expertise** pour bien être comprise et utilisée.
 
-##### Source secondaire : 
+##### Source secondaire :
 
 -   Documents qui ont **analysé**, commenté, critiqué, contextualisé, recoupé, reformulé, confronté, expliqué, évalué ou synthétisé des sources primaires.
 
@@ -178,7 +178,7 @@
 
 -   Idéal **pour** **commencer** quand on ne connaît peu de choses sur le sujet.
 
-####  Quel type de document est adapté pour la recherche ?
+#### Quel type de document est adapté pour la recherche ?
 
 ##### Article scientifiques (ou articles universitaires)
 
@@ -188,7 +188,7 @@
 
 -   Dans certains domaines, un article est considéré comme une source primaire puisqu'il présente et discute les résultats d'une étude.
 
-##### Livre 
+##### Livre
 
 -   Souvent un travail de synthèse sur un sujet plus ou moins général.
 
@@ -210,7 +210,7 @@
 
 -   Type de document naturellement biaisée en raison de l'institution qui le produit. Ce conflit d'intérêt n'est pas forcément négatif en soi, mais cela demande de rajouter une couche de critiques supplémentaires.
 
-###  Critères d'autorité 
+### Critères d'autorité
 
 #### Pourquoi ?
 
@@ -232,7 +232,7 @@
 
     -   **Insuffisant**.
 
-####  Auteur
+#### Auteur
 
 -   L'auteur est-il **seul** ou sont-ils **plusieurs** ?
 
@@ -244,11 +244,11 @@
 
     -   L'**ordre de citation** est signifiant (à moins d'indication contraire, mais c'est rare) : le premier auteur a plus contribué que le dernier.
 
-        -   Conseil : pour vos propres recherches, dès votre première réunion d'équipe, déterminez l'ordre de citation des auteurs <https://www.science.org/content/article/i-avoided-authorship-discussions-collaborators-until-i-learned-some-hard-lessons>, leurs rôles et leurs contributions.
+        -   Conseil : pour vos propres recherches, dès votre première réunion d'équipe, déterminez l'[ordre](https://www.science.org/content/article/i-avoided-authorship-discussions-collaborators-until-i-learned-some-hard-lessons) de citation des auteurs, leurs rôles et leurs contributions.
 
         -   Dans certaines disciplines, le **dernier auteur** n'a pas participé à l'étude mais on le mentionne là en tant que chef.fe du laboratoire (qui signe les chèques).
 
--   Les types de contribution de chacun sont-elles précisées ? Voir la **taxonomie CRediT** qui permet de détailler les rôles de chacun <https://coop-ist.cirad.fr/etre-auteur/reconnaitre-tous-les-contributeurs/3-la-taxonomie-credit-pour-identifier-toutes-les-contributions>.
+-   Les types de contribution de chacun sont-elles précisées ? Voir la [taxonomie CRediT](https://coop-ist.cirad.fr/etre-auteur/reconnaitre-tous-les-contributeurs/3-la-taxonomie-credit-pour-identifier-toutes-les-contributions) qui permet de détailler les rôles de chacun.
 
 -   Les auteurs sont-ils clairement **identifiés** (pour éviter les ambiguïtés) : université d'appartenance, affiliations, ORCID, etc.
 
@@ -290,11 +290,11 @@
 
     -   Un chercheur reste sur un sujet pendant de nombreuses années : vous trouverez d'autres choses pertinentes.
 
-    -   Un journaliste peut avoir investigué sur d'autres sujets et vous aurez alors un meilleur aperçu de sa manière de traiter les sujets <https://www.afis.org/Le-monde-selon-Monsanto>.
+    -   Un journaliste peut avoir investigué sur d'autres sujets et vous aurez alors un meilleur aperçu de sa manière de traiter les [sujets](https://www.afis.org/Le-monde-selon-Monsanto).
 
 -   Le document **cite-il** d'autres sources ? est-ce qu'il cite bien (précisément) ? est-ce qu'il cite des sources de qualité ?
 
-####  Éditeur et maison d'édition
+#### Éditeur et maison d'édition
 
 -   En un mot : l'éditeur est le **responsable** d'une publication.
 
@@ -316,7 +316,7 @@
 
     -   **Rédacteur en chef** d'un journal quotidien ou d'un magazine : décide tout seul si un article de journaliste est publié.
 
-    -   Éditeur ou responsable ou « sous la direction de\... » d'un **livre collectif** : il contacte les auteurs des chapitres (des gens qu'il connaît), supervise directement leurs travaux et décide de publier le tout. Parfois, il rédige l'introduction et la conclusion ou quelques chapitres.
+    -   Éditeur ou responsable ou « sous la direction de... » d'un **livre collectif** : il contacte les auteurs des chapitres (des gens qu'il connaît), supervise directement leurs travaux et décide de publier le tout. Parfois, il rédige l'introduction et la conclusion ou quelques chapitres.
 
     -   Éditeur d'une **conférence** : il gère l'équipe de sélection des présentations. Fait parfois la conférence d'introduction ou de conclusion.
 
@@ -332,7 +332,7 @@
 
             -   Ce sont des experts du sujet de l'article.
 
-            -   Ils sont appelés « pairs » -> le terme « **révision par les pairs** » (ou ***peer-reviewed***).
+            -   Ils sont appelés « pairs » -\> le terme « **révision par les pairs** » (ou ***peer-reviewed***).
 
             -   Ils donnent leur avis : rejet, accepté avec révision mineures ou majeures, etc.
 
@@ -340,7 +340,7 @@
 
         -   L'éditeur coordonne les réponses et prend la décision finale de publier en se basant sur les avis des pairs du comité de lecture.
 
-####  Pour aller plus loin sur la révision par les pairs
+#### Pour aller plus loin sur la révision par les pairs
 
 -   C'est un processus **très sélectif** et dur mais c'est surtout une excellent opportunité d'**améliorer** sa version originale grâce aux retours constructifs (ou ravageurs) des réviseurs.
 
@@ -352,7 +352,7 @@
 
     -   En effet, parfois les réviseurs n'ont pas accès aux données brutes de la recherche, ou bien ils n'ont qu'un détail sommaire de la méthode.
 
-    -   Un article publié dont on se rend compte plus tard qu'il est une fraude ou qu'il contient des erreurs car publié trop vite est retiré. On dit qu'il est **rétracté** voir p. **.**
+    -   Un article publié dont on se rend compte plus tard qu'il est une fraude ou qu'il contient des erreurs car publié trop vite est retiré. On dit qu'il est [**rétracté**](#sec-retraction).
 
 -   Dans certains domaines de pointe ou de niche, l'anonymisation est illusoire car la quinzaine de chercheurs se connaissent et se reconnaissent.
 
@@ -362,23 +362,23 @@
 
 -   Un article peut avoir plusieurs statuts : Publié (*published*) \> Accepté (*forthcoming*) \>\> Soumis (*submitted*) \> document de recherche, preprint, présentation de colloque, (*mimeo, working paper, discussion paper*)
 
--   Les **revues prédatrices** prétendent faussement faire un travail de ce type voir p. .
+-   Les **revues prédatrices** prétendent faussement faire un travail de ce type.
 
-##### Comment vérifier qu'une revue à un comité de lecture valide : 
+##### Comment vérifier qu'une revue à un comité de lecture valide :
 
--   [Ulrich's Periodical Directory]{style="color: purple"} [<http://ulrichsweb.serialssolutions.com/login>]{style="color: purple"}[.. Si vous voyez un habit rayé d'arbitre de sport (refereed) alors la revue possède un processus de révision par les pairs.]{style="color: purple"}
+-   [Ulrich's Periodical Directory](http://ulrichsweb.serialssolutions.com/login) : Si vous voyez un habit rayé d'arbitre de sport (refereed) alors la revue possède un processus de révision par les pairs.
 
--   [Liste sélective des revues indexées par Web of Science (]{style="color: purple"}*[Master Journal List]{style="color: purple"}*[]{style="color: purple"} [<https://mjl.clarivate.com/home>]{style="color: purple"}[.) ont toutes un processus de révision par les pairs.]{style="color: purple"}
+-   Liste sélective des revues indexées par Web of Science ([*Master Journal List*](https://mjl.clarivate.com/home)) ont toutes un processus de révision par les pairs.
 
--   [Sélection dans le menu de gauche des pages de Résultats de certaines bases de données bibliographiques (appelées différemment selon les bases).]{style="color: purple"}
+-   Sélection dans le menu de gauche des pages de Résultats de certaines bases de données bibliographiques (appelées différemment selon les bases).
 
-    -   [Sofia : appellation « Publication scientifique »]{style="color: purple"}
+    -   Sofia : appellation « Publication scientifique »
 
-    -   [ProQuest : « Revue par les pairs »]{style="color: purple"}
+    -   ProQuest : « Revue par les pairs »
 
-    -   [Erudit : « Revue savante » + icone ronde noire cochée.]{style="color: purple"}
+    -   Erudit : « Revue savante » + icone ronde noire cochée.
 
-    -   [EBSCO : « peer reviewed » ou « Revues académiques (relues par un comité de lecture) » ou « Revues universitaires » (cela dépend de la base de données). ]{style="color: purple"}
+    -   EBSCO : « peer reviewed » ou « Revues académiques (relues par un comité de lecture) » ou « Revues universitaires » (cela dépend de la base de données).
 
 #### Influence
 
@@ -398,23 +398,23 @@
 
     -   Recommandations :
 
-        -   Installer le plugin Scite pour Zotero <https://github.com/scitedotai/scite-zotero-plugin/releases>. Une fois installé, ajouter les colonnes *Mentioning, Contrasting, Supporting* et/ou *Total Distinct Citing Publications*.
+        -   Installer le plugin [Scite](https://github.com/scitedotai/scite-zotero-plugin/releases) pour Zotero. Une fois installé, ajouter les colonnes *Mentioning, Contrasting, Supporting* et/ou *Total Distinct Citing Publications*.
 
-        -   Installer le plugin Scite pour navigateur internet <https://scite.ai/extension-install>.
+        -   Installer le plugin [Scite](https://scite.ai/extension-install) pour navigateur internet.
 
--   Le document a-t-il été **rétracté** voir p. ?
+-   Le document a-t-il été **rétracté**.
 
--   Le document est-il **critiqué** (ou parfois loué) sur **PubPeer** <https://pubpeer.com/> ?
+-   Le document est-il **critiqué** (ou parfois loué) sur [**PubPeer**](https://pubpeer.com/) ?
 
     -   Recommandations :
 
-        -   Installer l'extension PubPeer pour Zotero <https://github.com/PubPeerFoundation/pubpeer_zotero_plugin/releases/latest>. Une fois installé, ajouter la colonne PubPeer.
+        -   Installer l'extension [PubPeer](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin/releases/latest) pour Zotero. Une fois installé, ajouter la colonne PubPeer.
 
-        -   Installer l'extension PubPeer pour Firefox, Chrome, Edge ou Safari <https://pubpeer.com/static/extensions>.
+        -   Installer l'extension [PubPeer](https://pubpeer.com/static/extensions) pour Firefox, Chrome, Edge ou Safari.
 
-        -   Installer les extentions Scite pour Zotero et navigateur (voir plus haut). Scite utilise désormais son propre système de détection de rétractions.
+        -   Installer les extentionsScite pour Zotero et navigateur (voir plus haut). Scite utilise désormais son propre système de détection de rétractions.
 
-###  Critiquer le contenu
+### Critiquer le contenu
 
 #### Pourquoi ?
 

@@ -90,9 +90,9 @@
 
 -   Pour aller plus loin :
 
-    -   Archivage avancé voir @sec-archivage
+    -   [Archivage](#sec-archivage) avancé
 
-    -   Gestion des données de recherche voir @sec-gdr
+    -   [Gestion des données de recherche](#sec-gdr)
 
 ## 7-zip : logiciel d'archivage 
 

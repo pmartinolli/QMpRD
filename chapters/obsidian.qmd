@@ -15,14 +15,14 @@
   - Sobre et rapide 
   - Souple (à chacun de créer sa propre ontologie de notes).
   - Évolutif (bon pour 50 notes jusqu'à plus de 1000 notes)
-  - Robuste (format texte balisé en Markdown, voir @sec-formats)
+  - Robuste ([format](#sec-formats) texte balisé en Markdown)
   - Personnalisable (installer les extensions de son choix)
   - Gratuit pour une utilisation personnelle (mais ce n'est pas un logiciel libre ou ouvert).
   - Sécuritaire.
 
 ## Comment ? 
 
--   Avec un logiciel adapté comme Obsidian.md <https://obsidian.md/> (logiciel non libre, mais gratuit pour une utilisation personnelle).
+-   Avec un logiciel adapté comme [Obsidian.md](https://obsidian.md/) (logiciel non libre, mais gratuit pour une utilisation personnelle).
     -   Avec une gestion des liens entre vos notes, basé principalement sur une organisation par index.
 
 -   Principes d'utilisation principaux :
@@ -193,7 +193,7 @@
 
 -   Rédiger des notes dans Obsidian est l'opportunité idéale pour pratiquer le balisage léger Markdown voir p. .
 
--   Pour une utilisation un peu plus avancée (avec possibilité de citations comme Zotero) : utiliser Zettlr <https://www.zettlr.com/> avec un fichier des références bibliographiques au format BibTeX dans un fichier \*.bib et avec un fichier de style CSL.
+-   Pour une utilisation un peu plus avancée (avec possibilité de citations comme Zotero) : utiliser [Zettlr](https://www.zettlr.com/) avec un fichier des références bibliographiques au format BibTeX dans un fichier \*.bib et avec un fichier de style CSL.
 
 -   Il est possible de rédiger des articles et des livres complets avec ce formatage : voir R Markdown, Bookdown et Quarto.
 
@@ -220,8 +220,6 @@
         -   service web hackmd.io <https://hackmd.io/> (ordinateur surtout. Excellent pour collaborer. Markdown).
 
 -   Pour sauvegarder en vrac, sans organisation, des informations trouvées en ligne.
-
-    -   Comment ? Suggestion : Evernote <https://evernote.com/> (« everything buckets ») + capture rapide des pages web avec Evernote Web Clipper pour Firefox ou Chrome. Possibilités de créer une dizaine de dossiers (carnets).
 
 -   Pour vos démarches de recherche de document et vos mots de passe, etc. : le portfolio et cahier de recherche.
 

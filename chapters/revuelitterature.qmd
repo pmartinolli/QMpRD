@@ -1,12 +1,12 @@
 # Revue exhaustive de la littérature ou revue systématique ? {#sec-revuelitterature}
 
-Cette section est une contribution de Cynthia Gagné (contributrice principale) et une adaptation des guides Synthèses des connaissances dont elle est une co-contributrice <https://bib.umontreal.ca/evaluer-analyser-rediger/syntheses-connaissances>.
+Cette section est une contribution de Cynthia Gagné (contributrice principale) et une adaptation des [guides](https://bib.umontreal.ca/evaluer-analyser-rediger/syntheses-connaissances) Synthèses des connaissances dont elle est une co-contributrice.
 
 ## Quelques définitions 
 
 ### Revue de littérature? 
 
--   Une revue de littérature **présente** et évalue la documentation sur un sujet dans le but de le **situer** par rapport aux recherches antérieures ou à l'information existante <https://bib.umontreal.ca/evaluer-analyser-rediger/syntheses-connaissances/revue-litterature-recension-ecrits>.
+-   Une revue de littérature **présente** et évalue la documentation sur un sujet dans le but de le **situer** par rapport aux recherches antérieures ou à l'information [existante](https://bib.umontreal.ca/evaluer-analyser-rediger/syntheses-connaissances/revue-litterature-recension-ecrits).
 
     -   C'est une **sélection** de documents (et pas tous).
 

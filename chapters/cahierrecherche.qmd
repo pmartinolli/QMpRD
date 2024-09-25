@@ -16,11 +16,11 @@
 
     -   Pour garder une trace de vos activités professionnelles, de votre réseau et de vos contacts.
 
-    -   Pour développer votre rôle et votre style d'auteur (*authorial voice*) <https://blogs.lse.ac.uk/impactofsocialsciences/2021/11/04/keeping-a-research-journal-that-works-for-you/>.
+    -   Pour développer votre rôle et votre style d'auteur (*[authorial voice](https://blogs.lse.ac.uk/impactofsocialsciences/2021/11/04/keeping-a-research-journal-that-works-for-you/)*).
 
     -   Pour donner une première consistance à vos processus de pensée et à vos analyses.
 
-    -   Pour servir de support à un blogue de recherche voir p. ., l'équivalent d'un cahier de recherche mais avec une forme publique et partagée.
+    -   Pour servir de support à un [blogue](#sec-bloguersarecherche) de recherche, l'équivalent d'un cahier de recherche mais avec une forme publique et partagée.
 
     -   Pour servir de liens entre tous vos autres documents (données de recherche, références, notes, blogue, publications, carnet de contact, etc.).
 
@@ -32,9 +32,9 @@
 
     -   [ou... Imprimer le Portfolio de recherche]{style="color: purple"} [p.en recto seulement et faîtes vos annotations au verso. ☐]{style="color: purple"}
 
-    -   [ou... dans des collections et des notes indépendantes de Zotero]{style="color: purple"} [Voir p. .. ☐]{style="color: purple"}
+    -   [ou... dans des collections et des notes indépendantes de Zotero]{style="color: purple"}{style="color: purple"}
 
-    -   [ou... dans des notes de Obsidian.md]{style="color: purple"} Voir p. .[. ☐]{style="color: purple"}
+    -   [ou... dans des notes de Obsidian.md]{style="color: purple"}{style="color: purple"}
 
 -   [Recommandations pour une version papier :]{style="color: purple"}
 

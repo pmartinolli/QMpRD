@@ -12,8 +12,8 @@
     -   Les références bibliographiques sont un peu comme le **« réseau social » des documents**. Découvrez qui cite qui et pourquoi...
 -   Comment ?
     -   Une bibliographie est située **à la fin** d'un document.
-    -   Savoir identifier une référence bibliographique : Il est important de savoir décrypter en un coup d'oeil si une référence bibliographique est un livre, un article de périodique, une partie de document (un chapitre par exemple), etc.
-    -   Voir @sec-identifierdocument
+    -   Savoir [identifier](#sec-identifierdocument) une référence bibliographique : Il est important de savoir décrypter en un coup d'oeil si une référence bibliographique est un livre, un article de périodique, une partie de document (un chapitre par exemple), etc.
+
 
 ### Bibliographies sélectives dans les entrées d'ouvrages de référence
 
@@ -44,7 +44,7 @@
 
 -   Constituez une liste des principaux experts sur votre sujet.
 -   Pour chacun, repérez sa page web personnelle, son blogue, son profil Google Scholar, son compte ORCID, son compte Twitter, son compte ResearchGate/Academia, etc.
-    -   Sélectionnez les options de suivi pertinentes pour être prévenus des changements futurs (voir @sec-alertes).
+    -   Sélectionnez les options de suivi pertinentes pour être [prévenus](#sec-alertes) des changements futurs.
 
 ## Discuter de son sujet en équipe de recherche
 

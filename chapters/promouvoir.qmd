@@ -22,23 +22,23 @@
 -   Mesurer ses objectifs de temps en temps :
     -   Coût (temps, finance, etc.)
     -   Bénéfices (capital symbolique, plaisir, etc.)
-    -   Risques (voir section Risques dans @sec-bloguersarecherche).
+    -   Risques (voir section [Risques](#sec-bloguersarecherche)).
 
 ### Prendre soin de son identité numérique
 
-Voir @sec-identitenumerique
+[Voir](#sec-identitenumerique) 
 
 ### Bloguer sur sa recherche
 
-Voir @sec-bloguersarecherche
+[Voir](#sec-bloguersarecherche)
 
 ### Relayer sa recherche sur Twitter ou Mastodon
 
-Voir @sec-microbloguer
+[Voir](#sec-microbloguer)
 
 ### Communiquer par affiche dans un événement
 
-Voir @sec-communicationparaffiche
+[Voir](#sec-communicationparaffiche)
 
 ### Créer une série de baladodiffusion
 
@@ -57,4 +57,4 @@ Voir @sec-communicationparaffiche
 
 ### Faire des micro-publications ou des prépublications
 
-Voir @sec-micropublication
+[Voir](#sec-micropublication)

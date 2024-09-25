@@ -10,7 +10,7 @@
 
     -   Depuis 2010, je suis bibliothécaire en charge de la formation à la BLSH de l'Université de Montréal.
 
-    -   Je n'ai pas conçu ce manuel tout seul. Voir la section des contributions @sec-contributions ainsi que la bibliographie @sec-bibliographie.
+    -   Je n'ai pas conçu ce manuel tout seul. Voir la section des [contributions](#sec-contributions) ainsi que la [bibliographie](#sec-bibliographie).
 
     -   Les notions présentées ont été testées dans les cadres de plus d'un millier de formations pour tous les cycles (environ 50% disciplinaires dans le cadre d'un cours crédité et 50% d'ateliers libres) Estimations en date du 1er janvier 2023..
 

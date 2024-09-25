@@ -10,7 +10,7 @@
 
 
 ## Exemples de logiciels qui utilisent Markdown 
-- Obsidian.md pour prendre des notes @sec-obsidian
+- [Obsidian.md](#sec-obsidian) pour prendre des notes
 - R Studio et Quarto pour produire de beaux documents scientifiques (c'est ce qui est utilisé pour produire ce manuel)
 - ObservableHQ pour produire de belles infographies
 - Documenter les codes sources de GitHub 

@@ -8,7 +8,7 @@
 
 -   Tout l'édifice de construction accumulatif de production scientifique est **fragilisé**.
 
-    -   Des études frauduleuses ou erronées ou bâclées sont ensuite reprises et **citées** dans d'autres études qui n'ont pas bien évalué leurs sources. Entraînant des **erreurs en cascade** <https://scholarlykitchen.sspnet.org/2019/10/28/citation-contamination-references-to-predatory-journals-in-the-legitimate-scientific-literature/>.
+    -   Des études frauduleuses ou erronées ou bâclées sont ensuite reprises et **citées** dans d'autres études qui n'ont pas bien évalué leurs sources. Entraînant des **[erreurs en cascade](https://scholarlykitchen.sspnet.org/2019/10/28/citation-contamination-references-to-predatory-journals-in-the-legitimate-scientific-literature/)**.
 
         -   Citer des sources provenant d'éditeurs prédateurs montre que vos fondations de recherche ne sont pas solides.
 
@@ -80,11 +80,11 @@
 
     -   Donc faites attention aux maillons faibles dans votre équipe et parlez-en, souvent.
 
--   Depuis 2008, la *Beall's* list <https://beallslist.net/>a tenté de **référencer** ces revues prédatrices.
+-   Depuis 2008, la [*Beall's* list](https://beallslist.net/) a tenté de **référencer** ces revues prédatrices.
 
     -   Elle est en accès libre.
 
-    -   Selon les époques, elle fut retirée ou remise en ligne au gré des attaques juridiques en diffamation <https://debunkingdenialism.com/2017/01/16/what-happened-to-jeffrey-bealls-list-of-allegedly-predatory-publishers/>.
+    -   Selon les époques, elle fut retirée ou remise en ligne au gré des attaques juridiques en [diffamation](https://debunkingdenialism.com/2017/01/16/what-happened-to-jeffrey-bealls-list-of-allegedly-predatory-publishers/).
 
     -   La présente instance liste :
 
@@ -98,9 +98,9 @@
 
 -   Listes de revues valides ?
 
-    -   DOAJ <https://doaj.org/> : attention, des revues prédatrices s'y glissent régulièrement.
+    -   [DOAJ](https://doaj.org/) : attention, des revues prédatrices s'y glissent régulièrement.
 
-    -   Web of Science *master journal list* <https://mjl.clarivate.com/> : tri rigoureux, mais on se sait jamais...
+    -   [Web of Science *master journal list*](https://mjl.clarivate.com/) : tri rigoureux, mais on se sait jamais...
 
 -   Les revues prédatrices sont une conséquence de la **pression à la publication** dans le monde universitaire (expression *Publish or Perish*) pour l'avancement de carrière, pour recevoir des financements ou rendre des comptes à un comité de financement. D'autres conséquences sont : la publication de beaucoup de petites études plutôt qu'une significative ou le fait de publier vite et mal (avec risques de rétractions voir p. ).
 
@@ -116,7 +116,7 @@
 
     -   Important : Dans un dépôt institutionnel comme Papyrus (UdeM), vous gardez un droit d'auteur complet sur tout ce que vous mettez . En fait, en y déposant des documents, vous ne faites qu'accorder un droit de diffusion non-exclusif à l'Université de Montréal. Vous pouvez même demander un embargo de quelques années sur une thèse pour négocier plus facilement des droits de publication auprès d'une vraie maison d'édition.
 
--   Dès que vous aurez déposé votre thèse ou autre dans Papyrus, attendez-vous à recevoir ce type de sollicitation automatique « Il ne s'agit cependant pas d'éditeurs reconnus, il n'y a ni processus de sélection de titres, ni révision scientifique du contenu, ni mise en page ou graphisme avant publication. De plus, le contrat d'édition proposé peut priver l'auteur de la possibilité de publier ultérieurement chez un éditeur sérieux dans son domaine. » <https://bib.umontreal.ca/gerer-diffuser/deposer-these-memoire/diffuser>.
+-   Dès que vous aurez déposé votre thèse ou autre dans Papyrus, attendez-vous à recevoir ce type de sollicitation automatique « Il ne s'agit cependant pas d'éditeurs reconnus, il n'y a ni processus de sélection de titres, ni révision scientifique du contenu, ni mise en page ou graphisme avant publication. De plus, le [contrat d'édition](https://bib.umontreal.ca/gerer-diffuser/deposer-these-memoire/diffuser) proposé peut priver l'auteur de la possibilité de publier ultérieurement chez un éditeur sérieux dans son domaine. »
 
 ### Les conférences prédatrices
 
@@ -142,18 +142,18 @@
 
     -   Faites une veille régulière sur votre nom : `Pascal Martinolli OR Martinolli, Pascal`
 
--   Ajouter des **faux co-auteurs** (qui existent mais qui n'ont pas contribué) ou ajouter des faux-faux co-auteurs (qui n'existent pas mais appartiennent faussement à des institutions reconnues), pour augmenter les chances d'être publié <https://retractionwatch.com/2019/04/23/a-new-form-of-plagiarism-when-researcher-fake-co-authors-names/>.
+-   Ajouter des [**faux co-auteurs**](https://retractionwatch.com/2019/04/23/a-new-form-of-plagiarism-when-researcher-fake-co-authors-names/) (qui existent mais qui n'ont pas contribué) ou ajouter des faux-faux co-auteurs (qui n'existent pas mais appartiennent faussement à des institutions reconnues), pour augmenter les chances d'être publié.
 
 -   Créer des **fausses identités** qui publient des faux textes, dans des dépôts douteux ou mal avisés, mais qui vous citent, pour booster votre h-index.
 
 -   Des articles légitimes qui sont recyclés, renommés et republié par des revues prédatrices. Ou des revues prédatrices qui changent de noms (*rebranding*) Siler, K., Vincent-Lamarre, P., Sugimoto, C. R., & Larivière, V. (2021). Predatory publishers' latest scam : Bootlegged and rebranded papers. *Nature*, 598(7882), 563-565. <https://doi.org/10.1038/d41586-021-02906-8> .
 
--   Un éditeur traditionnel et renommé qui vous propose plusieurs formules de « publications accélérées » (*fast-track*), est-ce de la prédation ? <https://taylorandfrancis.com/partnership/commercial/accelerated-publication/>
+-   Un éditeur traditionnel et renommé qui vous propose plusieurs formules de « publications accélérées » ([*fast-track*](https://taylorandfrancis.com/partnership/commercial/accelerated-publication/)), est-ce de la prédation ?
 
--   Des **intermédiaires frauduleux** se proposent d'être vos agents et de démarcher les revues pour vous. Cela n'est pas une pratique de la recherche <https://scholarlykitchen.sspnet.org/2018/04/18/paper-acceptedunless-letter-forged/>. Certaines sociétés semblent parfois proposer des services aux auteurs : aide au ciblage des revues, traduction, relecture, mise en forme, etc.
+-   Des [**intermédiaires frauduleux**](https://scholarlykitchen.sspnet.org/2018/04/18/paper-acceptedunless-letter-forged/) se proposent d'être vos agents et de démarcher les revues pour vous. Cela n'est pas une pratique de la recherche. Certaines sociétés semblent parfois proposer des services aux auteurs : aide au ciblage des revues, traduction, relecture, mise en forme, etc.
 
 -   Une définition qui semble communément admise par la communauté des chercheurs dans *Nature* en 2019 Grudniewicz, Agnes, et al. « Predatory Journals: No Definition, No Defence ». Nature 576, no 7786 (2019): 210‑12. <https://doi.org/10.1038/d41586-019-03759-y>. .
 
--   Pour aller plus loin : lire le rapport complet en anglais ou résumé en français *Combatting Predatory Academic Journals and Conferences* 2022 <https://www.interacademies.org/project/predatorypublishing>.
+-   Pour aller plus loin : lire le rapport complet en anglais ou résumé en français [*Combatting Predatory Academic Journals and Conferences* 2022](https://www.interacademies.org/project/predatorypublishing).
 
 -   Il est possible que vous receviez des courriels légitimes de revues ou de conférences, mais ce sont des courriels génériques pour un appel à communications (*Call for Papers*). À vous d'exercer votre jugement et d'en parler avec votre direction de recherche et vos pairs.

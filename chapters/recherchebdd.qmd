@@ -42,7 +42,7 @@
 -   Outils généralistes mais plutôt [exploratoires et complémentaires](https://doi.org/10.18167/coopist/0068) aux base de données bibliographiques traditionnelles.
 -   Sélection variable et peu transparente des contenus.
 -   Traitements avancés des contenus pour un meilleure expérience utilisateur (visualisation, indexation texte intégral, recommandations, etc.).
--   Les outils de cartographies de l'information peuvent être classés dans cette catégorie @sec-cartographieinformation.
+-   Les [outils de cartographies de l'information](#sec-cartographieinformation) peuvent être classés dans cette catégorie.
 
 ## Notion de plateforme
 
@@ -83,7 +83,7 @@
 
 ## Index de citations
 
--   Principalement utilisées pour faire de la bibliométrie (voir @sec-bibliometrie), elles peuvent aussi être utilisées pour découvrir et explorer la documentation sur un sujet.
+-   Principalement utilisées pour faire de la [bibliométrie](#sec-bibliometrie), elles peuvent aussi être utilisées pour découvrir et explorer la documentation sur un sujet.
 -   Les index de citation (*citation indexes*) sont des bases de données bibliographiques généralistes avec une fonctionnalité supplémentaire et centrale : les **liens de citation** entre les références bibliographiques.
     -   Ces liens de citation permettent de savoir qui cite qui.
 -   La plus célèbre est **Web of Science** mais de nombreux acteurs ont émergé :
@@ -112,5 +112,5 @@
 
 ### Outils de cartographie de l'information
 
--   Les outils de type *mapping tool* permettent d'automatiser une partie des opérations de découverte et de collecte des articles cités les uns par les autres. Ce sont des outils récents (années 2020s) qui s'appuient sur des données ouvertes de citation.
--   Voir @sec-cartographieinformation
+-   Les outils de type [*mapping tool*](#sec-cartographieinformation) permettent d'automatiser une partie des opérations de découverte et de collecte des articles cités les uns par les autres. Ce sont des outils récents (années 2020s) qui s'appuient sur des données ouvertes de citation.
+

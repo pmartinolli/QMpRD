@@ -4,6 +4,19 @@
 
 -   Il faut **arrêter de chercher de nouveaux documents**.
 
-    -   Faites confiance aux **alertes** que vous avez créé pour recevoir automatiquement les nouveaux documents qui correspondent à des stratégies de recherche efficaces.
+    -   Faites confiance aux [**alertes**](#sec-alertes)  que vous avez créé pour recevoir automatiquement les nouveaux documents qui correspondent à des stratégies de recherche efficaces.
 
-    -   Parfois continuer à chercher des documents sans fin est un moyen de procrastiner\... chercher des documents c'est facile, les lire et les synthétiser c'est dur. Je sais.
+    -   En effet, continuer à chercher des documents sans fin est un moyen de procrastiner... Chercher des documents, c'est facile. Mais les lire et les synthétiser, c'est dur. Je sais.
+
+-   Vous allez vous appuyer sur votre **bibliothèque de lectures** dans [Zotero](#sec-zoteroorganiser).
+
+    -   Si possible, elle est organisée et structurée (avec un [thésaurus](#sec-thesaurus) par exemple).
+
+-   Vous allez vous appuyer aussi sur votre **système de prise de notes**.
+
+    -   Dans Zotero (moyen), dans [Obsidian.md](#sec-obsidian) (pas mal!) ou ailleurs.
+    -   Évitez de dispercer vos notes partout et choisissez un outil central pour leur collection.
+
+-   Vous avez mis en place un **système de sauvegarde** fiable et simple.
+
+    -   Voire vous avez rédigé un [plan de gestion de données de recherche](#sec-gdr).

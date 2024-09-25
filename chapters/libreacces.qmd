@@ -15,7 +15,7 @@
 -   Par **justice** économique : la recherche est souvent financée en grande partie par les contribuables et les chercheurs. Ensuite, les chercheurs doivent payer cher pour être publié (et de faire des révisions bénévolement). Enfin les chercheurs (via leurs institutions, leurs bibliothèques) doivent payer une troisième fois (très cher) pour accéder au contenu qu'ils ont produit[^libreacces-2].
 -   Accélérer la diffusion pour **protéger** votre recherche exclusive car le dépôt institutionnel est une preuve de priorité ou [d'antériorité](https://nouvelles.umontreal.ca/article/2022/04/11/rendre-la-recherche-accessible-a-tous/) .
 -   Pour augmenter ses chances d'être repéré, lu et **cité** Plusieurs études ont montré que le libre accès a un effet positif sur la diffusion de la science. Les chiffres varient selon les études, mais la majorité constate une [corrélation](https://doi.org/10.12688/f1000research.8460.3) [positive](https://doi.org/10.7717/peerj.4375).
--   Augmenter votre **exposition** et améliorer votre emprunte numérique de chercheur (voir @sec-identitenumerique).
+-   Augmenter votre **exposition** et améliorer votre [empreinte numérique](#sec-identitenumerique) de chercheur.
 -   Pour rendre votre recherche plus **réproductible** ou réplicable.
 -   Engendrer plus d'**opportunités** de collaborations, de financement, d'emplois, etc.
 -   Raisons pour ne pas publier en libre accès :
@@ -44,7 +44,7 @@
         -   Car il y a eu des cas de tentatives de revente de thèses et autres travaux universitaires via [Amazon](https://blogs.lse.ac.uk/impactofsocialsciences/2021/07/08/what-happens-when-you-find-your-open-access-phd-thesis-for-sale-on-amazon/).
         -   Quelques [recommandations](https://blogs.kent.ac.uk/isnews/open-access-and-your-thesis-on-kar/) pour les thèses.
     -   **CC0** pour les données de recherche.
--   Le chapitre « Promouvoir sa recherche » explore d'autres voies libres et alternatives de diffusion de vos recherche (voir @sec-promouvoir).
+-   Le chapitre « [Promouvoir sa recherche](#sec-promouvoir) » explore d'autres voies libres et alternatives de diffusion de vos recherches.
 
 ## Cas pratique : je suis en histoire et je peux publier en libre accès
 
@@ -114,11 +114,11 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
     -   Licenses : choisir si besoin
 -   Résultats en histoire : entre 20 et 400 environ selon les filtres sélectionnés.
     -   Cliquer sur les revues pertinentes pour tous les détails.
-    -   Attention, certaines revues douteuses se faufillent parfois dans le DOAJ qui procède régulièrement à des exclusions (voir @sec-predateurs).
+    -   Attention, certaines [revues douteuses](#sec-predateurs) se faufillent parfois dans le DOAJ qui procède régulièrement à des exclusions.
 
 #### J'ai constitué une liste
 
--   Voir @sec-oupublier pour des techniques de création de listes de revues où publier.
+-   Pour des techniques de création de listes de revues [où publier](#sec-oupublier).
 
 #### Je vérifie la politique de libre accès de la revue avec SHERPA RoMEO
 
@@ -135,7 +135,7 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
 -   « Dorée » pour la maison d'édition ou la revue, pas pour vous :
 -   Vous payez un supplément (***APC***) avant la publication pour rendre l'accès libre à tous immédiatement.
     -   Il est possible d'obtenir un [rabais](https://bib.umontreal.ca/gerer-diffuser/libre-acces/services-libres-acces/rabais-avec-les-editeurs) sur certains APC.
--   Attention, les revues prédatrices jouent dans cette zone (voir @sec-predateurs).
+-   Attention, les [revues prédatrices](#sec-predateurs) jouent dans cette zone.
 -   Pas d'autre démarche spéciale à faire de votre part (à part signer le chèque).
 
 #### Voie verte
@@ -201,4 +201,4 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
 
 ### Identifier les éditeurs prédateurs
 
-Avant de soumettre la version finale, l'auteur de correspondance (*corresponding author*) et ses collaborateurs doivent vérifier que la revue ou la maison d'édition n'est pas douteuse (voir @sec-predateurs).
+Avant de soumettre la version finale, l'auteur de correspondance (*corresponding author*) et ses collaborateurs doivent vérifier que la revue ou la maison d'édition n'est pas [douteuse](#sec-predateurs).

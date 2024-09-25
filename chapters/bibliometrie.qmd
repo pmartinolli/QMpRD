@@ -160,4 +160,4 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 
 #### Faux indicateurs : Citefactor, Global Impact Factor
 
--   Voir le chapitre sur les éditeurs prédateurs (\@sec-predateurs).
+-   Voir le chapitre sur les [éditeurs prédateurs](#sec-predateurs).

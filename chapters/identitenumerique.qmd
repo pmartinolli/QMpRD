@@ -28,7 +28,7 @@
 -   Les résultats reflètent-ils qui vous êtes, vos recherches, vos réussites ? Avec suffisamment de précision ? Si vous voulez améliorer ça, ce chapitre est pour vous.
 -   Notez qu'il faut quelques mois pour que le travail sur votre identité numérique modifie l'ordre des résultats de recherche dans Google, Bing et autres.
 
-[^identitenumerique-2]: La syntaxe de ces recherches avec des guillemets et des OR est expliquée au @sec-operateurs
+[^identitenumerique-2]: La syntaxe de ces recherches avec des guillemets et des OR est expliquée [plus loin](#sec-operateurs)
 
 ## Identifiants principaux
 
@@ -145,8 +145,8 @@
     -   Connexion avec votre ORCID, puis associez ou créez un idHAL.
     -   Possibilité d'avoir un curriculum vitae avec [cvHAL](https://cv.archives-ouvertes.fr/).
 -   Wikimédia :
-    -   Identifiant Wikidata: Voir @sec-wikipourlarecherche pour indexer votre profil dans Wikidata et y aligner vos identifiants pérennes.
-    -   Wikipédia : Il est très très mal vu de rédiger une page Wikipédia sur soi-même. Si vous voulez une page Wikipédia à votre nom, assurez-vous d'avoir une [notoriété](#0) suffisante et de faire rédiger la page par des personnes tierces qui auront déclarés leurs conflits ou liens d'intérêt.
+    -   Identifiant [Wikidata](#sec-wikipourlarecherche): pour indexer votre profil dans Wikidata et y aligner vos identifiants pérennes.
+    -   Wikipédia : Il est très très mal vu de rédiger une page Wikipédia sur soi-même. Si vous voulez une page Wikipédia à votre nom, assurez-vous d'avoir une notoriété  suffisante et de faire rédiger la page par des personnes tierces qui auront déclarés leurs conflits ou liens d'intérêt.
 
 ### Optionnel : créer des redirections
 
@@ -160,7 +160,7 @@
     -   Pour faire du réseautage professionnel (CV en ligne, contacts, billets courts ou articles longs).
     -   Dans certains milieux de la recherche (service de soins de santé, éducation-ludification, etc.), c'est un outil de réseautage pertinent.
 -   X/Twitter, Bluesky, Mastodon,... :
-    -   Pour s'abonner à des flux d'information et redistribuer les plus intéressants (voir @sec-microbloguer).
+    -   Pour [s'abonner](#sec-microbloguer) à des flux d'information et redistribuer les plus intéressants.
 -   [ResearchGate](https://www.researchgate.net/) et [Academia.edu](https://www.academia.edu/) :
     -   Réseautage académique.
     -   Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
@@ -168,16 +168,16 @@
 
 ### Optionnel : promouvoir sa recherche
 
-Voir @sec-promouvoir.
+[Voir](#sec-promouvoir).
 
 ## Se tenir à jour et veiller sur ses profils
 
 -   Au moins une fois par trimestre, allez faire un tour sur votre métaprofil et vérifiez s'il est à jour.
 -   Au moins une fois par année, allez faire un tour sur chacun de vos profils sur les plateformes en ligne.
 -   Optionnel :
-    -   Faites une recherche dans Google avec votre nom (comme vu précédemment) pour vérifier si des éditeurs prédateurs n'ont pas mis votre nom sur des faux comités scientifiques à votre insu (voir les éditeurs prédateurs @sec-predateurs).
+    -   Faites une recherche dans Google avec votre nom (comme vu précédemment) pour vérifier si des éditeurs prédateurs n'ont pas mis votre nom sur des faux comités scientifiques à votre insu (voir les [éditeurs prédateurs](#sec-predateurs)).
     -   Créez une alerte dans [Google Alerts](https://www.google.com/alerts) sur votre nom. Exemple `"Pascal Martinolli" OR "Martinolli, Pascal"`
-    -   Dans les plateformes qui offrent cette fonction, créez d'autres alertes pour recevoir des notifications sur les citations que vous recevez, (voir @sec-alertes). Exemple : l'option *Follow* dans Google Scholar.
+    -   Dans les plateformes qui offrent cette fonction, créez d'autres [alertes](#sec-alertes) pour recevoir des notifications sur les citations que vous recevez. Exemple : l'option *Follow* dans Google Scholar.
 
 ## Signatures et liens
 

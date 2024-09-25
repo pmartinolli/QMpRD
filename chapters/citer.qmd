@@ -292,7 +292,7 @@
 
 ## Savoir identifier un document
 
-Voir @sec-identifierdocument
+[Voir](#sec-identifierdocument) 
 
 ## Document inaccessible ou partiel
 
@@ -381,6 +381,6 @@ Voir @sec-identifierdocument
 
 -   Bien citer permet de respecter l'aspect moral du droit d'auteur mais, dans le cas d'une diffusion de votre recherche, cela ne suffit pas car il y aussi un aspect **patrimonial** au droit d'auteur (ie. les droits liés à l'utilisation).
 
-    -   Si votre travail est diffusé, soyez attentif à ce que toutes les parties dont le droit d'auteur ne vous appartient pas n'enfreignent pas les droits d'auteur d'autres personnes ou institutions les détenant : portions de texte, graphiques, schémas, photographies, tableaux, données, etc. Voir @sec-droitdauteur
+    -   Si votre travail est diffusé, soyez attentif à ce que toutes les parties dont le droit d'auteur ne vous appartient pas n'enfreignent pas les [droits d'auteur](#sec-droitdauteur) d'autres personnes ou institutions les détenant : portions de texte, graphiques, schémas, photographies, tableaux, données, etc. 
 
 -   **Rappel : Ce manuel est rendu disponible à des fins d'information uniquement et ne constitue d'aucune manière un avis juridique.**

@@ -13,22 +13,45 @@
 
 ## Distinctions : travail de session / thèse
 
--   Les recherches d'information sont différentes pour ces deux types de travaux universitaires[^phaserecherche-1].
+-   Les besoins d'information sont différents pour ces deux types de travaux universitaires[^phaserecherche-1].
 
 [^phaserecherche-1]: Inspiré de <https://twitter.com/ShengwuLi/status/1624802079280693251>
 
-| Besoin d'information |                   Travail de session                    |           Mémoire ou thèse           |
-|:--------------------:|:-------------------------------------------------------:|:------------------------------------:|
-|        Tâches        |              structurées et bien définies               |   peu structurées et mal définies    |
-|     On y répond      | avec les outils de recherche et les méthodes existantes |            peut être pas             |
-|        Sujet         |                        générique                        |           très spécifique            |
-|       Étendue        |                        sélective                        |              exhaustive              |
-|        Durée         |                    très court terme                     |              long terme              |
-|     Les efforts      |              mènent généralement au succès              |                                      |
-|   Alerte ou veille   |                         inutile                         |              important               |
-|     Vocabulaire      |                         défini                          | souvent flou, émergent, en évolution |
-|       Méthodes       |                 unique ou disciplinaire                 |      parfois multidisciplinaire      |
++--------------------+-----------------------------------+--------------------------------------+
+|                    | Travail de session                | Mémoire ou thèse                     |
++:==================:+:=================================:+:====================================:+
+| Les tâches sont... | ...structurées\                   | ...peu structurées\                  |
+|                    | et bien définies                  | et mal définies                      |
++--------------------+-----------------------------------+--------------------------------------+
+| On y répond...     | ...avec des outils de recherche/\ | ...peut être pas                     |
+|                    | méthodes existantes               |                                      |
++--------------------+-----------------------------------+--------------------------------------+
+| Le sujet est...    | ...générique                      | ...très spécifique                   |
++--------------------+-----------------------------------+--------------------------------------+
+| Étendue :          | sélective                         | exhaustive                           |
++--------------------+-----------------------------------+--------------------------------------+
+| Durée :            | très court terme                  | long terme                           |
++--------------------+-----------------------------------+--------------------------------------+
+| Les efforts...     | ...mènent généralement au succès  |                                      |
++--------------------+-----------------------------------+--------------------------------------+
+| Alerte ou veille : | inutile                           | important                            |
++--------------------+-----------------------------------+--------------------------------------+
+| Vocabulaire :      | défini                            | souvent flou, émergent, en évolution |
++--------------------+-----------------------------------+--------------------------------------+
+| Domaine(s) :       | unique ou disciplinaire           | parfois multidisciplinaire           |
++--------------------+-----------------------------------+--------------------------------------+
+
+## Vue d'ensemble des méthodes de recherche de documentation
+
+-   Pour explorer un sujet à fond, il faut utiliser plusieurs méthodes de recherche de documentation.
+-   Voici une liste des principales méthodes, classées par ordre d'importance :
+    1.  Recherche avec des **mots-clés** dans des outils (bases de données, catalogues, etc.);
+    2.  Repérage d'**expert.es** sur notre sujet et de la liste de leurs publications;
+    3.  Utilisation de **listes** raisonnées (bibliobraphies, portails, collections, etc.);
+    4.  Réception d'**alertes** programmées;
+    5.  Informations provenant de mes **pair.es** (collègues de laboratoire, discussions à la machine à café, invisible college, etc.)
+    6.  **Sérendipité contrôlée** (parcourir le web de liens en liens avec un objectif et un temps limité, visiter les rayonnages des bibliothèques à des cotes de classement pertinentes, etc.)
 
 ## Distinctions : revue de littérature / revue systématique
 
-Voir @sec-revuelitterature pour distinguer les différents types de travaux sur l'exploration et l'exploitation de la recherche passée sur un sujet.
+- [Distinguer](#sec-revuelitterature) les différents types de travaux de recherches-synthèses sur un sujet.

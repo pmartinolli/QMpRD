@@ -7,7 +7,7 @@
     -   Titres des documents pertinents ;
     -   Experts identifiés ;
     -   Listes de mots-clés sur votre sujet.
--   Prenez ces notes et ces listes dans un « cahier de recherche » sous une forme qui vous est la plus confortable : papier, fichier Word, Zotero, Obsidian.md, etc. (voir @sec-cahierrecherche)
+-   Prenez ces notes et ces listes dans un « [cahier de recherche](#sec-cahierrecherche) » sous une forme qui vous est la plus confortable : papier, fichier Word, Zotero, Obsidian.md, etc. 
 
 ## Guides disciplinaires des bibliothèques
 
@@ -53,7 +53,7 @@
 -   Utiliser l'outil de recherche Sofia des Bibliothèque de l'UdeM <https://bib.umontreal.ca/sofia>
 -   Lancer une recherche avec votre **discipline** et le code **GE:encyclo\***
     -   Exemple : ``` sociologie GE:encyclo``*`` ```
--   Si la recherche est peu concluante, essayer avec une troncature\* (voir @sec-operateurs) ou un autre thème.
+-   Si la recherche est peu concluante, essayer avec une [troncature](sec-operateurs)\* ou un autre thème.
     -   Exemple: ``` sociolog``*`` GE:encyclo``* ``` ou bien ``` social``*`` GE:encyclo``*`` ``` ou bien ``` anthropolog``*`` GE:encyclo``* ```
 -   Si trop de résultats : limiter aux ouvrages imprimés ou numériques, ou les 10 ou 20 dernières années, ou par langue (menu de gauche).
 -   Fureter, feuilleter et parcourir les tables des matières et les index des encyclopédies pertinentes pour identifier les entrées d'encyclopédie proches de votre sujet.
@@ -123,6 +123,6 @@
 -   Les encyclopédies généralistes sont des outils de **qualité variable selon les articles**. C'est-à-dire qu'une encyclopédie généraliste peut traiter très bien un sujet et très médiocrement un autre.
     -   *[Encyclopædia Universalis](https://www.universalis.fr/)*. En français.
     -   *[Encyclopedia Britannica](https://www.britannica.com/)*. En anglais.
-    -   *[Wikipédia](https://fr.wikipedia.org/)*. Un portail de sources intéressantes et d'informations synthétiques MAIS à condition d'éviter deux écueils (voir @sec-wikipourlarecherche).
+    -   *[Wikipédia](https://fr.wikipedia.org/)*. Un portail de sources intéressantes et d'informations synthétiques MAIS à condition d'éviter deux [écueils](#sec-wikipourlarecherche) : 
         -   la possibilité d'un traitement partiel ou inégal d'un sujet ;
         -   la persistance d'erreurs non corrigées par la communauté des contributeurs.

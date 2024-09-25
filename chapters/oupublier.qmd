@@ -1,6 +1,6 @@
 # Dans quelle revue diffuser ma recherche ? {#sec-oupublier}
 
-Ce chapitre est une contribution égale de Valérie Rioux, Cynthia Gagné et Pascal Martinolli (Université de Montréal). Diffusée originellement à <https://github.com/pmartinolli/where2publish>
+Ce chapitre est une [contribution](https://github.com/pmartinolli/where2publish) égale de Valérie Rioux, Cynthia Gagné et Pascal Martinolli (Université de Montréal). 
 
 -   En bref :
 
@@ -122,7 +122,7 @@ Ce chapitre est une contribution égale de Valérie Rioux, Cynthia Gagné et Pas
 
     -   Notez que de manière générale, un article révisé par les pairs aura un peu plus de visibilité qu'un chapitre de livre.
 
--   **Libre accès ?** voir @sec-libreacces. pour en savoir plus sur le libre accès.
+-   [**Libre accès ?**](#sec-libreacces)
 
     -   Notez que de manière générale, un article publié en libre accès aura un peu plus de chance d'être lu et donc d'être cité.
 

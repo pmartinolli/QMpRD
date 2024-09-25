@@ -1,1 +1,1 @@
-{"entries":[{"key":"sec-cahierrecherche","order":{"number":1,"section":[19,0,0,0,0,0,0]},"caption":"19  Maintenir un cahier de recherche"}],"headings":["sec-cahierrecherche"],"options":{"chapter-id":"sec-cahierrecherche","chapters":true}}
+{"options":{"chapters":true,"chapter-id":"sec-cahierrecherche"},"entries":[{"key":"sec-cahierrecherche","caption":"19  Maintenir un cahier de recherche","order":{"section":[19,0,0,0,0,0,0],"number":1}}],"headings":["sec-cahierrecherche"]}

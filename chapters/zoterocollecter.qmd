@@ -1,6 +1,6 @@
 # Zotero pour collecter la documentation {#sec-zoterocollecter}
 
--   Préalable : avoir installé Zotero selon les paramètres indiqué (voir @sec-zoteroinstaller).
+-   Préalable : avoir [installé](#sec-zoteroinstaller) Zotero selon les paramètres indiqué.
 -   Principes généraux :
     -   Savoir collecter automatiquement des notices, principalement avec le connecteur Zotero.
     -   Savoir ajouter manuellement des notices.
@@ -34,7 +34,6 @@
 -   Comment ?
     -   Option 1 : Créez la notice du livre. Clic-droit sur la notice \> Dupliquer le document. Changer le type du nouveau document pour : Chapitre de livre (ou article d'encyclopédie).
     -   Option 2 (avec l'extension Zutilo, activez l'option Créer une notice Chapitre de livre : menu contextuel de Zutilo) : Créez la notice du livre. Clic-droit sur la notice \> Zutilo \> Créer une notice Chapitre de livre. Un chapitre est créé et il est lié au livre avec l'option Connexe.
--   Voir @sec-zoteroplus pour d'autres astuces d'importation.
 
 ## Organisation minimale
 
@@ -49,7 +48,7 @@
         -   Si le document n'est pas pertinent, supprimez-le avec clic-droit et sélectionnez Mettre le document à la corbeille.
 -   Avec ce système simple, vous évitez d'exploser le nombre de notices dans votre base Zotero.
 -   De plus, vous séparez les tâches de récolte (frénétiques) et les les tâches d'évaluation (minutieuses).
--   Nous verrons plus loin (@sec-zoteroorganiser) comment organiser sa bibliothèque Zotero de manière avancée .
+-   Nous verrons plus loin comment [organiser](#sec-zoteroorganiser) sa bibliothèque Zotero de manière avancée .
 
 ## Prendre des notes indépendantes dans Zotero
 

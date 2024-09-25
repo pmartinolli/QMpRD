@@ -138,7 +138,7 @@
     -   *Cited by...* : Fonction intéressante pour l'exploration (mais peu fiable : le comptage des citations d'autres documents dans Google Scholar contient beaucoup d'erreurs).
     -   *All ... versions* : Passerelle vers le document original ou vers différentes versions (en libre accès dans des dépôts institutionnels, etc.).
     -   Possibilité de faire des alertes sur les auteurs (idéalement) ou sur des mots-clés.
-        -   Auteur : si le nom de l'auteur est souligné, ça veut dire qu'il maintient son profil lui-même et que vous serez prévenu dès qu'il réclame de nouvelles références dans Google Scholar voir @sec-identitenumerique. Avoir un compte Google. Puis cliquez sur Follow.
+        -   Auteur : si le nom de l'auteur est souligné, ça veut dire qu'il maintient son [profil](#sec-identitenumerique) lui-même et que vous serez prévenu dès qu'il réclame de nouvelles références dans Google Scholar. Avoir un compte Google. Puis cliquez sur Follow.
         -   Mots-clés : exemples (puis cliquez *Create Alert* dans le menu de gauche)
             -   `author:Pascal Martinolli`(dans le cas où l'auteur n'a pas de profil mais qu'on veut le suivre tout de même
             -   `dementia board game`
@@ -151,8 +151,8 @@
     -   Critères d'exclusion et d'inclusions inconnus.
     -   Algorithme de traitement des résultats inconnus.
     -   Potentialités de réglages personnels, d'expérimentation, de développement par la communauté des chercheurs : quasiment inexistantes.
-    -   Présence de documents non-scientifiques, pseudo-scientifiques ou peu-scientifiques (venant de revues prédatrices, etc.). @sec-predateurs
-    -   Google Scholar a contribué à la popularité du *h-index*, un indicateur bibliométrique médiocre voire trompeur @sec-bibliometrie
+    -   Présence de documents non-scientifiques, pseudo-scientifiques ou peu-scientifiques (venant de [revues prédatrices](#sec-predateurs), etc.).
+    -   Google Scholar a contribué à la popularité du *h-index*, un indicateur [bibliométrique](#sec-bibliometrie) médiocre voire trompeur.
     -   Risque de disparition du jour au lendemain.
 
 #### Google Scholar : utiliser les liens de citation
@@ -331,7 +331,7 @@ S'il l'un est pertinent, alors en tester d'[autres](https://coop-ist.cirad.fr/tr
 
 ## Quelques outils de cartographie de l'information
 
-Voir @sec-cartographieinformation.
+[Voir](#sec-cartographieinformation).
 
 ## Eureka.cc : articles de journaux et de magazines
 
@@ -343,7 +343,7 @@ Voir @sec-cartographieinformation.
 
 -   Comment ?
 
-    -   Se connecter à Eureka.cc <https://libguides.bib.umontreal.ca/Eureka>
+    -   Se connecter à [Eureka.cc](https://libguides.bib.umontreal.ca/Eureka)
 
     -   Il n'y a pas de champ Sujets, donc se limiter chercher vos mots dans les Titres ou dans les Introductions (= Titre + chapeau + premier paragraphe de l'article) pour ne pas avoir trop de résultats pour les recherches thématiques.
 

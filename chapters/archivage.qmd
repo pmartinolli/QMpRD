@@ -2,9 +2,9 @@
 
 -   Préalables : Suivez TOUTES les indications de :
 
-    -   la section Stratégies de sauvegarde durable p. ☐
+    -   La section Stratégies de [sauvegarde durable](#sec-sauvegardedurable)
 
-    -   et du chapitre sur les Formats p. ☐.
+    -   Et du chapitre sur les [formats](#sec-formats)
 
 -   Le support **électronique est instable et fragile**. Au-delà de quelques années, ne faites pas confiance aux disques durs, ni aux CD gravés ou aux DVD gravés, ni aux clés USB.
 
@@ -18,11 +18,11 @@
 
 -   **Imprimez** vos documents importants et conservez-les dans un lieu d'**entreposage durable**.
 
-    -   Une photocopie imprimée sur du papier non acide <https://fr.wikipedia.org/wiki/Papier_non_acide> peut durer au moins 40 ans (à l'abri de la lumière, de humidité, loin de tout plastique PVC, et sans colle).
+    -   Une photocopie imprimée sur du [papier non acide](https://fr.wikipedia.org/wiki/Papier_non_acide) peut durer au moins 40 ans (à l'abri de la lumière, de humidité, loin de tout plastique PVC, et sans colle).
 
     -   N'oubliez pas de sélectionner et d'imprimer vos feuilles de paie, documents d'assurance, photos de mariage, de naissance, vos poèmes de jeunesse, vos articles, et tout ce que vous avez rédigé et qui a de la valeur pour vous.
 
-    -   Ayez un plan d'archivage personnel : ☐
+    -   Ayez un plan d'archivage personnel : 
 
         -   Identifiez ce que je veux archiver :
 
@@ -46,7 +46,7 @@
 
         -   Gérez le contenu de temps en temps (vérifiez).
 
-    -   Entreposez durablement : ☐
+    -   Entreposez durablement : 
 
         -   Dans un local à température constante, peu humide, sur l'avant-dernière étagère du haut de votre bibliothèque.
 

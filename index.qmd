@@ -6,7 +6,7 @@
 
 - Ce manuel est un « document de travail en cours de rédaction » ou « document vivant » en constante amélioration pour s'adapter aux besoins des étudiant.es du PLU6058.
 - Le manuel est licencié [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-- Cette 4e édition est rédigée avec Quarto : conseils de réutilisation et suggestions de citation à @sec-accesetdroit.
+- Cette 4e édition est rédigée avec Quarto : [conseils](#sec-accesetdroit) de réutilisation et suggestions de citation.
 
 
 ------------------------------------------------------------------------

@@ -3,8 +3,8 @@
 ##  Conversation scientifique après publication
 
 -   Avec **PubPeer** <https://pubpeer.com/> : pour repérer les fraudes, les problèmes de méthodes, les biais, les limites, etc.
--   Avec les ***altmetrics*** (voir @sec-bibliometrie)
--   Dans les sites de microbloguing comme X/Twitter, ou Mastodon, ou BlueSky(voir @sec-microbloguer)
+-   Avec les [***altmetrics***](#sec-bibliometrie)
+-   Dans les sites pour [microbloguer](#sec-microbloguer) comme X/Twitter, ou Mastodon, ou BlueSky
 -   En cherchant le titre complet de l'article entre guillemets carrés dans **Google**.
 -   En utilisant un **index de citations** pour savoir qui a cité cette publication.
 
@@ -17,7 +17,7 @@
 -   Elle comprend :
     -   Les **rapports** (*reports*) ;
     -   Les **documents de travail** (*working papers*) avant leur publication dans une revue par comité de lecture ;
-        -   Déposés dans des dépôts de *preprints.* (voir @sec-prepublication)
+        -   Déposés dans des dépôts de [*prépublications*](sec-prepublication).
         -   Déposés sur le site web personnel d'un chercheur.
         -   Déposés dans un site de colloque ou de congrès, etc.
     -   Les **publications gouvernementales** ou non-gouvernementales (*government documents*). Voir ci-dessous.
@@ -42,7 +42,7 @@
 
 ## Dépôts de prépublications (*preprints*)
 
-Voir @sec-prepublication
+[Voir](#sec-prepublication)
 
 ## Documents d'archives
 
@@ -80,7 +80,7 @@ Voir @sec-prepublication
     -   Pas d'agrégation car chaque enregistrement décrit une entité (une personne, une entreprise, etc.).
 -   Offre le plus de possibilités mais aussi demande le plus de travail statistique (avec des logiciels spécialisés : R, SPSS, Stata, etc.)
 -   Accessibles auprès d'institutions de statistiques spécialisées : Statistique Canada, Institut de la statistique du Québec, CIQSS, etc.
--   Format (voir @sec-formats) :
+-   [Format](#sec-formats) :
     -   Un fichier de données brutes (souvent au format ASCII) de plusieurs milliers de lignes.
     -   Un fichier-clé pour l'importer dans un logiciel spécialisé.
     -   Des fichiers d'accompagnement décrivant les données.
@@ -94,4 +94,4 @@ Voir @sec-prepublication
 -   De plus en plus accessibles :
     -   Mouvement du Open Data avec le dépôt de données de recherche dans des plateformes dédiées : Borealis, OSF, Zenodo, etc.
     -   Aussi parfois via l'option *Supplementary documents* de certains articles scientifiques publiés Souvent il est indiqué « Données disponibles sur demande » mais une étude de 2022 a montré que seul 7% répondaient favorablement\...<https://doi.org/10.1016/j.jclinepi.2022.05.019>.
--   Voir @sec-gdr pour gérer votre plan de données de recherche.
+-   Gérer votre [plan de données de recherche](#sec-gdr).
