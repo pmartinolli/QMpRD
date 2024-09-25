@@ -62,7 +62,8 @@
 -   Réglage du champ de recherche : remplacer *All Fields* par *Topic*.
     -   Cela ne va chercher que sur le titre, le résumé et les mots-clés libres (non contrôlés, car il n'y a pas de thésaurus dans WoS).
 
-### Faire des recherches combinées dans WoS (le top!) 
+
+### Faire des recherches combinées 
 
 -   Lancer une recherche sur votre premier thème de recherche, puis revenez à la page de recherche de départ en cliquant sur *Search* (en haut à gauche).
     -   Exemple : Topic =``` dementia OR démence``* ```
@@ -91,12 +92,12 @@
         -   Pourquoi ? Permet de faire des visualisations intéressantes (conditions : nombre + pertinence des résultats). Exemple :
             -   Quelles sont les universités et les chercheurs qui étudient le plus sur ce sujet ? (pour aller faire mon post-doc là-bas avec eux?)
             -   Quelles sont les revues qui ont le plus publiées sur ce sujet ? (pour y soumettre mes futurs articles ?)
-        -   Comment ? Cliquer sur *Analyse Results*.
-            -   Cliquer sur *Web of Science Categories* et remplacer par :
-                -   *Authors* ou *Editors*
-                -   *Affiliations*
-                -   *Publication Titles*
-                -   Autres
+    -   Comment ? Cliquer sur *Analyse Results*.
+        -   Cliquer sur *Web of Science Categories* et remplacer par :
+            -   *Authors* ou *Editors*
+            -   *Affiliations*
+            -   *Publication Titles*
+            -   Autres
 
 ### Alertes
 
@@ -118,7 +119,7 @@
 
 ## Moteurs de recherche académiques
 
-### [Google Scholar](https://scholar.google.fr/) 
+### [Google Scholar](https://scholar.google.fr/)
 
 -   En bref :
     -   C'est un sous-produit de Google qui ne contient que des références de documents (principalement des articles universitaires, mais aussi des conférences, des livres, des rapports, etc.).
@@ -166,7 +167,7 @@
 
     -   Explorez et recommencez.
 
-### [BASE Search](https://www.base-search.net/) 
+### [BASE Search](https://www.base-search.net/)
 
 -   En bref :
 
@@ -302,7 +303,7 @@ S'il l'un est pertinent, alors en tester d'[autres](https://coop-ist.cirad.fr/tr
 
 -   Il est possible de se créer un compte et déposer des documents (dont vous avez les droits d'auteur) en libre accès.
 
-### [WayBackMachine](https://archive.org/web/) 
+### [WayBackMachine](https://archive.org/web/)
 
 -   Pourquoi ?
 
