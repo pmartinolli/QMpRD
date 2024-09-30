@@ -44,12 +44,7 @@
 
 [Voir](#sec-prepublication)
 
-## Documents d'archives
-
--   Chaque institution d'archives a son propre système de classement, d'indexation (imprimé ou électronique).
--   Demander plus d'information à l'archiviste (étendue du fond, accès, indexation, consultation, numérisation, etc.).
-
-## Données numériques
+## Données numériques {#sec-donneesnumeriques}
 
 -   Moteurs de recherche de qualité variable pour les repérer selon les institutions.
 -   Des **micro-données** servent à construire des **données statistiques** qui servent elles-mêmes à construire des **indicateurs**.

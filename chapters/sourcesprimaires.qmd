@@ -1,0 +1,58 @@
+# Sources primaires {#sec-sourcesprimaires}
+
+## Définitions 
+
+- Ensemble de **données brutes** (de première main) sur un sujet ou un phénomène.
+- Exemples : statistiques, données d'enquête, résultats bruts d'une étude, journal intime, carnet de notes personnelles, discours, etc.
+- Permet de mieux **vérifier** et d'**appuyer** des arguments en les connectant à des faits enregistrés dans des traces. 
+- Demande une **expertise** pour bien être comprise et utilisée.
+
+
+## Comment repérer des ensembles de sources tertiaires
+
+- Repérer des sources tertiaires ou des sources secondaires qui les mentionnent.
+  - Les [guides](https://bib.umontreal.ca/explorer) ou portails des bibliothèques sont un bon départ.
+- Demander à des experts : professeurs, bibliothécaires, archivistes, etc. 
+
+
+## Exemples de sources primaires 
+
+#### Archives institutionnelles 
+
+#### [Données statistiques](#sec-donneesnumeriques)
+
+####  Articles de journaux, de magazines
+
+-   Base de données d'articles de **journaux et de magazines**
+    -   Exemple : *Eureka.cc* (Québec, Canada, Etats-Unis, Europe, monde)
+-   Contient à la fois :
+    -   une description simple d'un document : titre, auteur, source, date de publication.
+    -   ET le texte complet du document.
+    -   Il y a rarement des mots-clés Sujets.
+-   Comment chercher des articles sans être submergé de résultats ?
+    -   Chercher vos mots-clés dans **l'introduction** de l'article seulement (Introduction = Titre + premiers paragraphes).
+    -   Combiner vos mots-clés avec des opérateurs logiques (AND, OR, NOT,...) si la base de données qui héberge les journaux est performante (ce qui est la cas de *Eureka.cc*). 
+
+
+## Comment chercher dans des archives digitalisées 
+
+- S'attendre à chercher dans de **gros volumes** de documents : 
+  - Peu ou **pas structurés**.
+  - Homogènes ou **hétérogènes** (plein de documents de différents types ou de différentes collections)
+- Utiliser des techniques de recherche de documents **diversifiées** : 
+  - Chercher les mots-clés dans les métadonnées et/ou dans le texte intégral 
+  - Utiliser la navigations ou l'arborescence existante
+  - Utiliser les filtres existants (années, collections, etc.)
+- S'attendre à utiliser des moteurs de recherche **médiocres** 
+  - Donc ne pas rédiger des équations de recherche complexes ou longues
+  - N'utiliser que quelques mots-clés seulement
+- Toutes les archives numérisées ne sont pas toujours augmentées avec une **reconnaissance de caractères** du texte intégral. 
+- Si un.e **archiviste** est disponible, ne pas hésiter à demander de l'aide (étendue du fond, accès, indexation, consultation, numérisation, etc.).
+
+## Attitude critique
+
+- Des archives peuvent comporter des [vides](https://www.ala.org/acrl/publications/keeping_up_with/primary_source_literacy), des biais ou des distorsions (volontaires ou involontaires).
+- Il est pertinent de repérer comment des archives ont été traitées ou critiquées dans des sources secondaires ou tertiaires.
+
+
+

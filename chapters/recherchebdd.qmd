@@ -73,13 +73,7 @@
 
 ## Base de données en texte intégral de journaux
 
--   Base de données d'articles de **journaux et de magazines**
-    -   Exemple : *Eureka.cc* (Québec, Canada, Etats-Unis, Europe, monde)
--   Contient à la fois :
-    -   une description simple d'un document (il y a rarement des mots-clés Sujets issus d'un thésaurus)
-    -   ET le texte complet du document.
--   Comment chercher des articles sans être submergé de résultats ?
-    -   Chercher vos mots-clés dans **l'introduction** de l'article seulement (Titre + premiers paragraphes).
+Voir [Sources tertaires](#sec-sourcestertiaires)
 
 ## Index de citations
 

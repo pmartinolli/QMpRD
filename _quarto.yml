@@ -11,13 +11,13 @@ book:
         affiliations:
           - name: "Université de Montréal"
             department: "Bibliothèques / UdeM"
-  date: "2024-09-25"
+  date: "2024-09-30"
   language: "fr"
   license: "CC-BY-NC-SA 4.0"
   pdf-url: "https://bib.umontreal.ca/multidisciplinaire/plu6058"
   status : "living document"
   type: "book"
-  version: "4.11"
+  version: "4.12"
   abstract: "Ce manuel est principalement conçu pour accompagner le séminaire PLU6058, qui vise à améliorer les compétences informationnelles des étudiant.es des cycles supérieurs de l'Université de Montréal. Cependant, il peut également être utilisé de manière autonome et autodidacte pour la recherche et l'utilisation de la documentation dans le cadre d'un projet de recherche. En outre, il peut être utilisé comme une ressource éducative par les enseignant.es en bibliothèque de recherche."
 
 
@@ -59,6 +59,7 @@ book:
     - chapters/numerisation.qmd
     - chapters/archivage.qmd
     - chapters/revuelitterature.qmd
+    - chapters/sourcesprimaires.qmd
     - chapters/kitdepartudem.qmd
   - part: "Au-delà de votre recherche : outils"
     chapters:

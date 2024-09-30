@@ -146,23 +146,23 @@
 
 -   Optionnel: dans Zotero, ajoutez le marqueur \[`_bibliographieAnalysée`\] \[à la référence contenant la bibliographie que vous venez d'analyser et de parcourir. Colorez le marqueur si besoin.
 
-#### Sources primaire, secondaire ou tertiaire
+#### Sources primaires, secondaires ou tertiaires
 
 -   Il existe 3 grands types de sources : sources primaires, secondaires et tertiaires.
 
 -   Elles se distinguent par leur nature, leur type de production, leur objectifs, ...
 
-##### Source primaire :
+##### [Sources primaires](#sec-sourcesprimaires) : 
 
--   Ensemble de **données brutes** sur un sujet.
+-   Ensemble de **données brutes** (de première main) sur un sujet ou un phénomène.
 
--   Un matériau de première main d'un phénomène : statistiques, données d'enquête, résultats bruts d'une étude, journal intime, carnet de notes personnelles, discours, etc.
+-   Exemples : statistiques, données d'enquête, résultats bruts d'une étude, journal intime, carnet de notes personnelles, discours, etc.
 
--   Permet de mieux **vérifier**.
+-   Permet de mieux **vérifier** et d'**appuyer** des arguments.
 
 -   Demande une **expertise** pour bien être comprise et utilisée.
 
-##### Source secondaire :
+##### Sources secondaires :
 
 -   Documents qui ont **analysé**, commenté, critiqué, contextualisé, recoupé, reformulé, confronté, expliqué, évalué ou synthétisé des sources primaires.
 
@@ -170,9 +170,11 @@
 
 -   Une source secondaire permet de mieux **comprendre**.
 
-##### Source tertiaire :
+##### [Sources tertiaires](#sec-sourcestertiaires) :
 
--   Une **sélection** et une **compilation** synthétique de sources primaires et de sources secondaires.
+-   Une **introduction** synthétique à un sujet.
+
+    -   Dans l'idéal, accompagnée par une **sélection** et une **compilation** de sources primaires et de sources secondaires.
 
 -   Une source tertiaire permet de mieux **aborder un sujet**.
 

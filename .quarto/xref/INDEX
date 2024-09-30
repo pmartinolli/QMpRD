@@ -280,5 +280,8 @@
   },
   "chapters/git.qmd": {
     "git.html": "a83e7a87"
+  },
+  "chapters/sourcesprimaires.qmd": {
+    "sourcesprimaires.html": "b86c9945"
   }
 }

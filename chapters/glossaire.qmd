@@ -218,6 +218,8 @@
 
 -   ***Snowballing*** : voir *pearl growing*.
 
+-   **Sources primaires** (*primary sources*) : Ensemble de données brutes sur un sujet. Permet de vérifier et d'appuyer des arguments. Demande une expertise pour être bien comprise et utilisée.
+
 -   **Style bibliographique** (*bibliographic style*) : manière de mettre en forme votre texte, vos citations exactes, vos citations abrégées et votre bibliographie ou liste de références finale.
 
 -   **Syllabus** : plan de cours.
