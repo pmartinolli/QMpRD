@@ -13,9 +13,7 @@ book:
         affiliations:
           - name: "Université de Montréal"
             department: "Bibliothèques / UdeM"
-  # date: "2024-09-30"
-  date: last-modified
-  date-format: "DD MMMM YYYY"
+  date: "2024-10-03"
 
   license: "CC-BY-NC-SA 4.0"
   pdf-url: "https://bib.umontreal.ca/multidisciplinaire/plu6058"
