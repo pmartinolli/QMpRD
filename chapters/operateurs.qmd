@@ -11,6 +11,7 @@ L'essentiel à savoir (en 8 minutes) :
 
 Pour aller plus loin : une [série de dix capsules](https://umontreal.ca.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22654420b3-e1fb-4522-9305-af5d01651a44%22&sortColumn=0&sortAscending=true) présentant les notions expliquées dans cette page.
 
+
 ## AND
 
 -   AND est l'opérateur logique **le plus important.**

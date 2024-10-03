@@ -2,6 +2,8 @@ project:
   type: book
   output-dir: docs
 
+lang: fr
+
 book:
   title: "Manuel pratique de recherche documentaire"
   subtitle: "Pour le séminaire PLU6058"
@@ -11,10 +13,15 @@ book:
         affiliations:
           - name: "Université de Montréal"
             department: "Bibliothèques / UdeM"
-  date: "2024-09-30"
-  language: "fr"
+  # date: "2024-09-30"
+  date: last-modified
+  date-format: "DD MMMM YYYY"
+
   license: "CC-BY-NC-SA 4.0"
   pdf-url: "https://bib.umontreal.ca/multidisciplinaire/plu6058"
+  repo-url: https://github.com/pmartinolli/QMpRD
+  repo-actions: [issue]
+  downloads: [pdf, epub]
   status : "living document"
   type: "book"
   version: "4.12"
@@ -112,5 +119,6 @@ format:
       - ignorehead
       - ignorefoot
       - heightrounded
-
+  epub:
+    fig-format: png
 
