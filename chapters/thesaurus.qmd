@@ -72,7 +72,7 @@
 
 ## Se construire son propre thésaurus personnel (pour Zotero ou tout autre système)
 
-### Pour se créer un thésaurus personnel
+### Pourquoi se créer un thésaurus personnel ?
 
 -   Pour mieux retrouver ses références bibliographiques.
 
@@ -94,15 +94,16 @@
 
 -   En indexant ses références bibliographiques avec ces marqueurs uniques pertinents.
 
--   Un thésaurus est toujours lié aux possibilités informatiques du logiciel dans lequel il est implanté. Les méthodes ci-dessous sont adaptées au logiciel Zotero mais elles peuvent être traduites et adaptées à d'autres logiciels. Le terme «marqueur» est utilisé car c'est le terme de Zotero. Dans le vocabulaire des thésaurus, un marqueur s'appelle un «descripteur».
+-   Un thésaurus est toujours lié aux possibilités informatiques du logiciel dans lequel il est implanté. Les méthodes ci-dessous sont adaptées au logiciel Zotero mais elles peuvent être traduites et adaptées à d'autres logiciels. Le terme « marqueur » est utilisé car c'est le terme de Zotero. Dans le vocabulaire des thésaurus, un marqueur s'appelle un « descripteur ».
 
--   Il y a trois grandes familles de marqueurs :
+-   Je suggère 3 grandes familles de marqueurs :
 
     -   Des marqueurs de méthodes de travail (une poignée)
 
     -   Des marqueurs d'évaluation ou de description (une poignée)
 
     -   Des marqueurs thématiques (l'essentiel des marqueurs)
+
 
 #### Suggestions de marqueurs de méthode de travail :
 
@@ -135,6 +136,10 @@
     -   Astuce : rédigez les marqueurs génériques TOUT EN MAJUSCULES. Et rédigez les autres marqueurs tout en minuscules.
 
 -   Commencez à créer votre thésaurus à partir des 50 références les plus importantes de votre corpus. Puis ensuite, intégrer les autres références pour le compléter.
+
+- Un marqueur a pour fonction de repérer un document, pas spécialement de décrire un document. 
+    - Question à se poser avant d'ajouter un marqueur à un document : « Est-ce qu'en utilisant ce marqueur je serai content de repérer ce document ? » 
+    - Cela explique pourquoi on peut utiliser un marqueur pour des sujets proches (ex. utiliser _copyright pour brevet).
 
 -   Ne pas dépasser 100 marqueurs différents. Idéalement rester entre 50 et 100 maximum.
 
@@ -232,7 +237,7 @@ Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoi
 
         -   Exemple : en anglais, au singulier et tout en minuscule (mon préféré).
 
-        -   Car dans Zotero les marqueurs sont sensibles à la casse et aux accents.
+        -   Car dans Zotero les marqueurs sont sensibles aux accents (mais plus à la casse depuis la v7).
 
     -   Parcourir sa collection de références et repérer les thèmes. Si un nouveau thème est pertinent, créez un marqueur.
 
@@ -275,3 +280,9 @@ Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoi
     -   `_JEU` et `_jeu de société` : toujours ensemble
 
     -   etc.
+    
+### Exemples de thésaurus simples
+
+- [Aide-mémoire](https://github.com/pmartinolli/MyThesaurus/blob/master/files/TM-mythesaurus-v1.1.fr.pdf)
+
+- [Thésaurus à 2 niveaux et synonymes](https://github.com/pmartinolli/MyThesaurus/blob/master/files/TTRPG-simple-thesaurus.pdf)
