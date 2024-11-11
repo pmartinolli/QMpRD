@@ -80,33 +80,10 @@
 
 -   Cons : Pas facile à combiner pour trouver des notices qui seraient dans plusieurs collections à la fois. C'est plus facile avec des marqueurs...
 
-#### Utiliser un thesaurus personnel
+#### Créer et utiliser un thesaurus personnel
 
 [Voir](#sec-thesaurus)
 
-#### Indexation des documents de votre bibliothèque de références Zotero
-
--   Principes généraux :
-
-    -   La règle principale pour ajouter un marqueur est « **une personne cherchant avec ce marqueur sera-t-elle satisfaite de repérer ce document ?** ».
-
-        -   Cela permet de faire des choix pour des documents qui parle d'un thème-marqueur mais qui ne sont pas pertinents si on cherche de l'information à propos de ce thème-marqueur. Exemple : mon document parle d'oiseaux, mais si un jour je cherche des choses sur les oiseaux, ce document ne sera pas spécialement pertinent pour moi. Donc, je n'utilise pas le marqueur `oiseau`.
-
-    -   Plus une référence est importante dans votre corpus, plus elle devrait naturellement avoir beaucoup de marqueurs.
-
-        -   Si une référence est moyennement ou peu pertinente, il est normal qu'elle ait : peu de marqueurs, voire seulement des marqueurs très génériques.
-
-    -   Si vous avez un système de marqueurs à 2 niveaux (ex: `_sport` \> `_natation`) et si vous voulez indexer un terme spécifique (ex : `_natation`), alors il faut indexer avec les **marqueurs des deux niveaux** pour chaque référence (ex :`_sport` et `_natation`)
-
--   Commencez indexer vos références les plus importantes avec les marqueurs pertinents.
-
--   Continuez avec les références moins importantes.
-
--   Si besoin, on peut exporter toute la liste des marqueurs de votre bibliothèque Zotero dans un fichier externe : Installer l'extension Zutilo, puis aller à la racine de la Bibliothèque Zotero \> Sélectionner toutes les références \> Zutilo \> Copier les marqueurs dans le presse-papier. Ouvrir un logiciel éditeur de texte (comme Notepad++ par exemple) \> Coller. (Zutilo n'est pas disponible dans la version 7 de Zotero pour le moment).
-
--   [Exemples, aide mémoire et fichiers modèles](https://github.com/pmartinolli/TM-MyThesaurus).
-
--   Une [base](https://www.zotero.org/groups/446523) de données Zotero utilisant ces principes.
 
 ### Rechercher
 
@@ -154,26 +131,4 @@
 
 -   Fragilité de cette structure : si vous exportez votre bibliothèque (en Zotero RDF) ou si vous les versez dans une bibliothèque de groupe, les liens connexes ne seront pas exportés.
 
-### Bonnes pratiques dans le cas d'une bibliothèque de groupe partagée
 
--   Le thésaurus de vos marqueurs contrôlés va être encore plus important.
-
-    -   Quand on est seul, il sert à communiquer avec notre moi du futur. Quand on est en groupe, c'est comme une langue commune.
-
-    -   Choisir de créer ou de fusionner des marqueurs doit être une décision explicite faite par les participants.
-
-    -   Ne pas hésiter à commencer chaque réunion de travail du groupe par un survol des marqueurs utilisés (succès, pertinence, nouveaux candidats, etc.).
-
--   Remplacer le marqueur `_lu` par un marqueur avec les initiales de chaque participants.
-
-    -   exemple : `=PM` pour Pascal Martinolli.
-
--   Créer une collection pour les nouvelles références.
-
-    -   Mieux : créer une collection contenant des sous-collections mensuelles pour que l'on suive ce qui est rajouté au cours du temps.
-
-    -   Chaque nouvelle référence doit être signée par le participant qui l'a ajouté (exemple avec `=PM`).
-
--   Créer une collection Candidats à la suppression.
-
-    -   Quand tout le monde est d'accord, les références dedans sont supprimées.

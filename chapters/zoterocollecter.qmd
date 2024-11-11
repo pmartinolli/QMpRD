@@ -31,9 +31,8 @@
 #### Astuce : Créer une notice de chapitre de livre
 
 -   Pourquoi ? Créer directement une notice de chapitre de livre ou d'une entrée d'encyclopédie à partir d'une référence en ligne et du connecteur est rarement disponible. Alors on créé une notice du livre ou de l'encyclopédie et, à partir de celle-ci, on créé un chapitre/entrée.
--   Comment ?
-    -   Option 1 : Créez la notice du livre. Clic-droit sur la notice \> Dupliquer le document. Changer le type du nouveau document pour : Chapitre de livre (ou article d'encyclopédie).
-    -   Option 2 (avec l'extension Zutilo, activez l'option Créer une notice Chapitre de livre : menu contextuel de Zutilo) : Créez la notice du livre. Clic-droit sur la notice \> Zutilo \> Créer une notice Chapitre de livre. Un chapitre est créé et il est lié au livre avec l'option Connexe.
+-   Comment ? Créer la notice du livre. Clic-droit sur la notice \> Créer un Chapitre de livre. Ce chapitre sera lié au livre.
+
 
 ## Organisation minimale
 

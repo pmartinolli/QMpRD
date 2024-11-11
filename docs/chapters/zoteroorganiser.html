@@ -569,7 +569,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#rechercher" id="toc-rechercher" class="nav-link" data-scroll-target="#rechercher"><span class="header-section-number">12.0.2</span> Rechercher</a></li>
   <li><a href="#recherche-enregistrée" id="toc-recherche-enregistrée" class="nav-link" data-scroll-target="#recherche-enregistrée"><span class="header-section-number">12.0.3</span> Recherche enregistrée</a></li>
   <li><a href="#connexe" id="toc-connexe" class="nav-link" data-scroll-target="#connexe"><span class="header-section-number">12.0.4</span> Connexe</a></li>
-  <li><a href="#bonnes-pratiques-dans-le-cas-dune-bibliothèque-de-groupe-partagée" id="toc-bonnes-pratiques-dans-le-cas-dune-bibliothèque-de-groupe-partagée" class="nav-link" data-scroll-target="#bonnes-pratiques-dans-le-cas-dune-bibliothèque-de-groupe-partagée"><span class="header-section-number">12.0.5</span> Bonnes pratiques dans le cas d’une bibliothèque de groupe partagée</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/pmartinolli/QMpRD/issues/new" class="toc-action"><i class="bi bi-github"></i>Faire part d'un problème</a></li></ul></div></nav>
     </div>
@@ -672,31 +671,9 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Cons : Pas facile à combiner pour trouver des notices qui seraient dans plusieurs collections à la fois. C’est plus facile avec des marqueurs…</p></li>
 </ul>
 </section>
-<section id="utiliser-un-thesaurus-personnel" class="level4" data-number="12.0.1.4">
-<h4 data-number="12.0.1.4" class="anchored" data-anchor-id="utiliser-un-thesaurus-personnel"><span class="header-section-number">12.0.1.4</span> Utiliser un thesaurus personnel</h4>
+<section id="créer-et-utiliser-un-thesaurus-personnel" class="level4" data-number="12.0.1.4">
+<h4 data-number="12.0.1.4" class="anchored" data-anchor-id="créer-et-utiliser-un-thesaurus-personnel"><span class="header-section-number">12.0.1.4</span> Créer et utiliser un thesaurus personnel</h4>
 <p><a href="thesaurus.html">Voir</a></p>
-</section>
-<section id="indexation-des-documents-de-votre-bibliothèque-de-références-zotero" class="level4" data-number="12.0.1.5">
-<h4 data-number="12.0.1.5" class="anchored" data-anchor-id="indexation-des-documents-de-votre-bibliothèque-de-références-zotero"><span class="header-section-number">12.0.1.5</span> Indexation des documents de votre bibliothèque de références Zotero</h4>
-<ul>
-<li><p>Principes généraux :</p>
-<ul>
-<li><p>La règle principale pour ajouter un marqueur est « <strong>une personne cherchant avec ce marqueur sera-t-elle satisfaite de repérer ce document ?</strong> ».</p>
-<ul>
-<li>Cela permet de faire des choix pour des documents qui parle d’un thème-marqueur mais qui ne sont pas pertinents si on cherche de l’information à propos de ce thème-marqueur. Exemple : mon document parle d’oiseaux, mais si un jour je cherche des choses sur les oiseaux, ce document ne sera pas spécialement pertinent pour moi. Donc, je n’utilise pas le marqueur <code>oiseau</code>.</li>
-</ul></li>
-<li><p>Plus une référence est importante dans votre corpus, plus elle devrait naturellement avoir beaucoup de marqueurs.</p>
-<ul>
-<li>Si une référence est moyennement ou peu pertinente, il est normal qu’elle ait : peu de marqueurs, voire seulement des marqueurs très génériques.</li>
-</ul></li>
-<li><p>Si vous avez un système de marqueurs à 2 niveaux (ex: <code>_sport</code> &gt; <code>_natation</code>) et si vous voulez indexer un terme spécifique (ex : <code>_natation</code>), alors il faut indexer avec les <strong>marqueurs des deux niveaux</strong> pour chaque référence (ex :<code>_sport</code> et <code>_natation</code>)</p></li>
-</ul></li>
-<li><p>Commencez indexer vos références les plus importantes avec les marqueurs pertinents.</p></li>
-<li><p>Continuez avec les références moins importantes.</p></li>
-<li><p>Si besoin, on peut exporter toute la liste des marqueurs de votre bibliothèque Zotero dans un fichier externe : Installer l’extension Zutilo, puis aller à la racine de la Bibliothèque Zotero &gt; Sélectionner toutes les références &gt; Zutilo &gt; Copier les marqueurs dans le presse-papier. Ouvrir un logiciel éditeur de texte (comme Notepad++ par exemple) &gt; Coller. (Zutilo n’est pas disponible dans la version 7 de Zotero pour le moment).</p></li>
-<li><p><a href="https://github.com/pmartinolli/TM-MyThesaurus">Exemples, aide mémoire et fichiers modèles</a>.</p></li>
-<li><p>Une <a href="https://www.zotero.org/groups/446523">base</a> de données Zotero utilisant ces principes.</p></li>
-</ul>
 </section>
 </section>
 <section id="rechercher" class="level3" data-number="12.0.2">
@@ -738,30 +715,6 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 <li><p>Onglet Connexe : Ajouter + sélectionner un ou plusieurs documents.</p></li>
 <li><p>Fragilité de cette structure : si vous exportez votre bibliothèque (en Zotero RDF) ou si vous les versez dans une bibliothèque de groupe, les liens connexes ne seront pas exportés.</p></li>
-</ul>
-</section>
-<section id="bonnes-pratiques-dans-le-cas-dune-bibliothèque-de-groupe-partagée" class="level3" data-number="12.0.5">
-<h3 data-number="12.0.5" class="anchored" data-anchor-id="bonnes-pratiques-dans-le-cas-dune-bibliothèque-de-groupe-partagée"><span class="header-section-number">12.0.5</span> Bonnes pratiques dans le cas d’une bibliothèque de groupe partagée</h3>
-<ul>
-<li><p>Le thésaurus de vos marqueurs contrôlés va être encore plus important.</p>
-<ul>
-<li><p>Quand on est seul, il sert à communiquer avec notre moi du futur. Quand on est en groupe, c’est comme une langue commune.</p></li>
-<li><p>Choisir de créer ou de fusionner des marqueurs doit être une décision explicite faite par les participants.</p></li>
-<li><p>Ne pas hésiter à commencer chaque réunion de travail du groupe par un survol des marqueurs utilisés (succès, pertinence, nouveaux candidats, etc.).</p></li>
-</ul></li>
-<li><p>Remplacer le marqueur <code>_lu</code> par un marqueur avec les initiales de chaque participants.</p>
-<ul>
-<li>exemple : <code>=PM</code> pour Pascal Martinolli.</li>
-</ul></li>
-<li><p>Créer une collection pour les nouvelles références.</p>
-<ul>
-<li><p>Mieux : créer une collection contenant des sous-collections mensuelles pour que l’on suive ce qui est rajouté au cours du temps.</p></li>
-<li><p>Chaque nouvelle référence doit être signée par le participant qui l’a ajouté (exemple avec <code>=PM</code>).</p></li>
-</ul></li>
-<li><p>Créer une collection Candidats à la suppression.</p>
-<ul>
-<li>Quand tout le monde est d’accord, les références dedans sont supprimées.</li>
-</ul></li>
 </ul>
 
 

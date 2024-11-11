@@ -105,6 +105,19 @@
     -   Des marqueurs thématiques (l'essentiel des marqueurs)
 
 
+### Principes généraux pour la création d'un thésaurus personnel
+
+-   La règle principale pour ajouter un marqueur est « **une personne cherchant avec ce marqueur sera-t-elle satisfaite de repérer ce document ?** ».
+  -   Cela permet de faire des choix pour des documents qui parle d'un thème-marqueur mais qui ne sont pas pertinents si on cherche de l'information à propos de ce thème-marqueur. Exemple : mon document parle d'oiseaux, mais si un jour je cherche des choses sur les oiseaux, ce document ne sera pas spécialement pertinent pour moi. Donc, je n'utilise pas le marqueur `oiseau`.
+-   Plus une référence est importante dans votre corpus, plus elle devrait naturellement avoir beaucoup de marqueurs.
+  - Commencez par indexer vos références les plus importantes avec les marqueurs pertinents. Continuez avec les références moins importantes.
+  -   Si une référence est moyennement ou peu pertinente, il est normal qu'elle ait : peu de marqueurs, voire seulement des marqueurs très génériques.
+-   Si vous avez un système de marqueurs à 2 niveaux (ex: `_sport` \> `_natation`) et si vous voulez indexer un terme spécifique (ex : `_natation`), alors il faut indexer avec les **marqueurs des deux niveaux** pour chaque référence (ex :`_sport` et `_natation`)
+
+
+
+
+
 #### Suggestions de marqueurs de méthode de travail :
 
 -   `_nettoyé` : la notice électronique de la référence dans Zotero a été vérifiée, elle peut être citée dans un travail.
@@ -268,7 +281,7 @@ Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoi
 +--------------------+--------------------+------------------------------------------------------------------------------------------------------------------------+
 | `_COLLABORATION`   |                    | négociation, coopération, communication                                                                                |
 +--------------------+--------------------+------------------------------------------------------------------------------------------------------------------------+
-| `_AGENTIVITÉ`      |                    | choix, *railroading*, dilemme, prise de décision, *decision making*                                                    |
+| `_AGENTIVITÉ`      |                    | choix, *choice*, dilemme, prise de décision, *decision making*                                                    |
 +--------------------+--------------------+------------------------------------------------------------------------------------------------------------------------+
 
 -   Avec l'exemple ci-dessus, on peut voir que l'on utilise :
@@ -280,9 +293,36 @@ Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoi
     -   `_JEU` et `_jeu de société` : toujours ensemble
 
     -   etc.
+
+
+### Bonnes pratiques dans le cas d'une bibliothèque de groupe partagée
+
+-   Le thésaurus de vos marqueurs contrôlés va être encore plus important.
+
+    -   Quand on est seul, il sert à communiquer avec notre moi du futur. Quand on est en groupe, c'est comme une langue commune.
+
+    -   Choisir de créer ou de fusionner des marqueurs doit être une décision explicite faite par les participants.
+
+    -   Ne pas hésiter à commencer chaque réunion de travail du groupe par un survol des marqueurs utilisés (succès, pertinence, nouveaux candidats, etc.).
+
+-   Remplacer le marqueur `_lu` par un marqueur avec les initiales de chaque participants.
+
+    -   exemple : `=PM` pour Pascal Martinolli.
+
+-   Créer une collection pour les nouvelles références.
+
+    -   Mieux : créer une collection contenant des sous-collections mensuelles pour que l'on suive ce qui est rajouté au cours du temps.
+
+    -   Chaque nouvelle référence doit être signée par le participant qui l'a ajouté (exemple avec `=PM`).
+
+-   Créer une collection Candidats à la suppression.
+
+    -   Quand tout le monde est d'accord, les références dedans sont supprimées.
+
+
     
-### Exemples de thésaurus simples
+### Aide-mémoire, exemples et outils
 
-- [Aide-mémoire](https://github.com/pmartinolli/MyThesaurus/blob/master/files/TM-mythesaurus-v1.1.fr.pdf)
+- [https://github.com/pmartinolli/MyThesaurus/](https://github.com/pmartinolli/MyThesaurus/)
 
-- [Thésaurus à 2 niveaux et synonymes](https://github.com/pmartinolli/MyThesaurus/blob/master/files/TTRPG-simple-thesaurus.pdf)
+- Une [base](https://www.zotero.org/groups/446523) de données Zotero utilisant ces principes.
