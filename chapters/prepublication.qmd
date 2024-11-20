@@ -32,6 +32,8 @@
 
 -   Ne pas soummettre de brouillons : il semble être recommandé de diffuser une version préliminaire mais proche de la version finale <https://twitter.com/tdietterich/status/1454968577358925824>. Exemple : une version incorporant les réponses au premier tour de révision si la revue donne son accord.
 
+-   Important : ne pas confondre *preprint* avec *postprint* : Certains chercheurs semblent confondre les deux. Il est essentiel de préciser qu'un *postprint* est un article accepté après l’évaluation par les pairs avec les corrections apportées qu’on diffuse au plus tard à la date de publication, tandis qu'un *preprint* est une version avant évaluation par les pairs diffusée avant la date de publication. Certains chercheurs ont peur de déposer leur article dans le cas où un autre chercheur leur coupe l’herbe sous le pied en publiant avant eux un article sur le même sujet. C’est impossible avec le *postprint*, car l’article a été accepté pour publication.
+
 ## Dépôts de prépublication (*preprint*)
 
 -   Pourquoi ?
@@ -40,7 +42,7 @@
 
     -   **Partager** les travaux en temps réel avec votre équipe de recherche.
 
-    -   Donner accès à une **version préliminaire** soumise à une revue et **acceptée** par les éditeurs mais encore en cours de révision.
+    -   Donner accès à une **version préliminaire** soumise à une revue et **acceptée** par les éditeurs de cette revue mais encore en cours de révision.
 
     -   Obtenir une **date de priorité** : signaler que telle recherche a été déposée en exclusivité par tels chercheurs à telle date.
 
@@ -48,6 +50,8 @@
 
 -   Quelques plateformes :
 
-    -   [OSF](https://osf.io/) : Open Science Framework
+    -   [OSF](https://osf.io/) : Open Science Framework. Toutes disciplines.
 
-    -   [Zenodo](https://zenodo.org/)
+    -   [Zenodo](https://zenodo.org/). Toutes disciplines.
+    
+    -   [arXiv](https://arxiv.org/) : Physique, mathématiques, informatique principalement. NB: il semble que certains chercheurs utilisent ce dépôt de *preprints* pour déposer la version "manuscrit accepté" (*postprint*). Dans ce cas, arXiv "pourrait" être conforme aux politiques de libre accès de votre institution. Il est toutefois important de rappeler que, la plupart du temps, les politiques de libre accès s'appliquentà la version "manuscrit accepté" (*postprint*) et c'est celle-ci qu'il faut déposer (ou ajouter à la version *preprint* si on a déposé celle-ci aussi dans arXiv).

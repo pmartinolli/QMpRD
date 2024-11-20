@@ -7,8 +7,8 @@
 
 ## Pourquoi ?
 
--   Pour suivre la [**politique du libre accès**](https://bib.umontreal.ca/communications/grands-dossiers/libre-acces) **de l'UdeM** (décembre 2019) :
-    -   « (...) tout **auteur** de la **communauté UdeM** à déposer ses **articles**, **chapitres de livres** et **communications** publiées dans des actes de colloques ou des revues scientifiques dans le dépôt institutionnel **Papyrus** en version révisée par les pairs \[postprint\] dès la publication, avec **possibilité d'embargo de 12 mois**. (...) »
+-   Pour suivre la [**politique du libre accès**](https://bib.umontreal.ca/communications/grands-dossiers/libre-acces) de l'UdeM (2019, mise à jour en 2024) :
+    -   « (...) tout auteur de la **communauté UdeM** à déposer ses **articles**, **chapitres de livres** et **communications** publiées dans des actes de colloques ou des revues scientifiques dans le dépôt institutionnel **Papyrus** en version révisée par les pairs \[*postprint*\] dès la publication et ce, peu importe que la personne soit premier ou dernier auteur ou autrice. »
 -   Pour suivre les règles des **fonds de recherche** qui vous ont financé.
 -   « Les résultats de la recherche sont un **bien commun**, ils permettent à la fois à la science et à la société d'avancer. »[^libreacces-1]
 -   Pour rendre votre recherche plus **accessible** à tous.
@@ -158,13 +158,14 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
 -   Déposer la version *postprint* dans un **dépôt institutionnel** (comme [Papyrus](https://papyrus.bib.umontreal.ca/) à l'UdeM).
     -   [Guide](https://bib.umontreal.ca/public/bib/gerer-diffuser/guide_du_deposant.pdf) d'aide.
     -   Pour vous faire aider à n'importe quelle étape : N'hésitez pas à contacter votre bibliothécaire disciplinaire ou à l'équipe Papyrus depot\@bib.umontreal.ca
-    -   Déposez immédiatement après acceptation, c'est la bibliothèque qui gère l'embargo automatiquement pour vous et bonifient les métadonnées.
+    -   Déposez immédiatement après acceptation, ce sont les Bibliothèques qui gèrent votre dépôt pour vous et qui bonifient les métadonnées.
     -   Un membre de votre équipe peut faire le dépôt pour vous si vous êtes trop occupé.
     -   Pas d'autres démarches.
         -   Archivage pérenne.
         -   Moissonnage par Google, Google Scholar, WorldCat, BaseSearch, etc.
         -   Statistiques de consultation.
     -   La plupart du temps, il ne faut pas déposer la version finale mise en page par la revue (version *pubprint*) car cette mise en page contient des droits d'auteur que vous avez probablement cédé à la revue.
+-   Normalement les dépôts de [prépublication](#sec-prepublication) ne sont pas adaptés aux politiques de libre accès. De plus, il ne faut pas confondre *preprint* et *postprint*.
 -   Important : Academia.edu et ResearchGate ne sont PAS des dépôts institutionnels mais des compagnies privées.
     -   Y déposer des documents peut engendrer une poursuite de la part de la revue scientifique ou de la maison d'édition a qui vous avez cédé des droits d'auteur.
     -   Ce ne sont pas des environnements pérennes de diffusion et de conservation.

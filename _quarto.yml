@@ -13,10 +13,10 @@ book:
         affiliations:
           - name: "Université de Montréal"
             department: "Bibliothèques / UdeM"
-  date: "2024-11-08"
+  date: "2024-11-20"
 
   license: "CC-BY-NC-SA 4.0"
-  pdf-url: "https://bib.umontreal.ca/multidisciplinaire/plu6058"
+  pdf-url: "https://pmartinolli.github.io/QMpRD/"
   repo-url: https://github.com/pmartinolli/QMpRD
   repo-actions: [issue]
   downloads: [pdf, epub]

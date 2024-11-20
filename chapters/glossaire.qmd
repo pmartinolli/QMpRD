@@ -174,13 +174,15 @@
 
 -   **Plateforme** : service en ligne comme une base de données, un répertoire d'identifiants, un dépôt de documents, etc.
 
--   ***Postprint*** : version d'une étude, révisée par les pairs et acceptée après modifications. Cette version suit la version *preprint*.
+-   ***Postprint*** : version d'une étude, révisée par les pairs et acceptée après modifications. Cette version suit la version *preprint* (à ne pas confondre).
 
 -   ***Poster*** : Affiche de grand format exposée dans un événement.
 
--   **Prépublication (*preprint*)** : version d'une étude non révisée par les pairs ou en cours de révision. L'étape suivante est *postprint*.
+-   **Prépublication (*preprint*)** : version d'une étude non révisée par les pairs ou en cours de révision. L'étape suivante est *postprint* (à ne pas confondre).
 
--   ***Prompt*** : commande d'un utilisateur pour soumettre des informations à un outil de LLM comme ChatGPT.
+-   ***Preprint*** : voir Prépublication.
+
+-   ***Prompt*** : commande d'un utilisateur pour soumettre des informations à un outil de LLM comme ChatGPT. L'art de rédiger des prompts d'appelle la rédactique.
 
 -   ***Proxy*** : Passerelle informatique pour vous authentifier quand vous êtes connecté hors campus et que vous voulez bénéficier des abonnements aux bases de données, libres et revues électroniques souscrits par l'UdeM.
 
@@ -195,6 +197,8 @@
 -   **Réconciliation** (*reconciling*) : aligner des données existantes avec des identifiants d'une autre base de données. Wikidata est un outil-phare pour cette méthode.
 
 -   ***Record of versions*** : comprendre un travail comme une continuité de versions différentes, d'éditions, d'additions et de corrections. Proche de document vivant.
+
+-   **Rédactique** (*prompt engineering*) : art de rédiger des prompts.
 
 -   **Reproductible** (*reproductibility*) : valeur attribuée à une recherche qui est suffisamment détaillée (méthode, résultats) pour qu'elle soit reproductible. Signale une qualité des résultats d'une recherche.
 
