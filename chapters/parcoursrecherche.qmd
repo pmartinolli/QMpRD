@@ -103,7 +103,7 @@
 
 -   Il faut se créer un compte dans la plateforme Web of Science (on peut se connecter avec son ORCID) et s'y connecter.
 -   3 types d'alertes :
-    -   À partir d'une équation de recheche (*Create Alert*) : pour recevoir par courriel les prochains documents qui correspondent à cette requête.
+    -   À partir d'une expression de recheche (*Create Alert*) : pour recevoir par courriel les prochains documents qui correspondent à cette requête.
     -   À partir d'un document (Menu de droite d'un document *Create citation Alert*) : pour recevoir par courriel les prochains documents qui citent le document sélectionné.
     -   À partir d'une revue pour recevoir ses sommaires : Aller sur la cloche *Saved Searches and Alerts* dans le menu de gauche \> Journal alerts \> Add a Journal +
 
@@ -205,7 +205,7 @@ S'il l'un est pertinent, alors en tester d'[autres](https://coop-ist.cirad.fr/tr
 
         -   Recherche avancée : Par type de document : cliquer sur ET (qui devient souligné) et cocher la puce bleue en face de Mémoires, Thèses et HDR.
 
-        -   Bon courage pour faire fonctionner l'équation de recherche (2022-03-15).
+        -   Bon courage pour faire fonctionner l'expression de recherche (2022-03-15).
 
     -   [SUDOC](http://www.sudoc.abes.fr/): thèses françaises.
 

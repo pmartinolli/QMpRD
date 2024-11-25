@@ -72,9 +72,7 @@ Bouchard, Aline. « Veille, visibilité et communication : les atouts des résea
 
 Marcello Vitali-Rosati et Michaël Eberle-Sinatra, *Pratiques de l'édition numérique*, Montréal, Presses de l'Université de Montréal, mars 2014 <https://www.pum.umontreal.ca/catalogue/pratiques-de-ledition-numerique>
 
-#### Twitter
-
-Michel, Alain. « Les opérateurs de recherche avancée sur Twitter ». *Atelier Canopé de l'Aude*, 2021. <https://alain-michel.canoprof.fr/eleve/tutoriels/twitter/operateurs-recherche-avancee-twitter/#/>.
+#### Micro-bloguer
 
 Quintana, Daniel S. *Twitter for Scientists*, 2020. <https://t4scientists.com/>.
 
@@ -90,7 +88,7 @@ Martinolli, Pascal. « Optimiser l'organisation de sa bibliothèque ». *Le bl
 
 Mesguich, Véronique. *Les bibliothèques face au monde des données.* Villeurbanne : Presses de l'ENSSIB, 2023. <https://doi.org/10.4000/books.pressesenssib.17655>.
 
-## Veille sur Twitter ou Mastodon
+## Veille sur Bluesky, XTwitter ou Mastodon
 
 Le contenu de ce manuel ne serait pas aussi à jour ou pertinent sans les informations micro-bloguées par les comptes suivants.
 

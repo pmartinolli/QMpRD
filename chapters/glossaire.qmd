@@ -72,11 +72,13 @@
 
 -   **Épirevue** (*overlay journal*) : revue à comité de lecture sélectionnant et diffusant des recherches prépubliées ailleurs (souvent dans des dépôts de *preprints*).
 
--   **Équation de recherche** (*search query*) : combinaison de mots-clés et d'opérateurs booléens, appliquée dans un moteur de recherche d'une base de données. Quasi-synonyme de requête documentaire.
+-   **Équation de recherche** : voir Expression de recherche.
 
 -   **Étude de la portée** (*scoping review*) : Type de revue de littérature. Synthèse de l'ensemble des concepts associés à un sujet, souvent préparatoire à une revue systématique.
 
 -   **État des connaissances** : Type de revue de littérature.
+
+-   **Expression de recherche** (*search query*) : combinaison de mots-clés et d'opérateurs booléens, appliquée dans un moteur de recherche d'une base de données. Quasi-synonyme de requête documentaire.
 
 -   **Facette** : catégorie affichée dans une liste de résultats permettant de filtrer les résultats selon cette catégorie (année de publication, type de document, etc.)
 
@@ -202,7 +204,7 @@
 
 -   **Reproductible** (*reproductibility*) : valeur attribuée à une recherche qui est suffisamment détaillée (méthode, résultats) pour qu'elle soit reproductible. Signale une qualité des résultats d'une recherche.
 
--   **Requête documentaire** (*query*) : une recherche informatique avec des mots-clés et des opérateurs (équation de recherche), plus des limites, des filtres, des tris, etc.
+-   **Requête documentaire** (*query*) : une recherche informatique avec des mots-clés et des opérateurs (équation de recherche), plus des limites, des filtres, des tris, etc. Voir aussi Expression de recherche.
 
 -   **Ressource éducative libre** (**REL**) (*open educational ressource, OER*): document ou ensemble de documents pédagogiques, avec une licence de libre accès et de libre réutilisation.
 

@@ -1,6 +1,6 @@
 # Micro-bloguer {#sec-microbloguer}
 
-Note : Depuis 2023, les changements de Twitter/X rendent obsolètes une partie des informations et des recommandations sur cette plateforme.
+Note : Depuis 2023, les changements de Twitter/X rendent obsolètes une partie des informations et des recommandations sur cette plateforme. Les plateformes Mastodon et Bluesky semblent une alternative.
 
 -   Pourquoi ?
 
@@ -32,7 +32,7 @@ Note : Depuis 2023, les changements de Twitter/X rendent obsolètes une partie d
 
             -   je liste le(s) **thème(s)** de mes tweets et retweets.
 
-            -   je créé un **lien** vers mon métaprofil universitaire (ORCID, ...).
+            -   je créé un **lien** vers mon métaprofil universitaire ORCID. Et depuis ORCID, je créé un lien en retour car cela permet une authentification simple du compte.
 
         -   J'**épingle** le tweet de ma recherche la plus significative.
 
@@ -64,6 +64,6 @@ Note : Depuis 2023, les changements de Twitter/X rendent obsolètes une partie d
 
 -   Pour aller plus loin : [*Twitter for Scientists*](https://t4scientists.com/) de Dan Quintana
 
--   Pour effacer ses traces (les *tweets* et les *likes*) : [TweetDelete](https://tweetdelete.net/) ou [Semiphemeral](https://semiphemeral.com/).
+-   Pour effacer ses traces (les *tweets* et les *likes*) : [Redact](https://redact.dev/).
 
--   Pour gérer les trolls et le [harcèlement](http://prcurtis.com/docs/twitterguide2/) sur Twitter.
+-   Pour gérer les trolls et le [harcèlement](http://prcurtis.com/docs/twitterguide2/).

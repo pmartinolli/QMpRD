@@ -32,7 +32,7 @@
 
 [Voir](#sec-bloguersarecherche)
 
-### Relayer sa recherche sur Twitter ou Mastodon
+### Relayer sa recherche sur Bluesky, Mastodon ou X/Twitter
 
 [Voir](#sec-microbloguer)
 

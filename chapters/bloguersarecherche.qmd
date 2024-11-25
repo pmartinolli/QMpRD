@@ -386,7 +386,7 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
 #### Promotion et suivi de votre blogue
 
--   [Propulsez vos billets sur vos réseaux sociaux : Twitter (voir ci-dessous), LinkedIn, etc. ☐]{style="color: purple"}
+-   [Propulsez vos billets sur vos réseaux sociaux : BlueSky, Mastodon, LinkedIn, etc. ☐]{style="color: purple"}
 
 -   [Listez d'autres blogues sur lesquels aller faire des commentaires signés avec votre adresse de blogue. ☐]{style="color: purple"}
 

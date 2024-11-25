@@ -8,11 +8,10 @@
 -   Les mots-clés sont :
     -   collectés avec les **synonymes** dans des **plans de concepts** ;
     -   combinés entre eux avec des **opérateurs** ;
-    -   pour construire des **équations** de recherche :
+    -   pour construire des **expressions** de recherche :
         -   qui sont appliquées sur des **champs** choisis
         -   et qui sont **adaptées** et **raffinées** selon les fonctionalités des outils de recherche.
--   Bonne pratique :
-    -   Commencer le gros du travail de repérage avec de nombreux essais-erreurs de mots-clés et terminer avec une autre stratégie :
+-   Bonne pratique : Commencer avec des essais-erreurs de mots-clés et ensuite terminer avec une autre stratégie :
     -   Trier, filtrer, raffiner les résultats.
     -   Parcourir les résultats avec le regard et son propre jugement (confortable quand il y a moins de 100 résultats).
 
@@ -73,20 +72,18 @@
 -   Dans les **bibliographies** et les **tables des matières** de documents pertinents.
 -   En lançant des commandes dans des **modèles de langue** (*LLM*) comme ChatGPT.
 -   Dans les articles d'**encyclopédies** (dont Wikipédia). Parfois, vous trouverez un index des thèmes de l'encyclopédie avec des renvois. C'est-à-dire que plusieurs termes (synonymes) peuvent renvoyer à un terme commun.
--   Dans ce répertoire de **recension** de mots-clés pour des sujets courants en dans le domaine de la santé[^recherchemotcle-2].
+-   Dans ce répertoire de **recension** de mots-clés pour des sujets courants en dans le domaine de la santé ([exemple](https://extranet.santecom.qc.ca/wiki/!biblio3s/doku.php?id=concepts:repertoire)).
 -   Dans votre **cerveau**.
-
-[^recherchemotcle-2]: exemple : <https://extranet.santecom.qc.ca/wiki/!biblio3s/doku.php?id=concepts:repertoire>
 
 ## Combiner les mots avec des opérateurs logiques
 
 - [Voir](#sec-operateurs) 
 
-## Rédiger le tout dans une équation de recherche
+## Rédiger le tout dans une expression de recherche
 
 -   C'est une combinaison de plusieurs mots-clés et d'opérateurs logiques.
--   Certains outils sont très perfectionnés et permettent des équations de recherche très avancées. À l'inverse, certains outils sont rudimentaires : une équation de recherche avancée (même si elle est exacte et valide formellement), va engendrer une incompréhension de la machine et des résultats non pertinents.
--   Il est possible de rédiger son équation de recherche dans une seule case, mais avec certains outils il est aussi souvent possible de la décomposer en plusieurs lignes. Chaque ligne correspond à un thème de recherche pour lequel on indique plusieurs synonymes séparés par des OR. Chaque ligne est ensuite combinée avec la ligne du dessous avec un AND ou un NOT. Souvent la case de chaque ligne constitue une parenthèse invisible.
+-   Certains outils sont très perfectionnés et permettent des expressions de recherche très avancées. À l'inverse, certains outils sont rudimentaires : une expression de recherche avancée (même si elle est exacte et valide formellement), va engendrer une incompréhension de la machine et des résultats non pertinents.
+-   Il est possible de rédiger son expression de recherche dans une seule case, mais avec certains outils il est aussi souvent possible de la décomposer en plusieurs lignes. Chaque ligne correspond à un thème de recherche pour lequel on indique plusieurs synonymes séparés par des OR. Chaque ligne est ensuite combinée avec la ligne du dessous avec un AND ou un NOT. Souvent la case de chaque ligne constitue une parenthèse invisible.
 
 ## Adapter votre recherche à l'outil interrogé
 
@@ -125,17 +122,17 @@
     -   Certaines variables (comme la date de publication) sont utilisables seulement à partir de ces fonctions.
 -   Comment ?
     -   Lancer une requête puis attendez que la liste de résultats s'affiche.
-    -   En haut de la liste de résultats devrait apparaître une option de**tri des résultats**. Les tris les plus intéressants sont :
+    -   En haut de la liste de résultats devrait apparaître une option de **tri des résultats**. Les tris les plus intéressants sont :
         -   par nombre de citations (du plus cité au moins cité). Pas disponible dans toutes les bases de données.
         -   par date (du plus récent au plus ancien).
         -   par « pertinence » : Attention : le tri par dit par pertinence (*relevance*) est souvent un tri automatique effectué par des algorithmes de la base de données et il est rare que l'on connaisse la recette de ces algorithmes. Donc, la pertinence est très relative.
-    -   Sur le côté droit ou gauche devrait apparaître un menu avec des options de filtrage, de raffinement ou de limitation. Ces catégories sont parfois nommées**facettes**. Les plus intéressants sont :
+    -   Sur le côté droit ou gauche devrait apparaître un menu avec des options de filtrage, de raffinement ou de limitation. Ces catégories sont parfois nommées **facettes**. Les plus intéressants sont :
         -   Par discipline.
         -   Par date.
         -   Par type de document :
             -   Tous les types de documents ne se valent pas (voir le chapitre sur les Types de document).
-            -   Choisir de préférence*Article*ou*Review Article*.
-            -   Certaines bases de données proposent aussi de filtrer les articles qui sont issus de revues avec**révision par les pairs**. Cette notion peut se nommer de manière très différente d'une base de données à l'autre.**BIB+**
+            -   Choisir de préférence *Article* ou *Review Article*.
+            -   Certaines bases de données proposent aussi de filtrer les articles qui sont issus de revues avec **révision par les pairs**. Cette notion peut se nommer de manière très différente d'une base de données à l'autre.**BIB+**
         -   Par langue. NB: parfois vous demandez des références de documents en français seulement et... dans les résultats se trouvent encore beaucoup de références en anglais. C'est parce que le document original en bout de ligne (ou en bout de clic) est bien en français, mais sa fiche de référence dans la base de données est en anglais. En effet, le titre et le résumé ont été traduit en anglais pour donner une visibilité plus internationale à un article non anglophone.
         -   Par sujets. Attention, certaines références de document n'ont pas de sujets, ou bien les sujets ne sont pas bien indexés, alors il se peut que ce filtrage ne soit pas pertinent.
         -   Par type de méthode : dans certaines bases de données spécialisées (PsycInfo, etc.).
@@ -151,12 +148,12 @@
 |      cognition       |        vieux         |     jeu de carte     |
 |       mémoire        |                      |                      |
 
--   En médecine, pour répondre à une question de recherche clinique, on utilise ce plan de concept suivant la méthode nommée **PICO** où chaque colonne correspond à un thème précis :
+-   En médecine, pour répondre à une question de recherche clinique, on utilise ce plan de concept suivant la méthode nommée **[PICO](https://bib.umontreal.ca/sciences-sante/pratique-factuelle?tab=1994)** où chaque colonne correspond à un thème précis :
     -   P pour Population (ou Patient ou Problème)
     -   I pour Intervention
     -   C pour Comparativement à...
-    -   et O pour *Outcomes* (résultats) <https://bib.umontreal.ca/sciences-sante/pratique-factuelle?tab=1994>.
-        -   Notez un élément très intéressant : La colonne O des résultats n'est PAS une colonne de mots-clés pertinents. En effet, cette colonne est l'équivalent des mots vides ou des mots inutiles ou des mots bloquants pour la recherche que nous avons vu précédemment.
+    -   et O pour *Outcomes* (résultats).
+        -   Notez un élément très intéressant : la colonne O des résultats n'est PAS une colonne de mots-clés pertinents. En effet, cette colonne est l'équivalent des mots vides ou des mots inutiles ou des mots bloquants pour la recherche que nous avons vu précédemment.
 
 ## Champ Sujets
 
@@ -182,7 +179,7 @@
    - Repérer le(s) bons mots-clés dans le [thésaurus](#sec-thesaurus) permet de limiter le travail de collecte de synonymes puisqu'on a identifier le(s) mots pertinents pour un concept donné. 
 
 
-## Stratégies de recherche avancée
+## Quelques stratégies de recherche avancée
 
 ### Documenter son parcours de recherche
 
@@ -192,10 +189,11 @@
     -   **Visualiser** tout le travail effectué.
     -   Être capable d'en **rendre compte** si besoin et de rendre votre travail documentaire **reproductible**.
 -   Comment ? En prenant des notes (au choix) :
-    -   dans un fichier électronique (chaque chapitre/section est un outil de recherche, copier-coller les stratégies).
-    -   dans le logiciel Zotero, sous la forme de notes indépendantes placées dans une collection « Historique de recherche par exemple » <https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/>(voir chapitre Zotero).
-    -   dans le logiciel Obsidian.md, sous la forme d'une note ou d'une série de notes dans un dossier voir p..
-    -   dans un carnet papier séparé voir le chapitre p.ou au verso de l'impression de ce manuel.
+    -   Dans un fichier électronique simple (chaque chapitre/section est un outil de recherche, copier-coller les stratégies).
+    -   Dans le logiciel [Zotero](#sec-zoteroorganiser), sous la forme de notes indépendantes placées dans une collection « Historique de recherche » par exemple.
+    -   Dans le logiciel [Obsidian.md](#sec-obsidian), sous la forme d'une note ou d'une série de notes dans un dossier.
+    -   Dans un carnet papier.
+    -   Au verso des pages imprimées de ce superbe Manuel pratique de recherche documentaire.
 -   Dans le cas où vous menez une [revue exhaustive de littérature ou une revue systématique](#sec-revuelitterature), cette méthode de documentation est très importante car elle va vous permettre de documenter votre processus de recherche, de sélection et de décision.
 
 ### Utilisation du NOT pour un thème très général
@@ -207,8 +205,7 @@
 
 ### Combiner les historiques de recherche
 
--   Pourquoi ? Pour avoir **plus de contrôle** sur chaque thème de mon équation de recherche.
+-   Pourquoi ? Pour avoir **plus de contrôle** sur chaque thème de mon expression de recherche.
 -   Comment ?
-    -   On lance d'abord des recherches individuelles sur chaque thème de recherche. Quand tous les thèmes de recherche ont été explorés individuellement, on connaît leur nombre de résultats pour chacun. On termine la recherche en allant dans une option souvent nommée Historique de recherche (ou*Search History*), et on combine chacune de ces recherches avec des AND. Parce que l'on connaît le volume de résultats de chaque thème, on peut mieux comprendre où une recherche bloque ou une recherche ne fonctionne pas. On a plus de contrôle que si on lance une recherche complète avec tous les thèmes en un seul clic.
-    -   Toutes les bases de données n'offrent pas cette option avancée (hélas).
-    -   Exemple d'utilisation d'historique de recherche dans Web of Science voir p..
+    -   On lance d'abord des recherches individuelles sur chaque thème de recherche. Quand tous les thèmes de recherche ont été explorés individuellement, on connaît leur nombre de résultats pour chacun. On termine la recherche en allant dans une option souvent nommée Historique de recherche (ou *Search History*), et on combine chacune de ces recherches avec des AND. Parce que l'on connaît le volume de résultats de chaque thème, on peut mieux comprendre où une recherche bloque ou une recherche ne fonctionne pas. On a plus de contrôle que si on lance une recherche complète avec tous les thèmes en un seul clic.
+    -   Rares plateformes de bases de données qui offrent cette option avancée : Web of Science, EBSCO, ProQuest, etc.

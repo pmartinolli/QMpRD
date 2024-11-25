@@ -159,7 +159,7 @@
 -   [LinkedIn](https://ca.linkedin.com/) :
     -   Pour faire du réseautage professionnel (CV en ligne, contacts, billets courts ou articles longs).
     -   Dans certains milieux de la recherche (service de soins de santé, éducation-ludification, etc.), c'est un outil de réseautage pertinent.
--   X/Twitter, Bluesky, Mastodon,... :
+-   Bluesky, Mastodon,... :
     -   Pour [s'abonner](#sec-microbloguer) à des flux d'information et redistribuer les plus intéressants.
 -   [ResearchGate](https://www.researchgate.net/) et [Academia.edu](https://www.academia.edu/) :
     -   Réseautage académique.

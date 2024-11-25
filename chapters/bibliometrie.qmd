@@ -150,7 +150,7 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
 -   Elles ont vu le jour en raison des nombreuses limites des indicateurs traditionnels.
 -   Elles sont basées surtout sur la **visibilité médiatique** des publications de la recherche ou d'autres critères non-traditionnels.
     -   Permet de repérer la **conversation scientifique** après publication. [Exemples](https://bmjopen.bmj.com/content/3/8/e002998.altmetrics) :
-        -   Qui a twitté et commenté ?
+        -   Qui a microblogué et commenté (sur BlueSky, Mastodon,...) ?
         -   Qui a utilisé la source dans une page Wikipédia ?
         -   Quels médias (*news outlets*) l'ont relayé ?
         -   Qui l'a blogué ? etc.

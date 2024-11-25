@@ -44,7 +44,7 @@
   - Utiliser la navigations ou l'arborescence existante
   - Utiliser les filtres existants (années, collections, etc.)
 - S'attendre à utiliser des moteurs de recherche **médiocres** 
-  - Donc ne pas rédiger des équations de recherche complexes ou longues
+  - Donc ne pas rédiger des expressions de recherche complexes ou longues
   - N'utiliser que quelques mots-clés seulement
 - Les archives numérisées ne sont pas toujours augmentées avec une **reconnaissance de caractères** du texte intégral. 
 - Si un.e **archiviste** est disponible, ne pas hésiter à demander de l'aide (étendue du fond, accès, indexation, consultation, numérisation, etc.).

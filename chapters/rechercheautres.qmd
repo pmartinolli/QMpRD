@@ -4,7 +4,7 @@
 
 -   Avec **PubPeer** <https://pubpeer.com/> : pour repérer les fraudes, les problèmes de méthodes, les biais, les limites, etc.
 -   Avec les [***altmetrics***](#sec-bibliometrie)
--   Dans les sites pour [microbloguer](#sec-microbloguer) comme X/Twitter, ou Mastodon, ou BlueSky
+-   Dans les sites pour [microbloguer](#sec-microbloguer) comme Bluesky, Mastodon ou X/Twitter.
 -   En cherchant le titre complet de l'article entre guillemets carrés dans **Google**.
 -   En utilisant un **index de citations** pour savoir qui a cité cette publication.
 
