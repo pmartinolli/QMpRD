@@ -25,8 +25,14 @@
 
 ### Zettlr pour rédiger
 
--   [Zettlr](https://www.zettlr.com/) : Logiciel simple, permettant de rédiger au format Markdown et ensuite, en fournissant une bibliographie au format .bib (BibTeX) et un style bibliographique au format .csl, de produire différents formats de documents (PDF, html, etc.).
-
+-   [Zettlr](https://www.zettlr.com/) : Logiciel simple, permettant de rédiger au format Markdown et ensuite, en fournissant une bibliographie et un style bibliographique, de produire différents formats de documents (PDF, html, etc.).
+    - Fichier > Préférences > Préférences > Exporter : Fichier de références bibliographiques 
+        - Un fichier peut être exporté de Zotero (Exporter > format CSL JSON ou BibTeX) ou bien être mis à jour automatiquement avec l'extension [Zotero Better BibTeX](https://retorque.re/zotero-better-bibtex/).
+    - Fichier > Préférences > Préférences > Exporter : Fichier de références bibliographiques + Fichier de format de références bibliographiques CSL
+        - Un fichier de style peut être trouvé sur le site [Zotero/styles](https://www.zotero.org/styles) 
+    - Possibilité d'avoir un système de notes liées (non testé par moi).
+    
+    
 
 ### Quarto pour rédiger et diffuser
 
