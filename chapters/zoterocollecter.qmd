@@ -8,6 +8,8 @@
 
 ## Importation
 
+{{< video https://www.youtube.com/embed/7R0rfVx1-uY >}} 
+
 ### Avec le connecteur Zotero
 
 -   C'est la **méthode principale** et la plus simple.

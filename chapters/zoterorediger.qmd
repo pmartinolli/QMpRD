@@ -6,6 +6,8 @@
 
 ## Nettoyage/ vérification
 
+{{< video https://www.youtube.com/embed/W4zqd-PfG5o >}}
+
 -   Pourquoi ? Parce que Zotero va automatiquement générer des références bibliographiques de grande qualité MAIS à la condition que les informations qu'il possède soit complètes, dans les bonnes cases et sans erreur (ponctuation, accents, etc.).
 
 -   Comment ?
@@ -37,6 +39,8 @@
         -   [Quelques règles pour la saisie ou la correction des informations](https://hdl.handle.net/1866/33090) (de Nino Gabrielli)
 
 ## Bibliographie simple
+
+{{< video https://www.youtube.com/embed/gKMn9hwMOKA >}} 
 
 -   Sélectionner une ou plusieurs références (avec la touche Majuscule ou Ctrl enfoncée).
 

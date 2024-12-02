@@ -2,7 +2,7 @@
 
 ### Introduction
 
--   Un format de document, imprimé ou électronique, est un ensemble de **règles** pour la **production** et l'**utilisation** d'un document Marcello Vitali-Rosati et Michaël Eberle-Sinatra, *Pratiques de l'édition numérique*, Montréal, Presses de l'Université de Montréal, mars 2014 <https://www.pum.umontreal.ca/catalogue/pratiques-de-ledition-numerique>.
+-   Un format de document, imprimé ou électronique, est un ensemble de **règles** pour la **production** et l'**utilisation** d'un document Marcello Vitali-Rosati et Michaël Eberle-Sinatra, *[Pratiques de l'édition numérique](https://www.pum.umontreal.ca/catalogue/pratiques-de-ledition-numerique)*, Montréal, Presses de l'Université de Montréal, mars 2014.
 
     -   Un format n'est pas neutre ou universel : un format priorise, exclut ou sert certains usages et pas d'autres.
 
@@ -61,13 +61,13 @@
 
 -   Après quelques décennies, des documents créés dans des formats propriétaires désuets sont **perdus**.
 
-    -   Exemple : les documents multimédia créés au format Flash <https://www.cnn.com/2021/09/10/tech/digital-news-coverage-9-11/index.html>.
+    -   Exemple : les documents multimédia créés au format [Flash](https://www.cnn.com/2021/09/10/tech/digital-news-coverage-9-11/index.html).
 
 -   Il y a une compétition entre certains formats de fichiers. Certains formats propriétaires cherchent à augmenter le coût de changement de logiciel de leurs usagers pour les rendre artificiellement captifs de leur logiciel. Habituellement, le fichier n'est parfaitement lisible et modifiable qu'avec le logiciel propriétaire correspondant.
 
--   [Pour retrouver un peu de contrôle sur l'identification ou l'ouverture des formats d'un fichier, il est recommandé d'afficher l'extension d'un fichier (.pdf ou .docx ou autre) dans les systèmes d'exploitation Windows ou Mac. ]{style="color: purple"}
+-   Pour retrouver un peu de contrôle sur l'identification ou l'ouverture des formats d'un fichier, il est recommandé d'afficher l'extension d'un fichier (.pdf ou .docx ou autre) dans les systèmes d'exploitation Windows ou Mac. 
 
-    -   [Windows Explorateur de fichiers \> Options \> Visualiser \> Décocher Masquer les extensions dont le type est connu. ☐]{style="color: purple"}
+    -   Windows Explorateur de fichiers \> Options \> Visualiser \> Décocher Masquer les extensions dont le type est connu. 
 
 ### Encodage en texte ou binaire
 
@@ -81,7 +81,7 @@
 
 -   Un format de texte brut est lisible par tout appareil électronique.
 
-    -   [Recommandation : installer un éditeur de texte de qualité]{style="color: purple"} [exemple : avec Notepad++ ]{style="color: purple"}[ pour lire, modifier, transformer facilement ce type de fichier. ☐]{style="color: purple"}
+    -   Recommandation : installer un éditeur de texte de qualité (exemple : avec Notepad++ pour lire, modifier, transformer facilement ce type de fichier). 
 
     -   et, même si certains formats sont très verbeux et complexes, il est lisible plus ou moins facilement par tout humain.
 
@@ -141,7 +141,7 @@
 
 ###  PDF/A c'est quoi ?
 
--   Il s'agit d'un **format binaire ouvert** créé par l'ISO <https://fr.wikipedia.org/wiki/PDF/A>.
+-   Il s'agit d'un **format binaire ouvert** créé par l'[ISO](https://fr.wikipedia.org/wiki/PDF/A).
 
 -   C'est une variante de **PDF** qui permet l'**archivage à long terme** des documents électroniques en priorisant leur **visualisation**.
 
@@ -149,15 +149,15 @@
 
 -   Ce n'est pas le format de production de PDF par défaut :
 
-    -   Habituellement, lorsqu'on créé un fichier PDF à partir d'un logiciel comme Word, ou votre navigateur, etc. cela créé un fichier PDF binaire propriétaire [fermé]{.underline}.
+    -   Habituellement, lorsqu'on créé un fichier PDF à partir d'un logiciel comme Word, ou votre navigateur, etc. cela créé un fichier PDF binaire propriétaire fermé.
 
-    -   Parfois, il est possible de changer les paramètres pour générer un PDF binaire propriétaire [ouvert]{.underline} : PDF/A.
+    -   Parfois, il est possible de changer les paramètres pour générer un PDF binaire propriétaire ouvert : PDF/A.
 
--   [Comment créer un fichier PDF/A avec Windows ? ]{style="color: purple"}
+-   Comment créer un fichier PDF/A avec Windows ? 
 
-    -   [À partir de MS Word : Fichier \> Exporter \> Créer PDF \> Options : Compatible PDF/A. ☐]{style="color: purple"}
+    -   À partir de MS Word : Fichier \> Exporter \> Créer PDF \> Options : Compatible PDF/A. 
 
-    -   [À partir de Acrobat Pro : Fichier \> Enregistrer sous un autre \> PDF archivable (PDF/A). ☐]{style="color: purple"}
+    -   À partir de Acrobat Pro : Fichier \> Enregistrer sous un autre \> PDF archivable (PDF/A).
 
 ###  Éviter les corruptions de fichiers DOC ou DOCX
 
@@ -177,17 +177,17 @@
 
     -   Si vous travaillez longtemps sur un fichier.
 
-    -   Si votre fichier contient de nombreux renvois, notes de bas de pages, références automatiques, etc. (plusieurs centaines).
+    -   Si votre fichier contient de nombreux renvois, notes de bas de pages, références automatiques, etc. 
 
 -   Bonnes pratiques :
 
-    -   Dans le cas d'un fichie qui voyage vers d'autres ordinateurs :
+    -   Dans le cas d'un fichier qui voyage vers d'autres ordinateurs :
 
         -   Ouvrir le fichier contenant les corrections et faire les révisions manuellement dans le fichier original resté sur votre ordinateur.
 
         -   Lors des copier-coller, privilégier le collage de texte brut sans formatage pour éviter d'importer des choses non-désirées.
 
-    -   Faire des sauvegardes règulières, datées de tous vos fichiers Voir p. ..
+    -   Faire des [sauvegardes](#sec-sauvegardedurable) règulières, datées de tous vos fichiers.
 
 ###  Traitement de texte : styles et modèle de thèse 
 
@@ -215,7 +215,7 @@
 
 ####  Modèle de mémoire et thèse UdeM
 
--   Il existe un **modèle de document** pour mémoire et thèse UdeM, paramétré pour MS Word <https://bib.umontreal.ca/gerer-diffuser/communication-savante/rediger-these-memoire> selon les règles des Études supérieures et postdoctorales de l'UdeM.
+-   Il existe un **modèle de document** pour [mémoire et thèse UdeM](https://bib.umontreal.ca/gerer-diffuser/communication-savante/rediger-these-memoire), paramétré pour MS Word selon les règles des Études supérieures et postdoctorales de l'UdeM.
 
     -   Il existe un modèle LaTeX.
 
@@ -243,11 +243,11 @@
 
     -   Remplacer une tabulation `\t`
 
--   Outils de renommage de fichiers : Bulk Rename <https://www.bulkrenameutility.co.uk/>, Utility Renamer for Mac <https://renamer.com/>, PSRenamer <https://github.com/hbowie/psrenamer>.
+-   Outils de renommage de fichiers : [Bulk Rename](https://www.bulkrenameutility.co.uk/), [Utility Renamer](https://renamer.com/) for Mac, [PSRenamer](https://github.com/hbowie/psrenamer).
 
--   Outils de listage de fichiers : Karen's Directory Printer <https://www.karenware.com/powertools/karens-directory-printer>
+-   Outils de listage de fichiers : [Karen's Directory Printer](https://www.karenware.com/powertools/karens-directory-printer)
 
--   Outils de repérage de doublons de fichiers : CloneSpy <https://clonespy.com/>
+-   Outils de repérage de doublons de fichiers : [CloneSpy](https://clonespy.com/)
 
 ### Expressions régulières
 
@@ -261,8 +261,9 @@
 
         -   Cliquer à répétition sur Remplacer tout jusqu'à ce que tout soit remplacé.
 
-    -   Pour les tester <https://regexr.com/>
+    -   Pour les [tester](https://regexr.com/)
 
     -   Ne pas hésiter à chercher en ligne et se constituer sa bibliothèque personnelle de regex (dans son carnet de recherche).
 
-    -   Pour en savoir plus <https://programminghistorian.org/fr/lecons/comprendre-les-expressions-regulieres>
+    -   Pour en savoir [plus](https://programminghistorian.org/fr/lecons/comprendre-les-expressions-regulieres)
+    

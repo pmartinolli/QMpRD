@@ -2,6 +2,8 @@
 
 ## Pourquoi installer ce logiciel ?
 
+{{< video https://www.youtube.com/embed/RGL_Hwo4sxo >}}
+
 -   Pour automatiser la rédaction de vos références bibliographiques (dans le texte et en bibliographie finale).
 -   Pour organiser vos lectures (trier, classer, annoter, etc.).
 -   Logiciel libre, simple et puissant.
@@ -11,6 +13,8 @@
 ## Comment ?
 
 ### Installation de base
+
+{{< video https://www.youtube.com/embed/7tFH0gGLCcQ >}}
 
 -   [Installer](https://bib.umontreal.ca/public/bib/soutien-informatique/ZOT1-installation-zotero.pdf) le **programme**
     -   Vérifier que l'onglet dans MS Word ou la barre d'icônes LibreOffice Writer s'est bien installé

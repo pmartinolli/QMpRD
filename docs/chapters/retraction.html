@@ -612,7 +612,11 @@ ul.task-list li input[type="checkbox"] {
 <li>C’est un <a href="https://library.hkust.edu.hk/sc/understanding-retraction/">mécanisme important</a> pour maintenir l’intégrité, l’exactitude et la crédibilité de la publication scientifique.
 <ul>
 <li>Cela permet de corriger des erreurs ou des méconduites et éviter la propagation d’informations erronnées et/ou frauduleuses.</li>
-<li>Bien que négativement perçue, cela permet aux auteurs de prendre leurs responsabilités pour leurs travaux et maintenir leur crédibilité.</li>
+<li>Bien que négativement perçue, cela permet aux auteurs de prendre leurs responsabilités pour leurs travaux et maintenir leur crédibilité.
+<ul>
+<li>Plus une rétraction est expliquée précisément par leurs auteurs (et si possible initiée par eux) <a href="https://www.nature.com/articles/srep03146">moins elle est stigmatisée</a>.</li>
+</ul></li>
+<li>Des chercheurs ont identifié un mouvement de « <a href="https://arxiv.org/abs/2409.06852">corrections furtives</a> » qui contournent la retraction, une menace pour l’intégrité de la publication scientifique.</li>
 </ul></li>
 </ul>
 <section id="quelques-faits" class="level4" data-number="43.0.1.1">
@@ -661,28 +665,28 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="comment-ne-pas-citer-des-études-rétractées" class="level3" data-number="43.0.2">
 <h3 data-number="43.0.2" class="anchored" data-anchor-id="comment-ne-pas-citer-des-études-rétractées"><span class="header-section-number">43.0.2</span> Comment ne pas citer des études rétractées ?</h3>
-<section id="automatiquement" class="level4" data-number="43.0.2.1">
-<h4 data-number="43.0.2.1" class="anchored" data-anchor-id="automatiquement"><span class="header-section-number">43.0.2.1</span> Automatiquement</h4>
+<section id="semi-automatiquement" class="level4" data-number="43.0.2.1">
+<h4 data-number="43.0.2.1" class="anchored" data-anchor-id="semi-automatiquement"><span class="header-section-number">43.0.2.1</span> (Semi-)automatiquement</h4>
 <ul>
 <li>Dans Zotero, une alerte devrait automatiquement vous avertir qu’un article est rétracté.
 <ul>
 <li>L’alerte se base sur le DOI ou le Pubmed ID et interroge la base de données Retraction Watch. Donc, un article rétracté, mais sans DOI ni Pubmed ID, ou absent de la base de données Retraction Watch, ne sera pas marqué.</li>
+<li>Installer l’extension <a href="https://scite.ai/blog/introducing-the-scite-plug-in-for-zotero-61189d66120c">Scite pour Zotero</a>.</li>
+<li>Une fonction similaire est automatiquement incluse dans Endnote et Papers (non testé).</li>
 </ul></li>
-<li>Une fonction similaire est automatiquement incluse dans Endnote, LibKey et Papers (non testé).</li>
+<li>Installer une ou plusieurs des extensions suivantes :
+<ul>
+<li><a href="https://pubpeer.com/static/extensions">PubPeer</a> et <a href="https://scite.ai/extension-install">Scite pour navigateur</a> pour repérer les commentaires, <em>expressions of concern</em> et rétractations qui existeraient dans ces outils.</li>
+<li><a href="https://thirdiron.com/downloadnomad/">LibKey Nomad</a> : paramétré avec <em>Université de Montréal</em>.</li>
+</ul></li>
 </ul>
 </section>
-<section id="semi-automatiquement" class="level4" data-number="43.0.2.2">
-<h4 data-number="43.0.2.2" class="anchored" data-anchor-id="semi-automatiquement"><span class="header-section-number">43.0.2.2</span> Semi-automatiquement</h4>
+<section id="manuellement" class="level4" data-number="43.0.2.2">
+<h4 data-number="43.0.2.2" class="anchored" data-anchor-id="manuellement"><span class="header-section-number">43.0.2.2</span> Manuellement</h4>
 <ul>
-<li>Installation des extensions PubPeer et Scite dans votre navigateur pour repérer les commentaires, <em>expressions of concern</em> et rétractations qui existeraient dans ces outils.</li>
-<li>NB: À ce jour, il n’y a pas d’extension Retraction Watch pour navigateur.</li>
-</ul>
-</section>
-<section id="manuellement" class="level4" data-number="43.0.2.3">
-<h4 data-number="43.0.2.3" class="anchored" data-anchor-id="manuellement"><span class="header-section-number">43.0.2.3</span> Manuellement</h4>
+<li>En consultant manuellement la base de données <strong><a href="http://retractiondatabase.org/RetractionSearch.aspx?">Retraction Watch</a></strong>.
 <ul>
-<li>En consultant manuellement la base de données <strong><a href="http://retractiondatabase.org/RetractionSearch.aspx?">Retraction Watch</a></strong>. Désormais, leurs données sont versées dans CrossRef.
-<ul>
+<li>Désormais, leurs données sont versées dans CrossRef.</li>
 <li>36 000 rétractions recensées en 2022 (mais « c’est insuffisant » <a href="https://doi.org/10.1038/d41586-022-02071-6">dit</a> son co-fondateur).</li>
 </ul></li>
 <li>En allant vérifier chacune de vos références sur le site de leurs revues et dans les bases de données <a href="https://pubpeer.com/"><em>PubPeer</em></a>, <a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a> ou <a href="https://www.webofscience.com/">Web of Science</a>.</li>
@@ -691,11 +695,15 @@ ul.task-list li input[type="checkbox"] {
 <li>PubMed : en ajoutant (Retracted Publication [Publication Type] OR Retraction of Publication [Publication Type] OR Expression of Concern [Publication Type])</li>
 <li>Web of Science : en cochant Document Type = (Retraction ou Retracted Publication ou Expression Of Concern)</li>
 </ul></li>
-<li>Quand ?
+<li>L’outil <a href="https://www.scitility.com/argos">ARGOS</a> tient un tableau de bord des revues et des chercheurs à haut risque de retraction.</li>
+<li><a href="https://www.irit.fr/~Guillaume.Cabanac/problematic-paper-screener/feet-of-clay">Feet of Clay Detector</a> : un autre outil intéressant qui repère les articles qui citent trop d’études rétractés.</li>
+</ul>
+</section>
+<section id="quand-vérifier" class="level4" data-number="43.0.2.3">
+<h4 data-number="43.0.2.3" class="anchored" data-anchor-id="quand-vérifier"><span class="header-section-number">43.0.2.3</span> Quand vérifier ?</h4>
 <ul>
-<li>Au moment où la référence est intégrée à votre travail et</li>
-<li>juste avant votre première soumission.</li>
-</ul></li>
+<li>Au moment où la référence est intégrée à votre travail.</li>
+<li>Juste avant votre première soumission.</li>
 </ul>
 
 

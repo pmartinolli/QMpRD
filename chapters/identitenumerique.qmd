@@ -44,12 +44,17 @@
 
 #### Pourquoi ?
 
+```{=html}
+<iframe src="https://umontreal.ca.panopto.com/Panopto/Pages/Embed.aspx?id=498fb4d3-ee44-4b8b-8792-af6b01395520&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="orcid-v0" ></iframe>
+```
+
 -   [ORCID](https://orcid.org/) est devenu l'**identifiant pérenne** de chercheuse et de chercheur le plus utilisé à ce jour. Il vous suit toute votre carrière, même si vous changez de courriel ou d'institution.
     -   C'est un **identifiant unique** avec une possibilité de **curriculum vitae** plus ou moins complet en ligne.
     -   Il **désambiguïse** les noms, donc améliore l'attribution de vos publications et de leurs citations.
 -   Il est formé de 16 chiffres `0000-0000-0000-0000`
 -   ORCID est FAIR, c'est-à-dire qu'il est **F**acile à trouver, **A**ccessible, **I**nteropérable et que les informations peuvent être facilement exportées et **R**éutilisées.
 -   Il est géré par un organisme non-gouvernemental pérenne constitué de divers acteurs du monde de la publication scientifique (universités, maisons d'édition, etc.).
+-   Il peut servir de "certification" simple de profil de réseau social ou autre : faire un lien depuis votre ORCID vers votre profil de réseau social et faire un lien en retour depuis votre profil de réseau social vers ORCID.
 -   Il est en accès libre à tous.
 -   Il est gratuit.
 -   On peut régler les informations en public, semi-privé ou privé.
@@ -75,6 +80,8 @@
 ### Google Scholar ID :
 
 #### Pourquoi ?
+
+{{< video https://www.youtube.com/embed/Lsn7Bzab9Yk >}}
 
 -   Pour **réclamer vos publications** qui apparaissent dans Google Scholar
 -   Pour **suivre qui vous cite**.
