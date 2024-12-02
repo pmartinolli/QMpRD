@@ -1,6 +1,6 @@
 # Citer sans plagier {#sec-citer}
 
--   **Citer** ou **référencer/sourcer** Ce chapitre s'appuie partiellement sur Thomas, Mathieu. « Citations, références et plagiat. Formation de mise à niveau : étudiants à la maîtrise ». Université de Montréal, septembre 2020 et sur Croteau, Marc-Olivier, Myrian Grondin et Pascal Martinolli. « Citer ses sources ». Université de Montréal, septembre 2021.?
+-   **Citer** ou **référencer/sourcer**
 
     -   Dans la définition classique et grand public, **citer** (*quotation*) c'est reprendre un extrait des mots exacts d'un auteur.
 
@@ -20,7 +20,7 @@
 
 -   C'est grâce à ça que l'édifice de la connaissance scientifique mondiale se construit et se consolide au fil des siècles.
 
-    -   Allégorie : les découvertes ce sont les briques de l'édifice, les citations c'est le mortier qui fait tenir le tout ensemble.
+    -   Allégorie : les découvertes sont les briques de l'édifice tandis que les citations seraient le mortier qui fait tenir le tout ensemble.
 
 -   Autres raisons :
 
@@ -36,7 +36,7 @@
 
         -   Par exemple, avec une licence CC-BY il faut mentionner la source.
 
-        -   Important : même un document dans le domaine public, donc qui n'a pas besoin d'être cité légalement, doit être cité éthiquement dans un travail de recherche.
+        -   Important : même un document dans le domaine public (donc qui n'a pas besoin d'être cité légalement) doit être cité éthiquement dans un travail de recherche.
 
     -   Pour étaler son **érudition** et montrer tout ce qu'on a lu.
 
@@ -50,7 +50,7 @@
 
     -   Pour renvoyer l'ascenseur à des collègues qui vous ont cité.
 
-    -   Pour obéir à une revue scientifique peu scrupuleuse qui vous demande d'ajouter quelques références pour booster ses indicateurs bibliométriques de citation.
+    -   Pour obéir à une revue scientifique peu scrupuleuse qui vous demande [d'ajouter](https://pubpeer.com/publications/1924F147DE045B97261004EB2387AE#1) quelques références pour booster ses indicateurs bibliométriques de citation.
 
     -   etc J'étudie les pratiques de citations dans les jeux de rôle sur table, pour en savoir plus : <https://jdr.hypotheses.org/878>.
 
@@ -90,7 +90,7 @@
 
         -   Citer **faussement** : faire dire à un auteur l'inverse de ce qu'il a dit.
 
-        -   **Invisibiliser** : sur-représenter un travail pour en invisibilier un autre
+        -   **Invisibiliser** : sur-représenter un travail pour en invisibilier un autre.
 
     -   **Reproduire ou transformer** des images ou des morceaux d'image sans indiquer la source.
 
@@ -164,7 +164,7 @@
 
     -   Les logiciels de gestion bibliographiques comme Zotero ou Endnote font souvent de 80 à 100% ce travail.
 
-    -   Il en existe plusieurs milliers mais une dizaine sont très populaires.
+    -   Il existe plusieurs milliers de styles mais une dizaine sont très populaires.
 
 -   Il y a trois grandes familles de style :
 
@@ -200,6 +200,8 @@
 
         -   le plus connu et utilisé à l'UdeM est le style : *Vancouver*.
 
+        -   Mon favori : le style de *Nature* : un numéro en exposant (joli, discret, précis)
+
     -   Parfois le département demande un style particulier, parfois c'est votre direction de recherche, parfois vous avez le choix.
 
     -   Une fois choisi, vous conservez le même style dans tout le document (sauf pour une thèse par article où chaque partie peut avoir un style différent).
@@ -210,7 +212,7 @@
 
 2.  Repèrer **une source** sous la forme d'un document, qui contient **une idée** intéressante à incorporer dans son travail.
 
-3.  Choisir comment on veut **incorporer cette idée** :
+3.  Choisir comment on veut **incorporer cette idée** : en paraphrasant ou avec un extrait exact ?
 
     -   Avec avec une **paraphrase** ou un **résumé** :
 
@@ -262,7 +264,7 @@
 
         -   **Citation exacte et longue** (plus de 3 lignes) : créer un mini paragraphe avec une mise en page différente : simple espacement entre les lignes, décalages à droite et à gauche.
 
-4.  Juste après avoir incorporé cette idée sous une des 3 formes, ajouter une **citation abrégée** (on dit aussi appel de citation) selon le style bibliographique choisit :
+4.  Juste après avoir incorporé cette idée sous une des 3 formes, il faut ajouter une **citation abrégée** (on dit aussi appel de citation) selon le style bibliographique choisit. C'est une sorte de clé vers la référence complète :
 
     -   une mention de type (auteur, date)
 
@@ -270,45 +272,45 @@
 
     -   un numéro simple (parfois entre parenthèse ou entre crochet ou en exposant)
 
-5.  Si le document original fait plus de 50 pages, c'est une bonne pratique d'indiquer **à quelle page** ou à quel intervalle de pages vous avez trouvez l'information.
+    -   Option : Si le document original fait plus de 50 pages, c'est une bonne pratique d'indiquer **à quelle page** ou à quel intervalle de pages vous avez trouvez l'information.
 
-    -   Dans le cas d'une citation est exacte (courte ou longue), cela peut être obligatoire avec certains styles.
+        -   Dans le cas d'une citation est exacte (courte ou longue), cela peut être obligatoire avec certains styles.
 
-    -   Les styles numérotés ne gèrent pas les pages. Seuls les styles (auteur-date) et notes de bas de page savent gérer les pages citées.
+        -   Les styles numérotés ne gèrent pas les pages. Seuls les styles (auteur-date) et notes de bas de page savent gérer les pages citées.
 
-6.  Bonification de la citation : Quand vous incorporez une idée dans vos travaux, quel que soit sa forme, si possible :
+    -   Option : Bonification de la citation. Quand vous incorporez une idée dans vos travaux, quel que soit sa forme, si possible :
 
-    -   Ajoutez quel est son contexte, la discipline d'où elle provient, son étendue, sa méthode et ses limites.
+        -   Ajoutez quel est son **contexte**, la discipline d'où elle provient, son étendue, sa méthode et ses limites.
 
-    -   Ajoutez comment cette idée s'articule avec les autres idées que vous avez incorporer Cela évitera de faire des documents de type Polichinelle ou Frankeinstein avec plein d'idées prises de partout et mélangées n'importe comment..
+        -   Ajoutez comment cette idée s'articule avec les autres idées que vous avez incorporer Cela évitera de faire des documents de type Polichinelle ou Frankeinstein avec plein d'idées prises de partout et mélangées n'importe comment..
 
-7.  À la **fin du document**, dans une section nommée « Bibliographie » ou « Liste des références », vous listez :
+5.  À la **fin du document**, dans une section nommée « Bibliographie » ou « Liste des références », vous listez :
 
     -   selon l'ordre du style bibliographique,
 
     -   la sélection de toutes les citations abrégées mentionnées dans le texte,
 
-    -   sous la forme de **citations complètes**.
+    -   sous la forme de **références complètes**.
 
 ## Savoir identifier un document
 
-[Voir](#sec-identifierdocument) 
+[Voir](#sec-identifierdocument)
 
 ## Document inaccessible ou partiel
 
--   Si une source B est mentionnée dans un document A que vous avez entre les mains, et si vous voulez reprendre l'idée exprimée :
+-   Si une source A est mentionnée dans un document B que vous avez entre les mains, et si vous voulez reprendre l'idée exprimée :
 
-    -   Il faut **faire** **tout votre possible** pour aller repérer et lire le document B.
+    -   Il faut **faire** **tout votre possible** pour aller repérer et lire le document A.
 
         -   C'est une des bases de la recherche documentaire.
 
-        -   Ne faites pas confiance au document A pour avoir retranscrit fidèlement ou exactement les idées de B À ce sujet, je vous invite à lire l'article « L'histoire de la note de bas de page mortelle » qui parle du manque d'éthique de ne pas aller vérifier la source soi-même et des dizaines de milliers de morts qui peuvent en être la [conséquence](http://www.slate.fr/story/147105/medecine-100-mots-tuer-en-medecine).
+        -   Ne faites pas confiance au document B pour avoir retranscrit fidèlement ou exactement les idées de A. [^citer-1]
 
     -   « Oui mais, si je ne peux pas \[c'est dans une langue que je ne maîtrise pas, dans un manuscrit unique d'un monastère en haut d'une montagne, gardé par des moines récalcitrants\] »
 
-        -   Alors vous allez citer la source B, mais **uniquement dans le texte** (ou dans une note de bas de page).
+        -   Alors vous allez citer la source A, mais **uniquement dans le texte** (ou dans une note de bas de page).
 
-        -   Vous n'allez **pas citer la source B en bibliographie finale** ou Liste des références
+        -   Vous n'allez **pas citer la source A en bibliographie finale** ou Liste des références
 
             -   Car à cet endroit devraient se trouver uniquement des documents que vous avez lu au complet.
 
@@ -319,6 +321,8 @@
     -   Citez **uniquement le chapitre** en bibliographie finale.
 
         -   Il y a une manière spécifique pour citer un chapitre (qui est différente de la manière de citer un livre).
+
+[^citer-1]: À ce sujet, je vous invite à lire l'article « L'histoire de la note de bas de page mortelle » qui parle du manque d'éthique de ne pas aller vérifier la source soi-même et des dizaines de milliers de morts qui peuvent en être la [conséquence](http://www.slate.fr/story/147105/medecine-100-mots-tuer-en-medecine).
 
 ## Bibliographie finale et liste de références
 
@@ -346,7 +350,7 @@
 
 -   *Self-plagiarism, autoplagiarism*
 
-    -   « Vamos à la plagiat ! » [^citer-1]
+    -   « Vamos à la plagiat ! » [^citer-2]
     -   Non, l'auto-plagiat ce n'est pas aller en auto à la plage.
 
 -   C'est quand on fait **un travail** et qu'on reçoit **deux récompenses**. Exemples :
@@ -363,7 +367,7 @@
 
 -   Par défaut, l'auto-plagiat est interdit à l'UdeM ([1er cycle](https://secretariatgeneral.umontreal.ca/public/secretariatgeneral/documents/doc_officiels/reglements/enseignement/ens30_3-reglement-disciplinaire-plagiat-fraude-etudiants-premier-cycle.pdf), [cycle supérieur](https://secretariatgeneral.umontreal.ca/public/secretariatgeneral/documents/doc_officiels/reglements/enseignement/ens30_12-reglement-disciplinaire-plagiat-fraude-etudiants-cycles-superieurs.pdf)). Demandez à votre évaluateur pour des cas spécifiques.
 
-[^citer-1]: Titre d'un chapitre de *Ça tourne mal ! L'histoire méconnue et tumultueuse du cinéma français* de Philippe Lombard, 2019. Édition La Tengo.
+[^citer-2]: Titre d'un chapitre de *Ça tourne mal ! L'histoire méconnue et tumultueuse du cinéma français* de Philippe Lombard, 2019. Édition La Tengo.
 
 ## Fausses citations
 
@@ -381,6 +385,6 @@
 
 -   Bien citer permet de respecter l'aspect moral du droit d'auteur mais, dans le cas d'une diffusion de votre recherche, cela ne suffit pas car il y aussi un aspect **patrimonial** au droit d'auteur (ie. les droits liés à l'utilisation).
 
-    -   Si votre travail est diffusé, soyez attentif à ce que toutes les parties dont le droit d'auteur ne vous appartient pas n'enfreignent pas les [droits d'auteur](#sec-droitdauteur) d'autres personnes ou institutions les détenant : portions de texte, graphiques, schémas, photographies, tableaux, données, etc. 
+    -   Si votre travail est diffusé, soyez attentif à ce que toutes les parties dont le droit d'auteur ne vous appartient pas n'enfreignent pas les [droits d'auteur](#sec-droitdauteur) d'autres personnes ou institutions les détenant : portions de texte, graphiques, schémas, photographies, tableaux, données, etc.
 
 -   **Rappel : Ce manuel est rendu disponible à des fins d'information uniquement et ne constitue d'aucune manière un avis juridique.**

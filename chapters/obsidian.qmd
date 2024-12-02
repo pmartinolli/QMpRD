@@ -24,6 +24,7 @@
 
 -   Avec un logiciel adapté comme [Obsidian.md](https://obsidian.md/) (logiciel non libre, mais gratuit pour une utilisation personnelle).
     -   Avec une gestion des liens entre vos notes, basé principalement sur une organisation par index.
+    -   Optionnel : [Obsidian Web Clipper](https://obsidian.md/clipper) pour capturer des morceaux de pages web.
 
 -   Principes d'utilisation principaux :
 
@@ -191,11 +192,9 @@
 
 ## Markdown
 
--   Rédiger des notes dans Obsidian est l'opportunité idéale pour pratiquer le balisage léger Markdown voir p. .
+-   Rédiger des notes dans Obsidian est l'opportunité idéale pour pratiquer le balisage léger Markdown.
 
--   Pour une utilisation un peu plus avancée (avec possibilité de citations comme Zotero) : utiliser [Zettlr](https://www.zettlr.com/) avec un fichier des références bibliographiques au format BibTeX dans un fichier \*.bib et avec un fichier de style CSL.
-
--   Il est possible de rédiger des articles et des livres complets avec ce formatage : voir R Markdown, Bookdown et Quarto.
+-   Pour une utilisation un peu plus avancée : utiliser [Quarto ou Zettlr](#sec-markdown).
 
 ## 3P
 

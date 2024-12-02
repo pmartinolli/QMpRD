@@ -1,6 +1,6 @@
 # Dans quelle revue diffuser ma recherche ? {#sec-oupublier}
 
-Ce chapitre est une [contribution](https://github.com/pmartinolli/where2publish) égale de Valérie Rioux, Cynthia Gagné et Pascal Martinolli (Université de Montréal). 
+Ce chapitre est une [contribution](https://github.com/pmartinolli/where2publish) égale de Valérie Rioux, Cynthia Gagné et Pascal Martinolli (Université de Montréal).
 
 -   En bref :
 
@@ -38,7 +38,7 @@ Ce chapitre est une [contribution](https://github.com/pmartinolli/where2publish)
 
     -   **ORCID**: La revue demande-t-elle des ORCID pour les auteurs (encore peu courant en 2021) ?
 
-    -   **Libre accès**: Y a-t-il une politique de libre accès Voir [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) ?
+    -   **Libre accès**: Y a-t-il une politique de libre accès. Voir [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) ?
 
     -   **Frais de publication/APC**: Quels sont les frais de publication ou les sur-frais de libre accès ? Parfois difficile à trouver. Voir la fiche [DOAJ](https://doaj.org/).
 
@@ -74,7 +74,7 @@ Ce chapitre est une [contribution](https://github.com/pmartinolli/where2publish)
 
     -   Consultez la section [Outils de jumelage manuscrit/revue](https://bib.umontreal.ca/gerer-diffuser/communication-savante/publier-article-scientifique).
 
-        -   L'outil B!SON <https://service.tib.eu/bison/>semble intéressant pour certaines disciplines (basé sur DOAJ pour le titre et le résumé et sur OpenCitation pour la bibliographie).
+        -   L'outil [B!SON](https://service.tib.eu/bison/) semble intéressant pour certaines disciplines (basé sur DOAJ pour le titre et le résumé et sur OpenCitation pour la bibliographie).
 
         -   Notez que ces outils ne sont pas neutres car ils servent à faire la promotion des revues des éditeurs qui les proposent.
 
@@ -117,6 +117,10 @@ Ce chapitre est une [contribution](https://github.com/pmartinolli/where2publish)
     -   Ce sont des revues qui prétendent conduire une évaluation par les pairs de qualité alors qu'elles ne font que recevoir vos frais de publications sans travailler sur votre article.
 
     -   Publier dans une revue prédatrice est très négatif pour votre carrière universitaire p. .
+
+-   **Comment préserver ses droits d'auteur ?**
+
+    -   Quand on [soumet](https://www.udice.org/2023/09/29/comment-preserver-les-droits-dauteur-sur-mes-travaux-de-recherche/) ses travaux à une revue.
 
 -   **Article ou chapitre ?**
 

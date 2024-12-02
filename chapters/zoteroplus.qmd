@@ -1,6 +1,6 @@
 # Astuces complémentaires pour Zotero {#sec-zoteroplus}
 
-### Importations de références
+## Importations de références
 
 #### Avec un identifiant ISBN ou autre
 
@@ -36,10 +36,14 @@
 
 -   Attention aux utilisateurs de Mendeley : ce logiciel propriétaire ne vous permettra pas d'exporter vos mots-clés, donc vous risquez d'être « prisonnier » de cette application si vous ne voulez pas perdre de l'information d'indexation sur laquelle vous avex travaillé.
 
-### Ajouter une recherche vers l'outil de recherche Sofia en un clic
+## Ajouter une recherche vers l'outil de recherche Sofia en un clic
 
 -   Cherche avec le titre seulement (mais on peut bidouiller le code pour chercher d'autres choses)
 
 -   Zotero \> Parametres \> Avancés \> Ouvrir le répertoire de données : dossier Locate \> fichier engines.json. Remplacer le code par ceci <https://pastebin.pl/view/raw/2577b31b> et redémarrer Zotero.
 
 -   Ensuite, sélectionner une ou plusieurs références et aller dans le menu de droite Localiser \> UdeM Sofia. Cela permet de rechercher dans Sofia avec le titre seulement et de sauver de 8 à 11 clics. LibKey demande trop de paramètres et donc échoue la plupart du temps quand il n'y a pas de DOI (les livres par exemple).
+
+## Désactiver le *spellchecker* qui souligne en rouge
+
+-   [Désactiver le correcteur](https://forums.zotero.org/discussion/19771/workaround-to-disable-spell-checker) : Paramètres (Menu Édition sous Windows/Linux ; Menu Zotero sous MacOS) \> "Avancées" \> "Éditeur de configuration". Dans la fenêtre qui s'ouvre alors, tapez extensions.spellcheck.inline.max-misspellings et changez sa valeur à 0 ou -1. Au redémarrage de Zotero, vous n'aurez plus de soulignements intempestifs.\

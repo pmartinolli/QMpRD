@@ -27,6 +27,7 @@
     -   [Internet Archives](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) pour vérifier si une page disparue y est archivée, ou pour y créer une archive.
     -   [PubPeer](https://pubpeer.com/) pour repérer les critiques et les commentaires post-publication, principalement sur des articles scientifiques.
     -   [Unpaywall](http://unpaywall.org/) pour repérer si une version en libre accès existe dans un dépôt institutionnel.
+    -   [LibKey Nomad](https://thirdiron.com/downloadnomad/) : pour résoudre les URL des revues scientifiques dont on aurait un abonnement à l'UdeM.
 
 ### Avoir un éditeur de texte
 
@@ -42,7 +43,7 @@
 ### Avoir un logiciel de prise de notes liées
 
 -   Pour prendre des notes centrées sur les idées et les concepts, plutôt que des notes centrées sur les documents (ce qui est plutôt le point fort de Zotero).
--   Suggestion : [Obsidian.md](#sec-obsidian) 
+-   Suggestion : [Obsidian.md](#sec-obsidian) (Optionnel : [Obsidian Web Clipper](https://obsidian.md/clipper) pour capturer des morceaux de pages)
 
 ## Paramétrages logiciels
 

@@ -1,8 +1,8 @@
-#  Formats et manipulations de fichiers {#sec-formats}
+# Formats et manipulations de fichiers {#sec-formats}
 
-### Introduction
+## Introduction
 
--   Un format de document, imprimé ou électronique, est un ensemble de **règles** pour la **production** et l'**utilisation** d'un document Marcello Vitali-Rosati et Michaël Eberle-Sinatra, *[Pratiques de l'édition numérique](https://www.pum.umontreal.ca/catalogue/pratiques-de-ledition-numerique)*, Montréal, Presses de l'Université de Montréal, mars 2014.
+-   Un format de document, imprimé ou électronique, est un ensemble de **règles** pour la **production** et l'**utilisation** d'un document Marcello Vitali-Rosati et Michaël Eberle-Sinatra, [*Pratiques de l'édition numérique*](https://www.pum.umontreal.ca/catalogue/pratiques-de-ledition-numerique), Montréal, Presses de l'Université de Montréal, mars 2014.
 
     -   Un format n'est pas neutre ou universel : un format priorise, exclut ou sert certains usages et pas d'autres.
 
@@ -12,7 +12,7 @@
 
 -   Par opposition, un format est dit **propriétaire fermé** (*proprietary format* ou *closed file format*) quand on ne connait pas la recette pour créer et lire et modifier un fichier encodé dans ce format. C'est à dire que les spécifications pour manipuler le fichier ne sont pas disponibles publiquement.
 
-### Pourquoi un format ouvert ?
+## Pourquoi un format ouvert ?
 
 -   C'est un format plus **pérenne**.
 
@@ -39,7 +39,7 @@
 
     -   Un fichier MS Word peut peser 20 fois plus que ce qu'il devrait.
 
-### Format propriétaire fermé
+## Format propriétaire fermé
 
 -   Un format propriétaire fermé est encodé en **binaire** (voir plus loin) : il faut un logiciel spécifique (et souvent payant) pour créer, lire et modifier ce type de fichier.
 
@@ -65,23 +65,83 @@
 
 -   Il y a une compétition entre certains formats de fichiers. Certains formats propriétaires cherchent à augmenter le coût de changement de logiciel de leurs usagers pour les rendre artificiellement captifs de leur logiciel. Habituellement, le fichier n'est parfaitement lisible et modifiable qu'avec le logiciel propriétaire correspondant.
 
--   Pour retrouver un peu de contrôle sur l'identification ou l'ouverture des formats d'un fichier, il est recommandé d'afficher l'extension d'un fichier (.pdf ou .docx ou autre) dans les systèmes d'exploitation Windows ou Mac. 
+-   Pour retrouver un peu de contrôle sur l'identification ou l'ouverture des formats d'un fichier, il est recommandé d'afficher l'extension d'un fichier (.pdf ou .docx ou autre) dans les systèmes d'exploitation Windows ou Mac.
 
-    -   Windows Explorateur de fichiers \> Options \> Visualiser \> Décocher Masquer les extensions dont le type est connu. 
+    -   Windows Explorateur de fichiers \> Options \> Visualiser \> Décocher Masquer les extensions dont le type est connu.
 
-### Encodage en texte ou binaire
++--------------------+---------------------------------------+--------------------------------------------+
+| Type               | Ouvert                                | Propriétaire fermé                         |
++====================+=======================================+============================================+
+| Texte              | ODT (OpenDocument Text)               | DOC (Microsoft Word)                       |
+|                    |                                       |                                            |
+|                    | RTF (Rich Text Format)                | PAGES (Apple)                              |
+|                    |                                       |                                            |
+|                    | TXT (Text)                            | WP (WordPerfect)                           |
++--------------------+---------------------------------------+--------------------------------------------+
+| Image              | BMP (Windows BitMaP)                  | JP2 (Joint Photographic Expert Group 2000) |
+|                    |                                       |                                            |
+|                    | GIF (Graphics Interchange Format)     | TIF (Tagged Image File Format)             |
+|                    |                                       |                                            |
+|                    | JPG (Joint Photographic Expert Group) |                                            |
+|                    |                                       |                                            |
+|                    | PNG (Portable Network Graphics)       |                                            |
++--------------------+---------------------------------------+--------------------------------------------+
+| Tableau            | CSV (Comma-separated values)          | XLS (Microsoft Excel)                      |
+|                    |                                       |                                            |
+|                    | ODS (OpenDocument SpreadSheet)        | NUMBERS (Apple)                            |
++--------------------+---------------------------------------+--------------------------------------------+
+| Vidéo              | MKV (Matroska)                        | AVI (Audio Video Interleave)               |
+|                    |                                       |                                            |
+|                    | NUT                                   | FLV (Flash Video)                          |
+|                    |                                       |                                            |
+|                    | OGM (OGG Media)                       | MOV (QuickTime Movie)                      |
+|                    |                                       |                                            |
+|                    |                                       | MP4 (MPEG-4 Part 14)                       |
+|                    |                                       |                                            |
+|                    |                                       | QT (QuickTime Movie)                       |
+|                    |                                       |                                            |
+|                    |                                       | WMV (Windows Media Video)                  |
++--------------------+---------------------------------------+--------------------------------------------+
+| Audio              | FLAC (Free Lossless Audio Codec)      | AAC (Advanced Audio Coding)                |
+|                    |                                       |                                            |
+|                    | MP3 (MPEG-1/2_Audio_Layer_III)        | RAM (Real Audio Metadata)                  |
+|                    |                                       |                                            |
+|                    | OGG                                   | WMA (Windows Media Audio)                  |
+|                    |                                       |                                            |
+|                    | WAV (Waveform Audio File Format)      |                                            |
++--------------------+---------------------------------------+--------------------------------------------+
+| Diaporama          | ODP (OpenDocument Presentation)       | KEY (Keynote Mac)                          |
+|                    |                                       |                                            |
+|                    |                                       | PPT (Microsoft PowerPoint)                 |
++--------------------+---------------------------------------+--------------------------------------------+
+| Archive compressée | 7z (Seven Zip)                        | ACE                                        |
+|                    |                                       |                                            |
+|                    | TAR (Tape ARchiver)                   | RAR (Roshal ARchive)                       |
+|                    |                                       |                                            |
+|                    | ZIP                                   |                                            |
++--------------------+---------------------------------------+--------------------------------------------+
+| Dessin             | EPS (Encapsulated PostScript)         | AI (Adobe Illustrator Artwork)             |
+|                    |                                       |                                            |
+|                    | ODG (OpenDocument Graphics)           | CDR (CorelDRAW)                            |
+|                    |                                       |                                            |
+|                    | SVG (Scalable Vector Graphics)        | FH (Adobe FreeHand)                        |
++--------------------+---------------------------------------+--------------------------------------------+
 
--   Un format ouvert ou propriétaire peut être encodé avec du texte brut ou binaire.
+: Exemples de formats ([Source](https://doranum.fr/stockage-archivage/quiz-format-ouvert-ou-ferme_10_13143_mcwq-qs64/) : *Format ouvert ou fermé?* DoraNum, CC BY-NC-SA)
 
-#### Encodage en texte 
+## Encodage en texte ou binaire
+
+-   Un fichier peut être encodé en texte ou en binaire.
+
+### Encodage en texte
 
 -   Un format de texte brut est un format ouvert.
 
-    -   Exemples : TXT, MD, CSV, HTML, XML, TeX,\...
+    -   Exemples : TXT, MD, CSV, HTML, XML, TeX,...
 
 -   Un format de texte brut est lisible par tout appareil électronique.
 
-    -   Recommandation : installer un éditeur de texte de qualité (exemple : avec Notepad++ pour lire, modifier, transformer facilement ce type de fichier). 
+    -   Recommandation : installer un éditeur de texte de qualité (exemple : avec Notepad++ pour lire, modifier, transformer facilement ce type de fichier).
 
     -   et, même si certains formats sont très verbeux et complexes, il est lisible plus ou moins facilement par tout humain.
 
@@ -95,15 +155,17 @@
 
         -   C'est l'encodage des langages informatiques.
 
-    -    L'encodage de texte recommandé est **UTF-8**.
+    -   L'encodage de texte recommandé est **UTF-8**.
 
         -   Il permet d'avoir tous les accents des langues occidentales.
 
         -   Parfois un document qui passe d'un système Windows à un système MacOS ou Linux aura quelques caractères qui fonctionnent mal. Il faut passer par un encodage UTF-8 pour une meilleure compatibilité.
 
+    <!-- -->
+
     -   L'encodage le plus complet est UNICODE qui peut se décliner en plusieurs saveurs : UTF-8, UTF-16, UTF-32, etc.).
 
-        -   En fait, UTF-8 est un fichier encodé en ASCII partout sauf pour les caractères spéciaux qui sont en UNICODE.
+        -   **UTF-8** est un fichier encodé en ASCII partout sauf pour les caractères spéciaux qui sont en UNICODE. C'est l'encodage habituellement recommandé.
 
         -   Pour avoir des jeux de caractères plus complets (langues cyrilliques, asiatiques, émojis, etc.), il faut utiliser un encodage UTF-16 ou UTF-32.
 
@@ -121,13 +183,13 @@
 
     -   Exemple : Obsidian.md utilise des notes de texte brut balisées avec Markdown.
 
-#### Encodage binaire
+### Encodage binaire
 
 -   Un fichier peut être encodé en binaire, c'est à dire sous la forme de 0 de 1.
 
 -   Dans le cas de formats ouverts, la recette d'encodage et de décodage de ces formats est connue.
 
-    -   Exemples : OpenDocument (de LibreOffice) comme ODF, ODF, ODT ; ePUB ; \...
+    -   Exemples : OpenDocument (de LibreOffice) comme ODF, ODF, ODT ; ...
 
     -   Un **logiciel libre** produit des formats de fichiers ouverts puisque l'on connaît la recette pour construire le logiciel.
 
@@ -139,7 +201,7 @@
 
     -   Exemple : Adobe Acrobat, un logiciel propriétaire, peut produire des fichiers PDF binaires propriétaires fermés (par défaut la plupart du temps) ou des fichiers **PDF/A binaires ouverts** (voir ci-dessous).
 
-###  PDF/A c'est quoi ?
+## PDF/A c'est quoi ?
 
 -   Il s'agit d'un **format binaire ouvert** créé par l'[ISO](https://fr.wikipedia.org/wiki/PDF/A).
 
@@ -153,13 +215,13 @@
 
     -   Parfois, il est possible de changer les paramètres pour générer un PDF binaire propriétaire ouvert : PDF/A.
 
--   Comment créer un fichier PDF/A avec Windows ? 
+-   Comment créer un fichier PDF/A avec Windows ?
 
-    -   À partir de MS Word : Fichier \> Exporter \> Créer PDF \> Options : Compatible PDF/A. 
+    -   À partir de MS Word : Fichier \> Exporter \> Créer PDF \> Options : Compatible PDF/A.
 
     -   À partir de Acrobat Pro : Fichier \> Enregistrer sous un autre \> PDF archivable (PDF/A).
 
-###  Éviter les corruptions de fichiers DOC ou DOCX
+## Éviter les corruptions de fichiers DOC ou DOCX
 
 -   Pourquoi ?
 
@@ -177,7 +239,7 @@
 
     -   Si vous travaillez longtemps sur un fichier.
 
-    -   Si votre fichier contient de nombreux renvois, notes de bas de pages, références automatiques, etc. 
+    -   Si votre fichier contient de nombreux renvois, notes de bas de pages, références automatiques, etc.
 
 -   Bonnes pratiques :
 
@@ -189,13 +251,13 @@
 
     -   Faire des [sauvegardes](#sec-sauvegardedurable) règulières, datées de tous vos fichiers.
 
-###  Traitement de texte : styles et modèle de thèse 
+## Traitement de texte : styles et modèle de thèse
 
 -   **LibreOffice Writer** et **Microsoft Word** sont des traitements de texte recommandés pour la rédaction de votre mémoire ou thèse.
 
     -   Dans certaines disciplines, le format LaTex peut être privilégié mais il n'est pas traité dans cette section.
 
-####  Styles
+### Styles
 
 -   Les **styles** sont une manière de baliser le texte dans ces logiciels.
 
@@ -213,7 +275,7 @@
 
     -   De faire indexer le document par des moteurs de recherche.
 
-####  Modèle de mémoire et thèse UdeM
+### Modèle de mémoire et thèse UdeM
 
 -   Il existe un **modèle de document** pour [mémoire et thèse UdeM](https://bib.umontreal.ca/gerer-diffuser/communication-savante/rediger-these-memoire), paramétré pour MS Word selon les règles des Études supérieures et postdoctorales de l'UdeM.
 
@@ -231,15 +293,15 @@
 
     -   Produisez un document PDF de qualité archive (PDF/A).
 
-## Multiremplacements et expressions régulières[]{#chap:regex label="chap:regex"}
+## Multiremplacements et expressions régulières
 
-### Multiremplacements 
+### Multiremplacements
 
 -   Dans le cadre de votre recherche, il se peut que vous ayez à traiter des fichiers de texte et que des fonctions de **multiremplacements** puissent vous faire gagner du temps.
 
 -   Avec Notepad++ \> Ctrl+H \> Mode étendu : coché
 
-    -   Remplacer un saut de ligne` \r\n`
+    -   Remplacer un saut de ligne`\r\n`
 
     -   Remplacer une tabulation `\t`
 
@@ -251,13 +313,13 @@
 
 ### Expressions régulières
 
--   **Expressions régulières** (*regex*) : permet de faire des remplacements multiples avancés en identifiant des motifs spécifiques (toutes les lignes qui se terminent par\... toutes les phrases qui commencent par\... tous les chiffres suivis d'un espace dans une parenthèse\...).
+-   **Expressions régulières** (*regex*) : permet de faire des remplacements multiples avancés en identifiant des motifs spécifiques (toutes les lignes qui se terminent par... toutes les phrases qui commencent par... tous les chiffres suivis d'un espace dans une parenthèse...).
 
     -   Exemple avec Notepad++ (je veux remplacer tous les sauts de ligne entre guillemets par un espace) : Ctrl+H \> Mode expression régulière : coché.
 
-        -   chercher : `(,^?)``[``\r\n``]``+`
+        -   chercher : ``` (,^?)``[``\r\n``]``+ ```
 
-        -   remplacer par : `$1 `(NB: il y a un espace après \$1).
+        -   remplacer par : `$1` (NB: il y a un espace après \$1).
 
         -   Cliquer à répétition sur Remplacer tout jusqu'à ce que tout soit remplacé.
 
@@ -266,4 +328,3 @@
     -   Ne pas hésiter à chercher en ligne et se constituer sa bibliothèque personnelle de regex (dans son carnet de recherche).
 
     -   Pour en savoir [plus](https://programminghistorian.org/fr/lecons/comprendre-les-expressions-regulieres)
-    

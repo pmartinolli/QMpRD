@@ -160,9 +160,11 @@
 
 -   **PageRank** de Google: Plus une page web est citée, plus elle a de poids. De plus, elle reçoit un poids supplémentaire si les pages qui la citent sont beaucoup citées. Créé par Larry Page (d'où le nom) pour améliorer les résultats de Google avec un succès colossal.
 
--   **Paraplagiarisme** (*paraplagiarism*) : faire une paraphrase sans citer la source.
-
 -   **Pairs** \[révision par les\] (*peer*) : une chercheuse ou un chercheur qui est expert.e du sujet
+
+-   ***Paper mills*** (moulins à papier) : organismes lucratifs qui publient des articles faibles ou frauduleux, et qui peuvent aussi vendre des positions d'auteurs dans des articles.
+
+-   **Paraplagiarisme** (*paraplagiarism*) : faire une paraphrase sans citer la source.
 
 -   **Périodique** (*periodical*) : document qui contient des articles et qui paraît selon une certaine périodicité : journal ou quotidien, revue scientifique, magazine, bulletin professionnel, données statistiques mensuelles ou annuelles, etc.
 
@@ -192,7 +194,7 @@
 
 -   ***Pubprint*** : version finale de l'article après révision par les pairs et mise en page par l'éditeur.
 
--   ***Publish or perish*** (« publier ou périr ») : expression du milieu de la recherche universitaire dénonçant la pression à la publication pour débuter une carrière ou la construire.
+-   ***Publish or perish*** (« publier ou périr ») : expression du milieu de la recherche universitaire dénonçant la pression à la publication pour débuter une carrière ou la construire. Elle causerait : le manque de réviseurs (*reviewer fatigue*), la fraude et les moulins à articles (*paper mills*), les acteurs prédateurs (*predatory journals*), le mauvaise utilisation des indicateurs bibliométriques pour évaluer la qualité individuelle d'une recherche, et la publication en petits bouts (*salami-slicing*), et autres.
 
 -   **Quotidien**, ou journal (*newspaper*) : périodique dont l'objectif est d'informer sur l'actualité.
 
@@ -210,6 +212,8 @@
 
 -   **Révision par les pairs**, ou revue arbitrée (*peer-review*, ou *refereeing*) : processus de sélection, de critique et d'amélioration avant la publication d'un article dit « scientifique ». Implique l'éditeur de la revue scientifique ainsi qu'un groupe de réviseurs, aussi appelés les « pairs » (traduction de *peer-review*).
 
+-   ***Reviewer fatigue*** : expression qui indique qu'il est de plus en plus difficile pour les éditeurs de trouver des réviseurs pour les articles dont ils doivent arbitrer la publication sous le système de la révision par les pairs.
+
 -   **Revue systématique**, ou revue systématique de littéature (*systematic review*) : Type de revue de littérature très avancée et ambitieuse dans le volume de travail et de méthodes rigoureuses investies.
 
 -   **Revue de la littérature**, ou revue critique de la littérature (*review article*, *literature review*) : Article révisé par les pairs qui contient une sélection et une synthèse d'autres articles et d'études.
@@ -219,6 +223,8 @@
 -   **ROR** : fournisseur d'identifiant unique d'institutions.
 
 -   **RSS** : Technique d'abonnement à des fils d'information sur certains site web qui la propose. Doit être collecté dans un agrégateur de fil RSS.
+
+-   ***Salami-slicing*** : plutôt que de publier une belle grosse étude bien complète, on en publie plusieurs petits bouts par-ci par-là pour multiplier artificiellement son nombre de publications.
 
 -   ***Seminal paper*** (papier ou article fondateur, séminal, ou précurseur) : étude qui a fait date dans un domaine. Souvent beaucoup citée.
 

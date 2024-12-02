@@ -107,4 +107,3 @@ Voir [Sources tertaires](#sec-sourcestertiaires)
 ### Outils de cartographie de l'information
 
 -   Les outils de type [*mapping tool*](#sec-cartographieinformation) permettent d'automatiser une partie des opérations de découverte et de collecte des articles cités les uns par les autres. Ce sont des outils récents (années 2020s) qui s'appuient sur des données ouvertes de citation.
-

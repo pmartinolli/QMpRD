@@ -8,17 +8,44 @@
   - Exporter vers d'autres formats (html, pdf, MS Word,...)
 - C'est devenu une sorte de standard dans beaucoup de domaines de la recherche.
 
-
-## Exemples de logiciels qui utilisent Markdown 
-- [Obsidian.md](#sec-obsidian) pour prendre des notes
-- R Studio et Quarto pour produire de beaux documents scientifiques (c'est ce qui est utilisé pour produire ce manuel)
-- ObservableHQ pour produire de belles infographies
-- Documenter les codes sources de GitHub 
-
-
 ## Quels sont les codes de balisage minimum à connaître ?
 
 - Les balisages de niveaux de titre
 - Faire des liens URL
 - Faire des listes à puces ou numérotées
-- Faire des notes de bas de page
+- Faire des gras et des italiques
+
+
+## Exemples de logiciels qui utilisent Markdown 
+
+### Obsidian pour prendre des notes
+
+-   Voir [Obsidian.md](#sec-obsidian)
+
+
+### Zettlr pour rédiger
+
+-   [Zettlr](https://www.zettlr.com/) : Logiciel simple, permettant de rédiger au format Markdown et ensuite, en fournissant une bibliographie au format .bib (BibTeX) et un style bibliographique au format .csl, de produire différents formats de documents (PDF, html, etc.).
+
+
+### Quarto pour rédiger et diffuser
+
+-   Ce manuel a été conçu avec l'extension [Quarto](https://quarto.org/), installée dans le logiciel de statistique [RStudio](https://posit.co/download/rstudio-desktop/). Quarto a remplacé les projets RMarkdown et RBookdown.
+
+-   Il permet de rédiger au format Markdown.
+
+    -   Avec des références issues de Zotero.
+
+    -   Avec un système de renvois entre sections.
+
+    -   Avec la possibilité d'exécuter du code R ou autre pour faire des graphiques ([exemple](https://pmartinolli.github.io/JDR50bibliometrie/)).
+
+    -   Qui peut générer en un (1) clic : un site web, un fichier PDF, un fichier Word et un fichier ePub.
+
+        -   Le site web peut ensuite être envoyé facilement sur GitHub.io (en 3 clics).
+
+
+## Autres systèmes utilisant Markdown
+
+- [ObservableHQ](https://observablehq.com/user/@pascaliensis) pour produire de belles infographies
+- Documenter les codes sources de [GitHub](https://github.com/pmartinolli) 

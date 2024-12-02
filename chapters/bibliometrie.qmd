@@ -26,7 +26,7 @@ Cette section est une contribution partagée entre Cynthia Gagné (contributrice
     -   En [Italie](https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/04/bibliometrics-at-large-the-role-of-metrics-beyond-academia/), le Facteur d'impact a servi d'« outils de justice » pour pousser plus de valeurs méritocratiques au lieu de pratiques clientélistes au sein du monde de la recherche. Les indicateurs bibliométriques sont parfois utilisés dans la presse grand public comme un « sceau de qualité ».
 -   Souvent, elle sert à faire des **généralités abusives** basées sur des raccourcis de pensée.
     -   Exemple : Un article scientifique nul peut être publié dans une revue scientifique avec un haut score.
--   Les indicateurs de publication sont des **critères d'autorité externes** à un document. A priori, ils ne disent rien de la qualité du contenu du document.
+-   Les indicateurs de publication sont des **critères d'autorité externes** à un document. A priori, ils ne disent rien [de la qualité](https://doi.org/10.1177/01455613221119051) du [contenu du document](https://doi.org/10.1371/journal.pbio.3002238).
     -   Exemple : un document peut être beaucoup cité parce que tout le monde tape dessus tellement il est nul.
 -   Pour le meilleur ou pour le pire, les résultats des méthodes bibliométriques servent à **prendre des décisions critiques** pour la recherche :
     -   Pour valider des titularisations de professeurs, pour leur promotion, pour leurs subventions, pour leurs reconnaissance, etc.
