@@ -568,6 +568,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#importations-de-références" id="toc-importations-de-références" class="nav-link active" data-scroll-target="#importations-de-références"><span class="header-section-number">33.1</span> Importations de références</a></li>
   <li><a href="#ajouter-une-recherche-vers-loutil-de-recherche-sofia-en-un-clic" id="toc-ajouter-une-recherche-vers-loutil-de-recherche-sofia-en-un-clic" class="nav-link" data-scroll-target="#ajouter-une-recherche-vers-loutil-de-recherche-sofia-en-un-clic"><span class="header-section-number">33.2</span> Ajouter une recherche vers l’outil de recherche Sofia en un clic</a></li>
   <li><a href="#désactiver-le-spellchecker-qui-souligne-en-rouge" id="toc-désactiver-le-spellchecker-qui-souligne-en-rouge" class="nav-link" data-scroll-target="#désactiver-le-spellchecker-qui-souligne-en-rouge"><span class="header-section-number">33.3</span> Désactiver le <em>spellchecker</em> qui souligne en rouge</a></li>
+  <li><a href="#ajouter-des-champs-non-visibles" id="toc-ajouter-des-champs-non-visibles" class="nav-link" data-scroll-target="#ajouter-des-champs-non-visibles"><span class="header-section-number">33.4</span> Ajouter des champs non visibles</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/pmartinolli/QMpRD/issues/new" class="toc-action"><i class="bi bi-github"></i>Faire part d'un problème</a></li></ul></div></nav>
     </div>
@@ -616,11 +617,11 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><p>Comment la transformer en notices Zotero rapidement ? Option 1, s’il y a surtout des livres et des articles :</p>
 <ul>
-<li><p>Si c’est un livre, faites un copier-coller des auteurs et de quelques mots du titre dans Worldcat.org] [<a href="https://www.worldcat.org/" class="uri">https://www.worldcat.org/</a>][. Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.</p></li>
-<li><p>Si c’est un article, faites un copier-coller des auteurs et de quelques mots du titre dans Google Scholar] [<a href="https://scholar.google.com/" class="uri">https://scholar.google.com/</a>][. Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.</p></li>
+<li><p>Si c’est un livre, faites un copier-coller des auteurs et de quelques mots du titre dans <a href="https://search.worldcat.org/">Worldcat.org</a>. Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.</p></li>
+<li><p>Si c’est un article, faites un copier-coller des auteurs et de quelques mots du titre dans <a href="https://scholar.google.com/">Google Scholar</a>. Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.</p></li>
 </ul></li>
 <li><p>Option 2 : faire séquencer sa bibliographie dans le service en ligne <a href="https://anystyle.io/">AnyStyle.io</a>. Ça demande un peu de clics et de réglages mais cela peut être adapté à vos besoins. <a href="https://bib.umontreal.ca/citer/logiciels-bibliographiques/zotero/ajouter-references#c75434">Conseils d’utilisation</a>.</p></li>
-<li><p>Option 3 : utiliser un outil de type LLM. Ça demande une supervision car des erreurs s’y glissent fréquemment.</p></li>
+<li><p>Option 3 : utiliser un outil de type LLM. Ça demande une supervision car des erreurs s’y glissent fréquemment (ajout de mots dans les titres, changements de prénoms, etc.).</p></li>
 </ul>
 </section>
 <section id="astuce-passer-de-endnote-à-zotero" class="level4" data-number="33.1.0.4">
@@ -644,6 +645,20 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><a href="https://forums.zotero.org/discussion/19771/workaround-to-disable-spell-checker">Désactiver le correcteur</a> : Paramètres (Menu Édition sous Windows/Linux&nbsp;; Menu Zotero sous MacOS) &gt; “Avancées” &gt; “Éditeur de configuration”. Dans la fenêtre qui s’ouvre alors, tapez extensions.spellcheck.inline.max-misspellings et changez sa valeur à 0 ou -1. Au redémarrage de Zotero, vous n’aurez plus de soulignements intempestifs.<br>
 </li>
+</ul>
+</section>
+<section id="ajouter-des-champs-non-visibles" class="level2" data-number="33.4">
+<h2 data-number="33.4" class="anchored" data-anchor-id="ajouter-des-champs-non-visibles"><span class="header-section-number">33.4</span> Ajouter des champs non visibles</h2>
+<p>Aller dans le champ <strong>Extra</strong>.</p>
+<ul>
+<li><p>Écrire <code>DOI:numéroDeDOI</code> et un saut de ligne</p>
+<ul>
+<li>Cela va faire comme si le formulaire Info de Zotero avait désormais le champ DOI.</li>
+</ul></li>
+<li><p>Écrire <code>original-date: 1924</code> et un saut de ligne</p>
+<ul>
+<li>Cela va permettre d’afficher la date d’édition du document ainsi que la date de publication <a href="https://forums.zotero.org/discussion/63774/original-dates-of-publication">originale</a> (entre parenthèse ou crochet selon le style).</li>
+</ul></li>
 </ul>
 
 

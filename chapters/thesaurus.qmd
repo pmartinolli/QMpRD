@@ -325,4 +325,7 @@ Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoi
 
 - [https://github.com/pmartinolli/MyThesaurus/](https://github.com/pmartinolli/MyThesaurus/)
 
+    - Il s'y trouve un script Python pour transformer un fichier CSV en joli thésaurus PDF.
+    - Un autre script Python y prend un fichier CSV pour réindexer tous les #tags d'un coffre Obsidian.md (ou tout ensemble de fichiers MarkDown avec des entêtes YAML).
+
 - Une [base](https://www.zotero.org/groups/446523) de données Zotero utilisant ces principes.

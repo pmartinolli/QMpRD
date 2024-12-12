@@ -22,13 +22,13 @@
 
 -   Comment la transformer en notices Zotero rapidement ? Option 1, s'il y a surtout des livres et des articles :
 
-    -   Si c'est un livre, faites un copier-coller des auteurs et de quelques mots du titre dans Worldcat.org\] \[<https://www.worldcat.org/>\]\[. Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.
+    -   Si c'est un livre, faites un copier-coller des auteurs et de quelques mots du titre dans [Worldcat.org](https://search.worldcat.org/). Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.
 
-    -   Si c'est un article, faites un copier-coller des auteurs et de quelques mots du titre dans Google Scholar\] \[<https://scholar.google.com/>\]\[. Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.
+    -   Si c'est un article, faites un copier-coller des auteurs et de quelques mots du titre dans [Google Scholar](https://scholar.google.com/). Il y a beaucoup de chance que vous trouviez une référence de qualité moyenne à importer avec le connecteur.
 
 -   Option 2 : faire séquencer sa bibliographie dans le service en ligne [AnyStyle.io](https://anystyle.io/). Ça demande un peu de clics et de réglages mais cela peut être adapté à vos besoins. [Conseils d'utilisation](https://bib.umontreal.ca/citer/logiciels-bibliographiques/zotero/ajouter-references#c75434).
 
--   Option 3 : utiliser un outil de type LLM. Ça demande une supervision car des erreurs s'y glissent fréquemment.
+-   Option 3 : utiliser un outil de type LLM. Ça demande une supervision car des erreurs s'y glissent fréquemment (ajout de mots dans les titres, changements de prénoms, etc.).
 
 #### Astuce : Passer de Endnote à Zotero
 
@@ -47,3 +47,15 @@
 ## Désactiver le *spellchecker* qui souligne en rouge
 
 -   [Désactiver le correcteur](https://forums.zotero.org/discussion/19771/workaround-to-disable-spell-checker) : Paramètres (Menu Édition sous Windows/Linux ; Menu Zotero sous MacOS) \> "Avancées" \> "Éditeur de configuration". Dans la fenêtre qui s'ouvre alors, tapez extensions.spellcheck.inline.max-misspellings et changez sa valeur à 0 ou -1. Au redémarrage de Zotero, vous n'aurez plus de soulignements intempestifs.\
+
+## Ajouter des champs non visibles
+
+Aller dans le champ **Extra**.
+
+-   Écrire `DOI:numéroDeDOI` et un saut de ligne
+
+    -   Cela va faire comme si le formulaire Info de Zotero avait désormais le champ DOI.
+
+-   Écrire `original-date: 1924` et un saut de ligne
+
+    -   Cela va permettre d'afficher la date d'édition du document ainsi que la date de publication [originale](https://forums.zotero.org/discussion/63774/original-dates-of-publication) (entre parenthèse ou crochet selon le style).
