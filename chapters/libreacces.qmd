@@ -76,7 +76,7 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
         B(... un article \n révisé par les pairs)  
 
         B1(J'ai identifié la revue \n où soumettre)
-        B11(Je vérifie la politique de libre accès \n de la revue \n avec SHERPA RoMEO)
+        B11(Je vérifie la politique de libre accès \n de la revue)
         B111(Je publie en libre accès \n avec la revue)
         B1111(Voie diamant/platine \n 0$)
         B1112(Voie dorée \n $$$ \n Rabais possible sur APC)
@@ -120,10 +120,9 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
 
 -   Pour des techniques de création de listes de revues [où publier](#sec-oupublier).
 
-#### Je vérifie la politique de libre accès de la revue avec SHERPA RoMEO
+#### Je vérifie la politique de libre accès de la revue 
 
--   Se rendre sur [SHERPA RoMEO](https://v2.sherpa.ac.uk/romeo/search.html)
--   Vérifier les conditions.
+-   avec [SHERPA RoMEO](https://v2.sherpa.ac.uk/romeo/search.html) : pour vérifier les conditions.
 
 #### Voie diamant
 
@@ -134,7 +133,7 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
 
 -   « Dorée » pour la maison d'édition ou la revue, pas pour vous :
 -   Vous payez un supplément (***APC***) avant la publication pour rendre l'accès libre à tous immédiatement.
-    -   Il est possible d'obtenir un [rabais](https://bib.umontreal.ca/gerer-diffuser/libre-acces/services-libres-acces/rabais-avec-les-editeurs) sur certains APC.
+    -   Il est possible d'obtenir un [rabais](https://bib.umontreal.ca/gerer-diffuser/libre-acces/services-libres-acces/rabais-avec-les-editeurs) sur certains APC : vérifier les rabais avec [SciFree](https://search.scifree.se/umontreal) (accès UdeM).
 -   Attention, les [revues prédatrices](#sec-predateurs) jouent dans cette zone.
 -   Pas d'autre démarche spéciale à faire de votre part (à part signer le chèque).
 

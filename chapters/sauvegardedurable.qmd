@@ -20,7 +20,7 @@
 
     -   Pour partager des documents collaboratifs.
 
-    -   Il est recommandé d'utiliser OneDrive UdeM (1 To = 1024 Go). On peut également utiliser OneDrive personnel (5 Go) en même temps sur un même ordinateur.
+    -   Il est recommandé d'utiliser OneDrive UdeM (100 Go). On peut également utiliser OneDrive personnel (5 Go) en même temps sur un même ordinateur.
 
 -   Comment ? \[15min.\]
 

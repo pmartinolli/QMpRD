@@ -1,30 +1,33 @@
 # Thesaurus pour la recherche {#sec-thesaurus}
 
 ## Pourquoi utiliser un thesaurus (si disponible)
+   
+-   Certaines bases de données veulent apporter une valeur ajoutée supplémentaire en prenant en charge le travail sur les synonymes. En effet, du personnel qualifié ajoute manuellement des mots-clés issus d'une **liste contrôlée** de mots-clés sur chacun des enregistrements de la base de données.
+-   C'est un travail colossal, ambitieux, couteux mais qui permet, une fois qu'on a identifié le mot unique qui correspond à un thème unique, de repérer la quasi-totalité des enregistrements qui correspondent à ce thème dans une base de données.
 
--   Pourquoi ?
-    -   Certaines bases de données veulent apporter une valeur ajoutée supplémentaire en prenant en charge le travail sur les synonymes. En effet, du personnel qualifié ajoute manuellement des mots-clés issus d'une **liste contrôlée** de mots-clés sur chacun des enregistrements de la base de données.
-    -   C'est un travail colossal, ambitieux, couteux mais qui permet, une fois qu'on a identifié le mot unique qui correspond à un thème unique, de repérer la quasi-totalité des enregistrements qui correspondent à ce thème dans une base de données.
--   Quoi ?
-    -   Dans un thésaurus, il y a deux types de mots-clés :
-        -   Les mots Sujets : ce sont les termes contrôlés, une fois que vous avez mis la main dessus, tous les documents indexés avec ce thème sont repérés.
-        -   Les mots de renvoi : ce sont des synonymes qui renvoient à un mot Sujet unique. Il faut utiliser le mot Sujet indiqué. C'est comme travail sur les synonymes qui a été fait en amont dans la base de données bibliographiques. Ce travail peut être de plus ou moins bonne qualité. Des termes récents ne sont peut-être pas encore pris en compte.
-    -   La plupart du temps, les termes d'un thésaurus sont classés par ordre hiérarchique.
-        -   Il y a des termes plus génériques.
-        -   Il y a des termes plus spécifiques rattachés à un terme plus générique.
-        -   L'arborescence peut être plus ou moins profonde.
-        -   Si elle est disponible, la fonction *Explode* permet de chercher tous le terme générique et tous les termes spécifiques.
-        -   Si elle est disponible, la fonction *Focus* permet de chercher seulement le terme sélectionné.
--   Comment utiliser un thésaurus pour la recherche de documents ?
-    -   Allez explorer les thésaurus de certaines bases de données : *MEDLINE, PsychInfo, Sociological Abstracts,*etc.
-        -   Pour les catalogues d'institution québécoises, le thésaurus est souvent le Répertoire des vedettes-matières de l'Université Laval ([RVM](https://rvmweb.bibl.ulaval.ca/)).
-    -   Séquence d'utilisation simple :
-        1.  Parcourir un thésaurus (souvent dans les menus en haut de l'interface).
-        2.  Repérer les mots Sujets pertinents et les prendre en note.
-        3.  Revenir à l'interface de recherche. Lancer une recherche avec les mots Sujets dans le champ Sujets.
-    -   Séquence d'utilisation avancée :
-        -   Naviguer dans le thésaurus et activer les mots Sujets au fur et à mesure.
-        -   Plus complexe et risque d'erreurs voir p. pour un exemple de manipulation du thésaurus MeSH de MEDLINE (en médecine).
+### Comment est fait un thésaurus
+
+-   Dans un thésaurus, il y a deux types de mots-clés :
+    -   Les mots Sujets : ce sont les termes contrôlés, une fois que vous avez mis la main dessus, tous les documents indexés avec ce thème sont repérés.
+    -   Les mots de renvoi : ce sont des synonymes qui renvoient à un mot Sujet unique. Il faut utiliser le mot Sujet indiqué. C'est comme travail sur les synonymes qui a été fait en amont dans la base de données bibliographiques. Ce travail peut être de plus ou moins bonne qualité. Des termes récents ne sont peut-être pas encore pris en compte.
+-   La plupart du temps, les termes d'un thésaurus sont classés par ordre hiérarchique.
+    -   Il y a des termes plus génériques.
+    -   Il y a des termes plus spécifiques rattachés à un terme plus générique.
+    -   L'arborescence peut être plus ou moins profonde.
+    -   Si elle est disponible, la fonction *Explode* permet de chercher tous le terme générique et tous les termes spécifiques.
+    -   Si elle est disponible, la fonction *Focus* permet de chercher seulement le terme sélectionné.
+    
+### Comment utiliser un thésaurus pour la recherche de documents ?
+
+-   Allez explorer les thésaurus de certaines bases de données : *MEDLINE, PsychInfo, Sociological Abstracts,*etc.
+    -   Pour les catalogues d'institution québécoises, le thésaurus est souvent le Répertoire des vedettes-matières de l'Université Laval ([RVM](https://rvmweb.bibl.ulaval.ca/)).
+-   Séquence d'utilisation simple :
+    1.  Parcourir un thésaurus (souvent dans les menus en haut de l'interface).
+    2.  Repérer les mots Sujets pertinents et les prendre en note.
+    3.  Revenir à l'interface de recherche. Lancer une recherche avec les mots Sujets dans le champ Sujets.
+-   Séquence d'utilisation avancée :
+    -   Naviguer dans le thésaurus et activer les mots Sujets au fur et à mesure.
+    -   Plus complexe et risque d'erreurs voir p. pour un exemple de manipulation du thésaurus MeSH de MEDLINE (en médecine).
 
 ### Exemples de thesaurus
 
@@ -35,171 +38,121 @@
 #### Thésaurus MeSH de Ovid MEDLINE
 
 -   Utilisé par Medline et PubMed pour les articles scientifiques en santé.
-
 -   Ouvrir la base de données Ovid [MEDLINE](https://libguides.bib.umontreal.ca/MEDLINE_OVID).
+-   Option de recherche simple :
+  -   On arrive sur la recherche avancée avec une requête cochée sur Keyword. Il faut donc :
+      -   Chercher d'abord un Keyword à la fois et ensuite combiner les historiques de recherche.
+      -   OU : Lancer une recherche avec plusieurs Keywords mais séparés par un`AND`explicite.
+          -   En effet, c'est une des rares base de données qui ne remplace pas les espaces entre les mots par des`AND`. Par défaut, des mots séparés par des espaces sont cherchés comme un groupe de mots entre guillemets.
+- Option de recherche avancée : 
+  -   Ouvrir le*Term Finder*(bouton vert).
+  -   Chercher un terme, le cocher puis et cliquer sur*Add to Search Options*.
+      -   Les termes MeSH ont une hiérarchie avancée : des termes plus génériques et des termes plus spécifiques.
+          -   Cocher*Explode*pour chercher un niveau général et tous les niveaux plus spécifiques.
+      -   Cocher*Focus*pour chercher seulement les sujets qui ont été indexés comme sujets majeurs du document (ceux précédés d'une astérisque).
+  -   Recommencer pour chaque terme puis combiner les recherches pertinentes.
+- Notes : 
+  -   Si, dans une référence, un MeSH commence par un astérisque, alors ça veut dire que ce MeSH est un sujet majeur du document.
+  -   Pour une utilisation avancée du thésaurus MeSH de Ovid MEDLINE, veuillez contacter les bibliothécaires disciplinaires.
 
-##### Option de recherche simple :
-
--   On arrive sur la recherche avancée avec une requête cochée sur Keyword. Il faut donc :
-
-    -   Chercher d'abord un Keyword à la fois et ensuite combiner les historiques de recherche.
-
-    OU
-
-    -   Lancer une recherche avec plusieurs Keywords mais séparés par un`AND`explicite.
-
-        -   En effet, c'est une des rares base de données qui ne remplace pas les espaces entre les mots par des`AND`. Par défaut, des mots séparés par des espaces sont cherchés comme un groupe de mots entre guillemets.
-
-##### Option de recherche avancée
-
--   Ouvrir le*Term Finder*(bouton vert).
-
--   Chercher un terme, le cocher puis et cliquer sur*Add to Search Options*.
-
-    -   Les termes MeSH ont une hiérarchie avancée : des termes plus génériques et des termes plus spécifiques.
-
-        -   Cocher*Explode*pour chercher un niveau général et tous les niveaux plus spécifiques.
-
-    -   Cocher*Focus*pour chercher seulement les sujets qui ont été indexés comme sujets majeurs du document (ceux précédés d'une astérisque).
-
--   Recommencer pour chaque terme puis combiner les recherches pertinentes.
-
-##### Notes
-
--   Si, dans une référence, un MeSH commence par un astérisque, alors ça veut dire que ce MeSH est un sujet majeur du document.
-
--   Pour une utilisation avancée du thésaurus MeSH de Ovid MEDLINE, veuillez contacter les bibliothécaires disciplinaires.
 
 ## Se construire son propre thésaurus personnel (pour Zotero ou tout autre système)
+
+Le classement dans des dossiers ou des collections est une organisation simple et efficace pour un petit nombre de documents. C'est souvent le premier niveau d'une organisation de base de connaissance. Cependant, les classements ont des limites. Ils peuvent devenir inefficace si les documents sont très hétérogènes, ou trop nombreux, ou sur des thèmes différents. Il faut alors ajouter un système d'indexation par mots-clés uniques. On dit aussi marqueurs, \*keywords**,** tags**, descripteurs, sujets,** subject headings\*\*.
 
 ### Pourquoi se créer un thésaurus personnel ?
 
 -   Pour mieux retrouver ses références bibliographiques.
-
 -   Pour bien délimiter votre sujet de recherche.
-
 -   Pour savoir quel aspect a besoin d'être élaboré, détaillé et représenté par un mot-clé/marqueur unique.
-
 -   Pour mieux repérer les sujets émergents.
-
 -   Organisation est plus adaptée aux changements, aux ajouts, aux suppressions, etc.
-
 -   C'est mieux exportable vers d'autres systèmes. En effet, les mot-clés/marqueurs sont intégrés dans la référence de chaque document (dans un système par dossier, l'organisation est extérieure au document).
-
 -   Facilité pour croiser plusieurs mot-clés/marqueurs pour rechercher des documents (plus facile que des dossiers-collections).
 
 ### Comment se créer un thésaurus ?
 
 -   En créant une liste de marqueurs uniques, uniformes, contrôlés.
-
 -   En indexant ses références bibliographiques avec ces marqueurs uniques pertinents.
-
 -   Un thésaurus est toujours lié aux possibilités informatiques du logiciel dans lequel il est implanté. Les méthodes ci-dessous sont adaptées au logiciel Zotero mais elles peuvent être traduites et adaptées à d'autres logiciels. Le terme « marqueur » est utilisé car c'est le terme de Zotero. Dans le vocabulaire des thésaurus, un marqueur s'appelle un « descripteur ».
-
 -   Je suggère 3 grandes familles de marqueurs :
-
     -   Des marqueurs de méthodes de travail (une poignée)
-
     -   Des marqueurs d'évaluation ou de description (une poignée)
-
     -   Des marqueurs thématiques (l'essentiel des marqueurs)
-
 
 ### Principes généraux pour la création d'un thésaurus personnel
 
 -   La règle principale pour ajouter un marqueur est « **une personne cherchant avec ce marqueur sera-t-elle satisfaite de repérer ce document ?** ».
-  -   Cela permet de faire des choix pour des documents qui parle d'un thème-marqueur mais qui ne sont pas pertinents si on cherche de l'information à propos de ce thème-marqueur. Exemple : mon document parle d'oiseaux, mais si un jour je cherche des choses sur les oiseaux, ce document ne sera pas spécialement pertinent pour moi. Donc, je n'utilise pas le marqueur `oiseau`.
+-   Cela permet de faire des choix pour des documents qui parle d'un thème-marqueur mais qui ne sont pas pertinents si on cherche de l'information à propos de ce thème-marqueur. Exemple : mon document parle d'oiseaux, mais si un jour je cherche des choses sur les oiseaux, ce document ne sera pas spécialement pertinent pour moi. Donc, je n'utilise pas le marqueur `oiseau`.
 -   Plus une référence est importante dans votre corpus, plus elle devrait naturellement avoir beaucoup de marqueurs.
-  - Commencez par indexer vos références les plus importantes avec les marqueurs pertinents. Continuez avec les références moins importantes.
-  -   Si une référence est moyennement ou peu pertinente, il est normal qu'elle ait : peu de marqueurs, voire seulement des marqueurs très génériques.
+-   Commencez par indexer vos références les plus importantes avec les marqueurs pertinents. Continuez avec les références moins importantes.
+-   Si une référence est moyennement ou peu pertinente, il est normal qu'elle ait : peu de marqueurs, voire seulement des marqueurs très génériques.
 -   Si vous avez un système de marqueurs à 2 niveaux (ex: `_sport` \> `_natation`) et si vous voulez indexer un terme spécifique (ex : `_natation`), alors il faut indexer avec les **marqueurs des deux niveaux** pour chaque référence (ex :`_sport` et `_natation`)
-
-
-
-
 
 #### Suggestions de marqueurs de méthode de travail :
 
 -   `_nettoyé` : la notice électronique de la référence dans Zotero a été vérifiée, elle peut être citée dans un travail.
-
 -   `_lu` : lu.
-
 -   `_bibliographie analysée` : toutes les références bibliographiques pertinentes mentionnées dans ce document ont été ajoutées à ma base Zotero.
 
 #### Suggestions de marqueurs de description ou d'évaluation :
 
 -   `_publication majeure` : LE document incontournable, central, solide à propos de ce sujet. À ne mettre qu'à moins d'un document sur 20 (moins de 5%).
-
 -   `_pas intéressant` : le titre était tellement bon, mais quand j'ai eu le document en main j'ai évalué que ce n'était pas bon pour mon travail. Je mets ce marqueur car je suis sûr.e que dans 6 mois ou 1 an, j'aurai oublié que je l'ai déjà évalué et rejeté.
-
 -   Pour aller plus loin : une cote de sérieux du document ?
-
     -   `_0.00` : foutaise, rétraction, erreur, fausse science
-
     -   `_0.33` : méthode douteuse ou bancale, conclusion exagérée, etc.
-
     -   `_0.66` : pas vérifié en profondeur, mais pas de raison de douter. Souvent la majorité de son corpus.
-
     -   `_0.99` : solide et vérifié. Je peux m'appuyer dessus sans soucis.
 
 #### Comment constituer une liste de marqueurs thématiques ?
 
 -   Commencez par lister entre **10 et 15 grands thèmes**. Ce seront vos marqueurs génériques. Plus tard, listez d'autres thèmes, sous-thèmes, etc.
-
     -   Astuce : rédigez les marqueurs génériques TOUT EN MAJUSCULES. Et rédigez les autres marqueurs tout en minuscules.
-
 -   Commencez à créer votre thésaurus à partir des 50 références les plus importantes de votre corpus. Puis ensuite, intégrer les autres références pour le compléter.
-
-- Un marqueur a pour fonction de repérer un document, pas spécialement de décrire un document. 
-    - Question à se poser avant d'ajouter un marqueur à un document : « Est-ce qu'en utilisant ce marqueur je serai content de repérer ce document ? » 
-    - Cela explique pourquoi on peut utiliser un marqueur pour des sujets proches (ex. utiliser _copyright pour brevet).
-
+-   Un marqueur a pour fonction de repérer un document, pas spécialement de décrire un document.
+    -   Question à se poser avant d'ajouter un marqueur à un document : « Est-ce qu'en utilisant ce marqueur je serai content de repérer ce document ? »
+    -   Cela explique pourquoi on peut utiliser un marqueur pour des sujets proches (ex. utiliser \_copyright pour brevet).
 -   Ne pas dépasser 100 marqueurs différents. Idéalement rester entre 50 et 100 maximum.
-
     -   Un thésaurus trop granulaire (trop précis et trop détaillé partout) sera inefficace. En effet, un thesaurus est efficace pour rassembler des termes proches en un seul terme.
-
     -   Si vous avez 1000 références, dites-vous que si vous croisez 2-3 marqueurs et que vous obtenez 50-70 résultats, alors vous avez un thésaurus parfait. En effet, il est alors très simple de parcourir ou trier/filtrer cette liste et terminer le travail de sélection. Le thésaurus a fait le gros du travail. Ce qui fait la force des marqueurs, c'est qu'en les combinant ensemble on ait toujours une liste **exhaustive** de tous les documents pertinents.
-
     -   L'erreur classique est de créer un thésaurus « trop beau intellectuellement » mais trop détaillé avec beaucoup trop de marqueurs utilisés moins de 10 fois.
-
     -   En cas de doute, sélectionnez un seul marqueur pour décrire un ou plusieurs concepts, même un peu différents (ex: copyright pour contrefaçon ou reproduction ou plagiat par ex.).
-
 -   Faites un thésaurus basé sur vos objectifs de recherche et votre corpus, pas sur l'organisation théorique et complète des informations. Un thésaurus est toujours **adapté** à un projet.
 
 Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoir ...
 
-+---------------+------------------------+---------------+
-| \_natation*\  | ... est mieux que ...  | \_natation*\  |
-| \_*waterpolo\ |                        | \_*waterpolo\ |
-| \_plongeon    |                        | \_plongeon    |
-|               |                        |               |
-| **\_autre**   |                        | **\_course*\  |
-|               |                        | \_*saut\      |
-|               |                        | \_vélo*\      |
-|               |                        | \_*lancer\    |
-|               |                        | \_pétanque**  |
-+---------------+------------------------+---------------+
++---------------+-----------------------+---------------+
+| \_natation*\  | ... est mieux que ... | \_natation*\  |
+| \_*waterpolo\ |                       | \_*waterpolo\ |
+| \_plongeon    |                       | \_plongeon    |
+|               |                       |               |
+| **\_autre**   |                       | **\_course*\  |
+|               |                       | \_*saut\      |
+|               |                       | \_vélo*\      |
+|               |                       | \_*lancer\    |
+|               |                       | \_pétanque**  |
++---------------+-----------------------+---------------+
 
 -   Constituez votre thésaurus ou paufinez-le quand vous avez déjà plusieurs centaines de références, c'est plus facile pour baliser votre terrain et repérez des marqueurs candidats.
-
 -   Astuce de la « sous-catégorie obèse » : fusionnez une sous-catégorie trop volumineuse (par rapport à toutes les autres qui sont rachitiques) avec la catégorie supérieure.
 
-    Exemple :
+Exemple :
 
-+---------------+-----------------------------------------------+---------+
-| Avant (bof)   | \_INFORMATION                                 | n=52    |
-|               |                                               |         |
-|               | \_archives\                                   | 6\      |
-|               | **\_bibliothèque**\                           | **32**\ |
-|               | \_citation\                                   | 4\      |
-|               | \_fouille de texte                            | 3       |
-+---------------+-----------------------------------------------+---------+
-| Après (mieux) | \_BIBLIOTHEQUE                                | 52      |
-|               |                                               |         |
-|               | \_archives\                                   | 6\      |
-|               | \_citation\                                   | 4\      |
-|               | \_fouille de texte                            | 3       |
-+---------------+-----------------------------------------------+---------+
++---------------+-----------------------------------------+-------------+
+| Avant (bof)   | \_INFORMATION                           | n=52        |
+|               |                                         |             |
+|               | \_archives\                             | 6\          |
+|               | **\_bibliothèque**\                     | **32**\     |
+|               | \_citation\                             | 4\          |
+|               | \_fouille de texte                      | 3           |
++---------------+-----------------------------------------+-------------+
+| Après (mieux) | \_BIBLIOTHEQUE                          | 52          |
+|               |                                         |             |
+|               | \_archives\                             | 6\          |
+|               | \_citation\                             | 4\          |
+|               | \_fouille de texte                      | 3           |
++---------------+-----------------------------------------+-------------+
 
 -   Astuce du « petit verbeux » : si vous avez une base de données sur le jeu, il n'est peut être pas nécessaire de créer un marqueur `_jeu` qui serait présent dans toutes les références. À évaluer.
 -   Si vous voulez travailler fort sur votre thésaurus, travaillez sur les **renvois** (on dit aussi alias), c'est-à-dire les synonymes d'un marqueur unique : tous les mots qui seront des variants, des termes proches, des termes plus spécifiques ou génériques, etc.
@@ -207,57 +160,33 @@ Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoi
 #### Création des marqueurs dans Zotero
 
 -   Dans une notice : onglet Marqueurs \> Ajouter \> rédiger un nouveau marqueur.
-
 -   Astuce : faire précéder chaque marqueur unique du **caractère \_** (tiret bas, ou *underscore*).
-
     -   Ils sont ainsi « signés » comme étant vos marqueurs à vous et issus d'une précieuse liste contrôlée.
-
     -   Ils apparaissent en haut des listes.
-
 -   Astuce : faire précéder vos marqueurs temporaires ou de « cuisine interne » (réorganisation, hésitation, archives, etc.) avec le **caractère =**
-
     -   Ils sont signés aussi, et ils ne se mélangent pas à votre liste contrôlée de \_marqueurs.
-
     -   Ils apparaissent en groupe, juste après les \_marqueurs.
-
 -   Astuce : vous pouvez colorer avec 9 couleurs des marqueurs qui seront fixés de manière permanente dans le nuage des marqueurs à droite.
-
     -   Nuage des marqueurs \> clic-droit sur un marqueur \> Attribuer une couleur.
-
     -   Suggestion de marqueurs à colorer :`_nettoyé`,`_publication majeure`,`_lu`.
 
 ### Consigner le thésaurus personnel dans un tableau
 
 -   Ouvrir un fichier Word ou LibreOffice :
-
     -   Faire tout tenir sur une page recto : Réduire les marges et haut et bas de page. Créer 2 colonnes.
-
     -   Une fois terminé, imprimer cette page et la coller comme couverture de votre cahier de recherche. Ainsi, vous l'aurez facilement toujours sous les yeux.
-
 -   Faire 2 ou 3 colonnes :
-
     -   2 colonnes = une colonne pour les marqueurs uniques, une colonne pour les renvois.
-
     -   3 colonnes = deux colonnes pour les marqueurs uniques (organisés sur deux niveaux), une colonne pour les renvois.
-
         -   Voir Exemple ci-dessous.
-
 -   Lister tous les marqueurs uniques.
-
     -   Choisir une règle de forme unique
-
         -   Exemple : en français, au singulier et débutant avec une majuscule après le \_ ou le =.
-
         -   Exemple : en anglais, au singulier et tout en minuscule (mon préféré).
-
         -   Car dans Zotero les marqueurs sont sensibles aux accents (mais plus à la casse depuis la v7).
-
     -   Parcourir sa collection de références et repérer les thèmes. Si un nouveau thème est pertinent, créez un marqueur.
-
 -   Regrouper les marqueurs par grands thèmes (niveau 1).
-
     -   Si on veut, on peut donner un niveau supplémentaire pour nicher certains sous-thèmes (niveau 2) dans des grands thèmes (niveau 1).
-
 -   Lister tous les renvois, alias, variants, thèmes proches ou thèmes plus spécifiques pertinents dans la colonne des renvois.
 
 #### Exemple
@@ -281,51 +210,46 @@ Exemple : si votre projet ne traite que de sports aquatiques, il vaut mieux avoi
 +--------------------+--------------------+------------------------------------------------------------------------------------------------------------------------+
 | `_COLLABORATION`   |                    | négociation, coopération, communication                                                                                |
 +--------------------+--------------------+------------------------------------------------------------------------------------------------------------------------+
-| `_AGENTIVITÉ`      |                    | choix, *choice*, dilemme, prise de décision, *decision making*                                                    |
+| `_AGENTIVITÉ`      |                    | choix, *choice*, dilemme, prise de décision, *decision making* \|                                                      |
 +--------------------+--------------------+------------------------------------------------------------------------------------------------------------------------+
 
 -   Avec l'exemple ci-dessus, on peut voir que l'on utilise :
-
     -   `_APPRENTISSAGE`: seul
-
     -   `_APPRENTISSAGE`et `_ludification` : toujours ensemble
-
     -   `_JEU` et `_jeu de société` : toujours ensemble
-
     -   etc.
-
 
 ### Bonnes pratiques dans le cas d'une bibliothèque de groupe partagée
 
 -   Le thésaurus de vos marqueurs contrôlés va être encore plus important.
-
     -   Quand on est seul, il sert à communiquer avec notre moi du futur. Quand on est en groupe, c'est comme une langue commune.
-
     -   Choisir de créer ou de fusionner des marqueurs doit être une décision explicite faite par les participants.
-
     -   Ne pas hésiter à commencer chaque réunion de travail du groupe par un survol des marqueurs utilisés (succès, pertinence, nouveaux candidats, etc.).
-
 -   Remplacer le marqueur `_lu` par un marqueur avec les initiales de chaque participants.
-
     -   exemple : `=PM` pour Pascal Martinolli.
-
 -   Créer une collection pour les nouvelles références.
-
     -   Mieux : créer une collection contenant des sous-collections mensuelles pour que l'on suive ce qui est rajouté au cours du temps.
-
     -   Chaque nouvelle référence doit être signée par le participant qui l'a ajouté (exemple avec `=PM`).
-
 -   Créer une collection Candidats à la suppression.
-
     -   Quand tout le monde est d'accord, les références dedans sont supprimées.
 
+## Indexer des références avec un thésaurus
 
-    
+### Principes généraux
+
+-   La règle principale pour ajouter un marqueur est « une personne cherchant avec ce marqueur sera-t-elle satisfaite de repérer ce document ? ».
+    -   Le but du marqueur n'est pas tout à fait de décrire le document mais de le retrouver *s'il est pertinent*.
+    -   Cela permet de faire des choix pour des documents qui parle d’un marqueur mais qui ne sont pas pertinents si on cherche de l’information à propos de ce marqueur.
+    -   Exemple : mon document parle d'oiseaux, mais si un jour je cherche des choses sur les oiseaux, ce document ne sera pas spécialement pertinent pour moi. Donc, je n'utilise pas le marqueur oiseau.
+-   Si vous avez un système de marqueurs à 2 niveaux (un générique et un spécifique) : si vous voulez indexer un terme spécifique, alors il faut indexer aussi le terme générique.
+-   Commencez indexer vos références les plus importantes avec les marqueurs pertinents.
+    -   Il est normal que les références importantes aient plus de marqueurs (voire plus de marqueurs spécifiques) que des références moins importantes.
+-   Continuez avec les références moins importantes.
+    -   Il est normal que des références moins importantes aient peu de marqueurs, voire parfois seulement des marqueurs génériques.
+
 ### Aide-mémoire, exemples et outils
 
-- [https://github.com/pmartinolli/MyThesaurus/](https://github.com/pmartinolli/MyThesaurus/)
-
-    - Il s'y trouve un script Python pour transformer un fichier CSV en joli thésaurus PDF.
-    - Un autre script Python y prend un fichier CSV pour réindexer tous les #tags d'un coffre Obsidian.md (ou tout ensemble de fichiers MarkDown avec des entêtes YAML).
-
-- Une [base](https://www.zotero.org/groups/446523) de données Zotero utilisant ces principes.
+-   <https://github.com/pmartinolli/MyThesaurus/>
+    -   Il s'y trouve un script Python pour transformer un fichier CSV en joli thésaurus PDF.
+    -   Un autre script Python y prend un fichier CSV pour réindexer tous les #tags d'un coffre Obsidian.md (ou tout ensemble de fichiers MarkDown avec des entêtes YAML) et d'une bibliothèque de références Zotero.
+-   Une [base](https://www.zotero.org/groups/446523) de données Zotero utilisant ces principes.

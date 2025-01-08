@@ -57,4 +57,4 @@
 
 ### Paramétrer OneDrive UdeM
 
-- Pour avoir un [infonuage](#sec-sauvegardedurable) de 1 TB. 
+- Pour avoir un [infonuage](#sec-sauvegardedurable). 
