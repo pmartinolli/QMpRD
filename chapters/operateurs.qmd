@@ -1,18 +1,19 @@
 # Opérateurs logiques {#sec-operateurs}
 
--   Pourquoi utiliser des opérateurs ? 
-    - Pour aider les moteurs de recherche à combiner les mots-clés que vous recherchez et ainsi améliorer considérablement le repérage de résultats pertinents.
-    - On dit aussi « opérateurs booléens » ou « opérateurs de recherche » (*logical operators*,  *boolean operators* ou *search operators*).
+-   Pourquoi utiliser des opérateurs ?
+    -   Pour aider les moteurs de recherche à combiner les mots-clés que vous recherchez et ainsi améliorer considérablement le repérage de résultats pertinents.
+    -   On dit aussi « opérateurs booléens » ou « opérateurs de recherche » (*logical operators*, *boolean operators* ou *search operators*).
 -   Comment ?
     -   En utilisant des opérateurs rédigés en MAJUSCULE ou des signes spéciaux.
-    -   Les deux plus importants sont `AND` et la troncature (représenté par une astérisque`*`).
+    -   Les deux plus importants sont `AND` et la troncature (représentée par une astérisque`*`).
 
-L'essentiel à savoir (dans une capsule de 8 minutes) :
+## L'essentiel à savoir
+
+L'essentiel à savoir se trouve dans cette superbe capsule vidéo de 8 minutes :
 
 {{< video https://www.youtube.com/embed/XXtGzSGLA8o >}}
 
-Pour aller plus loin : une [série de dix capsules](https://umontreal.ca.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22654420b3-e1fb-4522-9305-af5d01651a44%22&sortColumn=0&sortAscending=true) présentant les notions expliquées ci-dessous.
-
+Si vous voulez aller plus loin : voici une [série de dix capsules](https://umontreal.ca.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22654420b3-e1fb-4522-9305-af5d01651a44%22&sortColumn=0&sortAscending=true) présentant les opérateurs en détail et avec toutes les techniques secrètes de shaolin pour devenir le grand maître des requêtes. Les différentes sections ci-dessous reprennent les contenus des capsules.
 
 ## AND
 
@@ -46,7 +47,7 @@ Pour aller plus loin : une [série de dix capsules](https://umontreal.ca.panopto
 
 -   C'est le deuxième opérateur le plus important.
 
-### Pourquoi ? 
+### Pourquoi ?
 
 -   Parce que dans la plupart des bases de données universitaires, si vous saisissez un mot alors le moteur de recherche ne va chercher que ce mot **exactement**.
     -   Par exemple, si je demande le mot `femme`, les documents qui contiennent `femmes` au pluriel sont ignorés.
@@ -59,12 +60,12 @@ Pour aller plus loin : une [série de dix capsules](https://umontreal.ca.panopto
     -   L'astérisque remplace aucune lettre ou une série variable de lettres.
     -   Idéal pour repérer les féminins, les pluriels et les déclinaisons proches.
 -   Exemples :
-    -   ``` dementia elder* board game* ```
+    -   `dementia elder* board game*`
 
-    -   ``` play* kid* memor* ```
+    -   `play* kid* memor*`
 -   Ne pas hésiter **à utiliser partout**, la majorité des moteurs de recherche universitaires savent l'utiliser.
     -   Par contre, comme c'est une opération informatique très gourmande en ressources, elle n'est pas disponible dans Google ou les grands moteurs du web (Bing, etc.). Ces outils font les recherches de féminins/masculins, singuliers/pluriels et déclinaisons proches pour vous à partir du mot complet que vous leur avez fournis.
-    -   **Attention aux troncatures très courtes**, ça peut vous repérer n'importe quoi. Exemple : ``` cat* ```
+    -   **Attention aux troncatures très courtes**, ça peut vous repérer n'importe quoi. Exemple : `cat*`
 -   À l'exception de quelques bases de données de chimie ou de pharmacie, il n'est pas possible de faire de **troncature devant ou dans un mot**. Seulement à la fin.
 
 ## OR ( )
@@ -78,21 +79,21 @@ Pour aller plus loin : une [série de dix capsules](https://umontreal.ca.panopto
 
 -   Dans une parenthèse, écrire tous les mots-clés et les séparer par `OR` (espace OR espace).
 -   Exemples :
-    -   ``` (dementia OR cogniti*) AND (elder* OR aged) AND (board OR card OR role-play*) AND game* ```
+    -   `(dementia OR cogniti*) AND (elder* OR aged) AND (board OR card OR role-play*) AND game*`
 -   Les **parenthèses** sont importantes pour bien grouper les mots, surtout si on rédige sa recherche dans une seule case. Parfois, si on met tous les mots dans une seule case de recherche, la case fonctionne comme une parenthèse.
 
 ## "Expression entre guillemets carrés"
 
-### Pourquoi ? 
+### Pourquoi ?
 
 -   Permet d'avoir **moins de résultats mais toujours pertinents**, ou bien de présenter les meilleurs résultats en premier.
     -   En effet, mettre un groupe de mots entre guillemets carrées va chercher exactement ces mots dans l'ordre indiqué.
-    -   S'il n'y a pas de guillemets, la machine va opérer un AND entre les mots (ce qui va chercher tous les mots mais n'importe où dans le document, donc quelques documents pertinents mais aussi un grand nombre de documents moins ou pas pertinents).
+    -   S'il n'y a pas de guillemets, la machine va opérer un `AND` entre les mots (ce qui va chercher tous les mots mais n'importe où dans le document, donc quelques documents pertinents mais aussi un grand nombre de documents moins ou pas pertinents).
 
 ### Comment ?
 
 -   Utiliser les guillemets carrés de votre clavier (clavier canadien ou américain : avec la touche 2).
--   Ne pas utiliser les chevrons « » (guillemets triangulaires), ne pas utiliser les doubles apostrophes ' ' : cela ne fonctionne pas.
+-   Ne pas utiliser les chevrons `« »` (guillemets triangulaires), ne pas utiliser les doubles apostrophes `''` : cela ne fonctionne pas.
 -   Choisir l'expression exacte à recherche.
     -   Dans les bases de données universitaires, il est recommandé de commencer la recherche SANS les guillemets. Ensuite, s'il y a trop de résultats, on peut ajouter des guillemets si c'est applicable.
     -   Les guillemets fonctionnent particulièrement bien dans Google et ses sous-produits (Google Scholar, etc.) car il y a toujours trop de résultats dans Google et on a besoin de bien ordonner les résultats pour faire apparaître les résultats pertinents en premier. De plus, encadrer UN mot ou plusieurs mots entre guillemets permet de forcer Google à chercher ce mot obligatoirement.
@@ -112,17 +113,41 @@ Pour aller plus loin : une [série de dix capsules](https://umontreal.ca.panopto
 ### Comment ?
 
 -   Rédiger sa recherche et, à la fin, ajouter l'opérateur NOT suivi du mot qui va éliminer tous les documents utilisant ce mot.
--   On peut supprimer plusieurs mots en ajoutant `NOT (mot1 OR mot2 OR mot3)`par exemple.
 -   Exemples d'utilisation :
     -   Une recherche est envahie par des résultats d'un domaine complètement différent.
-        -   Exemple : ``` senateur* Ottawa ``` va donner des résultats de sport (puisqu'une équipe de hockey s'appelle les Sénateurs d'Ottawa) et des résultats de politique. Si on veut seulement des résultats de politiques, il faut utiliser `senateur* Ottawa NOT hockey.`
+        -   Exemple : `senateur* Ottawa` va donner des résultats de sport (puisqu'une équipe de hockey s'appelle les Sénateurs d'Ottawa) et des résultats de politique. Si on veut seulement des résultats de politiques, il faut utiliser `senateur* Ottawa NOT hockey.`
     -   On peut utiliser le NOT pour enlever des publications gouvernementales d'une liste de résultats.
-        -   Exemple : ``` mon sujet NOT (gouvernement* OR minist*) ```
+        -   Exemple : `mon sujet NOT (gouvernement* OR minist*)`
     -   On peut utiliser le NOT pour enlever des documents d'une discipline qui ne nous intéresse pas.
-        -   Exemple : ``` drogue* NOT (pharma* OR biochim*) ```
+        -   Exemple : `drogue* NOT (pharma* OR biochim*)`
+    -   On peut supprimer plusieurs mots en ajoutant `NOT (mot1 OR mot2 OR mot3)` par exemple.
+    -   Dans les produits Google, il faut utiliser le trait d'union collé au mot à supprimer : exemple `Senateurs Ottawa -hockey`
 
 ## Autres
 
 -   Selon les bases de données, il peut exister d'autres opérateurs :
     -   Le **masque**, souvent sous la forme d'un symbole `$`, qui permet de remplacer une lettre. Exemple : `wom$n`.
     -   Les **opérateurs de proximité**, comme `NEAR`, qui permettent de repérer des documents dont les mots cherchés sont proches les uns des autres.
+
+## « IAg »
+
+-   Certaines bases de données commencent à intégrer des moteurs de recherche de type « IAg » (**intelligence artificielle générative**).
+    -   Exemples : *Perplexity*, *Elicit*, *SciSpace*, *Undermind*, *Web of Science Research Assistant*, etc.
+-   Ce que font ces boîtes de dialogue, c'est :
+    1.  Lire votre commande
+    2.  Extraire les concepts principaux et rejeter les mots-vides
+    3.  Calculer quels sont les concepts proches
+        -   pas avec des `OR` ou des troncatures
+        -   avec un chiffrement des mots-clés sous la forme de vecteurs (des valeurs numériques)
+    4.  Croiser ces concepts et appliquer la recherche sur un corpus de références.
+-   C'est pratique pour les déburants qui ne savent pas utiliser les opérateurs mais :
+    -   C'est plutôt **limité en terme de puissance** de recherche. En effet, il est rare que le nombre de résultats dépasse dix ou quelques dizaines d'études.
+    -   On a **peu de contrôle** sur les recherches soumises et sur le processus d'essais-erreurs-corrections. Il est difficile de savoir ce qu'il se passe à chaque intéraction.
+        -   Du coup, on apprend moins aussi...
+-   Parfois un texte de synthèse est produit. Là aussi, il faut exercer son sens critique :
+    -   Il est souvent produit avec seulement les résumés des études (pas leurs contenus).
+    -   Il dépasse rarement 8-15 résultats intégrés.
+    -   Il peut faire des contresens ou des exagérations. Il faut toujours vérifier le document original.
+    -   Il peut donner une **fausse impression d'autorité, ou de représentativité ou d'exhaustivité**.
+        -   Or il est difficile pour un chercheur débutant de repérer si le traitement d'un sujet est trop partial et surtout trop **partiel**.
+        -   Avec des recherches par opérateurs logiques dans un corpus identifié, il est plus facile de repérer les biais, les vides, etc. De plus, en parcourant minutieusement ce corpus, on apprend en chemin (les termes, les auteurs, les revues, etc.).
