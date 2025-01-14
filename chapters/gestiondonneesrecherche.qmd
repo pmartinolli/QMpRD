@@ -123,7 +123,7 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
 -   Est-ce que vous avez **normalisé le titre** du jeu de données ?
     -   Donner un nom complet et descriptif à votre projet (qui, quoi, où, comment, pourquoi).
     -   Donner un nom court (ou un acronyme) qui peut servir pour nommer les fichiers.
-    -   Par exemple, il est recommandé d'ajouter par exemple ``` [``2021, Canada``] ``` si aucune mention de portée temporelle ou géographique dans votre titre.
+    -   Par exemple, il est recommandé d'ajouter par exemple ``` [2021, Canada] ``` si aucune mention de portée temporelle ou géographique dans votre titre.
     -   Il est aussi recommandé d'ajouter un 2e titre en français ou en anglais.
     -   Pas trop long (15 mots / 175 caractères maximum ?) sinon : risque d'être coupé/ tronqué dans un catalogue ou un moteur de recherche.
 -   Utilisez vous des **identifiants pérennes** ?
@@ -136,7 +136,7 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
 -   Pour résumer : plus généralement, avez-vous appliqué les principes **FAIR** ? Pour que d'autres puissent trouver vos données, les identifier, les interpréter et les réutiliser.
     -   Au Canada, on insiste plus pour des données FAIR. C'est à dire pas forcément complètement ouverte à tous (il faut demander l'autorisation pour y accéder).
     -   Il semble qu'en Europe, ils ont plus un principe d'*open data*, c'est à dire a priori ouvert sans restriction.
--   **Un fichier** **`Readme`** 
+-   Un fichier **`Readme`** 
     -   Pour les humains.
     -   Fichier de texte [brut](https://fr.wikipedia.org/wiki/Readme) qui décrit **sommairement** vos données de recherche, leurs types, comment elles ont été organisées, si elles ont des restrictions, etc. 
     -   Permet de comprendre **rapidement** vos données pour faciliter leur réutilisation.
@@ -181,9 +181,11 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
     -   Pour identifier les bonnes ressources à l'université selon vos besoins.
 
 
-## Modèles de réponses suggérées pour l'Assistant PGD (adapté pour les chercheurs en histoire)
+## Modèles de réponses suggérées pour l'Assistant PGD (adapté pour l'histoire)
 
-L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de gestion de données de recherche. Cette section est un accompagnement à cet outil pour le domaine de l'histoire. Seules les informations ambigües ou nécessitant des [suggestions de formulation sont indiquées ci-dessous en couleur pourpre]{style="color: purple;"}.
+L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de gestion de données de recherche. Cette section est un accompagnement à cet outil pour le domaine de l'histoire. Des exemples fictifs de modèles de réponses et de propositions de formulation sont présentés ci-dessous [en couleur pourpre]{style="color: purple;"}.
+
+Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en ligne ou celles-ci dessous. Une fois terminé : Exporter le document au format MS Word et, si nécessaire, terminer les modifications manuellement selon vos besoins. 
 
 -   Aller à [Assistant PGD](https://dmp-pgd.ca/) \> créez-vous un compte. Puis Créer des plans \> Créer un nouveau plan.
 
@@ -193,17 +195,21 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 
     -   **Quel modèle de PGD souhaitez-vous utiliser? (au choix)**
 
-        -   [\*Modèle Université de Montréal\*]{style="color: purple;"} (je préfére car le formulaire, bien que généraliste, est plus structuré)
+        -   [\*Modèle Université de Montréal\*]{style="color: purple;"} (modèle simple et généraliste)
 
-        -  [ Modèle de Portage pour la recherche en histoire et en humanité]{style="color: purple;"} (plusieurs dimensions pertinentes pour l'histoire. La plupart ont été récupérées et données en exemple dans cette section)
+        -  [Modèle de l'Alliance pour la recherche en histoire et en humanités]{style="color: purple;"} (modèle détaillé avec plusieurs dimensions pertinentes pour l'histoire, anciennement nommé Modèle Portage)
 
 ### Onglet 1 : Détails du projet
 
 -   Ignorer « projet simulé aux fins d’essai, d’exercice ou d’enseignement »
 
 -   Résumé du projet
-
-    -   Suggestion de contenu
+    -   Décrivez brièvement le contexte et les objectifs du projet : son domaine, sa problématique, et ses objectifs principaux. Indiquez les questions de recherche auxquelles le projet vise à répondre. Expliquez en quoi le projet est innovant ou pertinent.
+    -   Décrire brièvement les types de données collectées ou générées : données quantitatives, qualitatives, expérimentales, etc.
+    -   Indiquez les principales étapes du projet et leur lien avec les données : collecte, analyse, publication. Mentionnez la durée prévue de la gestion des données après la fin du projet.
+    -   Citez les institutions ou organismes impliqués et leur rôle. Mentionnez la source de financement, si applicable.
+    -   Indiquez quels sont les principaux enjeux concernant les données. Résumez brièvement la stratégie pour la gestion des données : stockage, documentation, partage et préservation à long terme. Indiquez si les données seront ouvertes, et sous quelles conditions. 
+    -   Exemple : [Ce projet explore les pratiques de citation dans le jeu de guerre, le kriegsspiele et le wargame du XIXe siècle au XXIe siècle. En combinant des enquêtes qualitatives et quantitatives, il vise à identifier les intentions, les pratiques et les conséquences de l'attribution sous toutes ses formes pour repérer des tendances. Outre les essais et les jeux diffusées dans ce domaine (sous la forme de documents numérisés en divers langues dont l'allemand, l'anglais et le français), les données incluront des questionnaires remplis par 50 participants et des transcriptions d’entretiens semi-directifs d'auteurs de jeux de guerre contemporains. Elles seront stockées en formats textuels, tabulés et audiovisuels. La collecte de données se déroulera de janvier à juin 2025, suivie d’une phase d’analyse jusqu’en décembre 2025. Les données seront conservées pour réutilisation jusqu’en 2035. La confidentialité des données est une dimension importante du projet. Le projet est financé par l’Agence Nationale de la Recherche (ANR) et mené en partenariat avec l’Université Côte d'Azur et le programme *Game in Lab* spécialisée dans la recherche par sur le jeu ludique.]{style="color: purple;"}
 
 -   Domaine de recherche : Sélectionner [« Histoire et archéologie »]{style="color: purple;"}
 
@@ -215,9 +221,13 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 
 -   **ORCID** : il est recommandé de vous créer un identifiant [ORCID](#sec-identitenumerique).
 
--   Rôles : Habituellement, on s'attend à ce que le chercheur sélectionne au moins **Gestionnaire de données** et **Chercheur principal**. Si vous gérez le financement, l'embauche, etc. cochez aussi Administrateur de projet.
+-   Rôles : Habituellement, on s'attend à ce que le chercheur principal sélectionne au moins **Gestionnaire de données** et **Chercheur principal**. Si vous gérez le financement, l'embauche, etc. cochez aussi **Administrateur de projet**. Si vous avez d'autres rôles (diffusion des données, révision, méthodologie, préservation, etc.) : cochez **Autres**.
 
--   Il est toujours possible de revenir à la liste des contributeur pour modifier/supprimer un contributeur.
+-   Les chercheurs associés pourraient avoir les rôles **Gestionnaire de données** et **Autres**.
+
+-   Il est toujours possible de revenir à la liste des contributeurs pour modifier/supprimer un contributeur.
+
+-   Il est possible de rajouter des éléments à cette section une fois le PGD exporté au format Word. Par exemple, en détaillant les rôles selon la (taxonomie [CRediT](https://coop-ist.cirad.fr/etre-auteur/reconnaitre-tous-les-contributeurs/3-la-taxonomie-credit-pour-identifier-toutes-les-contributions)).
 
 ### Onglets 3 et 4 : Aperçu du plan \> Rédiger un plan
 
@@ -226,7 +236,8 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
 ##### Quels types de données allez-vous recueillir, créer, lier, acquérir ou enregistrer?
 
 - [**Source des données** : les données de recherche proviennent de [nom de l'institution ou autre]. Expliquer sommairement en quoi consiste ce fond.]{style="color: purple;"}
-  - OU [*Source des données** : les données seront produites dans le cadre du projet. La méthode employée pour la création des données consiste en une série d'entrevues qualitatives et des groupes de discussion. Ces données sont crées par le chercheur principal. Par la suite, c'est le chercheur principal qui crée une couche analytique additionnelle au matériel existant.]{style="color: purple;"}
+  - OU [**Source des données** : les données seront produites dans le cadre du projet. La méthode employée pour la création des données consiste en une série d'entrevues qualitatives et des groupes de discussion. Ces données sont crées par le chercheur principal. Par la suite, c'est le chercheur principal qui crée une couche analytique additionnelle au matériel existant.]{style="color: purple;"}
+  - OU [**Source des données** : une partie des données sont produites dans le cadre du projet. La méthode employée pour la création des données consiste en une série d'entrevues qualitatives et des groupes de discussion. Ces données sont crées par le chercheur principal et les chercheurs associés. Par la suite, c'est le chercheur principal et les chercheurs associés qui, après une réunion de l'équipe de recherche, crée une couche analytique additionnelle au matériel existant.]{style="color: purple;"}
   
 -   [Les **données brutes** collectées sont des livres imprimés numérisés, associé à un fichier de retranscription par reconnaissance optique de caractère. Ce sont aussi des carnets de notes manuscrites numérisés associé à un fichier de retranscription par reconnaissance de l'écriture manuscrite.]{style="color: purple;"}
 -   [À partir de ces données brutes, des extractions et des réorganisations sont rassemblées dans des **données raffinées**.]{style="color: purple;"}
@@ -237,7 +248,7 @@ L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de 
     
 -   [Une importante partie des **données annexes** consiste en une revue de littérature collectée, organisée et annotée dans une bibliothèque Zotero.]{style="color: purple;"}
 
--   [Un **historique du projet** (*research log*) accompagne les données produites. Il détaille et date de manière consécutive toutes les étapes, les rencontres, les décisions, etc. depuis la création, jusqu'à l'archivage final et la fermeture du projet.]{style="color: purple;"} 
+-   [Un **historique du projet** (*research log*) accompagne les données produites. Il documente dans le détail et il date de manière consécutive toutes les étapes, les rencontres, les décisions, etc. depuis la création, jusqu'à l'archivage final et la fermeture du projet.]{style="color: purple;"} 
 
 ##### Dans quels formats de fichier vos données seront-elles recueillies? Ces formats permettront-ils la réutilisation des données, le partage et l'accès à long terme aux données?
 
