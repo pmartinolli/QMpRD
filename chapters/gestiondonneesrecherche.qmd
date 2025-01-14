@@ -49,7 +49,6 @@
     -   Un *data paper* peut être une manière de valoriser ses données.
 -   Pour mettre en action votre adhésion aux valeurs du bien commun ou des « communs » (des ressources partagées et gérées collectivement par une communauté).
 
-
 ## Comment gérer ses données ?
 
 #### Surtout
@@ -62,9 +61,8 @@
         -   pertinentes à la collecte, à l'archivage et peut être à la diffusion vos données.
         -   le plus tôt possible et le plus systématiquement possible.
     -   Et il vous permet d'**expliciter** le mieux possible : les rôles, les budgets, les limites, les processus, les étapes, les décisions, etc.
-    - Voir le [Guide](https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche) des bibliothèques sur le PGD.
-    - Voir plus loin des exemples de réponses pour l'Assistant PGD de Portage. 
-
+    -   Voir le [Guide](https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche) des bibliothèques sur le PGD.
+    -   Voir plus loin des exemples de réponses pour l'Assistant PGD de Portage.
 
 #### Peut-être
 
@@ -91,17 +89,16 @@
 
 Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir aussi le [guide Bib/UdeM](https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche?tab=5243845).
 
-
 ### Quelques questions avancées
 
-- Distinguer :
-  - Données brutes : données issues d'une expérience, d'une enquête, d'un rassemblement inédit de documents, etc. 
-  - Données construites, ou agrégée : constituée à partir de données brutes.
-  - Données personnelles : données liées à une personne qui peut être identifiée, directement ou indirectement. 
-  - Données sensibles : information réglementée et protégée en raison de risques (naturels, national, personnels, communautaires, commercial, etc.). 
-  - ... 
-- Stockage et [sauvegarde](#sec-sauvegardedurable)
-- [Préservation](#sec-archivage)
+-   Distinguer :
+    -   Données brutes : données issues d'une expérience, d'une enquête, d'un rassemblement inédit de documents, etc.
+    -   Données construites, ou agrégée : constituée à partir de données brutes.
+    -   Données personnelles : données liées à une personne qui peut être identifiée, directement ou indirectement.
+    -   Données sensibles : information réglementée et protégée en raison de risques (naturels, national, personnels, communautaires, commercial, etc.).
+    -   ...
+-   Stockage et [sauvegarde](#sec-sauvegardedurable)
+-   [Préservation](#sec-archivage)
 -   **Personne-contact** du jeu de données ?
     -   Utiliser des identifiants pérennes pour chaque chercheur (ORCID par exemple).
     -   Lister les institutions d'attaches et les institutions participantes.
@@ -115,15 +112,15 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
 -   Quels **documents supplémentaires** pourraient être ajoutés pour comprendre les données ? Sans avoir à vous demander ?
 -   Avez-vous suffisamment **anonymisé** les données ?
 -   Est-ce qu'il y a un exemplaire du **formulaire de consentement** ou du **certificat d'éthique** ?
--   Est-ce que les données sont considérées comme sensibles ou ultra-sensible ? 
-  - Doivent-elles être anonymisées ou dépersonnalisées ?
-  - Les documents d'archives sont généralement examinés par un archiviste pour des raisons de protection des renseignements personnels avant d'être mis à la disposition des chercheurs. Dans les cas où les informations seront collectées directement par le chercheur principal, vous devez éviter de divulguer toute information permettant l’identification d’une personne vivante comme son origine ethnique, ses croyances personnelles, son orientation personnelle, son état de santé, etc. sans permission ou pouvant nuire à la réputation des proches dans le cas d’une personne décédée. Pour d’autres conseils, voir la [Matrice de risque lié aux données de recherche avec des êtres humains](https://zenodo.org/records/4107119).
+-   Est-ce que les données sont considérées comme sensibles ou ultra-sensible ?
+-   Doivent-elles être anonymisées ou dépersonnalisées ?
+-   Les documents d'archives sont généralement examinés par un archiviste pour des raisons de protection des renseignements personnels avant d'être mis à la disposition des chercheurs. Dans les cas où les informations seront collectées directement par le chercheur principal, vous devez éviter de divulguer toute information permettant l’identification d’une personne vivante comme son origine ethnique, ses croyances personnelles, son orientation personnelle, son état de santé, etc. sans permission ou pouvant nuire à la réputation des proches dans le cas d’une personne décédée. Pour d’autres conseils, voir la [Matrice de risque lié aux données de recherche avec des êtres humains](https://zenodo.org/records/4107119).
 -   Est-ce que vous avez les **droits de diffusion** des données ?
 -   Est-ce que les valeurs saisies de vos données sont **conformes** (même formattage, même unité, etc.) ?
 -   Est-ce que vous avez **normalisé le titre** du jeu de données ?
     -   Donner un nom complet et descriptif à votre projet (qui, quoi, où, comment, pourquoi).
     -   Donner un nom court (ou un acronyme) qui peut servir pour nommer les fichiers.
-    -   Par exemple, il est recommandé d'ajouter par exemple ``` [2021, Canada] ``` si aucune mention de portée temporelle ou géographique dans votre titre.
+    -   Par exemple, il est recommandé d'ajouter par exemple `[2021, Canada]` si aucune mention de portée temporelle ou géographique dans votre titre.
     -   Il est aussi recommandé d'ajouter un 2e titre en français ou en anglais.
     -   Pas trop long (15 mots / 175 caractères maximum ?) sinon : risque d'être coupé/ tronqué dans un catalogue ou un moteur de recherche.
 -   Utilisez vous des **identifiants pérennes** ?
@@ -132,19 +129,19 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
     -   ORCID : pour les contributeurs de la recherche.
 -   Utilisez-vous un **vocabulaire contrôlé** ?
     -   **MeSH** en santé par exemple.
-    -   Éléments **Wikidata**. Exemple : la sélection de [65000 concepts](https://docs.openalex.org/about-the-data/concept), classés en 5 niveaux, de OpenAlex. 
+    -   Éléments **Wikidata**. Exemple : la sélection de [65000 concepts](https://docs.openalex.org/about-the-data/concept), classés en 5 niveaux, de OpenAlex.
 -   Pour résumer : plus généralement, avez-vous appliqué les principes **FAIR** ? Pour que d'autres puissent trouver vos données, les identifier, les interpréter et les réutiliser.
     -   Au Canada, on insiste plus pour des données FAIR. C'est à dire pas forcément complètement ouverte à tous (il faut demander l'autorisation pour y accéder).
     -   Il semble qu'en Europe, ils ont plus un principe d'*open data*, c'est à dire a priori ouvert sans restriction.
--   Un fichier **`Readme`** 
+-   Un fichier **`Readme`**
     -   Pour les humains.
-    -   Fichier de texte [brut](https://fr.wikipedia.org/wiki/Readme) qui décrit **sommairement** vos données de recherche, leurs types, comment elles ont été organisées, si elles ont des restrictions, etc. 
+    -   Fichier de texte [brut](https://fr.wikipedia.org/wiki/Readme) qui décrit **sommairement** vos données de recherche, leurs types, comment elles ont été organisées, si elles ont des restrictions, etc.
     -   Permet de comprendre **rapidement** vos données pour faciliter leur réutilisation.
     -   Quelques modèles : [UCornell](https://cornell.app.box.com/v/ReadmeTemplate) et [UQTR](https://uqtr.libguides.com/ld.php?content_id=35593298). Quelques guides : [UNIGE](https://www.unige.ch/researchdata/fr/collecter-organiser/readme-files/) et [Zenodo](https://zenodo.org/record/4058962#.Yry6HnbMLX4).
 -   Un fichier de **dictionnaire de données** :
     -   Pour les humains et les machines.
-    -   Noms des variables normalisés 
-    -   Compréhensif et court, pas trop abrégé, sans accents ni caractère spécial, pas de chiffres au début, remplacer les espaces par des \_ ou des [combinaisons](https://medium.com/\@janschenk/variable-names-in-survey-research-a18429d2d4d8) [majusulesMinuscules](https://site.uit.no/dataverseno/deposit/prepare/).
+    -   Noms des variables normalisés
+    -   Compréhensif et court, pas trop abrégé, sans accents ni caractère spécial, pas de chiffres au début, remplacer les espaces par des \_ ou des [combinaisons](https://medium.com/@janschenk/variable-names-in-survey-research-a18429d2d4d8) [majusulesMinuscules](https://site.uit.no/dataverseno/deposit/prepare/).
     -   Définitions précises des variables : bien décrire vos données. N'économisez pas vos mots.
     -   Types de données ou : textuelles (balisées ou non), tabulaires, images, code informatique, etc.
         -   Données tabulaires : Types d'information codés dans les variables : numérique, date, texte, etc.
@@ -153,7 +150,7 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
     -   Type de format : format propriétaire ou format ouvert ? format conforme aux normes de l'industrie/ la discipline de recherche ?
         -   Ces formats permettront-ils la réutilisation des données, le partage et l'accès à long terme aux données?
         -   Est-ce que des conversions de format sont prévues? Avec un script automatique? Dans un dossier dédié?
-        - Exemples : [OSF](https://help.osf.io/article/217-how-to-make-a-data-dictionary), [ULouvain](https://uclouvain.be/fr/universite-numerique/rdm/codebook.html) 
+        -   Exemples : [OSF](https://help.osf.io/article/217-how-to-make-a-data-dictionary), [ULouvain](https://uclouvain.be/fr/universite-numerique/rdm/codebook.html)
 -   Des fichier(s) de **données** :
     -   Pour les machines
         -   Format normalisé des données.
@@ -173,19 +170,22 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
     -   [Wikimedia Commons](https://commons.wikimedia.org/) pour les données, de pairs avec [Wikidata](https://www.wikidata.org/) pour les métadonnées (Exemple : [100 ans de données météorologiques du Canada](https://meta.wikimedia.org/wiki/Projet_ECCC,_100_ans_de_donn%C3%A9es_m%C3%A9t%C3%A9orologiques_en_acc%C3%A8s_libre))
     -   [Software Heritage](https://www.softwareheritage.org/) : entrepôt d'archive logicielle ouvert destiné à la collecte et à la préservation du code source des logiciel soutenu par l'UNESCO.
 
-## Vous n'êtes pas seul
+## Pour aller plus loin
 
--   Contactez les bibliothécaires pour recevoir du conseil et de la formation sur les données de recherche.
+-   Contactez votre [bibliothécaire disciplinaire](https://bib.umontreal.ca/nous-joindre) pour du conseil ou de la formation sur les données de recherche.
     -   Pour du soutien à la rédaction du PGD.
     -   Pour du soutien à l'organisation de vos données (conventions, ontologies, nommages, etc.).
     -   Pour identifier les bonnes ressources à l'université selon vos besoins.
-
+-   [DMP OPIDoR](https://dmp.opidor.fr/) est un ensemble d'outils du CNRS en France pour guider la rédaction de votre PGD.
+-   [FAIR GPT](https://chatgpt.com/g/g-BkMR28wlV-fair) : un outil **expérimental** basé sur l'IAg pour suggérer des formulations ou des pratiques FAIR ou pour polir un PGD existant : une [présentation](https://tilburg.ai/2024/10/fair-gpt/) et un [preprint](https://arxiv.org/abs/2410.07108) détaillant cette extension à ChatGPT.
+-   S'inspirer de PGD existants :
+    -   [PGD MASA](https://dmp.opidor.fr/public_templates?search=MASA) (consortium Mémoires des archéologues et des sites archéologiques). Plusieurs formulations de ce PGD ont été utilisées dans les exemples ci-dessous.
 
 ## Modèles de réponses suggérées pour l'Assistant PGD (adapté pour l'histoire)
 
 L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de gestion de données de recherche. Cette section est un accompagnement à cet outil pour le domaine de l'histoire. Des exemples fictifs de modèles de réponses et de propositions de formulation sont présentés ci-dessous [en couleur pourpre]{style="color: purple;"}.
 
-Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en ligne ou celles-ci dessous. Une fois terminé : Exporter le document au format MS Word et, si nécessaire, terminer les modifications manuellement selon vos besoins. 
+Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en ligne ou celles-ci dessous. Une fois terminé : Exporter le document au format MS Word et, si nécessaire, terminer les modifications manuellement selon vos besoins.
 
 -   Aller à [Assistant PGD](https://dmp-pgd.ca/) \> créez-vous un compte. Puis Créer des plans \> Créer un nouveau plan.
 
@@ -197,18 +197,19 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
         -   [\*Modèle Université de Montréal\*]{style="color: purple;"} (modèle simple et généraliste)
 
-        -  [Modèle de l'Alliance pour la recherche en histoire et en humanités]{style="color: purple;"} (modèle détaillé avec plusieurs dimensions pertinentes pour l'histoire, anciennement nommé Modèle Portage)
+        -   [Modèle de l'Alliance pour la recherche en histoire et en humanités]{style="color: purple;"} (modèle détaillé avec plusieurs dimensions pertinentes pour l'histoire, anciennement nommé Modèle Portage)
 
 ### Onglet 1 : Détails du projet
 
 -   Ignorer « projet simulé aux fins d’essai, d’exercice ou d’enseignement »
 
 -   Résumé du projet
+
     -   Décrivez brièvement le contexte et les objectifs du projet : son domaine, sa problématique, et ses objectifs principaux. Indiquez les questions de recherche auxquelles le projet vise à répondre. Expliquez en quoi le projet est innovant ou pertinent.
-    -   Décrire brièvement les types de données collectées ou générées : données quantitatives, qualitatives, expérimentales, etc.
+    -   Décrire brièvement les types de données collectées ou générées : données quantitatives, qualitatives, expérimentales, etc. Textuelles, audiovisuelles, etc.
     -   Indiquez les principales étapes du projet et leur lien avec les données : collecte, analyse, publication. Mentionnez la durée prévue de la gestion des données après la fin du projet.
     -   Citez les institutions ou organismes impliqués et leur rôle. Mentionnez la source de financement, si applicable.
-    -   Indiquez quels sont les principaux enjeux concernant les données. Résumez brièvement la stratégie pour la gestion des données : stockage, documentation, partage et préservation à long terme. Indiquez si les données seront ouvertes, et sous quelles conditions. 
+    -   Indiquez quels sont les principaux enjeux concernant les données. Résumez brièvement la stratégie pour la gestion des données : stockage, documentation, partage et préservation à long terme. Indiquez si les données seront ouvertes, et sous quelles conditions.
     -   Exemple : [Ce projet explore les pratiques de citation dans le jeu de guerre, le kriegsspiele et le wargame du XIXe siècle au XXIe siècle. En combinant des enquêtes qualitatives et quantitatives, il vise à identifier les intentions, les pratiques et les conséquences de l'attribution sous toutes ses formes pour repérer des tendances. Outre les essais et les jeux diffusées dans ce domaine (sous la forme de documents numérisés en divers langues dont l'allemand, l'anglais et le français), les données incluront des questionnaires remplis par 50 participants et des transcriptions d’entretiens semi-directifs d'auteurs de jeux de guerre contemporains. Elles seront stockées en formats textuels, tabulés et audiovisuels. La collecte de données se déroulera de janvier à juin 2025, suivie d’une phase d’analyse jusqu’en décembre 2025. Les données seront conservées pour réutilisation jusqu’en 2035. La confidentialité des données est une dimension importante du projet. Le projet est financé par l’Agence Nationale de la Recherche (ANR) et mené en partenariat avec l’Université Côte d'Azur et le programme *Game in Lab* spécialisée dans la recherche par sur le jeu ludique.]{style="color: purple;"}
 
 -   Domaine de recherche : Sélectionner [« Histoire et archéologie »]{style="color: purple;"}
@@ -235,20 +236,41 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 ##### Quels types de données allez-vous recueillir, créer, lier, acquérir ou enregistrer?
 
-- [**Source des données** : les données de recherche proviennent de [nom de l'institution ou autre]. Expliquer sommairement en quoi consiste ce fond.]{style="color: purple;"}
-  - OU [**Source des données** : les données seront produites dans le cadre du projet. La méthode employée pour la création des données consiste en une série d'entrevues qualitatives et des groupes de discussion. Ces données sont crées par le chercheur principal. Par la suite, c'est le chercheur principal qui crée une couche analytique additionnelle au matériel existant.]{style="color: purple;"}
-  - OU [**Source des données** : une partie des données sont produites dans le cadre du projet. La méthode employée pour la création des données consiste en une série d'entrevues qualitatives et des groupes de discussion. Ces données sont crées par le chercheur principal et les chercheurs associés. Par la suite, c'est le chercheur principal et les chercheurs associés qui, après une réunion de l'équipe de recherche, crée une couche analytique additionnelle au matériel existant.]{style="color: purple;"}
-  
--   [Les **données brutes** collectées sont des livres imprimés numérisés, associé à un fichier de retranscription par reconnaissance optique de caractère. Ce sont aussi des carnets de notes manuscrites numérisés associé à un fichier de retranscription par reconnaissance de l'écriture manuscrite.]{style="color: purple;"}
--   [À partir de ces données brutes, des extractions et des réorganisations sont rassemblées dans des **données raffinées**.]{style="color: purple;"}
-    -   [Une partie des données raffinées consiste en une série d'illustrations de couverture, numérisées en images.]{style="color: purple;"}
-    -   [Une partie des données raffinées consiste en une série de capture de textes imprimés (des paragraphes, des épigraphes et des sections bibliographiques), numérisées en images et retranscrits avec reconnaissance optique de caractère dans un fichier de retranscription.]{style="color: purple;"}
-    -   [Certaines données raffinées sont colligées dans plusieurs fichiers tabulés, manipulés dans un tableur.]{style="color: purple;"}
-    -   [D'autres données raffinées sont colligées dans un système de notes liées.]{style="color: purple;"}
-    
--   [Une importante partie des **données annexes** consiste en une revue de littérature collectée, organisée et annotée dans une bibliothèque Zotero.]{style="color: purple;"}
+-   [**Source des données** :]{style="color: purple;"}
 
--   [Un **historique du projet** (*research log*) accompagne les données produites. Il documente dans le détail et il date de manière consécutive toutes les étapes, les rencontres, les décisions, etc. depuis la création, jusqu'à l'archivage final et la fermeture du projet.]{style="color: purple;"} 
+    -   [Les données de recherche proviennent de \[nom de l'institution ou autre\]. Expliquer sommairement en quoi consiste ce fond.]{style="color: purple;"}
+
+    -   [Les données principales du projet proviennent de la numérisation ou le téléchargement de plus de 300 documents imprimés ainsi que d'environ 100 lettres manuscrites.]{style="color: purple;"}
+
+    -   [La méthode employée pour la création d'une partie des données consiste en une série d'entrevues qualitatives et des groupes de discussion. Ces entrevues sont conduites et enregistrées par le chercheur principal et les chercheurs associés.]{style="color: purple;"}
+
+-   PUIS
+
+    -   [Ces données sont crées par le chercheur principal et les chercheurs associés.]{style="color: purple;"}
+
+    -   [Le processus de numérisation et de téléchargement est dirigé par le chercheur principal.]{style="color: purple;"}
+
+-   [**Données brutes**]{style="color: purple;"}
+
+    -   [Une partie des des données brutes collectées sont des livres imprimés numérisés, associé à un fichier de retranscription par reconnaissance optique de caractère avec une chaîne de traitement en Python utilisant Tesseract. Ce sont aussi des lettres manuscrites numérisés associé à un fichier de retranscription par reconnaissance de l'écriture manuscrite utilisant un compte [Transkribus](https://www.transkribus.org/).]{style="color: purple;"}
+
+    -   [Une partie des données brutes collectées sont des entrevues enregistrées par un double système d'enregistrement audio : un enregistreur avec microphone professionnel et un téléphone cellulaire. Les fichiers audio sont retranscrits en texte électronique avec horodatage avec deux systèmes de retranscription : le système [Transcrire](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57) de Microsoft Office et une chaîne de traitement avec [Whisper AI](https://www.youtube.com/watch?v=ABFqbY_rmEk&ab_channel=KevinStratvert). Une comparaison et une sélection des meilleures retranscriptions est faite.]{style="color: purple;"}
+
+-   [**Données raffinées**]{style="color: purple;"}
+
+    -   [Par la suite, le chercheur principal enrichit les données brutes en développant une couche analytique supplémentaire, permettant d'approfondir l'analyse et d'extraire des tendances significatives sous la forme de données tabulées.]{style="color: purple;"}
+
+    -   [Par la suite, c'est le chercheur principal et les chercheurs associés qui, après des réunions documentées de l'équipe de recherche, crééent une couche analytique additionnelle au matériel existant sous la forme de notes de recherche balisées et indexées.]{style="color: purple;"}
+
+    -   [Une partie des données raffinées consiste en une extraction de série d'illustrations de couverture, numérisées en images.]{style="color: purple;"} [Une autre partie des données raffinées consiste en une série de capture de textes imprimés (des paragraphes, des épigraphes et des sections bibliographiques), numérisées en images et retranscrits avec reconnaissance optique de caractère dans un fichier de retranscription.]{style="color: purple;"}
+
+    -   [Certaines données raffinées liées à la pratique de citation sont colligées dans plusieurs fichiers tabulés, manipulés dans un tableur Excel (ou LibreOffice Calc).]{style="color: purple;"}
+
+-   **Données annexes**
+
+    -   [Une importante partie des données annexes consiste en une **revue de littérature** collectée, organisée et annotée dans une bibliothèque Zotero.]{style="color: purple;"}
+
+    -   [Un **historique du projet** (*research log*) accompagne les données produites. Il documente dans le détail et il date de manière consécutive toutes les étapes, les rencontres, les décisions, etc. depuis la création, jusqu'à l'archivage final et la fermeture du projet.]{style="color: purple;"}
 
 ##### Dans quels formats de fichier vos données seront-elles recueillies? Ces formats permettront-ils la réutilisation des données, le partage et l'accès à long terme aux données?
 
@@ -256,29 +278,33 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Les retranscriptions sont au format texte.]{style="color: purple;"}
 
--   [Les données tabulées sont au format .xlsx de MS Excel. Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format CSV.]{style="color: purple;"}
+-   [Les données tabulées sont au format .xlsx de MS Excel (ou .ods de [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)). Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format CSV.]{style="color: purple;"}
 
--   [Les notes sont au format texte, avec un balisage léger Markdown utilisant la variante Markdown d'Obsidian.md.]{style="color: purple;"}
+-   [Les notes de recherche sont au format texte, avec un balisage léger Markdown utilisant la variante Markdown d'[Obsidian.md](https://obsidian.md/).]{style="color: purple;"}
 
--   [La bibliothèque de références bibliographiques dans Zotero est au format sqlite. Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format Zotero RDF (avec ontologie et annotations) et au format BibTeX.]{style="color: purple;"}
+-   [La bibliothèque de références bibliographiques dans]{style="color: purple;"}[Zotero](https://www.zotero.org/) [est au format sqlite. Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format Zotero RDF (avec ontologie et annotations) et au format BibTeX.]{style="color: purple;"}
+
+-   [L'outil de nettoyage de données]{style="color: purple;"}[OpenRefine](https://openrefine.org/) [est utilisé pour harmoniser et corriger si besoin les intitulés et les valeurs des champs des données tabulées. Ce dispositif de contrôle de qualité des données mis en place à l'échelle de tout le projet (ou d'un ou de plusieurs produits de la recherche) permet d'assurer la qualité scientifique des données.]{style="color: purple;"}
 
 ##### Quelles conventions et procédures utiliserez-vous pour structurer et nommer vos fichiers et en contrôler les versions afin de vous aider, ainsi que les utilisateurs potentiels, à mieux comprendre la façon dont vos données sont organisées?
 
--   [Tous les fichiers du projet de recherche sont rassemblé dans un dossier maître sur l'ordinateur du chercheur principal. Chaque dossier et sous-dossier est rédigé sans accent, ni espace ni caractère problématique.]{style="color: purple;"}
+-   [Tous les fichiers du projet de recherche sont rassemblés dans un dossier maître sur l'ordinateur du chercheur principal. Chaque dossier et sous-dossier est rédigé sans accent, ni espace ni caractère problématique.]{style="color: purple;"}
 
 -   [Une convention d'écriture des noms de fichiers et de dossier est utilisée.]{style="color: purple;"}
 
     -   [Chaque nom de fichier commence par une description ou un acronyme synthétisant son contenu, suivi de la date de création et la version.]{style="color: purple;"}
+
     -   [L'acronyme du projet (ou nom court) et les initiales des chercheurs sont systématiquement utilisés dans les noms des fichiers et des dossiers.]{style="color: purple;"}
+
     -   [Les noms de fichiers sont rédigés sans accent, ni espace ni caractère problématique.]{style="color: purple;"}
 
     -   [Les fichiers qui sont modifiés contiennent la date de modification à la fin du nom du fichier.]{style="color: purple;"}
 
     -   [Les fichiers désuets sont conservés dans un sous-dossier \_archive présent dans tous les sous-dossiers où il est nécessaire. Aucun fichier n'est supprimé du projet de recherche.]{style="color: purple;"}
 
-        -   [Tous les fichiers de données textuels (texte, Markdown, CSV) sont aussi synchronisés avec git.]{style="color: purple;"}
+        -   [Tous les fichiers de données textuelles (texte, Markdown, CSV) sont aussi synchronisés avec git.]{style="color: purple;"}
 
--   [Un fichier Readme, déposé à la racine du dossier maître, contient les métadonnées du projet ; l'explication de l'organisation du projet de recherche en sous-dossier ; les conventions d'écriture ; les règles d'exportation régulières ; le dictionnaire des données ;]{style="color: purple;"}
+-   [Un fichier README, déposé à la racine du dossier maître, contient les métadonnées du projet ; l'explication de l'organisation du projet de recherche en sous-dossier ; les conventions d'écriture ; les règles d'exportation régulières ; le dictionnaire des données ;]{style="color: purple;"}
 
 -   [Les notes liées contiennent des métadonnées au format YAML en entête pour une meilleure réutilisation (principalement pour produire une pseudo-base de données dans le système de notes avec *dataview*).]{style="color: purple;"}
 
@@ -289,9 +315,11 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 -   [Ce plan de données de recherche sera joint au projet de recherche. Une version 1.0 sera comparée à la version finale quand le projet sera terminé. Les deux plans de données de recherche sont diffusés en ligne dans un but pédagogique et de reproductibilité.]{style="color: purple;"}
 
 -   [Un fichier README contiendra les **métadonnées** bilingues français et anglais du projet : le titre du jeu de données ; le titre normalisé ; le DOI du projet de recherche ; les rôles des chercheurs principaux, avec leurs affiliations et leurs identifiants pérennes ; la sommaire description des données ; les objectifs du projet de recherche, dont les hypothèses formulées, les méthodes de collecte des données et les méthodes de recherche utilisées ; les conditions de réutilisation des données]{style="color: purple;"}
-  - Optionnel : [des informations spécifiques aux données ; un aperçu des données et des fichiers inclus ; des liens vers les publications ou diffusion des résultats de la recherche]{style="color: purple;"}
+
+-   Optionnel : [des informations spécifiques aux données ; un aperçu des données et des fichiers inclus ; des liens vers les publications ou diffusion des résultats de la recherche]{style="color: purple;"}
 
 -   [Un fichier de **dictionnaire des données** contiendra les ontologies des données raffinées.]{style="color: purple;"}
+
     -   [Les noms des variables, leurs types et des explications sur leurs codages sont décrits.]{style="color: purple;"}
     -   [Un glossaire de définitions spécifiques au projet.]{style="color: purple;"}
     -   [Des listes d'autorité de personnes, d'institutions et de lieux.]{style="color: purple;"}
@@ -303,7 +331,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Une partie de ces informations d'avancement est **bloguée** régulièrement sur le blogue du projet de recherche dans un but de vulgarisation, de pédagogie et de documentation d'avancement du projet pour les chercheurs intéressés (collaborateurs, sponsors, etc.).]{style="color: purple;"}
 
--   [Le fichier **Readme** est documenté selon les modifications faites au projet.]{style="color: purple;"}
+-   [Le fichier**README**est documenté selon les modifications faites au projet.]{style="color: purple;"}
 
 -   [Un système de **tags spécifiques** dans la bibliothéque de références et dans le système de notes liées permet de rajouter une couche d'organisation pour repérer rapidement toutes les questions méthodologiques ou thématiques par rapport à un point précis.]{style="color: purple;"}
 
@@ -379,9 +407,14 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Une partie des résultats sera partagée au grand public sous la forme de billets de blogues, d'articles de magazines et d'entretiens dans les médias.]{style="color: purple;"}
 
+-   [Ce plan de gestion des données de recherche sera partagé avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) pour que d'autres chercheurs en histoire puissent s'en inspirer.]{style="color: purple;"}
+
+-   [Ce plan de gestion des données de recherche ne sera pas partagé.]{style="color: purple;"}
+
 ##### Avez-vous examiné quel type de licence d'utilisation inclure avec vos données?
 
 -   [Les données de recherche seront partagées avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).]{style="color: purple;"}
+-   [Les données de recherche ne seront pas partagées.]{style="color: purple;"}
 
 ##### Quelles mesures seront prises pour faire connaître l'existence de vos données au milieu de la recherche?
 
@@ -416,6 +449,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 ##### Le cas échéant, quelles stratégies adopterez-vous pour traiter les utilisations secondaires des données sensibles?
 
 -   [Nous ne prevoyons pas de partager des données sensibles identifiables pour une utilisation secondaire.]{style="color: purple;"}
+-   [Quand des données sensibles sont mentionnées dans le projet, alors un tag #confidentiel est ajouté à l'emplacement de chaque information. Cela concerne principalement les retranscriptions d'entrevues et les données raffinées extraites de celles-ci.]{style="color: purple;"}
 
 ##### Comment traiterez-vous les questions d'ordre juridique, éthique et de propriété intellectuelle?
 
