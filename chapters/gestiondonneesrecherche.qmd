@@ -406,9 +406,9 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 ##### Quelles données partagerez-vous et sous quelle forme? (p. ex. données brutes, traitées, analysées, définitives)?
 
--   [Les données de recherche analysées seront partagées pour le public universitaire sous la forme de présentation dans des colloques et des congrès, ou sous la forme de publication dans des revues révisées par les pairs, ou sous la forme de chapitre de livre collectifs.]{style="color: purple;"}
+-   [Les données de recherche seront partagées en intégralité dans le dépôt Borealis de l'UdeM avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).]{style="color: purple;"}
 
--   [Une partie des résultats sera partagée au grand public sous la forme de billets de blogues, d'articles de magazines et d'entretiens dans les médias.]{style="color: purple;"}
+-   [Seule une partie des données de recherche sera partagée dans le dépôt Borealis de l'UdeM]{style="color: purple;"} [avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Cette partie correspond aux données traitées (nettoyées, anonymisées et indexées par l'équipe de recherche) et à toute la documentation qui accompagne le projet de recherche (dictionnaire des données, fichier README, etc.). ]{style="color: purple;"}
 
 -   [Ce plan de gestion des données de recherche sera partagé avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) pour que d'autres chercheurs en histoire puissent s'en inspirer.]{style="color: purple;"}
 
@@ -447,7 +447,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Le projet ne contient pas de données sensibles.]{style="color: purple;"}
 
--   [Le projet implique la collecte de données sensibles concernant des personnes vivantes, incluant des informations sur la santé, les finances, les origines ethniques et raciales, les opinions politiques, la vie sexuelle ou l’orientation sexuelle, ainsi que les croyances religieuses ou philosophiques. Les méthodes de collecte et de traitement de ces données ont été approuvées par le comité d’éthique de l’Université de Montréal (UdeM). \
+-   [Le projet implique la collecte de données sensibles concernant des personnes vivantes, incluant des informations sur la santé, les finances, les origines ethniques et raciales, les opinions politiques, la vie sexuelle ou l’orientation sexuelle, ainsi que les croyances religieuses ou philosophiques. Les méthodes de collecte et de traitement de ces données ont été approuvées par le comité d’éthique de l’Université de Montréal (UdeM).\
     Toutes les données sensibles sont stockées de manière sécurisée sur les serveurs protégés du réseau de l’UdeM, répondant aux exigences spécifiques liées à ce type d’information. L’accès aux données brutes, non anonymisées, est strictement réservé au chercheur principal. Les auxiliaires de recherche peuvent accéder aux données anonymisées via OneDrive, en utilisant un lien protégé par mot de passe. Ces fichiers peuvent être téléchargés uniquement sur des ordinateurs personnels sécurisés par mot de passe.]{style="color: purple;"}
 
 ##### Le cas échéant, quelles stratégies adopterez-vous pour traiter les utilisations secondaires des données sensibles?
