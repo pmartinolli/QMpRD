@@ -183,9 +183,7 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
 
 ## Modèles de réponses suggérées pour l'Assistant PGD (adapté pour l'histoire)
 
-L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de gestion de données de recherche. Cette section est un accompagnement à cet outil pour le domaine de l'histoire. Des exemples fictifs de modèles de réponses et de propositions de formulation sont présentés ci-dessous [en couleur pourpre]{style="color: purple;"}.
-
-Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en ligne ou celles-ci dessous. Une fois terminé : Exporter le document au format MS Word et, si nécessaire, terminer les modifications manuellement selon vos besoins.
+L'assistant PGD est un outil pour aider les chercheurs à rédiger leur plan de gestion de données de recherche. Cette section est un accompagnement à cet outil pour le domaine de l'histoire. Des exemples fictifs de modèles de réponses et de propositions de formulation sont présentés ci-dessous [en couleur pourpre]{style="color: purple;"}. Vous pouvez copier-coller les suggestions de questions et de réponses dans l'Assistant PGD ou dans votre propre document.
 
 -   Aller à [Assistant PGD](https://dmp-pgd.ca/) \> créez-vous un compte. Puis Créer des plans \> Créer un nouveau plan.
 
@@ -210,13 +208,19 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
     -   Indiquez les principales étapes du projet et leur lien avec les données : collecte, analyse, publication. Mentionnez la durée prévue de la gestion des données après la fin du projet.
     -   Citez les institutions ou organismes impliqués et leur rôle. Mentionnez la source de financement, si applicable.
     -   Indiquez quels sont les principaux enjeux concernant les données. Résumez brièvement la stratégie pour la gestion des données : stockage, documentation, partage et préservation à long terme. Indiquez si les données seront ouvertes, et sous quelles conditions.
-    -   Exemple : [Ce projet explore les pratiques de citation dans le jeu de guerre, le kriegsspiele et le wargame du XIXe siècle au XXIe siècle. En combinant des enquêtes qualitatives et quantitatives, il vise à identifier les intentions, les pratiques et les conséquences de l'attribution sous toutes ses formes pour repérer des tendances. Outre les essais et les jeux diffusées dans ce domaine (sous la forme de documents numérisés en divers langues dont l'allemand, l'anglais et le français), les données incluront des questionnaires remplis par 50 participants et des transcriptions d’entretiens semi-directifs d'auteurs de jeux de guerre contemporains. Elles seront stockées en formats textuels, tabulés et audiovisuels. La collecte de données se déroulera de janvier à juin 2025, suivie d’une phase d’analyse jusqu’en décembre 2025. Les données seront conservées pour réutilisation jusqu’en 2035. La confidentialité des données est une dimension importante du projet. Le projet est financé par l’Agence Nationale de la Recherche (ANR) et mené en partenariat avec l’Université Côte d'Azur et le programme *Game in Lab* spécialisée dans la recherche par sur le jeu ludique.]{style="color: purple;"}
+    -   Exemple fictif : [Ce projet explore les pratiques de citation dans le jeu de guerre, le kriegsspiele et le wargame du XIXe siècle au XXIe siècle. En combinant des enquêtes qualitatives et quantitatives, il vise à identifier les intentions, les pratiques et les conséquences de l'attribution sous toutes ses formes pour repérer des tendances. Outre une collection numérisées d'essais et de jeux, les données incluront des questionnaires remplis par 50auteurs de jeuxet des transcriptions d’entretiens semi-directifs d'auteurs de jeux de guerre contemporains. Elles seront stockées en formats textuels, tabulés et audiovisuels. La collecte et le traitement des données se déroulera de janvier à juin 2025, suivie d’une phase d’analyse jusqu’en décembre 2025. Les données seront conservées pour réutilisation jusqu’en 2035. La confidentialité des données est une dimension importante du projet. Le projet est financé par l’Agence Nationale de la Recherche (ANR) et mené en partenariat avec l’Université Côte d'Azur et le programme *Game in Lab* spécialisée dans la recherche par sur le jeu ludique.]{style="color: purple;"}
 
 -   Domaine de recherche : Sélectionner [« Histoire et archéologie »]{style="color: purple;"}
 
+-   Début du projet / Fin de projet : dates au format AAAA-MM-JJ.
+
 -   Identifier : [identifiant de votre projet]{style="color: purple;"}, donné par l'organisme de financement ou votre institution
 
--   Numéro de subvention/url : [URL]{style="color: purple;"} vers la bourse, ou numéro identifiant de la bourse/ subvention.
+-   Organisme subventionnaire : [Nom de l'organisme]{style="color: purple;"}
+
+-   Statut de financement : Prévu, Financé ou Refusé.
+
+-   Numéro de subvention/url : [URL]{style="color: purple;"} vers la bourse, ou numéro identifiant de la bourse ou de la subvention.
 
 ### Onglet : Contributeurs \> Ajouter un contributeur
 
@@ -250,39 +254,39 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [**Données brutes**]{style="color: purple;"}
 
-    -   [Une partie des des données brutes collectées sont des livres imprimés numérisés, associé à un fichier de retranscription par reconnaissance optique de caractère avec une chaîne de traitement en Python utilisant Tesseract. Ce sont aussi des lettres manuscrites numérisés associé à un fichier de retranscription par reconnaissance de l'écriture manuscrite utilisant un compte [Transkribus](https://www.transkribus.org/).]{style="color: purple;"}
+    -   [Une partie des des données brutes collectées sont des livres imprimés numérisés en PDF, associé à un fichier de retranscription par reconnaissance optique de caractère avec une chaîne de traitement en Python utilisant Tesseract (en TXT). Ce sont aussi des lettres manuscrites numérisés (en PDF) associé à un fichier de retranscription par reconnaissance de l'écriture manuscrite utilisant un compte [Transkribus](https://www.transkribus.org/) (en TXT).]{style="color: purple;"}
 
-    -   [Une partie des données brutes collectées sont des entrevues enregistrées par un double système d'enregistrement audio : un enregistreur avec microphone professionnel et un téléphone cellulaire. Les fichiers audio sont retranscrits en texte électronique avec horodatage avec deux systèmes de retranscription : le système [Transcrire](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57) de Microsoft Office et une chaîne de traitement avec [Whisper AI](https://www.youtube.com/watch?v=ABFqbY_rmEk&ab_channel=KevinStratvert). Une comparaison et une sélection des meilleures retranscriptions est faite.]{style="color: purple;"}
+    -   [Une partie des données brutes collectées sont des entrevues enregistrées par un double système d'enregistrement audio : un enregistreur avec microphone professionnel et un téléphone cellulaire. Les fichiers audio (en WAV et en MP3) sont retranscrits en texte électronique (en SRT) avec horodatage avec deux systèmes de retranscription : le système [Transcrire](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57) de Microsoft Office et une chaîne de traitement avec [Whisper AI](https://www.youtube.com/watch?v=ABFqbY_rmEk&ab_channel=KevinStratvert). Une comparaison et une sélection des meilleures retranscriptions est faite.]{style="color: purple;"}
 
--   [**Données raffinées**]{style="color: purple;"}
+-   [**Données traitées**]{style="color: purple;"}
 
-    -   [Par la suite, le chercheur principal enrichit les données brutes en développant une couche analytique supplémentaire, permettant d'approfondir l'analyse et d'extraire des tendances significatives sous la forme de données tabulées.]{style="color: purple;"}
+    -   [Par la suite, le chercheur principal enrichit les données brutes en développant une couche analytique supplémentaire, permettant d'approfondir l'analyse et d'extraire des tendances significatives sous la forme de données tabulées (en CSV).]{style="color: purple;"}
 
-    -   [Par la suite, c'est le chercheur principal et les chercheurs associés qui, après des réunions documentées de l'équipe de recherche, crééent une couche analytique additionnelle au matériel existant sous la forme de notes de recherche balisées et indexées.]{style="color: purple;"}
+    -   [Par la suite, c'est le chercheur principal et les chercheurs associés qui, après des réunions documentées de l'équipe de recherche, crééent une couche analytique additionnelle au matériel existant sous la forme de notes de recherche balisées et indexées (en MarkDown).]{style="color: purple;"}
 
-    -   [Une partie des données raffinées consiste en une extraction de série d'illustrations de couverture, numérisées en images.]{style="color: purple;"} [Une autre partie des données raffinées consiste en une série de capture de textes imprimés (des paragraphes, des épigraphes et des sections bibliographiques), numérisées en images et retranscrits avec reconnaissance optique de caractère dans un fichier de retranscription.]{style="color: purple;"}
+    -   [Une partie des données traitées consiste en une extraction de série d'illustrations de couverture, numérisées en images (en PNG). Une autre partie des données traitées consiste en une série de captures de textes imprimés (des paragraphes, des épigraphes et des sections bibliographiques), numérisées en images (en PNG) et retranscrits avec reconnaissance optique de caractère dans un fichier de retranscription (en TXT).]{style="color: purple;"}
 
-    -   [Certaines données raffinées liées à la pratique de citation sont colligées dans plusieurs fichiers tabulés, manipulés dans un tableur Excel (ou LibreOffice Calc).]{style="color: purple;"}
+    -   [Certaines données traitées liées à la pratique de citation sont colligées dans plusieurs fichiers tabulés (en CSV), manipulés dans un tableur LibreOffice Calc.]{style="color: purple;"}
 
 -   **Données annexes**
 
     -   [Une importante partie des données annexes consiste en une **revue de littérature** collectée, organisée et annotée dans une bibliothèque Zotero.]{style="color: purple;"}
 
-    -   [Un **historique du projet** (*research log*) accompagne les données produites. Il documente dans le détail et il date de manière consécutive toutes les étapes, les rencontres, les décisions, etc. depuis la création, jusqu'à l'archivage final et la fermeture du projet.]{style="color: purple;"}
+    -   [Un **historique du projet** (*research log*) accompagne les données produites. Il documente dans le détail et il date de manière consécutive toutes les étapes, les rencontres, les décisions, etc. depuis la création, jusqu'à l'archivage final et la fermeture du projet (en MarkDown).]{style="color: purple;"}
 
 ##### Dans quels formats de fichier vos données seront-elles recueillies? Ces formats permettront-ils la réutilisation des données, le partage et l'accès à long terme aux données?
 
 -   [Les documents numérisés sont au format PDF ou PDF/A.]{style="color: purple;"}
 
--   [Les retranscriptions sont au format texte.]{style="color: purple;"}
+-   [Les retranscriptions sont au format texte (TXT ou MarkDown).]{style="color: purple;"}
 
--   [Les données tabulées sont au format .xlsx de MS Excel (ou .ods de [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)). Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format CSV.]{style="color: purple;"}
+-   [Les données tabulées sont au format ODS de LibreOffice Calc. Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format CSV.]{style="color: purple;"}
 
--   [Les notes de recherche sont au format texte, avec un balisage léger Markdown utilisant la variante Markdown d'[Obsidian.md](https://obsidian.md/).]{style="color: purple;"}
+-   [Les notes de recherche sont au format texte, avec un balisage léger MarkDown utilisant la variante Markdown d'Obsidian.md.]{style="color: purple;"}
 
--   [La bibliothèque de références bibliographiques dans]{style="color: purple;"}[Zotero](https://www.zotero.org/) [est au format sqlite. Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format Zotero RDF (avec ontologie et annotations) et au format BibTeX.]{style="color: purple;"}
+-   [La bibliothèque de références bibliographiques dans Zotero est au format sqlite. Pour garantir la pérennité, la réutilisation, le partage et l'accès, elles sont exportées régulièrement au format Zotero RDF (avec ontologie et annotations) et au format BibTeX.]{style="color: purple;"}
 
--   [L'outil de nettoyage de données]{style="color: purple;"}[OpenRefine](https://openrefine.org/) [est utilisé pour harmoniser et corriger si besoin les intitulés et les valeurs des champs des données tabulées. Ce dispositif de contrôle de qualité des données mis en place à l'échelle de tout le projet (ou d'un ou de plusieurs produits de la recherche) permet d'assurer la qualité scientifique des données.]{style="color: purple;"}
+-   [L'outil de nettoyage de données OpenRefine est utilisé pour harmoniser et corriger si besoin les intitulés et les valeurs des champs des données tabulées. Ce dispositif de contrôle de qualité des données mis en place à l'échelle de tout le projet (ou d'un ou de plusieurs produits de la recherche) permet d'assurer la qualité scientifique des données.]{style="color: purple;"}
 
 ##### Quelles conventions et procédures utiliserez-vous pour structurer et nommer vos fichiers et en contrôler les versions afin de vous aider, ainsi que les utilisateurs potentiels, à mieux comprendre la façon dont vos données sont organisées?
 
@@ -316,7 +320,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   Optionnel : [des informations spécifiques aux données ; un aperçu des données et des fichiers inclus ; des liens vers les publications ou diffusion des résultats de la recherche]{style="color: purple;"}
 
--   [Un fichier de **dictionnaire des données** contiendra les ontologies des données raffinées.]{style="color: purple;"}
+-   [Un fichier de **dictionnaire des données** contiendra les ontologies des données traitées.]{style="color: purple;"}
 
     -   [Les noms des variables, leurs types et des explications sur leurs codages sont décrits.]{style="color: purple;"}
     -   [Un glossaire de définitions spécifiques au projet.]{style="color: purple;"}
@@ -337,7 +341,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 ##### Si vous utilisez une norme de métadonnées ou des outils pour documenter et décrire vos données, veuillez les énumérer ici.
 
--   [Les listes d'autorité et les mots-clés seront enrichies d'identifiants Wikidata pour permettre l'enrichissement des données raffinées, pour lier les données à d'autres données, et pour une meilleure robustesse sémantique.]{style="color: purple;"}
+-   [Les listes d'autorité et les mots-clés seront enrichies d'identifiants Wikidata pour permettre l'enrichissement des données traitées, pour lier les données à d'autres données, et pour une meilleure robustesse sémantique.]{style="color: purple;"}
 
 -   [Les rôles des contributeurs sont codés selon la taxonomie CRediT.]{style="color: purple;"}
 
@@ -408,7 +412,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Les données de recherche seront partagées en intégralité dans le dépôt Borealis de l'UdeM avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).]{style="color: purple;"}
 
--   [Seule une partie des données de recherche sera partagée dans le dépôt Borealis de l'UdeM]{style="color: purple;"} [avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Cette partie correspond aux données traitées (nettoyées, anonymisées et indexées par l'équipe de recherche) et à toute la documentation qui accompagne le projet de recherche (dictionnaire des données, fichier README, etc.). ]{style="color: purple;"}
+-   [Seule une partie des données de recherche sera partagée dans le dépôt Borealis de l'UdeM]{style="color: purple;"} [avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Cette partie correspond aux données traitées (nettoyées, anonymisées et indexées par l'équipe de recherche) et à toute la documentation qui accompagne le projet de recherche (dictionnaire des données, fichier README, etc.).]{style="color: purple;"}
 
 -   [Ce plan de gestion des données de recherche sera partagé avec la licence [Creative Commons BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) pour que d'autres chercheurs en histoire puissent s'en inspirer.]{style="color: purple;"}
 
@@ -453,7 +457,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 ##### Le cas échéant, quelles stratégies adopterez-vous pour traiter les utilisations secondaires des données sensibles?
 
 -   [Nous ne prévoyons pas de partager des données sensibles identifiables pour une utilisation secondaire.]{style="color: purple;"}
--   [Quand des données sensibles sont mentionnées dans le projet, alors un tag #confidentiel est ajouté à l'emplacement de chaque information. Cela concerne principalement les retranscriptions d'entrevues et les données raffinées extraites de celles-ci.]{style="color: purple;"}
+-   [Quand des données sensibles sont mentionnées dans le projet, alors un tag #confidentiel est ajouté à l'emplacement de chaque information. Cela concerne principalement les retranscriptions d'entrevues et les données traitées extraites de celles-ci.]{style="color: purple;"}
 
 ##### Comment traiterez-vous les questions d'ordre juridique, éthique et de propriété intellectuelle?
 
@@ -463,7 +467,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 ### Onglet : Résultats de la recherche
 
-Verser les produits de votre recherche (articles, chapitres, data papers, recherche-création, etc.).
+Verser les produits de votre recherche (articles, chapitres, *data papers*, recherche-création, etc.).
 
 ### Onglet : Partager
 
