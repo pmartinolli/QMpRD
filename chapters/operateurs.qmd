@@ -132,17 +132,29 @@ Si vous voulez aller plus loin : voici une [série de dix capsules](https://umon
 ## « IAg »
 
 -   Certaines bases de données commencent à intégrer des moteurs de recherche de type « IAg » (**intelligence artificielle générative**).
+    -   « Chercher sémantiquement plutôt qu'avec des mots-clés \
+        pour produire des réponses plutôt que des liens » [Ken Fitch](https://journal.code4lib.org/articles/17443)
     -   Exemples : *Perplexity*, *Elicit*, *SciSpace*, *Undermind*, *Web of Science Research Assistant*, etc.
 -   Ce que font ces boîtes de dialogue, c'est :
     1.  Lire votre commande
     2.  Extraire les concepts principaux et rejeter les mots-vides
     3.  Calculer quels sont les concepts proches
-        -   pas avec des `OR` ou des troncatures
-        -   avec un chiffrement des mots-clés sous la forme de vecteurs (des valeurs numériques)
+        -   pas avec des `OR` ou des troncatures mais avec un chiffrement des mots-clés sous la forme de vecteurs (une série de valeurs numériques) (*vectors*, *embedding models*)
     4.  Croiser ces concepts et appliquer la recherche sur un corpus de références.
--   C'est pratique pour les déburants qui ne savent pas utiliser les opérateurs mais :
-    -   C'est plutôt **limité en terme de puissance** de recherche. En effet, il est rare que le nombre de résultats dépasse dix ou quelques dizaines d'études.
-    -   On a **peu de contrôle** sur les recherches soumises et sur le processus d'essais-erreurs-corrections. Il est difficile de savoir ce qu'il se passe à chaque intéraction.
+-   Avantages :
+    -   C'est pratique pour **débloquer les débutants** qui ne savent pas utiliser les opérateurs ou qui utilisent trop de mots-vides ;
+    -   Performant pour les **sujets flous** ou généraux ou qui peuvent être déclinés sous une multitude de termes ("la chute de Justin Trudeau", "thérapie par l'art", etc.).
+    -   Permet de repérer des **concepts émergents** avec du jargon nouveau (si le modèle est à jour).
+-   Désavantages :
+    -   Moins performant quand on cherche un **terme précis** (une molécule, une personne, etc.).
+    -   C'est plutôt **limité en terme de puissance** de recherche.
+        -   Lent et coûteux en ressources.
+        -   Il est rare que le nombre de résultats dépasse dix (si une synthèse est produite) ou quelques dizaines d'études.
+    -   Cela **trouve toujours quelque chose**. Puisque c'est basé sur une proximité des vecteurs numériques et non sur une évaluation binaire si les termes sont présents ou pas.
+    -   Souvent les modèles numériques sont bien **adaptés pour un domaine** de la science mais ils sont peu performants pour d'autres domaines.
+    -   Cela n'est **pas déterministe** : chaque itération produit des résultats différents.
+    -   Effet boîte noire : On a **peu de contrôle** sur les recherches soumises et sur le processus d'essais-erreurs-corrections.
+        -   Il est difficile d'interpréter ce qu'il se passe à chaque intéraction.
         -   Du coup, on apprend moins aussi...
 -   Parfois un texte de synthèse est produit. Là aussi, il faut exercer son sens critique :
     -   Il est souvent produit avec seulement les résumés des études (pas leurs contenus).

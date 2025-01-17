@@ -823,6 +823,8 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Certaines bases de données commencent à intégrer des moteurs de recherche de type « IAg » (<strong>intelligence artificielle générative</strong>).
 <ul>
+<li>« Chercher sémantiquement plutôt qu’avec des mots-clés<br>
+pour produire des réponses plutôt que des liens » <a href="https://journal.code4lib.org/articles/17443">Ken Fitch</a></li>
 <li>Exemples : <em>Perplexity</em>, <em>Elicit</em>, <em>SciSpace</em>, <em>Undermind</em>, <em>Web of Science Research Assistant</em>, etc.</li>
 </ul></li>
 <li>Ce que font ces boîtes de dialogue, c’est :
@@ -831,16 +833,30 @@ ul.task-list li input[type="checkbox"] {
 <li>Extraire les concepts principaux et rejeter les mots-vides</li>
 <li>Calculer quels sont les concepts proches
 <ul>
-<li>pas avec des <code>OR</code> ou des troncatures</li>
-<li>avec un chiffrement des mots-clés sous la forme de vecteurs (des valeurs numériques)</li>
+<li>pas avec des <code>OR</code> ou des troncatures mais avec un chiffrement des mots-clés sous la forme de vecteurs (une série de valeurs numériques) (<em>vectors</em>, <em>embedding models</em>)</li>
 </ul></li>
 <li>Croiser ces concepts et appliquer la recherche sur un corpus de références.</li>
 </ol></li>
-<li>C’est pratique pour les déburants qui ne savent pas utiliser les opérateurs mais :
+<li>Avantages :
 <ul>
-<li>C’est plutôt <strong>limité en terme de puissance</strong> de recherche. En effet, il est rare que le nombre de résultats dépasse dix ou quelques dizaines d’études.</li>
-<li>On a <strong>peu de contrôle</strong> sur les recherches soumises et sur le processus d’essais-erreurs-corrections. Il est difficile de savoir ce qu’il se passe à chaque intéraction.
+<li>C’est pratique pour <strong>débloquer les débutants</strong> qui ne savent pas utiliser les opérateurs ou qui utilisent trop de mots-vides ;</li>
+<li>Performant pour les <strong>sujets flous</strong> ou généraux ou qui peuvent être déclinés sous une multitude de termes (“la chute de Justin Trudeau”, “thérapie par l’art”, etc.).</li>
+<li>Permet de repérer des <strong>concepts émergents</strong> avec du jargon nouveau (si le modèle est à jour).</li>
+</ul></li>
+<li>Désavantages :
 <ul>
+<li>Moins performant quand on cherche un <strong>terme précis</strong> (une molécule, une personne, etc.).</li>
+<li>C’est plutôt <strong>limité en terme de puissance</strong> de recherche.
+<ul>
+<li>Lent et coûteux en ressources.</li>
+<li>Il est rare que le nombre de résultats dépasse dix (si une synthèse est produite) ou quelques dizaines d’études.</li>
+</ul></li>
+<li>Cela <strong>trouve toujours quelque chose</strong>. Puisque c’est basé sur une proximité des vecteurs numériques et non sur une évaluation binaire si les termes sont présents ou pas.</li>
+<li>Souvent les modèles numériques sont bien <strong>adaptés pour un domaine</strong> de la science mais ils sont peu performants pour d’autres domaines.</li>
+<li>Cela n’est <strong>pas déterministe</strong> : chaque itération produit des résultats différents.</li>
+<li>Effet boîte noire : On a <strong>peu de contrôle</strong> sur les recherches soumises et sur le processus d’essais-erreurs-corrections.
+<ul>
+<li>Il est difficile d’interpréter ce qu’il se passe à chaque intéraction.</li>
 <li>Du coup, on apprend moins aussi…</li>
 </ul></li>
 </ul></li>

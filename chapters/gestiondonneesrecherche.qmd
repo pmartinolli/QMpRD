@@ -111,8 +111,8 @@ Voir plus loin, des modèles de suggestion de réponses à l'Assistant PGD. Voir
 -   Structure logique de **dossiers** et de sous-dossiers.
 -   Quels **documents supplémentaires** pourraient être ajoutés pour comprendre les données ? Sans avoir à vous demander ?
 -   Avez-vous suffisamment **anonymisé** les données ?
--   Est-ce qu'il y a un exemplaire du **formulaire de consentement** ou du **certificat d'éthique** ?
--   Est-ce que les données sont considérées comme sensibles ou ultra-sensible ?
+-   Est-ce qu'il y a un exemplaire du **formulaire de consentement** ou du **certificat d'éthique** ? Où sont stockés les formulaires de consentement signés et avec quelles conditions d'accès et de pérennité ?
+-   Est-ce que les données sont considérées comme [sensibles](https://ethics.gc.ca/fra/policy-politique_tcps2-eptc2_2022.html) ou ultra-sensible ?
 -   Doivent-elles être anonymisées ou dépersonnalisées ?
 -   Les documents d'archives sont généralement examinés par un archiviste pour des raisons de protection des renseignements personnels avant d'être mis à la disposition des chercheurs. Dans les cas où les informations seront collectées directement par le chercheur principal, vous devez éviter de divulguer toute information permettant l’identification d’une personne vivante comme son origine ethnique, ses croyances personnelles, son orientation personnelle, son état de santé, etc. sans permission ou pouvant nuire à la réputation des proches dans le cas d’une personne décédée. Pour d’autres conseils, voir la [Matrice de risque lié aux données de recherche avec des êtres humains](https://zenodo.org/records/4107119).
 -   Est-ce que vous avez les **droits de diffusion** des données ?
@@ -199,7 +199,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
         -   [Modèle de l'Alliance pour la recherche en histoire et en humanités]{style="color: purple;"} (modèle détaillé avec plusieurs dimensions pertinentes pour l'histoire, anciennement nommé Modèle Portage)
 
-### Onglet 1 : Détails du projet
+### Onglet : Détails du projet
 
 -   Ignorer « projet simulé aux fins d’essai, d’exercice ou d’enseignement »
 
@@ -218,7 +218,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   Numéro de subvention/url : [URL]{style="color: purple;"} vers la bourse, ou numéro identifiant de la bourse/ subvention.
 
-### Onglet 2 : Contributeurs \> Ajouter un contributeur
+### Onglet : Contributeurs \> Ajouter un contributeur
 
 -   **ORCID** : il est recommandé de vous créer un identifiant [ORCID](#sec-identitenumerique).
 
@@ -230,9 +230,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   Il est possible de rajouter des éléments à cette section une fois le PGD exporté au format Word. Par exemple, en détaillant les rôles selon la (taxonomie [CRediT](https://coop-ist.cirad.fr/etre-auteur/reconnaitre-tous-les-contributeurs/3-la-taxonomie-credit-pour-identifier-toutes-les-contributions)).
 
-### Onglets 3 et 4 : Aperçu du plan \> Rédiger un plan
-
-#### Collecte de données :
+### Onglet : Rédiger un plan \> Collecte de données :
 
 ##### Quels types de données allez-vous recueillir, créer, lier, acquérir ou enregistrer?
 
@@ -308,7 +306,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Les notes liées contiennent des métadonnées au format YAML en entête pour une meilleure réutilisation (principalement pour produire une pseudo-base de données dans le système de notes avec *dataview*).]{style="color: purple;"}
 
-#### Documentation et métadonnées :
+### Onglet : Rédiger un plan \> Documentation et métadonnées :
 
 ##### Quels documents seront nécessaires pour que les données soient lues et interprétées correctement dans le futur?
 
@@ -347,7 +345,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Dans la mesure du possible, les institutions mentionnées utilisent les identifiants ROR.]{style="color: purple;"}
 
-#### Stockage et sauvegarde :
+### Onglet : Rédiger un plan \> Stockage et sauvegarde :
 
 ##### Quels sont les besoins de stockage anticipés pour votre projet en matière d'espace (en mégaoctets, gigaoctets, téraoctets, etc.) et de durée de stockage?
 
@@ -371,19 +369,24 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
     -   [Avant chaque rencontre avec la directrice de recherche, la totalité du projet est copié sur une clé USB qui est remit à la directrice. La directrice remet alors la clé USB déposée lors de la rencontre précédente. Ce système à deux clés USB garantit une sauvegarde non-nuagique et un contrat de confiance.]{style="color: purple;"}
 
+-   [Les données non confidentielles seront stockées dans un dossier nommé "Données A" sur le service de stockage en nuage OneDrive, intégré au réseau de l’Université de Montréal et fonctionnant sous Windows. Ces données seront accessibles et partagées avec les auxiliaires de recherche via ce dossier.\
+    Les données nécessitant une anonymisation seront conservées dans un dossier distinct nommé " Données B", situé sur l’ordinateur personnel de la chercheuse. Ce dossier est protégé par le mot de passe de l’ordinateur, fonctionnant également sous Windows. Lorsque ces données doivent être partagées pour des analyses ou des transcriptions, elles seront mises à disposition via OneDrive, en utilisant une authentification par mot de passe et une connexion individualisée pour chaque auxiliaire de recherche.]{style="color: purple;"}
+
 ##### Comment l'équipe de recherche et d'autres collaborateurs pourront-ils accéder aux données, modifier celles-ci ou en ajouter de nouvelles tout au long du projet?
 
 -   [Le chercheur principal accède et modifie les données directement sur son ordinateur personnel.]{style="color: purple;"}
 
 -   [Lorsqu'il souhaite recevoir la révision ou la rétroaction ou la collaboration d'un autre chercheur, il dépose une copie des données dans un dossier partagé et protégé par mot de passe de OneDrive. Il intègre ensuite manuellement les modifications choisies dans son projet principal.]{style="color: purple;"}
 
-#### Préservation :
+### Onglet : Rédiger un plan \> Préservation :
 
 ##### Où déposerez-vous vos données en vue de l'accès et de la préservation à long terme à la fin de votre projet de recherche?
 
 -   [Les données de recherche de ce projet on une valeur patrimoniale et/ou une valeur pour une ou plusieurs communautés de recherche et/ou encore pour l’intérêt public.]{style="color: purple;"}
 
 -   [Une sélection des données de recherche sera déposé dans Dataverse UdeM.]{style="color: purple;"}
+
+-   [Les formulaires de consentement signés seront conservées par la chercheuse indéfiniment par la chercheuse principale, sous format papier, dans un espace sécurisé situé dans son bureau à l'Université de Montréal (UdeM). Ces documents ne feront l'objet d'aucun dépôt public, assurant ainsi la confidentialité des données qu'ils contiennent. À une date ultérieure, conformément aux politiques institutionnelles et aux [règles](https://archives.umontreal.ca/gestion-de-linformation/regles-de-gestion/) de conservation en vigueur, les formulaires seront transférés aux Archives de l'Université de Montréal pour un archivage approprié.]{style="color: purple;"}
 
 ##### Indiquez comment vous assurerez que vos données sont prêtes pour la conservation. À prendre en considération: formats de fichier appropriés pour la conservation mais qui préservent l'intégrité des données; anonymisation et dépersonnalisation des fichiers, y compris les fichiers de documentation.
 
@@ -399,7 +402,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Les graphes produits sont convertis au format svg et png pour une préservation sur le long terme.]{style="color: purple;"}
 
-#### Partage et réutilisation :
+### Onglet : Rédiger un plan \> Partage et réutilisation :
 
 ##### Quelles données partagerez-vous et sous quelle forme? (p. ex. données brutes, traitées, analysées, définitives)?
 
@@ -422,7 +425,7 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Un DOI sera associé à ce jeu de données, assurant un identifiant permanent et persistant vers le dépôt Dataverse UdeM.]{style="color: purple;"}
 
-#### Responsabilités et ressources :
+### Onglet : Rédiger un plan \> Responsabilités et ressources :
 
 ##### Identifiez qui sera responsable de la gestion des données de ce projet pendant et après le projet ainsi que les principales tâches associées à ces responsabilités.
 
@@ -438,17 +441,18 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 
 -   [Ce projet devrait mettre en oeuvre des ressources et des compétences déjà disponibles pour tous les membres de l'équipe et aucun coût supplémentaire n'est prévu tout au long de sa durée. Le chercheur principal partagera toutes les données nécessaires avec les membres de son équipe. L'équipe prévoit d'utiliser le service Dataverse UdeM pour le dépôt à long terme, sans frais supplémentaires.]{style="color: purple;"}
 
-#### Conformité aux lois et à l'éthique :
+#### Onglet : Rédiger un plan \> Conformité aux lois et à l'éthique :
 
 ##### Si votre projet comprend des données sensibles, comment vous assurerez-vous qu'il est géré de manière sécuritaire et que les données sont accessibles uniquement aux membres approuvés du projet?
 
 -   [Le projet ne contient pas de données sensibles.]{style="color: purple;"}
 
--   [Le projet contient des données sensibles avec des personnes vivantes, dont les méthodes et le traitement a été validé par le comité éthique de l'UdeM. Toutes les données sensibles du projet sont stockées sur les serveurs sécurisés du réseau de l'UdeM, répondant aux besoins de ce type de données. Seul le chercheur principal a accès aux données brutes, non anonymisées. Si un chercheur collaborateur veut avoir accès aux données anonymisées, il peut les télécharger via OneDrive (avec mot de passe) sur son ordinateur personnel protégé par mot de passe.]{style="color: purple;"}
+-   [Le projet implique la collecte de données sensibles concernant des personnes vivantes, incluant des informations sur la santé, les finances, les origines ethniques et raciales, les opinions politiques, la vie sexuelle ou l’orientation sexuelle, ainsi que les croyances religieuses ou philosophiques. Les méthodes de collecte et de traitement de ces données ont été approuvées par le comité d’éthique de l’Université de Montréal (UdeM). \
+    Toutes les données sensibles sont stockées de manière sécurisée sur les serveurs protégés du réseau de l’UdeM, répondant aux exigences spécifiques liées à ce type d’information. L’accès aux données brutes, non anonymisées, est strictement réservé au chercheur principal. Les auxiliaires de recherche peuvent accéder aux données anonymisées via OneDrive, en utilisant un lien protégé par mot de passe. Ces fichiers peuvent être téléchargés uniquement sur des ordinateurs personnels sécurisés par mot de passe.]{style="color: purple;"}
 
 ##### Le cas échéant, quelles stratégies adopterez-vous pour traiter les utilisations secondaires des données sensibles?
 
--   [Nous ne prevoyons pas de partager des données sensibles identifiables pour une utilisation secondaire.]{style="color: purple;"}
+-   [Nous ne prévoyons pas de partager des données sensibles identifiables pour une utilisation secondaire.]{style="color: purple;"}
 -   [Quand des données sensibles sont mentionnées dans le projet, alors un tag #confidentiel est ajouté à l'emplacement de chaque information. Cela concerne principalement les retranscriptions d'entrevues et les données raffinées extraites de celles-ci.]{style="color: purple;"}
 
 ##### Comment traiterez-vous les questions d'ordre juridique, éthique et de propriété intellectuelle?
@@ -456,3 +460,19 @@ Il faut ensuite remplir les cases de l'Assistant en suivant les suggestions en l
 -   [Selon les règles du comité d'éthique, le chercheur principal collecte et archive tous les formulaires de consentement.]{style="color: purple;"}
 
 -   [Le statut de droits d'auteur des documents primaires est indiqué dans les métadonnées de ceux-ci. Les documents primaires qui ne permettent pas une rediffusion libre ne sont pas diffusés avec les données de recherche.]{style="color: purple;"}
+
+### Onglet : Résultats de la recherche
+
+Verser les produits de votre recherche (articles, chapitres, data papers, recherche-création, etc.).
+
+### Onglet : Partager
+
+Si besoin, choisir un type de visibilité («privé» par défaut).
+
+### Onglet : Télécharger
+
+-   Télécharger le PGD au format .docx
+
+    -   Optionnel : Télécharger le PGD au format .txt pour archive car c'est un format ouvert non-propriétaire.
+
+-   Si besoin, modifier le PGD au format .docx. L'exporter au format PDF/A pour archives.
