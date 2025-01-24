@@ -2,9 +2,9 @@
 
 Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/pmartinolli/TM-incubablog) donnés pour l'Université de Montréal depuis 2016, pour l'[ACFAS](https://www.acfas.ca/activites) depuis 2018 avec [Akhésa Moummi](https://laicites.hypotheses.org/) (EHESS), et pour le *Vulgarisathon de l'ACFAS* avec Catherine Forget (ETS) en 2021.
 
-### Pourquoi ?
+### Pourquoi bloguer sa recherche ?
 
-#### Vulgarisation de la science
+#### Pour vulgariser la science
 
 -   Expliquer votre sujet de recherche, vos méthodes, vos résultats, votre vie de recherche, etc.
 
@@ -16,7 +16,7 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
 -   Réactions et commentaires universitaires à l'actualité en lien avec votre sujet de recherche.
 
-#### S'entraîner à rédiger
+#### Pour s'entraîner à rédiger
 
 -   S'exercer à la rédaction en français ou en anglais.
 
@@ -26,7 +26,7 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
 -   « L'appétit vient en mangeant. L'écriture, en écrivant. » (l'auteur de ce manuel, c. 2016)
 
-#### Promotion
+#### Pour promouvoir sa recherche
 
 -   Commencer à se présenter, se positionner, exister comme un expert du sujet.
 
@@ -44,7 +44,9 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
 -   Exemple ultime de reconnaissance : un billet de blogue de Paul Daly, un jeune professeur de droit, cité par la Cour Suprême du Canada <https://www.canlii.org/en/ca/scc/doc/2018/2018scc31/2018scc31.html>. Autre exemple : les billets du LSE sont de plus en plus cités dans les publications gouvernementales et non-gouvernementales <https://blogs.lse.ac.uk/impactofsocialsciences/2022/11/29/can-blogs-change-the-world-uncovering-pathways-to-policy-influence-through-lse-blogs/>.
 
-#### Collaboration
+-   Autres stratégies de promotion de sa recherche : @sec-promouvoir
+
+#### Pour susciter des collaborations
 
 -   Contrôle complet sur le processus de publication : espace de liberté.
 
@@ -66,39 +68,39 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
 -   (OPTION) Blogue d'équipe : sert de carnet de route, de journal de bord de vos réunions, vos décisions, vos idées, etc.
 
-#### Archivage informel
+#### Pour faire un archivage informel
 
 -   Embryons d'idées à développer. Début de conversation scientifique sur un sujet.
 
 -   Bouts de codes ou de méthodes qui pourraient être utiles à d'autres.
 
-### Comment ? 
+### Comment ?
 
 #### Exercices et question préparatoires
 
 -   [Quel est votre directrice ou directeur de recherche ? ou votre référent ou mentor ou chef de service ?]{style="color: purple"}
 
-    -   [Est-elle ou est-il au courant de votre projet de blogue ? ☐ Oui. ☐Non pas encore.]{style="color: purple"}
+    -   [Est-elle ou est-il au courant de votre projet de blogue ?]{style="color: purple"}
 
-    -   [Quand est votre prochain rendez-vous avec elle.lui sur ce sujet ? Date : ]{style="color: purple"}
+    -   [Quand est votre prochain rendez-vous avec elle.lui sur ce sujet ? Date :]{style="color: purple"}
 
--   [Votre institution a-t-elle des conditions de communication à propos de bloguer (politique de communication, etc.). Explorer le site web de la Direction des communications. ☐]{style="color: purple"}
+-   [Votre institution a-t-elle des conditions de communication à propos de bloguer (politique de communication, etc.). Explorer le site web de la Direction des communications.]{style="color: purple"}
 
-    -   [Université de Montréal : il suffit habituellement d'indiquer dans le modèle des pages de votre blogue une phrase de type : « Les informations, opinions et données qui figurent sur ce site n'engagent que leurs auteurs respectifs. La responsabilité de \[Département / laboratoire/ chaire/\...\] de l'Université de Montréal quant aux propos diffamatoires, informations erronées et autres usages non-permis se limite au retrait des contenus dommageables ou offensants. » ou plus court « Les propos tenus dans ce blogue n'engagent que moi. » ]{style="color: purple"}
+    -   [Université de Montréal : il suffit habituellement d'indiquer dans le modèle des pages de votre blogue une phrase de type : « Les informations, opinions et données qui figurent sur ce site n'engagent que leurs auteurs respectifs. La responsabilité de \[Département / laboratoire/ chaire/...\] de l'Université de Montréal quant aux propos diffamatoires, informations erronées et autres usages non-permis se limite au retrait des contenus dommageables ou offensants. » ou plus court « Les propos tenus dans ce blogue n'engagent que moi. »]{style="color: purple"}
 
--   [Êtes-vous le responsable principal du blogue ? ☐]{style="color: purple"}
+-   [Êtes-vous le responsable principal du blogue ?]{style="color: purple"}
 
-    -   [Partagez-vous cette responsabilité d'éditeur avec d'autres ? ☐]{style="color: purple"}
+    -   [Partagez-vous cette responsabilité d'éditeur avec d'autres ?]{style="color: purple"}
 
-    -   [Pensez-vous incorporer des billets d'auteurs autres que vous ? ☐]{style="color: purple"}
+    -   [Pensez-vous incorporer des billets d'auteurs autres que vous ?]{style="color: purple"}
 
-#### Évaluation des risques 
+#### Évaluation des risques
 
 -   [À préparer pour discussion avec votre direction de recherche.]{style="color: purple"}
 
--   [Y a-t-il des ]{style="color: purple"}**[risques d'image]{style="color: purple"}**[ pour vous, pour votre équipe ou pour votre institution ?]{style="color: purple"}
+-   [Y a-t-il des **risques d'image** pour vous, pour votre équipe ou pour votre institution ?]{style="color: purple"}
 
-    -   [Sujet polémique pouvant susciter du harcèlement en ligne ou en personne. ]{style="color: purple"}
+    -   [Sujet polémique pouvant susciter du harcèlement en ligne ou en personne.]{style="color: purple"}
 
     -   [Est-ce bien vu si je fais un traitement humoristique d'un sujet ?]{style="color: purple"}
 
@@ -108,17 +110,17 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
     -   [Puis-je écrire sur la vie interne du laboratoire ? Quelles sont les limites (rumeurs, etc.) ?]{style="color: purple"}
 
-    -   [En publiant, il y a une possibilité de mauvaise interprétation par un autre média (mais aussi possibilité de réagir plus vite).]{style="color: purple"}
+    -   [En publiant, il y a une possibilité de mauvaise interprétation par un autre média (NB: l'avantage du blogue est qu'il est aussi possible de réagir plus vite).]{style="color: purple"}
 
--   [Y a-t-il des risques de ]{style="color: purple"}**[perte d'originalité]{style="color: purple"}**[ des résultats d'une recherche ? D'accusations d'auto-plagiat ? etc.]{style="color: purple"}
+-   [Y a-t-il des risques de **perte d'originalité** des résultats d'une recherche ? D'accusations d'auto-plagiat ? etc.]{style="color: purple"}
 
-    -   [ Besoin d'originalité dans la recherche publiée ? Le fait d'avoir blogué un texte peut réduire son originalité et être considéré comme de l'autoplagiat pour une future publication (tout comme la diffusion d'un preprint dans un dépôt). ]{style="color: purple"}
+    -   [Besoin d'originalité dans la recherche publiée ? Le fait d'avoir blogué un texte peut réduire son originalité et être considéré comme de l'autoplagiat pour une future publication (tout comme la diffusion d'un preprint dans un dépôt).]{style="color: purple"}
 
     -   [Y a-t-il des spécificités dans les pratiques de publication scientifique dans votre domaine de recherche ?]{style="color: purple"}
 
     -   [Mémoire/Doctorat : votre jury veut-il être le premier lecteur de vos travaux ?]{style="color: purple"}
 
--   [Y a-t-il des risques liés au ]{style="color: purple"}**[droit d'auteur]{style="color: purple"}**[ ?]{style="color: purple"}
+-   [Y a-t-il des risques liés au **droit d'auteur**?]{style="color: purple"}
 
     -   [Réutilisation d'images, de statistiques, de schémas, de données externes : lesquelles ?]{style="color: purple"}
 
@@ -130,19 +132,19 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
     -   [Possibilité de plagiat plus facile de vos écrits ou de vos images.]{style="color: purple"}
 
-        -   [Attention aux droits que vous cédez à vos lecteur-rices-s. ]{style="color: purple"}
+        -   [Attention aux droits que vous cédez à vos lecteur-rices-s.]{style="color: purple"}
 
-        -   [Il est bon d'ajouter une mention de Copyright explicite pour vos lecteurs sur votre blogue (chaque page ou chaque billet) : ]{style="color: purple"}
+        -   [Il est bon d'ajouter une mention de Copyright ou de Creative Commons explicite pour vos lecteurs sur votre blogue (chaque page ou chaque billet) :]{style="color: purple"}
 
-            -   [symbole copyright + votre nom + date de publication Exemple: « © 2020 Pascal Martinolli »]{style="color: purple"}
+            -   [Symbole copyright + votre nom + date de publication Exemple: « © 2020 Pascal Martinolli »]{style="color: purple"}
 
-            -   [OU (mieux?) : « Le contenu de ce blogue est licencié sous [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) Pascal Martinolli sauf pour les éléments plus spécifiques qui peuvent avoir d'autres licences. » ]{style="color: purple"}
+            -   [OU (mieux?) : « Le contenu de ce blogue est licencié sous [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) Pascal Martinolli sauf pour les éléments plus spécifiques qui peuvent avoir d'autres licences. »]{style="color: purple"}
 
-            -   [Certaines choses ne peuvent être sous copyright: les titres, les phrases extraites comme citations, les idées, les méthodes, les listes, les faits et les informations de notoriété publique. Exemple: le texte complet d'une recette est protégé, mais pas la liste des ingrédients ni la méthode à suivre.]{style="color: purple"}
+            -   [Certaines choses ne peuvent être sous copyright : les titres, les phrases extraites comme citations, les idées, les méthodes, les listes, les faits et les informations de notoriété publique. Exemple: le texte complet d'une recette est protégé, mais pas la liste des ingrédients ni la méthode à suivre.]{style="color: purple"}
 
-            -   [Il est possible de donner les licences plus ouvertes ou plus restrictives à des éléments du blogue (un schéma par exemple). Indiquer les licences spécifiques au plus près des éléments spécifiques (dans la légende ET dans l'image même d'un schéma par exemple). ]{style="color: purple"}
+            -   [Il est possible de donner les licences plus ouvertes ou plus restrictives à des éléments du blogue (un schéma par exemple). Indiquer les licences spécifiques au plus près des éléments spécifiques (dans la légende ET dans l'image même d'un schéma par exemple).]{style="color: purple"}
 
--   [Y a-t-il des risques liés à la ]{style="color: purple"}**[confidentialité]{style="color: purple"}**[ ? Y a-t-il des risques ]{style="color: purple"}**[éthiques]{style="color: purple"}**[ ?]{style="color: purple"}
+-   [Y a-t-il des risques liés à la **confidentialité**? Y a-t-il des risques **éthiques**?]{style="color: purple"}
 
     -   [Partenariat avec entreprises, secret professionnel, brevets.]{style="color: purple"}
 
@@ -154,15 +156,15 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
         -   [Demander aussi, directement, aux personnes interviewées si c'est OK que leurs données soient anonymisées puis bloguées.]{style="color: purple"}
 
--   [Y a-t-il des risques ]{style="color: purple"}**[informatiques]{style="color: purple"}**[ ?]{style="color: purple"}
+-   [Y a-t-il des risques **informatiques**?]{style="color: purple"}
 
     -   [Plateforme piratée.]{style="color: purple"}
 
-    -   [Perte de données : ]{style="color: purple"}
+    -   [Perte de données :]{style="color: purple"}
 
-        -   [Faire des sauvegardes régulières]{style="color: purple"} [voir p.]{style="color: purple"}[.]{style="color: purple"}
+        -   [Faire des sauvegardes régulières]{style="color: purple"}
 
-        -   [Utiliser l'archivage de Internet Archives]{style="color: purple"} [voir p.]{style="color: purple"}[.]{style="color: purple"}
+        -   [Utiliser l'archivage de Internet Archives]{style="color: purple"}
 
 #### Ciblez vos objectifs
 
@@ -190,75 +192,75 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
 -   [Classez votre public cible (numérotez puis surligner le public principal no.1 ) :]{style="color: purple"}
 
-    -   [\_\_ Étudiants gradués surtout (Maîtrise, doctorant, post-doc) ]{style="color: purple"}
+    -   [\_\_ Étudiants gradués surtout (Maîtrise, doctorant, post-doc)]{style="color: purple"}
 
     -   [\_\_ Étudiants post-secondaires/ universitaires en général]{style="color: purple"}
 
-    -   [\_\_ Chercheurs ]{style="color: purple"}
+    -   [\_\_ Chercheurs]{style="color: purple"}
 
-    -   [\_\_ Grand public sans connaissance ]{style="color: purple"}
+    -   [\_\_ Grand public sans connaissance]{style="color: purple"}
 
-    -   [\_\_ Grand public informé ]{style="color: purple"}
+    -   [\_\_ Grand public informé]{style="color: purple"}
 
-    -   [\_\_ Communauté spécifique (observateurs d'oiseau, fans deScience-fiction) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ]{style="color: purple"}
+    -   [\_\_ Communauté spécifique (observateurs d'oiseau, fans deScience-fiction) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]{style="color: purple"}
 
     -   [\_\_ Mon équipe du labo ou de mon projet de recherche (carnet de bord)]{style="color: purple"}
 
-    -   [\_\_ Ma famille, mes proches. ]{style="color: purple"}
+    -   [\_\_ Ma famille, mes proches.]{style="color: purple"}
 
 #### Bonnes pratiques
 
 -   [Se donner un objectif de régularité (quitte à ne pas le suivre).]{style="color: purple"}
 
-    -   [NB : Soyez confortable de ne pas bloguer pendant de longues périodes en raison de changements de priorité. Les périodes de blogage intense et les périodes de silence sont normales. ]{style="color: purple"}
+    -   [NB : Soyez confortable de ne pas bloguer pendant de longues périodes en raison de changements de priorité. Les périodes de blogage intense et les périodes de silence sont normales.]{style="color: purple"}
 
     -   [Se donner un temps fixe ritualisé consacré à la rédaction de billets (exemple : 2h le dimanche).]{style="color: purple"}
 
-    -   [Je vais pouvoir y consacrer : ]{style="color: purple"}
+    -   [Je vais pouvoir y consacrer :]{style="color: purple"}
 
-        -   [1-2h par semaine ☐]{style="color: purple"}
+        -   [1-2h par semaine]{style="color: purple"}
 
-        -   [1-2h par mois ☐]{style="color: purple"}
+        -   [1-2h par mois]{style="color: purple"}
 
-        -   [1-2h par semestre ☐]{style="color: purple"}
+        -   [1-2h par semestre]{style="color: purple"}
 
-        -   [Autre : ]{style="color: purple"}
+        -   [Autre :]{style="color: purple"}
 
--   []{style="color: purple"}
+-   [Choisir le nom du blogue]{style="color: purple"}
 
     -   [Pas trop ciblé précisément sur votre sujet, dans le cas où vos recherches vous mènent sur d'autres sujets.]{style="color: purple"}
 
     -   [Avec votre nom ?]{style="color: purple"}
 
-    -   [Avec un terme générique (]{style="color: purple"}*[Rêve de laïcité]{style="color: purple"}*[, ]{style="color: purple"}*[Jeu de rôle sur table]{style="color: purple"}*[, etc.)]{style="color: purple"}
+    -   [Avec un terme générique (*Rêve de laïcité*,*Jeu de rôle sur table*, etc.)]{style="color: purple"}
 
     -   [URL du blogue : courte si possible, proche du nom du blogue]{style="color: purple"}
 
--   [Bloguer en équipe : la plateforme WordPress et Hypotheses.org permettent de donner des rôles éditoriaux différents. ]{style="color: purple"}
+-   [Bloguer en équipe : la plateforme WordPress et Hypotheses.org permettent de donner des rôles éditoriaux différents.]{style="color: purple"}
 
--   [Faire une liste des idées de billets futurs (dans votre carnet de recherche, dans une note d'Obsidian.md ou dans une note indépendante de Zotero). ☐]{style="color: purple"}
+-   [Faire une liste des idées de billets futurs (dans votre carnet de recherche, dans une note d'Obsidian.md ou dans une note indépendante de Zotero).]{style="color: purple"}
 
--   [Faire une liste du stock d'éléments à bloguer (dans une note d'Obsidian.md, dans une collection ]{style="color: purple"}[`_À bloguer`]{style="color: purple"}[ de Zotero). ]{style="color: purple"}
+-   [Faire une liste du stock d'éléments à bloguer (dans une note d'Obsidian.md, dans une collection`_À bloguer`de Zotero).]{style="color: purple"}
 
-    -   [\[15min.\] \[15min.\] : Lister toutes les choses ou types de choses que vous pourriez bloguer dans la première année. ☐]{style="color: purple"}
+    -   [Lister toutes les choses ou types de choses que vous pourriez bloguer dans la première année.]{style="color: purple"}
 
 -   [Rédiger directement sur les plateformes de blogue = douloureux et peu recommandé (risque de perte d'information si connexion problématique, etc.).]{style="color: purple"}
 
-    -   [Rédiger ses billets en dehors du blogue puis faire un copier-coller au dernier moment et enfin mettre en page sur la plateforme du blogue. ]{style="color: purple"}
+    -   [Rédiger ses billets en dehors du blogue puis faire un copier-coller au dernier moment et enfin mettre en page sur la plateforme du blogue.]{style="color: purple"}
 
-    -   [Recommandation : pré-rédiger le billet au format Markdown puis copier-coller le html de rendu. ]{style="color: purple"}
+    -   [Recommandation : pré-rédiger le billet au format Markdown puis copier-coller le html de rendu.]{style="color: purple"}
 
-        -   [Avec le logiciel Obsidian.md par exemple]{style="color: purple"} [voir p. ]{style="color: purple"}[, ]{style="color: purple"}
+        -   [Avec le logiciel Obsidian.md par exemple]{style="color: purple"}
 
-        -   [ou avec le site hackmd.io]{style="color: purple"} [<https://hackmd.io/>]{style="color: purple"}[ (pratique pour la collaboration à plusieurs) ou autre. ]{style="color: purple"}
+        -   [ou avec le site hackmd.io]{style="color: purple"} [<https://hackmd.io/>(pratique pour la collaboration à plusieurs) ou autre.]{style="color: purple"}
 
 #### Choix d'une plateforme (sans frais)
 
--   Hypotheses.org <https://hypotheses.org/> :
+-   [Hypotheses.org](https://hypotheses.org) :
 
     -   Carnets de recherche universitaires reconnus à part entière.
 
-    -   Comité éditorial de OpenEdition « Infrastructure de recherche nationale, OpenEdition est portée par OpenEdition Center, Unité d'appui et de recherche (UAR 2504) du CNRS, d'Aix-Marseille Université, de l'EHESS et d'Avignon Université. » <https://www.openedition.org/6438?lang=fr> : être chercheur et remplir un formulaire de demande.
+    -   Comité éditorial de [OpenEdition](https://www.openedition.org/6438?lang=fr) « Infrastructure de recherche nationale, OpenEdition est portée par OpenEdition Center, Unité d'appui et de recherche (UAR 2504) du CNRS, d'Aix-Marseille Université, de l'EHESS et d'Avignon Université. » : être chercheur et remplir un formulaire de demande.
 
     -   Moissonné par Isidore et Base Search : petit crédit universitaire.
 
@@ -266,35 +268,35 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
     -   Utilise le logiciel Wordpress mais sans toutes les extensions.
 
--   OpenUM (communauté UdeM) <https://openum.ca/> :
+-   [OpenUM](https://openum.ca/) (communauté UdeM) :
 
     -   Plusieurs formats et services basés sur Wordpress.
 
     -   Intégré à la communauté de recherche UdeM.
 
--   Wordpress <https://wordpress.com/> :
+-   [Wordpress](https://wordpress.com/) :
 
     -   Plateforme stable, basée sur des logiciels libres.
 
     -   Aussi un service d'hébergement web gratuit.
 
--   Blogger.com <https://www.blogger.com/> :
+-   [Blogger.com](https://www.blogger.com/) :
 
     -   Plateforme propriétaire de Google/Alphabet.
 
-    -   Flou dans les conditions d'utilisation : vous avez les droits d'auteur sur le contenu mais Google se réserve le droit d'en faire ce qu'ils veulent <https://policies.google.com/terms?hl=fr>.
+    -   Flou dans les conditions d'utilisation : vous avez les droits d'auteur sur le contenu mais Google se réserve le [droit](https://policies.google.com/terms?hl=fr) d'en faire ce qu'ils veulent.
 
     -   Facilement paramétrable.
 
 #### Paramétrage du blogue
 
--   [Rédigez un ]{style="color: purple"}**[billet d'introduction]{style="color: purple"}**[ ☐]{style="color: purple"}
+-   [Rédigez un **billet d'introduction**]{style="color: purple"}
 
     -   [C'est votre premier billet.]{style="color: purple"}
 
-    -   [Nommez-le « Billet d'introduction du carnet de recherche \[nom du blogue\] de \[votre nom\] » ]{style="color: purple"}
+    -   [Nommez-le « Billet d'introduction du carnet de recherche \[nom du blogue\] de \[votre nom\] »]{style="color: purple"}
 
-    -   [Expliquez : ]{style="color: purple"}
+    -   [Expliquez :]{style="color: purple"}
 
         -   [Qui vous êtes ?]{style="color: purple"}
 
@@ -302,19 +304,19 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
         -   [Quels sont vos projets futurs que vous allez discuter dans ce blogue ?]{style="color: purple"}
 
--   [Après avoir rédigé une quinzaine de billets : créez un ]{style="color: purple"}**[billet index ]{style="color: purple"}**[qui sera épinglé sur la page d'accueil de votre blogue et qui sera une liste de liens vers les meilleurs billets de votre blogue. ☐]{style="color: purple"}
+-   [Après avoir rédigé une quinzaine de billets : créez un **billet index** qui sera épinglé sur la page d'accueil de votre blogue et qui sera une liste de liens vers les meilleurs billets de votre blogue.]{style="color: purple"}
 
--   [Faites une liste des mots-clés correspondant aux thèmes principaux de vos billets pour ajouter des tags à vos billets. Ajoutez un ]{style="color: purple"}**[nuage de tags]{style="color: purple"}**[ ou de catégories dans le menu du modèle de page de votre blogue. ☐]{style="color: purple"}
+-   [Faites une liste des mots-clés correspondant aux thèmes principaux de vos billets pour ajouter des tags à vos billets. Ajoutez un **nuage de tags** ou de catégories dans le menu du modèle de page de votre blogue.]{style="color: purple"}
 
--   [Faire un billet annuel de bilan ou un billet de rapport d'étape dans votre recherche. ☐]{style="color: purple"}
+-   [Faire un billet annuel de bilan ou un billet de rapport d'étape dans votre recherche.]{style="color: purple"}
 
--   [Si vous fermez votre blogue : rédigez un billet de clôture. ☐]{style="color: purple"}
+-   [Si vous fermez votre blogue : rédigez un billet de clôture.]{style="color: purple"}
 
--   [Vous avez réfléchi au type de droit d'auteur ? Copyright avec Creative Commons, etc. ? Paramétrez le modèle pour l'afficher sur à afficher sur toutes les pages. ☐]{style="color: purple"}
+-   [Vous avez réfléchi au type de droit d'auteur ? Copyright avec Creative Commons, etc. ? Paramétrez le modèle pour l'afficher sur à afficher sur toutes les pages.]{style="color: purple"}
 
 #### Exemples de billets
 
-##### Exemples de billets SUR votre recherche : 
+##### Exemples de billets SUR votre recherche :
 
 -   Vos **notes de lecture** sur des documents universitaires (livres, articles, etc.).
 
@@ -348,7 +350,7 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
         -   Extraits de vos entretiens avec l'accord des participants et de votre directeur de recherche. Attention à l'anonymisation, à la diffamation, aux règles éthiques auxquelles vous vous êtes engagés, etc.
 
-##### Exemples de billets AUTOUR de votre recherche : 
+##### Exemples de billets AUTOUR de votre recherche :
 
 -   Comment vous préparez la **prochaine conférence** à laquelle vous allez présenter.
 
@@ -386,22 +388,22 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
 #### Promotion et suivi de votre blogue
 
--   [Propulsez vos billets sur vos réseaux sociaux : BlueSky, Mastodon, LinkedIn, etc. ☐]{style="color: purple"}
+-   [Propulsez vos billets sur vos réseaux sociaux : BlueSky, Mastodon, LinkedIn, etc.]{style="color: purple"}
 
--   [Listez d'autres blogues sur lesquels aller faire des commentaires signés avec votre adresse de blogue. ☐]{style="color: purple"}
+-   [Listez d'autres blogues sur lesquels aller faire des commentaires signés avec votre adresse de blogue.]{style="color: purple"}
 
 -   [Dans le modèle de votre blogue, quels liens voulez-vous faire vers d'autres blogues ?]{style="color: purple"}
 
--   [Créez une alerte]{style="color: purple"} [voir p. ]{style="color: purple"}[ sur votre blogue pour voir comment les billets s'affichent dans un agrégateur. ☐]{style="color: purple"}
+-   [Créez une alerte]{style="color: purple"} [sur votre blogue pour voir comment les billets s'affichent dans un agrégateur.]{style="color: purple"}
 
 -   [Option avancée : créez une alerte web avec ces syntaxes pour repérer qui parle de votre blogue :]{style="color: purple"}
 
     -   [`https://jdr.hypotheses.org -site:jdr.hypotheses.org`]{style="color: purple"}
 
-    -   [`nom du blogue``]`` -site:url.du.blogue.org`]{style="color: purple"}
+    -   [`nom du blogue -site:url.du.blogue.org`]{style="color: purple"}
 
--   [Archivez vos billets ]{style="color: purple"}
+-   [Archivez vos billets]{style="color: purple"}
 
-    -   [avec Internet Archives]{style="color: purple"} [voir p. ]{style="color: purple"}[. ]{style="color: purple"}
+    -   [avec Internet Archives]{style="color: purple"}
 
-    -   [une option plus ambitieuse d'archivage de votre blogue]{style="color: purple"} [<https://blog.front-matter.io/posts/building-an-archive-for-scholarly-blog-posts/>]{style="color: purple"}
+    -   [une option plus [ambitieuse](https://blog.front-matter.io/posts/building-an-archive-for-scholarly-blog-posts/)  d'archivage de votre blogue]{style="color: purple"}
