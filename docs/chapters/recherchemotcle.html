@@ -771,7 +771,7 @@ ul.task-list li input[type="checkbox"] {
 <li>À l’opposé, d’autres outils ont un moteur de recherche extrêmement sommaire.</li>
 <li>Il va falloir adapter ses requêtes en fonction du type de moteur de recherche.
 <ul>
-<li>Exemple : peut-on utiliser des troncatures dans des guillemets ? Il est tentant de lancer une recherche avec <code>jeu``*`` de société</code> mais toutes les bases de données ne sont pas capable d’interpréter correctement cette syntaxe. Si cela ne fonctionne pas, il faut lancer la recherche avec <code>jeu de société OR jeu de société</code> ou bien plus simplement <code>(jeu OR jeux) société</code></li>
+<li>Exemple : peut-on utiliser des troncatures dans des guillemets ? Il est tentant de lancer une recherche avec <code>jeu* de société</code> mais toutes les bases de données ne sont pas capable d’interpréter correctement cette syntaxe. Si cela ne fonctionne pas, il faut lancer la recherche avec <code>jeu de société OR jeu de société</code> ou bien plus simplement <code>(jeu OR jeux) société</code></li>
 </ul></li>
 <li>Particularités de chaque <a href="recherchebdd.html">type d’outils</a>.</li>
 </ul>
@@ -858,7 +858,7 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 <ul>
-<li>En médecine, pour répondre à une question de recherche clinique, on utilise ce plan de concept suivant la méthode nommée <strong><a href="https://bib.umontreal.ca/sciences-sante/pratique-factuelle?tab=1994">PICO</a></strong> où chaque colonne correspond à un thème précis :
+<li>En médecine, pour répondre à une question de recherche clinique, on utilise ce plan de concept suivant la méthode nommée <a href="https://bib.umontreal.ca/sciences-sante/pratique-factuelle?tab=1994"><strong>PICO</strong></a> où chaque colonne correspond à un thème précis :
 <ul>
 <li>P pour Population (ou Patient ou Problème)</li>
 <li>I pour Intervention</li>
@@ -878,8 +878,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Parce que c’est le champ le plus pertinent dans une description de document. Il contient des mots décrivant le coeur de ce dont parle le document (les thèmes abordés les plus importants).</p>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 68%">
-<col style="width: 31%">
+<col style="width: 66%">
+<col style="width: 33%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -889,8 +889,8 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">Titre seulement **T</td>
-<td style="text-align: center;">rop peu** de résultats</td>
+<td style="text-align: center;">Titre seulement</td>
+<td style="text-align: center;"><strong>Trop peu</strong> de résultats</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><strong>Sujets</strong> seulement</td>
@@ -956,9 +956,9 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Par exemple: je cherche des documents sur le jeu et les adultes.
 <ul>
-<li>Or, il y a peu de documents pertinents si je lance une requête de type : <code>jeu AND adulte``*</code></li>
-<li>Même avec des synonymes : <code>jeu (adulte``*`` OR homme``*`` OR femme``*`` OR men OR women)</code></li>
-<li>Alors une stratégie serait de chercher tous les documents qui contiennent jeu et qui rejette tout ce qui n’est pas sur les adultes : <code>jeu NOT (enfant``*`` OR kid``*`` OR senior``*`` OR vieux OR elder``*``)</code></li>
+<li>Or, il y a peu de documents pertinents si je lance une requête de type : <code>jeu AND adulte*</code></li>
+<li>Même avec des synonymes : <code>jeu (adulte* OR homme* OR femme* OR men OR women)</code></li>
+<li>Alors une stratégie serait de chercher tous les documents qui contiennent jeu et qui rejette tout ce qui n’est pas sur les adultes : <code>jeu NOT (enfant* OR kid* OR senior* OR vieux OR elder*)</code></li>
 </ul></li>
 </ul>
 </section>

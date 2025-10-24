@@ -54,7 +54,9 @@
         -   Exemple : *immersion* dans les jeux vidéo et *transportation* dans la littérature.
     -   Il y a peut être plusieurs termes pour parler de la même chose.
     -   Le terme pourrait n'exister qu'en anglais ou qu'en français, ou bien il existerait plusieurs traduction du terme dans une autre langue (ex: *game* et *play* en anglais pour jeu en français).
+
 -   Comment ?
+
     -   Pour chaque mot thématique extrait de votre sujet de recherche, on va lister le plus possible de termes « synonymes ». J'entends par synonymes non seulement des termes qui veulent dire exactement la même chose mais aussi tous les mots qui « tournent » autour du même thème :
         -   Des mots plus **précis**;
         -   Des mots plus larges, plus **généraux**;
@@ -77,7 +79,7 @@
 
 ## Combiner les mots avec des opérateurs logiques
 
-- [Voir](#sec-operateurs) 
+-   [Voir](#sec-operateurs)
 
 ## Rédiger le tout dans une expression de recherche
 
@@ -102,7 +104,7 @@
     -   avec une sélection rigoureuse des chaque source indexée, etc.
 -   À l'opposé, d'autres outils ont un moteur de recherche extrêmement sommaire.
 -   Il va falloir adapter ses requêtes en fonction du type de moteur de recherche.
-    -   Exemple : peut-on utiliser des troncatures dans des guillemets ? Il est tentant de lancer une recherche avec ``` jeu``*`` de société ``` mais toutes les bases de données ne sont pas capable d'interpréter correctement cette syntaxe. Si cela ne fonctionne pas, il faut lancer la recherche avec `jeu de société OR jeu de société` ou bien plus simplement `(jeu OR jeux) société`
+    -   Exemple : peut-on utiliser des troncatures dans des guillemets ? Il est tentant de lancer une recherche avec `jeu* de société` mais toutes les bases de données ne sont pas capable d'interpréter correctement cette syntaxe. Si cela ne fonctionne pas, il faut lancer la recherche avec `jeu de société OR jeu de société` ou bien plus simplement `(jeu OR jeux) société`
 -   Particularités de chaque [type d'outils](#sec-recherchebdd).
 
 ## Essai-erreur
@@ -148,7 +150,7 @@
 |      cognition       |        vieux         |     jeu de carte     |
 |       mémoire        |                      |                      |
 
--   En médecine, pour répondre à une question de recherche clinique, on utilise ce plan de concept suivant la méthode nommée **[PICO](https://bib.umontreal.ca/sciences-sante/pratique-factuelle?tab=1994)** où chaque colonne correspond à un thème précis :
+-   En médecine, pour répondre à une question de recherche clinique, on utilise ce plan de concept suivant la méthode nommée [**PICO**](https://bib.umontreal.ca/sciences-sante/pratique-factuelle?tab=1994) où chaque colonne correspond à un thème précis :
     -   P pour Population (ou Patient ou Problème)
     -   I pour Intervention
     -   C pour Comparativement à...
@@ -160,12 +162,12 @@
 -   Pourquoi c'est important ?
     -   Parce que c'est le champ le plus pertinent dans une description de document. Il contient des mots décrivant le coeur de ce dont parle le document (les thèmes abordés les plus importants).
 
-        |               Chercher vos mots-clés dans les champs                |        Résultats         |
-        |:-----------------------------------------------:|:---------------------:|
-        |                        Titre seulement \*\*T                        | rop peu\*\* de résultats |
-        |                        **Sujets** seulement                         |        Pertinents        |
-        |                     Titre + **Sujets** + Résumé                     |        Pertinents        |
-        | Partout (toutes les métadonnées de description + le texte intégral) |  **Trop** de résultats   |
+        | Chercher vos mots-clés dans les champs | Résultats |
+        |:----------------------------------------------:|:----------------------:|
+        | Titre seulement | **Trop peu** de résultats |
+        | **Sujets** seulement | Pertinents |
+        | Titre + **Sujets** + Résumé | Pertinents |
+        | Partout (toutes les métadonnées de description + le texte intégral) | **Trop** de résultats |
 -   Vocabulaire contrôlé :
     -   Le champ Sujets est parfois alimenté par les auteurs du document, dans ce cas on parle de **mots-clés non contrôlés**.
     -   Plus intéressant : parfois, le champ Sujets est alimenté par des bibliothécaires qui travaillent pour l'outil de recherche (le catalogue d'institution, la base de données, etc.). Dans ce cas, les mots-clés utilisés sont issus d'une **liste contrôlée de mots-clés.** On dit aussi un **thésaurus** (voir ci-dessous).
@@ -174,10 +176,9 @@
 
 ### Utiliser un thésaurus
 
-- Si la base de données possède un thésaurus, il peut être intéressant de consulter et utiliser celui-ci pour faciliter le travail sur les synonymes. 
-   - En effet, du personnel qualifié ajoute manuellement des mots-clés issus d'une **liste contrôlée** de mots-clés sur chacun des enregistrements de la base de données. 
-   - Repérer le(s) bons mots-clés dans le [thésaurus](#sec-thesaurus) permet de limiter le travail de collecte de synonymes puisqu'on a identifier le(s) mots pertinents pour un concept donné. 
-
+-   Si la base de données possède un thésaurus, il peut être intéressant de consulter et utiliser celui-ci pour faciliter le travail sur les synonymes.
+    -   En effet, du personnel qualifié ajoute manuellement des mots-clés issus d'une **liste contrôlée** de mots-clés sur chacun des enregistrements de la base de données.
+    -   Repérer le(s) bons mots-clés dans le [thésaurus](#sec-thesaurus) permet de limiter le travail de collecte de synonymes puisqu'on a identifier le(s) mots pertinents pour un concept donné.
 
 ## Quelques stratégies de recherche avancée
 
@@ -199,9 +200,9 @@
 ### Utilisation du NOT pour un thème très général
 
 -   Par exemple: je cherche des documents sur le jeu et les adultes.
-    -   Or, il y a peu de documents pertinents si je lance une requête de type : ``` jeu AND adulte``* ```
-    -   Même avec des synonymes : ``` jeu (adulte``*`` OR homme``*`` OR femme``*`` OR men OR women) ```
-    -   Alors une stratégie serait de chercher tous les documents qui contiennent jeu et qui rejette tout ce qui n'est pas sur les adultes : ``` jeu NOT (enfant``*`` OR kid``*`` OR senior``*`` OR vieux OR elder``*``) ```
+    -   Or, il y a peu de documents pertinents si je lance une requête de type : `jeu AND adulte*`
+    -   Même avec des synonymes : `jeu (adulte* OR homme* OR femme* OR men OR women)`
+    -   Alors une stratégie serait de chercher tous les documents qui contiennent jeu et qui rejette tout ce qui n'est pas sur les adultes : `jeu NOT (enfant* OR kid* OR senior* OR vieux OR elder*)`
 
 ### Combiner les historiques de recherche
 

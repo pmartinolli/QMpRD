@@ -1,9 +1,13 @@
 # Choisir le libre accès {#sec-libreacces}
 
+-   Rappel : Ce manuel (et spécialement ce chapitre) est rendu disponible à des fins d'information uniquement et ne constitue d'aucune manière un avis juridique.
+
+<!-- -->
+
 -   Le libre accès c'est l'acte de rendre accessible **gratuitement** et de manière **pérenne** le contenu d'un document de recherche.
     -   Exemples : Article de revues, manuels, chapitres, données de recherche, logiciels, code source, rapports, enregistrements, etc.
     -   L'essentiel des articles, des livres, des encyclopédies de recherche sont détenus par des intérêts privés qui monnayent leur accès et donc réduisent l'accès à la recherche. On appelle ça un ***paywall***.
--   Le libre accès est une recommandation de la Déclaration de San Francisco sur l'évaluation de la recherche que l'UdeM a signé.
+-   Le libre accès est une recommandation de la Déclaration de San Francisco ([DORA](https://sfdora.org/read/read-the-declaration-french/)) sur l'évaluation de la recherche que l'UdeM a signé.
 
 ## Pourquoi ?
 
@@ -30,16 +34,27 @@
 
 ### Plusieurs voies
 
--   **Voie diamant** : accès libre immédiat, les frais sont payés par des institutions (universités, consortiums, organisation à buts non lucratifs, etc.).
+-   **Voie diamant** : (c'est la voie FORTEMENT recommandée) accès libre immédiat, les frais sont payés par des institutions (universités, consortiums, organisation à buts non lucratifs, etc.) et la révision par les pairs assure la qualité.
+
     -   Pas de démarche spéciale à faire de votre part.
--   **Voie verte** : dès acceptation, vous **auto-archivez** la version acceptée et non mise en page (version *postprint*) sur un dépôt institutionnel. Aucun frais (outre les frais de publication de la revue). Parfois un embargo de 12 mois est demandé par la revue Consulter [*Sherpa-Romeo*](https://v2.sherpa.ac.uk/romeo/) pour connaître les politiques de publication de la revue. En 2022, environ 85 % des revues permettent de publier des articles en libre accès selon la voie verte.. Démarches à faire :
+
+-   **Voie verte** : dès acceptation, vous **auto-archivez** la version acceptée et non mise en page (version *postprint*) sur un dépôt institutionnel. Aucun frais (outre les frais de publication de la revue). Parfois un embargo de 12 mois est demandé par la revue Consulter [*JISC Open policy finder*](https://openpolicyfinder.jisc.ac.uk/) (anciennement *Sherpa-Romeo*) pour connaître les politiques de publication de la revue. En 2022, environ 85 % des revues permettent de publier des articles en libre accès selon la voie verte.. Démarches à faire :
+
     -   ***postprint*** = version revue par les pairs avant publication, acceptée par l'éditeur et mais non mise en page.
+
+-   Lorsqu’un éditeur ne propose pas d’option de publication conforme aux obligations des chercheurs de publier en libre accès, les bibliothèques de l’UdeM recommandent d’utiliser la **stratégie de rétention des droits**. Cette approche consiste à informer l’éditeur, dès la soumission du manuscrit, de ses exigences en matière de libre accès. Pour faciliter cette démarche, nous mettons à disposition deux gabarits de lettres que les auteurs.trices peuvent utiliser. Plus de détails sont disponibles dans le guide sur la [Politique de libre accès, sous le point 14](https://bib.umontreal.ca/gerer-diffuser/libre-acces/politique/#comment-negocier-droits-requis) : « Comment informer votre éditeur de vos obligations en matière de libre accès? ».
+
+### Pas d'embargo
+
+-   **Immédiatement** en libre accès dans une **source d'autorité et pérenne** :
+
+    -   Publier : Voie diamant, dorée ou hybride.
+
+    -   Déposer : Voie verte dans le Dépôt intistutionnel Papyrus ou dans un dépôt disciplinaire reconnu.
 
 ### Quelles licences Creative Commons ?
 
--   Voir p. pour quelques principes et recommandations sur les licences Creative Commons.
 -   Quelques recommandations pour rendre votre recherche plus accessible :
-    -   **Pas d'embargo**.
     -   Ajout de la clause **Non Commerciale** sur le document (texte, image, tableaux, graphes, etc.).
         -   Car il y a eu des cas de tentatives de revente de thèses et autres travaux universitaires via [Amazon](https://blogs.lse.ac.uk/impactofsocialsciences/2021/07/08/what-happens-when-you-find-your-open-access-phd-thesis-for-sale-on-amazon/).
         -   Quelques [recommandations](https://blogs.kent.ac.uk/isnews/open-access-and-your-thesis-on-kar/) pour les thèses.
@@ -120,9 +135,9 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
 
 -   Pour des techniques de création de listes de revues [où publier](#sec-oupublier).
 
-#### Je vérifie la politique de libre accès de la revue 
+#### Je vérifie la politique de libre accès de la revue
 
--   avec [SHERPA RoMEO](https://v2.sherpa.ac.uk/romeo/search.html) : pour vérifier les conditions.
+-   avec [*JISC Open policy finder*](https://openpolicyfinder.jisc.ac.uk/) (anciennement *Sherpa-Romeo*) : pour vérifier les conditions.
 
 #### Voie diamant
 
@@ -169,6 +184,7 @@ Tout d'abord, selon le type de production scientifique et selon le format de vot
     -   Y déposer des documents peut engendrer une poursuite de la part de la revue scientifique ou de la maison d'édition a qui vous avez cédé des droits d'auteur.
     -   Ce ne sont pas des environnements pérennes de diffusion et de conservation.
     -   Les documents qui y sont déposés par les chercheurs sont peu/pas repérables à travers WorldCat, Sofia, BnF, BAnQ, etc.
+-   Il est aussi possible de déposer dans un dépôt disciplinaire reconnu. Consulter le [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/).
 
 ### Livre ou chapitre de livre
 
