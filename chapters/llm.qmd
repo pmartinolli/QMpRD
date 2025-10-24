@@ -4,17 +4,18 @@ Ce chapitre se concentre uniquement sur les aspects d'intelligence artficielle g
 
 ## Cadre général 
 
-- Très souvent, ces outils sont **systèmes complexes** de **boîtes noires opaques** dont il est très difficile de comprendre le fonctionnement. 
+- Très souvent, ces outils sont des **systèmes complexes** constitués de **modules opaques** («boîtes noires») dont il est très difficile de comprendre le fonctionnement. 
   - Selon moi, c'est le problème principal car c'est non-scientifique, non-reproductible, et soumis par nature au bon vouloir de compagnies commerciales.
-  - Cela cache tous les biais de ces outils.
-  - Combiné avec un style assertif ou sycophantique, cela peut nous induire à accorder plus de confiance envers ces outils.
+  - Tous les biais de ces outils sont invisibles.
+  - Combiné avec un style assertif ou sycophantique, ce manque de transparence peut peut nous induire à accorder trop de confiance.
 - Le module génératif de ces systèmes : 
   - a une **capacité de calcul limitée** pour traiter de gros volumes d'information.
-  - Par nature, il est conçus pour rédiger du texte statistiquement, calculé par « à quoi **ressemblerait** le meilleur texte après celui celui-ci ? »
-- Ces outils ont une tendance à délester l'utilisateur de prises de décision en se substituant à ses jugements critiques. Cela peut induire :
+  - est conçu par nature pour rédiger du texte statistiquement
+    - et calculé par « à quoi **ressemblerait** le meilleur texte après celui celui-ci ? »
+- Ces outils ont une tendance à délester l'utilisateur de prises de décision multiples en se substituant à ses jugements critiques pendant tout le processus de recherche de documentation. Cela peut induire :
   - moins d'apprentissage, 
   - moins de posture critique, 
-  - moins de vérification si la référence existe, 
+  - moins de vérification que la référence existe, 
   - moins de vérification que telle information se trouve bien dans la référence annoncée,
   - bref plus de surévaluation des résultats de l'IAg.
 
@@ -24,31 +25,36 @@ Ce chapitre se concentre uniquement sur les aspects d'intelligence artficielle g
 
 - Exemples : ChatGPT, Copilot, Gemini, Claude.
 - Systèmes d'IA complètement emboîtés dans un module génératif : 
-  - Même dotés de fonctionnalités de recherche de documents («RAG»), et de fonctionnalités d’encadrement fortes, les modules génératifs dans ces outils produiront [toujours](https://arxiv.org/abs/2509.04664) des informations inexistantes (références ou synthèses/résumés).
-  - Même si un référence existe, une information est présentée comme extraite de cette référence :
-    - ces outils peuvent rédiger l’information AVANT (à partir du modèle de langue) puis ENSUITE chercher une référence;
-    - l’information synthétisée peut être absente de la référence.
-  - En octobre 2025, les références inventées sont plus rares dans ChatGPT et Claude, mais les « hallucinations » se sont déplacées dans les fausses informations extraites. 
+  - Même dotés de fonctionnalités de recherche de documents («RAG»), et de fonctionnalités d’encadrement fortes, les modules génératifs produiront [toujours](https://arxiv.org/abs/2509.04664) des informations inexistantes (références ou synthèses/résumés).
+  - Même si une référence existe, l'information «extraite» peut être absente de la référence. 
+    - En octobre 2025, les références inventées sont plus rares dans ChatGPT et Claude, mais les « hallucinations » se sont déplacées dans les fausses informations extraites. 
+  - Ces outils peuvent rédiger l’information AVANT (à partir du modèle de langue) puis ENSUITE chercher une référence;
 
 ### Outils IAg « spécialisés » 
 
 - Exemples : Asta.allen.ai; Consensus.app; Elicit.com; Evidencehunt.com; Getliner.com; Keenious.com; Platform.futurehouse.com; SciSpace.com ; Undermind.ai
-- Systèmes d'IA fonctionnant comme un module de moteur de recherche, posés sur un corpus de données et qui produisent des synthèses de résultats. 
+- Systèmes d'IA avec un module de type «moteur de recherche» posé sur un corpus de données et avec des modules qui produisent des synthèses de résultats. 
 - Viennent en une ou deux fonctionnalités : 
-  - Recherche de documents, présentant des listes de résultats;
-  - Production de rapport de synthèse où les résultats sont assemblés dans des paragraphes rédigés.
-- Presque pas de références inventées mais « hallucinations » et biais dans les synthèses. 
+  - Recherche de documents, présentés sous forme de listes de résultats;
+  - Production de rapports de synthèse où les résultats sont assemblés dans des paragraphes rédigés.
+- Pas de références inventées mais des « hallucinations » et des biais dans les synthèses. 
+
+## À quoi bon ces outils ?
+
+- Récolter du vocabulaire ou des notions de bases sur un sujet qu'on ne connaît pas.
+- Coder des petits traitements documentaires simples en Python, R, etc. (Claude d'Anthropic est mon favori en ce moment).
+- Explorer de la documentation en se disant que c'est un point de départ, pas un point d'arrivée (comme Google et Wikipédia avant ces outils).
 
 ## Mon enjeu en ce moment (septembre 2025)
 
 - Évaluer quelle est la proportion de texte rédigé qui provient du modèle de langue par rapport à la proportion apportée par les textes censés avoir été repéré. 
-  - Hypothèse : étant donnée les capacités de traitement limité, les systèmes IAg rédigent d'abord le texte puis ils saupoudrent de références en les appariant à posteriori. Notre cerveau interprète les résultats comme étant des synthèses logiques du contenu des références trouvées alors qu'il n'en est rien. 
-  - Très souvent, il n'est pas possible de faire sa propre sélection de résultats de recherche et de demander une synthèse du tout. Peut être pour qu'on ne discerne pas comment les synthèses sont produites ? 
+  - Hypothèse : étant donnée les capacités de traitement limité, souvent les systèmes IAg rédigent d'abord le texte puis ils saupoudrent de références en les appariant à posteriori. Notre cerveau interprète les résultats comme étant des synthèses logiques du contenu des références trouvées alors qu'il n'en est rien. 
+  - Il est rarement possible de faire sa propre sélection de résultats de recherche et de demander une synthèse du tout. Peut être pour qu'on ne discerne pas comment les synthèses sont produites ? 
   - Quand une référence repérée est incorporée dans la synthèse, est-ce son résumé seulement ou le texte intégral qui est utilisé ?
 
 ## Documents de soutien
 
-- [BINGO critique de l’IAg pour la recherche de documents](https://boite-outils.bib.umontreal.ca/ld.php?content_id=37726345). Questions à se poser quand on teste un nouvel outil, pour se mettre en mode Évaluation critique et affuter son discernement.
+- [BINGO critique de l’IAg pour la recherche de documents](https://boite-outils.bib.umontreal.ca/ld.php?content_id=37726345). Ensemble de questions à se poser quand on teste un nouvel outil, pour se mettre en mode Évaluation critique et affuter son discernement.
 - [Test d’outils IA génératives spécialisés pour la recherche universitaire](https://boite-outils.bib.umontreal.ca/ld.php?content_id=37640268). Plusieurs outils IAg « spécialisés » testés par les Bibliothèques UdeM.
 - [Comment déclarer](https://boite-outils.bib.umontreal.ca/c.php?g=743753&p=5377614) son utilisation de l'IAg dans ses travaux (si c'est autorisé car c'est interdit par défaut à l'UdeM)
 
