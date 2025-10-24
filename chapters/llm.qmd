@@ -47,8 +47,8 @@ Ce chapitre se concentre uniquement sur les aspects d'intelligence artficielle g
 
 ## Mon enjeu en ce moment (septembre 2025)
 
-- Évaluer quelle est la proportion de texte rédigé qui provient du modèle de langue par rapport à la proportion apportée par les textes censés avoir été repéré. 
-  - Hypothèse : étant donnée les capacités de traitement limité, souvent les systèmes IAg rédigent d'abord le texte puis ils saupoudrent de références en les appariant à posteriori. Notre cerveau interprète les résultats comme étant des synthèses logiques du contenu des références trouvées alors qu'il n'en est rien. 
+- Évaluer quelle est la proportion de texte rédigé qui provient du modèle de langue par rapport à la proportion apportée par les références repérées. 
+  - Hypothèse : étant donnée les capacités de traitement limité, souvent les systèmes IAg rédigent d'abord le texte puis ils saupoudrent de références en les appariant *a posteriori*. Notre cerveau mésinterprète les synthèses comme des résumés logiques des références trouvées. 
   - Il est rarement possible de faire sa propre sélection de résultats de recherche et de demander une synthèse du tout. Peut être pour qu'on ne discerne pas comment les synthèses sont produites ? 
   - Quand une référence repérée est incorporée dans la synthèse, est-ce son résumé seulement ou le texte intégral qui est utilisé ?
 
@@ -60,11 +60,9 @@ Ce chapitre se concentre uniquement sur les aspects d'intelligence artficielle g
 
 ## Annexe : Petite liste d’habiletés à ne pas trop déléguer aux machines
 
-- Habileté à transcrire une demande d’information en mots -clés, à évaluer la qualité de la demande et à reformuler sa stratégie de recherche (on perd en
-rétroaction avec l’outil et le décryptage du fonctionnement est plus complexe ou plus invisible)
+- Habileté à transcrire une demande d’information en mots-clés, à évaluer la qualité de la demande et à reformuler sa stratégie de recherche (on perd en rétroaction avec l’outil et le décryptage du fonctionnement est plus complexe ou plus invisible)
 - Habileté à évaluer les résultats d’une recherche (avec les outils IAg c’est toujours une petite sélection de résultats dont on ne connaît pas les critères)
 - Habileté à prendre la décision de sélectionner un résultat pertinent (les résultats sont présentés et rédigés dans un langage assertif ou d’autorité, où l’outil se substitue au jugement de l’utilisateur).
-- Habileté à se construire une image mentale de l’ensemble de la documentation scientifique sur un sujet et comment la conversation scientifique s’articule
-entre ceux ceux-ci.
+- Habileté à se construire une image mentale de l’ensemble de la documentation scientifique sur un sujet et comment la conversation scientifique s’articule entre ceux ceux-ci.
 - Habileté à évaluer et extraire l’information pertinente pour soutenir son argumentation.
 - Habileté à repérer le niveau d’exhaustivité atteint lors d’une recherche d’information
