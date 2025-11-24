@@ -29,4 +29,15 @@
     -   *Université de Montréal - APA (Français - Canada)*
     -   *Chicago Manual of Style 17th edition (full note, Français)* : pour les notes de bas de page
     -   *Chicago Manual of Style 17th edition (author-date, Français)*
--   Édition \> Paramètres \> Avancées : Fichiers et dossiers : Emplacement du répertoire de données : Personnalisé. Créer un sous-dossier`/MaBaseZotero`dans votre dossier maître nommé`/MaRecherche`.
+
+### Paramétrage avancé recommandé :
+
+Déplacer l'emplacement de votre base Zotero dans le dossier maître de votre projet de recherche (pour mieux archiver le tout facilement) :
+-   Créer un sous-dossier `/MaBaseZotero` dans votre dossier maître nommé `/MaRecherche` par exemple.
+-   Édition \> Paramètres \> Avancées : Fichiers et dossiers : Emplacement du répertoire de données : Ouvrir le répertoire de données.
+-   Cela ouvre l'explorateur de fichiers de votre système. 
+-   Toujours dans le menu de Zotero : Édition \> Paramètres \> Avancées : Fichiers et dossiers : Emplacement du répertoire de données : Sélectionner le nouvel emplacement `/MaRecherche/MaBaseZotero` par exemple. Zotero vous demande alors de fermer le programme.
+-   Fermer Zotero.
+-   Déplacer tout le contenu de l'ancien emplacement du répertoire de données vers `/MaRecherche/MaBaseZotero`.
+-   Ouvrir Zotero. Tout devrait y être.
+
