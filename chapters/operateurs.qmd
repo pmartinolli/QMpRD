@@ -13,7 +13,7 @@ L'essentiel à savoir se trouve dans cette superbe capsule vidéo de 8 minutes :
 
 {{< video https://www.youtube.com/embed/XXtGzSGLA8o >}}
 
-Si vous voulez aller plus loin : voici une [série de dix capsules](https://umontreal.ca.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22654420b3-e1fb-4522-9305-af5d01651a44%22&sortColumn=0&sortAscending=true) présentant les opérateurs en détail et avec toutes les techniques secrètes de shaolin pour devenir le grand maître des requêtes. Les différentes sections ci-dessous reprennent les contenus des capsules.
+Si vous voulez aller plus loin : voici une [série de dix capsules](https://pmartinolli.github.io/blog/2025/viens-voir-booleens/) présentant les opérateurs en détail et avec toutes les techniques secrètes de shaolin pour devenir le grand maître des requêtes. Les différentes sections ci-dessous reprennent les contenus des capsules.
 
 ## AND
 
@@ -131,16 +131,11 @@ Si vous voulez aller plus loin : voici une [série de dix capsules](https://umon
 
 ## « IAg »
 
--   Certaines bases de données commencent à intégrer des moteurs de recherche de type « IAg » (**intelligence artificielle générative**).
-    -   « Chercher sémantiquement plutôt qu'avec des mots-clés \
-        pour produire des réponses plutôt que des liens » [Ken Fitch](https://journal.code4lib.org/articles/17443)
-    -   Exemples : *Perplexity*, *Elicit*, *SciSpace*, *Undermind*, *Web of Science Research Assistant*, etc.
--   Ce que font ces boîtes de dialogue, c'est :
-    1.  Lire votre commande
-    2.  Extraire les concepts principaux et rejeter les mots-vides
-    3.  Calculer quels sont les concepts proches
-        -   pas avec des `OR` ou des troncatures mais avec un chiffrement des mots-clés sous la forme de vecteurs (une série de valeurs numériques) (*vectors*, *embedding models*)
-    4.  Croiser ces concepts et appliquer la recherche sur un corpus de références.
+-   Certaines bases de données commencent à intégrer des modules de **recherche sémantique** de type type « IAg » (intelligence artificielle générative).
+    -   On peut utiliser du langage naturel (une phrase avec plein de mots-vides, des verbes, de la ponctuation, etc.)
+    -   Le système extrait les termes pertinents et calcule leur coordonnées mathématiques dans un espace de mot (on dit *vector* ou *embedding* pour cette phase).
+    -   Les termes avec des coordonnées semblables sont repérés. C'est une sorte de recherche par synonymes automatique.
+    -   Exemples : *Elicit*, *SciSpace*, *Undermind*, *Web of Science Research Assistant*, etc.
 -   Avantages :
     -   C'est pratique pour **débloquer les débutants** qui ne savent pas utiliser les opérateurs ou qui utilisent trop de mots-vides ;
     -   Performant pour les **sujets flous** ou généraux ou qui peuvent être déclinés sous une multitude de termes ("la chute de Justin Trudeau", "thérapie par l'art", etc.).
@@ -160,6 +155,16 @@ Si vous voulez aller plus loin : voici une [série de dix capsules](https://umon
     -   Il est souvent produit avec seulement les résumés des études (pas leurs contenus).
     -   Il dépasse rarement 8-15 résultats intégrés.
     -   Il peut faire des contresens ou des exagérations. Il faut toujours vérifier le document original.
+    -   On ne sait pas quelle portion du texte provient du modèle de langue et quelle proportion provient des documents. Théoriquement, un modèle de langue pourrait ainsi dire l'inverse de ce que disent les documents.
     -   Il peut donner une **fausse impression d'autorité, ou de représentativité ou d'exhaustivité**.
         -   Or il est difficile pour un chercheur débutant de repérer si le traitement d'un sujet est trop partial et surtout trop **partiel**.
         -   Avec des recherches par opérateurs logiques dans un corpus identifié, il est plus facile de repérer les biais, les vides, etc. De plus, en parcourant minutieusement ce corpus, on apprend en chemin (les termes, les auteurs, les revues, etc.).
+-   Bref, ces systèmes se placent en **intermédiaires** entre vous et l'information originale, de manière **opaque** sur leur fonctionnement, effaçant ou **invisibilisant** parfois les moyens de remonter à l'**information originale**.
+
+## SQL
+
+-   Les bases de données relationnelles (les systèmes les plus courants pour gérer des données structurées en tables liées) utilisent un langage nommé SQL qui contient des éléments booléens.
+
+## SPARQL
+
+-   Les graphes de connaissances (comme Wikidata) ont une autre technique pour être interrogés : le langage SPARQL, qui contient lui aussi des éléments booléens.
