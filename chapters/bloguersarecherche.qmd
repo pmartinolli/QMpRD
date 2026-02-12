@@ -124,7 +124,7 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
     -   [Réutilisation d'images, de statistiques, de schémas, de données externes : lesquelles ?]{style="color: purple"}
 
-        -   [Attention : depuis quelques années, des cabinets d'avocats non éthiques lancent des attaques légales contre des blogues de chercheurs qui réutilisent des images dont ils n'ont pas les droits.]{style="color: purple"}
+        -   [Attention : depuis quelques années, des cabinets d'avocats non éthiques lancent des [attaques](https://www.sautcreatif.com/fr/reclamation-droits-auteur-photo-photoclaim-photography-defender/) légales contre des blogues de chercheurs qui réutilisent des images dont ils n'ont pas les droits.]{style="color: purple"}
 
     -   [Important : ne pas réutiliser des logos ou des textes de l'université/école.]{style="color: purple"}
 
@@ -406,4 +406,4 @@ Une partie de ce chapitre est issue de séries d'[ateliers](https://github.com/p
 
     -   [avec Internet Archives]{style="color: purple"}
 
-    -   [une option plus [ambitieuse](https://blog.front-matter.io/posts/building-an-archive-for-scholarly-blog-posts/)  d'archivage de votre blogue]{style="color: purple"}
+    -   [une option plus [ambitieuse](https://blog.front-matter.io/posts/building-an-archive-for-scholarly-blog-posts/) d'archivage de votre blogue]{style="color: purple"}

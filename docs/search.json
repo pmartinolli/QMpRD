@@ -10,6 +10,56 @@
     ]
   },
   {
+    "objectID": "chapters/introduction.html",
+    "href": "chapters/introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Note d’intention du manuel",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "chapters/introduction.html#note-dintention-du-manuel",
+    "href": "chapters/introduction.html#note-dintention-du-manuel",
+    "title": "Introduction",
+    "section": "",
+    "text": "Public cible\n\nPrincipalement : Chercheuses et chercheurs du séminaire PLU6058 des Études supérieures et postdoctorales de l’Université de Montréal.\nMais aussi :\n\nTout.e étudiant.e motivé.e, de tout cycle universitaire ou du collégial, en apprentissage autonome et autodidacte.\nTout.e enseignant.e de méthodes et de compétences informationnelles.\n\n\n\n\nObjectifs\n\nFournir un cadre linéaire et modulaire :\n\nPour acquérir les compétences informationnelles de base à l’exercice de la recherche.\nPour les pratiquer et les absorber progressivement car elles sont nombreuses et de complexité croissante.\nPour aller plus loin sur certains aspects qui ne sont abordés que superficiellement en formation.\nPour ne pas être dépassé, ni submergé, ni se dispercer.\nPour savoir par où commencer.\n\nServir de journal de bord (log ou lab notebook) ou de portfolio des ressources explorées et exploitées :\n\nProposer une autoréflexion sur sa pratique et ses méthodes de recherche documentaire.\nAnnoter et documenter toutes les bonnes pistes suivies, pour mieux les identifier, les reproduire et les adapter à l’avenir.\nPour ne pas répéter des stratégies infructueuses, ni oublier tout le travail accompli.\n\nCompiler dans un document unique l’essentiel à connaître sur chacun des aspects abordés.\n\nPour l’étudiant.e : avoir une vision d’ensemble de chaque notion.\nPour l’enseignant.e : avoir un plan de feuille de route pour conduire une formation sur chaque notion.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "chapters/introduction.html#comment-utiliser-ce-manuel",
+    "href": "chapters/introduction.html#comment-utiliser-ce-manuel",
+    "title": "Introduction",
+    "section": "Comment utiliser ce manuel ?",
+    "text": "Comment utiliser ce manuel ?\n\nEn suivant les 4 phases de la recherche, de bout en bout, pendant une session d’étude (voir plus bas).\nEn ne sélectionnant que les parties pertinentes pour vous :\n\nLe guide est modulaire avec de nombreux renvois et il vous invite parfois à aller plus loin dans d’autres sections.\nLa progression est scénarisée et ordonnée : du général au particulier, du plus important à l’accessoire, du plus simple au plus complexe, du plus court au plus chronophage.\n\nPar exemple, l’apprentissage du logiciel de gestion bibliographique Zotero a été découpé en plusieurs parties selon les différentes phases de votre recherche.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "chapters/introduction.html#phases-de-la-recherche",
+    "href": "chapters/introduction.html#phases-de-la-recherche",
+    "title": "Introduction",
+    "section": "4 phases de la recherche",
+    "text": "4 phases de la recherche\n4 phases structurent l’essentiel d’un parcours de recherche d’un.e étudiant.e gradué.e :\n\nPhase exploratoire : on tatonne et on cherche à mieux définir son sujet. On essaye de se faire une tête et on cherche à repérer quels sont les courants de pensées dominants dans une discipline ou sur son sujet.\nPhase de recherche exhaustive : on récolte le plus de documentation pertinente sur son sujet.\nPhase de lecture, d’analyse et d’organisation de la documentation : on exploite la documentation trouvée.\nPhase de rédaction : on rédige son travail de recherche.\n\nLe contenu de la partie « Au-delà de votre recherche » permet d’explorer des notions avancées.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "chapters/introduction.html#une-session-intensive",
+    "href": "chapters/introduction.html#une-session-intensive",
+    "title": "Introduction",
+    "section": "Une session intensive ?",
+    "text": "Une session intensive ?\n\nSuggestion : après le séminaire PLU6058, réservez-vous une session complète (3 mois) pour passer à travers tout le contenu pertinent pour vous.\n\nEn effet, pour absorber des méthodes, nous vous recommandons de les répartir et les répéter sur la longue durée Si vous faites le tout en une semaine intensive, écrivez-moi pour me partager votre expérience..\nPour entretenir votre motivation, ne le faites pas tout seul :\n\nFaites-vous accompagner par votre bibliothécaire disciplinaire de l’UdeM. Ce manuel sera votre document de communication.\nConstituez un groupe avec d’autres étudiant.es et avancez ensemble à travers le manuel.\nPartagez vos découvertes et votre progression sur votre blogue de recherche voir p. .",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
     "objectID": "chapters/identitenumerique.html",
     "href": "chapters/identitenumerique.html",
     "title": "1  Mon identité numérique de chercheuse / chercheur",
@@ -197,6 +247,46 @@
     ]
   },
   {
+    "objectID": "chapters/phaseexploratoire.html",
+    "href": "chapters/phaseexploratoire.html",
+    "title": "Phase exploratoire",
+    "section": "",
+    "text": "Objectifs documentaires de la phase exploratoire",
+    "crumbs": [
+      "Phase exploratoire"
+    ]
+  },
+  {
+    "objectID": "chapters/phaseexploratoire.html#objectifs-documentaires-de-la-phase-exploratoire",
+    "href": "chapters/phaseexploratoire.html#objectifs-documentaires-de-la-phase-exploratoire",
+    "title": "Phase exploratoire",
+    "section": "",
+    "text": "« Se faire une tête sur son sujet » et repérer les principaux courants de pensée sur vos thèmes de recherche.\nSans disperser son attention dans des détails.\nApprendre à manipuler le logiciel Zotero pour collecter vos premières références et prendre des notes.",
+    "crumbs": [
+      "Phase exploratoire"
+    ]
+  },
+  {
+    "objectID": "chapters/phaseexploratoire.html#pourquoi",
+    "href": "chapters/phaseexploratoire.html#pourquoi",
+    "title": "Phase exploratoire",
+    "section": "Pourquoi ?",
+    "text": "Pourquoi ?\n\nPour avoir une culture générale de base sur le sujet.\n\nAllégorie : Il s’agit de « bien baliser votre terrain de chasse ou de pêche ». C’est-à-dire savoir là où il y a du gibier, où il y a des sentiers, où tout le monde est déjà passé, où se trouvent les endroits pauvres et difficiles d’accès, quelle méthode utiliser pour tel objectif, quand prévoir deux sandwichs, où demander de l’aide et s’il faut y aller à plusieurs, est-ce qu’on peut y emmener les enfants ? etc.\n\nPour mieux situer les futures nouvelles informations dans sa carte mentale de son sujet : mieux absorber, synthétiser et mémoriser.\nPour mieux évaluer et hiérarchiser les futurs nouveaux documents sur le sujet.\nPour garantir que l’on a moins d’angles morts dans le traitement de son sujet, moins de biais ou qu’une notion importante ne nous a pas échappé.\nPour identifier (grâce aux travaux de vos prédécesseurs), que tel élément de votre recherche est très coûteux, ou peu satisfaisant, ou sans issu.",
+    "crumbs": [
+      "Phase exploratoire"
+    ]
+  },
+  {
+    "objectID": "chapters/phaseexploratoire.html#comment",
+    "href": "chapters/phaseexploratoire.html#comment",
+    "title": "Phase exploratoire",
+    "section": "Comment ?",
+    "text": "Comment ?\n\nUtiliser de la documentation qui fait autorité, qui a été beaucoup filtrée et qui est synthétisée.\n\nIdéalement des sources tertiaires : des articles d’encyclopédies spécialisées, d’encyclopédies disciplinaires, de handbooks, d’ouvrages de référence (Oxford handbooks, Oxford bibliographies, etc.).\nLivres : manuels, monographies généralistes ou de méthodologie (Sage Research Methods, etc.).\nArticles de revue de littérature : revues systématiques, études de la portée, etc.\n\nDans le même temps, identifier et lister :\n\nLes meilleurs termes ou mots-clés pour ma recherche.\nLes principales ressources documentaires (bases de données, plateformes, site web, institutions, etc.).\nLes principaux experts.\nLes principales personnes-ressources autour de soi.\nVotre bibliothécaire disciplinaire.",
+    "crumbs": [
+      "Phase exploratoire"
+    ]
+  },
+  {
     "objectID": "chapters/zoterocollecter.html",
     "href": "chapters/zoterocollecter.html",
     "title": "4  Zotero pour collecter la documentation",
@@ -370,6 +460,66 @@
     "crumbs": [
       "Phase exploratoire",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Repérer les principaux courants de pensée sur un sujet</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/phaserecherche.html",
+    "href": "chapters/phaserecherche.html",
+    "title": "Phase de recherche exhaustive de documentation",
+    "section": "",
+    "text": "Objectifs",
+    "crumbs": [
+      "Phase de recherche exhaustive de documentation"
+    ]
+  },
+  {
+    "objectID": "chapters/phaserecherche.html#objectifs",
+    "href": "chapters/phaserecherche.html#objectifs",
+    "title": "Phase de recherche exhaustive de documentation",
+    "section": "",
+    "text": "Identifier toutes les ressources qui peuvent contenir potentiellement de la documentation sur votre sujet :\n\ntoutes les cotes de classement,\ntous les outils de recherche,\ntoutes les bases de données, etc.\n\nÀ partir de ces ressources, les exploiter à fond et y chercher toutes les références pertinentes.\n\nAvec des bonnes méthodes de recherche pour ne pas perdre de temps.\n\nCollecter les références pertinentes dans Zotero (ou Endnote).\nRécupérer les documents des références pertinentes.",
+    "crumbs": [
+      "Phase de recherche exhaustive de documentation"
+    ]
+  },
+  {
+    "objectID": "chapters/phaserecherche.html#distinctions-travail-de-session-thèse",
+    "href": "chapters/phaserecherche.html#distinctions-travail-de-session-thèse",
+    "title": "Phase de recherche exhaustive de documentation",
+    "section": "Distinctions : travail de session / thèse",
+    "text": "Distinctions : travail de session / thèse\n\nLes besoins d’information sont différents pour ces deux types de travaux universitaires1.\n\n\n\n\n\n\n\n\n\n\nTravail de session\nMémoire ou thèse\n\n\n\n\nLes tâches sont…\n…structurées\net bien définies\n…peu structurées\net mal définies\n\n\nOn y répond…\n…avec des outils de recherche/\nméthodes existantes\n…peut être pas\n\n\nLe sujet est…\n…générique\n…très spécifique\n\n\nÉtendue :\nsélective\nexhaustive\n\n\nDurée :\ntrès court terme\nlong terme\n\n\nLes efforts…\n…mènent généralement au succès\n\n\n\nAlerte ou veille :\ninutile\nimportant\n\n\nVocabulaire :\ndéfini\nsouvent flou, émergent, en évolution\n\n\nDomaine(s) :\nunique ou disciplinaire\nparfois multidisciplinaire",
+    "crumbs": [
+      "Phase de recherche exhaustive de documentation"
+    ]
+  },
+  {
+    "objectID": "chapters/phaserecherche.html#vue-densemble-des-méthodes-de-recherche-de-documentation",
+    "href": "chapters/phaserecherche.html#vue-densemble-des-méthodes-de-recherche-de-documentation",
+    "title": "Phase de recherche exhaustive de documentation",
+    "section": "Vue d’ensemble des méthodes de recherche de documentation",
+    "text": "Vue d’ensemble des méthodes de recherche de documentation\n\nPour explorer un sujet à fond, il faut utiliser plusieurs méthodes de recherche de documentation.\nVoici une liste des principales méthodes, classées par ordre d’importance :\n\nRecherche avec des mots-clés dans des outils (bases de données, catalogues, etc.);\nRepérage d’expert.es sur notre sujet et de la liste de leurs publications;\nUtilisation de listes raisonnées (bibliobraphies, portails, collections, etc.);\nRéception d’alertes programmées;\nInformations provenant de mes pair.es (collègues de laboratoire, discussions à la machine à café, invisible college, etc.)\nSérendipité contrôlée (parcourir le web de liens en liens avec un objectif et un temps limité, visiter les rayonnages des bibliothèques à des cotes de classement pertinentes, etc.)",
+    "crumbs": [
+      "Phase de recherche exhaustive de documentation"
+    ]
+  },
+  {
+    "objectID": "chapters/phaserecherche.html#distinctions-revue-de-littérature-revue-systématique",
+    "href": "chapters/phaserecherche.html#distinctions-revue-de-littérature-revue-systématique",
+    "title": "Phase de recherche exhaustive de documentation",
+    "section": "Distinctions : revue de littérature / revue systématique",
+    "text": "Distinctions : revue de littérature / revue systématique\n\nDistinguer les différents types de travaux de recherches-synthèses sur un sujet.",
+    "crumbs": [
+      "Phase de recherche exhaustive de documentation"
+    ]
+  },
+  {
+    "objectID": "chapters/phaserecherche.html#footnotes",
+    "href": "chapters/phaserecherche.html#footnotes",
+    "title": "Phase de recherche exhaustive de documentation",
+    "section": "",
+    "text": "Inspiré de https://twitter.com/ShengwuLi/status/1624802079280693251↩︎",
+    "crumbs": [
+      "Phase de recherche exhaustive de documentation"
     ]
   },
   {
@@ -934,6 +1084,26 @@
     ]
   },
   {
+    "objectID": "chapters/phaselectureanalyse.html",
+    "href": "chapters/phaselectureanalyse.html",
+    "title": "Phase de lecture, d’analyse et d’organisation de la documentation",
+    "section": "",
+    "text": "Objectifs documentaires de la phase de lecture/analyse",
+    "crumbs": [
+      "Phase de lecture, d'analyse et d'organisation de la documentation"
+    ]
+  },
+  {
+    "objectID": "chapters/phaselectureanalyse.html#objectifs-documentaires-de-la-phase-de-lectureanalyse",
+    "href": "chapters/phaselectureanalyse.html#objectifs-documentaires-de-la-phase-de-lectureanalyse",
+    "title": "Phase de lecture, d’analyse et d’organisation de la documentation",
+    "section": "",
+    "text": "Vous avez déjà récupéré l’essentiel de la documentation sur votre sujet :\n\nGrâce aux encyclopédies spécialisées, vous avez une bonne culture générale de votre sujet et autour de votre sujet.\nGrâce à la recherche exhaustive de sources, vous avez récupéré la plus grande partie de la documentation pertinente sur votre sujet.\n\nMaintenant, il faut freiner la recherche active de nouveaux documents et utiliser ce que vous avez déjà trouvé.\n\nVous ne devriez rechercher que des documents ou des auteurs ou des pistes que vous avez découverts dans votre ensemble de documents (dans leurs bibliographies par exemple).\nParfois continuer à chercher des documents sans fin est un moyen de procrastiner et ne pas se mettre à lire, comprendre, synthétiser, etc.\n\nDans la phase précédente, vous avez identifié des stratégies de recherche efficaces dans plusieurs outils de recherche. C’est le temps de créer des alertes à partir de ces stratégies.\n\nPour recevoir automatiquement les nouveaux documents qui vont arriver dans ces outils de recherche.\nPour remplacer la recherche active de documents dans les outils de recherche.",
+    "crumbs": [
+      "Phase de lecture, d'analyse et d'organisation de la documentation"
+    ]
+  },
+  {
     "objectID": "chapters/zoteroorganiser.html",
     "href": "chapters/zoteroorganiser.html",
     "title": "12  Zotero pour organiser la documentation",
@@ -949,7 +1119,7 @@
     "href": "chapters/alertes.html",
     "title": "13  Se ternir à jour avec les alertes",
     "section": "",
-    "text": "13.1 Objectifs\nTL;PL : Être informé automatiquement, par divers moyens passifs, des nouveautés dans un domaine choisi.",
+    "text": "13.1 Objectifs\nLe contenu de ce chapitre est adapté partiellement des formations sur la veille de Justine Lamoureux, bibliothécaire UQÀM.\nTL;PL : Être informé automatiquement, par divers moyens passifs, des nouveautés dans un domaine choisi.",
     "crumbs": [
       "Phase de lecture, d'analyse et d'organisation de la documentation",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Se ternir à jour avec les alertes</span>"
@@ -1052,6 +1222,26 @@
     "crumbs": [
       "Phase de lecture, d'analyse et d'organisation de la documentation",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Évaluer ses sources</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/phaseredaction.html",
+    "href": "chapters/phaseredaction.html",
+    "title": "Phase de rédaction",
+    "section": "",
+    "text": "Objectifs documentaires de la phase de rédaction",
+    "crumbs": [
+      "Phase de rédaction"
+    ]
+  },
+  {
+    "objectID": "chapters/phaseredaction.html#objectifs-documentaires-de-la-phase-de-rédaction",
+    "href": "chapters/phaseredaction.html#objectifs-documentaires-de-la-phase-de-rédaction",
+    "title": "Phase de rédaction",
+    "section": "",
+    "text": "Il faut arrêter de chercher de nouveaux documents.\n\nFaites confiance aux alertes que vous avez créé pour recevoir automatiquement les nouveaux documents qui correspondent à des stratégies de recherche efficaces.\nEn effet, continuer à chercher des documents sans fin est un moyen de procrastiner… Chercher des documents, c’est facile. Mais les lire et les synthétiser, c’est dur. Je sais.\n\nVous allez vous appuyer sur votre bibliothèque de lectures dans Zotero.\n\nSi possible, elle est organisée et structurée (avec un thésaurus par exemple).\n\nVous allez vous appuyer aussi sur votre système de prise de notes.\n\nDans Zotero (moyen), dans Obsidian.md (pas mal!) ou ailleurs.\nÉvitez de dispercer vos notes partout et choisissez un outil central pour leur collection.\n\nVous avez mis en place un système de sauvegarde fiable et simple.\n\nVoire vous avez rédigé un plan de gestion de données de recherche.",
+    "crumbs": [
+      "Phase de rédaction"
     ]
   },
   {
@@ -1418,6 +1608,28 @@
     ]
   },
   {
+    "objectID": "chapters/operateurs.html#sql",
+    "href": "chapters/operateurs.html#sql",
+    "title": "20  Opérateurs logiques",
+    "section": "20.9 SQL",
+    "text": "20.9 SQL\n\nLes bases de données relationnelles (les systèmes les plus courants pour gérer des données structurées en tables liées) utilisent un langage nommé SQL qui contient des éléments booléens.",
+    "crumbs": [
+      "Au-delà de votre recherche : méthodes",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Opérateurs logiques</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/operateurs.html#sparql",
+    "href": "chapters/operateurs.html#sparql",
+    "title": "20  Opérateurs logiques",
+    "section": "20.10 SPARQL",
+    "text": "20.10 SPARQL\n\nLes graphes de connaissances (comme Wikidata) ont une autre technique pour être interrogés : le langage SPARQL, qui contient lui aussi des éléments booléens.",
+    "crumbs": [
+      "Au-delà de votre recherche : méthodes",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Opérateurs logiques</span>"
+    ]
+  },
+  {
     "objectID": "chapters/formats.html",
     "href": "chapters/formats.html",
     "title": "21  Formats et manipulations de fichiers",
@@ -1565,7 +1777,7 @@
     "href": "chapters/revuelitterature.html",
     "title": "24  Revue exhaustive de la littérature ou revue systématique ?",
     "section": "",
-    "text": "24.1 Quelques définitions",
+    "text": "24.1 Quelques définitions\nCette section est une contribution de Cynthia Gagné (contributrice principale) et une adaptation des guides Synthèses des connaissances dont elle est une co-contributrice.",
     "crumbs": [
       "Au-delà de votre recherche : méthodes",
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Revue exhaustive de la littérature ou revue systématique ?</span>"
@@ -2159,7 +2371,7 @@
     "href": "chapters/llm.html",
     "title": "34  LLM pour la recherche documentaire",
     "section": "",
-    "text": "34.1 Cadre général",
+    "text": "34.1 Cadre général\nCe chapitre se concentre uniquement sur les aspects d’intelligence artficielle générative (IAg) pour le repérage de documents. Donc, les outils de cartographie de l’information basés sur les citations (ResearchRabbit, Inciteful, etc.) sont exclus.",
     "crumbs": [
       "Au-delà de votre recherche : outils",
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>*LLM* pour la recherche documentaire</span>"
@@ -2434,7 +2646,7 @@
     "href": "chapters/bibliometrie.html",
     "title": "44  Bibliométrie",
     "section": "",
-    "text": "44.1 Principes et limites",
+    "text": "44.1 Principes et limites\nCette section est une contribution partagée entre Cynthia Gagné (contributrice principale) et Pascal Martinolli.",
     "crumbs": [
       "Au-delà de votre recherche : diffusion",
       "<span class='chapter-number'>44</span>  <span class='chapter-title'>Bibliométrie</span>"
@@ -2691,218 +2903,6 @@
     "crumbs": [
       "Annexes",
       "<span class='chapter-number'>54</span>  <span class='chapter-title'>Accès et droits</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/introduction.html",
-    "href": "chapters/introduction.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "Note d’intention du manuel",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "chapters/introduction.html#note-dintention-du-manuel",
-    "href": "chapters/introduction.html#note-dintention-du-manuel",
-    "title": "Introduction",
-    "section": "",
-    "text": "Public cible\n\nPrincipalement : Chercheuses et chercheurs du séminaire PLU6058 des Études supérieures et postdoctorales de l’Université de Montréal.\nMais aussi :\n\nTout.e étudiant.e motivé.e, de tout cycle universitaire ou du collégial, en apprentissage autonome et autodidacte.\nTout.e enseignant.e de méthodes et de compétences informationnelles.\n\n\n\n\nObjectifs\n\nFournir un cadre linéaire et modulaire :\n\nPour acquérir les compétences informationnelles de base à l’exercice de la recherche.\nPour les pratiquer et les absorber progressivement car elles sont nombreuses et de complexité croissante.\nPour aller plus loin sur certains aspects qui ne sont abordés que superficiellement en formation.\nPour ne pas être dépassé, ni submergé, ni se dispercer.\nPour savoir par où commencer.\n\nServir de journal de bord (log ou lab notebook) ou de portfolio des ressources explorées et exploitées :\n\nProposer une autoréflexion sur sa pratique et ses méthodes de recherche documentaire.\nAnnoter et documenter toutes les bonnes pistes suivies, pour mieux les identifier, les reproduire et les adapter à l’avenir.\nPour ne pas répéter des stratégies infructueuses, ni oublier tout le travail accompli.\n\nCompiler dans un document unique l’essentiel à connaître sur chacun des aspects abordés.\n\nPour l’étudiant.e : avoir une vision d’ensemble de chaque notion.\nPour l’enseignant.e : avoir un plan de feuille de route pour conduire une formation sur chaque notion.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "chapters/introduction.html#comment-utiliser-ce-manuel",
-    "href": "chapters/introduction.html#comment-utiliser-ce-manuel",
-    "title": "Introduction",
-    "section": "Comment utiliser ce manuel ?",
-    "text": "Comment utiliser ce manuel ?\n\nEn suivant les 4 phases de la recherche, de bout en bout, pendant une session d’étude (voir plus bas).\nEn ne sélectionnant que les parties pertinentes pour vous :\n\nLe guide est modulaire avec de nombreux renvois et il vous invite parfois à aller plus loin dans d’autres sections.\nLa progression est scénarisée et ordonnée : du général au particulier, du plus important à l’accessoire, du plus simple au plus complexe, du plus court au plus chronophage.\n\nPar exemple, l’apprentissage du logiciel de gestion bibliographique Zotero a été découpé en plusieurs parties selon les différentes phases de votre recherche.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "chapters/introduction.html#phases-de-la-recherche",
-    "href": "chapters/introduction.html#phases-de-la-recherche",
-    "title": "Introduction",
-    "section": "4 phases de la recherche",
-    "text": "4 phases de la recherche\n4 phases structurent l’essentiel d’un parcours de recherche d’un.e étudiant.e gradué.e :\n\nPhase exploratoire : on tatonne et on cherche à mieux définir son sujet. On essaye de se faire une tête et on cherche à repérer quels sont les courants de pensées dominants dans une discipline ou sur son sujet.\nPhase de recherche exhaustive : on récolte le plus de documentation pertinente sur son sujet.\nPhase de lecture, d’analyse et d’organisation de la documentation : on exploite la documentation trouvée.\nPhase de rédaction : on rédige son travail de recherche.\n\nLe contenu de la partie « Au-delà de votre recherche » permet d’explorer des notions avancées.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "chapters/introduction.html#une-session-intensive",
-    "href": "chapters/introduction.html#une-session-intensive",
-    "title": "Introduction",
-    "section": "Une session intensive ?",
-    "text": "Une session intensive ?\n\nSuggestion : après le séminaire PLU6058, réservez-vous une session complète (3 mois) pour passer à travers tout le contenu pertinent pour vous.\n\nEn effet, pour absorber des méthodes, nous vous recommandons de les répartir et les répéter sur la longue durée Si vous faites le tout en une semaine intensive, écrivez-moi pour me partager votre expérience..\nPour entretenir votre motivation, ne le faites pas tout seul :\n\nFaites-vous accompagner par votre bibliothécaire disciplinaire de l’UdeM. Ce manuel sera votre document de communication.\nConstituez un groupe avec d’autres étudiant.es et avancez ensemble à travers le manuel.\nPartagez vos découvertes et votre progression sur votre blogue de recherche voir p. .",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "chapters/phaseexploratoire.html",
-    "href": "chapters/phaseexploratoire.html",
-    "title": "Phase exploratoire",
-    "section": "",
-    "text": "Objectifs documentaires de la phase exploratoire",
-    "crumbs": [
-      "Phase exploratoire"
-    ]
-  },
-  {
-    "objectID": "chapters/phaseexploratoire.html#objectifs-documentaires-de-la-phase-exploratoire",
-    "href": "chapters/phaseexploratoire.html#objectifs-documentaires-de-la-phase-exploratoire",
-    "title": "Phase exploratoire",
-    "section": "",
-    "text": "« Se faire une tête sur son sujet » et repérer les principaux courants de pensée sur vos thèmes de recherche.\nSans disperser son attention dans des détails.\nApprendre à manipuler le logiciel Zotero pour collecter vos premières références et prendre des notes.",
-    "crumbs": [
-      "Phase exploratoire"
-    ]
-  },
-  {
-    "objectID": "chapters/phaseexploratoire.html#pourquoi",
-    "href": "chapters/phaseexploratoire.html#pourquoi",
-    "title": "Phase exploratoire",
-    "section": "Pourquoi ?",
-    "text": "Pourquoi ?\n\nPour avoir une culture générale de base sur le sujet.\n\nAllégorie : Il s’agit de « bien baliser votre terrain de chasse ou de pêche ». C’est-à-dire savoir là où il y a du gibier, où il y a des sentiers, où tout le monde est déjà passé, où se trouvent les endroits pauvres et difficiles d’accès, quelle méthode utiliser pour tel objectif, quand prévoir deux sandwichs, où demander de l’aide et s’il faut y aller à plusieurs, est-ce qu’on peut y emmener les enfants ? etc.\n\nPour mieux situer les futures nouvelles informations dans sa carte mentale de son sujet : mieux absorber, synthétiser et mémoriser.\nPour mieux évaluer et hiérarchiser les futurs nouveaux documents sur le sujet.\nPour garantir que l’on a moins d’angles morts dans le traitement de son sujet, moins de biais ou qu’une notion importante ne nous a pas échappé.\nPour identifier (grâce aux travaux de vos prédécesseurs), que tel élément de votre recherche est très coûteux, ou peu satisfaisant, ou sans issu.",
-    "crumbs": [
-      "Phase exploratoire"
-    ]
-  },
-  {
-    "objectID": "chapters/phaseexploratoire.html#comment",
-    "href": "chapters/phaseexploratoire.html#comment",
-    "title": "Phase exploratoire",
-    "section": "Comment ?",
-    "text": "Comment ?\n\nUtiliser de la documentation qui fait autorité, qui a été beaucoup filtrée et qui est synthétisée.\n\nIdéalement des sources tertiaires : des articles d’encyclopédies spécialisées, d’encyclopédies disciplinaires, de handbooks, d’ouvrages de référence (Oxford handbooks, Oxford bibliographies, etc.).\nLivres : manuels, monographies généralistes ou de méthodologie (Sage Research Methods, etc.).\nArticles de revue de littérature : revues systématiques, études de la portée, etc.\n\nDans le même temps, identifier et lister :\n\nLes meilleurs termes ou mots-clés pour ma recherche.\nLes principales ressources documentaires (bases de données, plateformes, site web, institutions, etc.).\nLes principaux experts.\nLes principales personnes-ressources autour de soi.\nVotre bibliothécaire disciplinaire.",
-    "crumbs": [
-      "Phase exploratoire"
-    ]
-  },
-  {
-    "objectID": "chapters/phaserecherche.html",
-    "href": "chapters/phaserecherche.html",
-    "title": "Phase de recherche exhaustive de documentation",
-    "section": "",
-    "text": "Objectifs",
-    "crumbs": [
-      "Phase de recherche exhaustive de documentation"
-    ]
-  },
-  {
-    "objectID": "chapters/phaserecherche.html#objectifs",
-    "href": "chapters/phaserecherche.html#objectifs",
-    "title": "Phase de recherche exhaustive de documentation",
-    "section": "",
-    "text": "Identifier toutes les ressources qui peuvent contenir potentiellement de la documentation sur votre sujet :\n\ntoutes les cotes de classement,\ntous les outils de recherche,\ntoutes les bases de données, etc.\n\nÀ partir de ces ressources, les exploiter à fond et y chercher toutes les références pertinentes.\n\nAvec des bonnes méthodes de recherche pour ne pas perdre de temps.\n\nCollecter les références pertinentes dans Zotero (ou Endnote).\nRécupérer les documents des références pertinentes.",
-    "crumbs": [
-      "Phase de recherche exhaustive de documentation"
-    ]
-  },
-  {
-    "objectID": "chapters/phaserecherche.html#distinctions-travail-de-session-thèse",
-    "href": "chapters/phaserecherche.html#distinctions-travail-de-session-thèse",
-    "title": "Phase de recherche exhaustive de documentation",
-    "section": "Distinctions : travail de session / thèse",
-    "text": "Distinctions : travail de session / thèse\n\nLes besoins d’information sont différents pour ces deux types de travaux universitaires1.\n\n\n\n\n\n\n\n\n\n\nTravail de session\nMémoire ou thèse\n\n\n\n\nLes tâches sont…\n…structurées\net bien définies\n…peu structurées\net mal définies\n\n\nOn y répond…\n…avec des outils de recherche/\nméthodes existantes\n…peut être pas\n\n\nLe sujet est…\n…générique\n…très spécifique\n\n\nÉtendue :\nsélective\nexhaustive\n\n\nDurée :\ntrès court terme\nlong terme\n\n\nLes efforts…\n…mènent généralement au succès\n\n\n\nAlerte ou veille :\ninutile\nimportant\n\n\nVocabulaire :\ndéfini\nsouvent flou, émergent, en évolution\n\n\nDomaine(s) :\nunique ou disciplinaire\nparfois multidisciplinaire",
-    "crumbs": [
-      "Phase de recherche exhaustive de documentation"
-    ]
-  },
-  {
-    "objectID": "chapters/phaserecherche.html#vue-densemble-des-méthodes-de-recherche-de-documentation",
-    "href": "chapters/phaserecherche.html#vue-densemble-des-méthodes-de-recherche-de-documentation",
-    "title": "Phase de recherche exhaustive de documentation",
-    "section": "Vue d’ensemble des méthodes de recherche de documentation",
-    "text": "Vue d’ensemble des méthodes de recherche de documentation\n\nPour explorer un sujet à fond, il faut utiliser plusieurs méthodes de recherche de documentation.\nVoici une liste des principales méthodes, classées par ordre d’importance :\n\nRecherche avec des mots-clés dans des outils (bases de données, catalogues, etc.);\nRepérage d’expert.es sur notre sujet et de la liste de leurs publications;\nUtilisation de listes raisonnées (bibliobraphies, portails, collections, etc.);\nRéception d’alertes programmées;\nInformations provenant de mes pair.es (collègues de laboratoire, discussions à la machine à café, invisible college, etc.)\nSérendipité contrôlée (parcourir le web de liens en liens avec un objectif et un temps limité, visiter les rayonnages des bibliothèques à des cotes de classement pertinentes, etc.)",
-    "crumbs": [
-      "Phase de recherche exhaustive de documentation"
-    ]
-  },
-  {
-    "objectID": "chapters/phaserecherche.html#distinctions-revue-de-littérature-revue-systématique",
-    "href": "chapters/phaserecherche.html#distinctions-revue-de-littérature-revue-systématique",
-    "title": "Phase de recherche exhaustive de documentation",
-    "section": "Distinctions : revue de littérature / revue systématique",
-    "text": "Distinctions : revue de littérature / revue systématique\n\nDistinguer les différents types de travaux de recherches-synthèses sur un sujet.",
-    "crumbs": [
-      "Phase de recherche exhaustive de documentation"
-    ]
-  },
-  {
-    "objectID": "chapters/phaserecherche.html#footnotes",
-    "href": "chapters/phaserecherche.html#footnotes",
-    "title": "Phase de recherche exhaustive de documentation",
-    "section": "",
-    "text": "Inspiré de https://twitter.com/ShengwuLi/status/1624802079280693251↩︎",
-    "crumbs": [
-      "Phase de recherche exhaustive de documentation"
-    ]
-  },
-  {
-    "objectID": "chapters/phaselectureanalyse.html",
-    "href": "chapters/phaselectureanalyse.html",
-    "title": "Phase de lecture, d’analyse et d’organisation de la documentation",
-    "section": "",
-    "text": "Objectifs documentaires de la phase de lecture/analyse",
-    "crumbs": [
-      "Phase de lecture, d'analyse et d'organisation de la documentation"
-    ]
-  },
-  {
-    "objectID": "chapters/phaselectureanalyse.html#objectifs-documentaires-de-la-phase-de-lectureanalyse",
-    "href": "chapters/phaselectureanalyse.html#objectifs-documentaires-de-la-phase-de-lectureanalyse",
-    "title": "Phase de lecture, d’analyse et d’organisation de la documentation",
-    "section": "",
-    "text": "Vous avez déjà récupéré l’essentiel de la documentation sur votre sujet :\n\nGrâce aux encyclopédies spécialisées, vous avez une bonne culture générale de votre sujet et autour de votre sujet.\nGrâce à la recherche exhaustive de sources, vous avez récupéré la plus grande partie de la documentation pertinente sur votre sujet.\n\nMaintenant, il faut freiner la recherche active de nouveaux documents et utiliser ce que vous avez déjà trouvé.\n\nVous ne devriez rechercher que des documents ou des auteurs ou des pistes que vous avez découverts dans votre ensemble de documents (dans leurs bibliographies par exemple).\nParfois continuer à chercher des documents sans fin est un moyen de procrastiner et ne pas se mettre à lire, comprendre, synthétiser, etc.\n\nDans la phase précédente, vous avez identifié des stratégies de recherche efficaces dans plusieurs outils de recherche. C’est le temps de créer des alertes à partir de ces stratégies.\n\nPour recevoir automatiquement les nouveaux documents qui vont arriver dans ces outils de recherche.\nPour remplacer la recherche active de documents dans les outils de recherche.",
-    "crumbs": [
-      "Phase de lecture, d'analyse et d'organisation de la documentation"
-    ]
-  },
-  {
-    "objectID": "chapters/phaseredaction.html",
-    "href": "chapters/phaseredaction.html",
-    "title": "Phase de rédaction",
-    "section": "",
-    "text": "Objectifs documentaires de la phase de rédaction",
-    "crumbs": [
-      "Phase de rédaction"
-    ]
-  },
-  {
-    "objectID": "chapters/phaseredaction.html#objectifs-documentaires-de-la-phase-de-rédaction",
-    "href": "chapters/phaseredaction.html#objectifs-documentaires-de-la-phase-de-rédaction",
-    "title": "Phase de rédaction",
-    "section": "",
-    "text": "Il faut arrêter de chercher de nouveaux documents.\n\nFaites confiance aux alertes que vous avez créé pour recevoir automatiquement les nouveaux documents qui correspondent à des stratégies de recherche efficaces.\nEn effet, continuer à chercher des documents sans fin est un moyen de procrastiner… Chercher des documents, c’est facile. Mais les lire et les synthétiser, c’est dur. Je sais.\n\nVous allez vous appuyer sur votre bibliothèque de lectures dans Zotero.\n\nSi possible, elle est organisée et structurée (avec un thésaurus par exemple).\n\nVous allez vous appuyer aussi sur votre système de prise de notes.\n\nDans Zotero (moyen), dans Obsidian.md (pas mal!) ou ailleurs.\nÉvitez de dispercer vos notes partout et choisissez un outil central pour leur collection.\n\nVous avez mis en place un système de sauvegarde fiable et simple.\n\nVoire vous avez rédigé un plan de gestion de données de recherche.",
-    "crumbs": [
-      "Phase de rédaction"
-    ]
-  },
-  {
-    "objectID": "chapters/operateurs.html#sql",
-    "href": "chapters/operateurs.html#sql",
-    "title": "20  Opérateurs logiques",
-    "section": "20.9 SQL",
-    "text": "20.9 SQL\n\nLes bases de données relationnelles (les systèmes les plus courants pour gérer des données structurées en tables liées) utilisent un langage nommé SQL qui contient des éléments booléens.",
-    "crumbs": [
-      "Au-delà de votre recherche : méthodes",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Opérateurs logiques</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/operateurs.html#sparql",
-    "href": "chapters/operateurs.html#sparql",
-    "title": "20  Opérateurs logiques",
-    "section": "20.10 SPARQL",
-    "text": "20.10 SPARQL\n\nLes graphes de connaissances (comme Wikidata) ont une autre technique pour être interrogés : le langage SPARQL, qui contient lui aussi des éléments booléens.",
-    "crumbs": [
-      "Au-delà de votre recherche : méthodes",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Opérateurs logiques</span>"
     ]
   }
 ]
