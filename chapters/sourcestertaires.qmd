@@ -1,13 +1,6 @@
 # Sources tertiaires et généralistes {#sec-sourcestertiaires}
 
-## Prenez des notes générales et faites des listes
-
--   Pour toutes les ressources de ce chapitre, prenez des notes générales et superficielles. Ne collecter que des pistes de recherche pour plus tard :
-    -   Cotes de classement ;
-    -   Titres des documents pertinents ;
-    -   Experts identifiés ;
-    -   Listes de mots-clés sur votre sujet.
--   Prenez ces notes et ces listes dans un « [cahier de recherche](#sec-cahierrecherche) » sous une forme qui vous est la plus confortable : papier, fichier Word, Zotero, Obsidian.md, etc.
+Pour débuter ses recherches en développant une culture générale sur vos sujets et en vous créant une carte mentale des recherches passées sur ces derniers.
 
 ## Guides disciplinaires des bibliothèques
 
@@ -39,7 +32,7 @@
 -   Se rendre en personne à la BLSH, au 2e étage (étage de la référence).
     -   Récupérer un guide-éclair disciplinaire en arrivant au 2e étage (juste après l'escalier). Il contient des ressources de base pour commencer une étude dans une discipline. Il y a une section sur les principales encyclopédies spécialisées recommandées.
     -   Repérez les cotes de classement principales de votre discipline.
-        -   Une reproduction des principales cotes de classement par discipline est affichée sur certains murs et étagères de la bibliothèque. C'est la classification de la *Library of Congress*. Une version plus détaillée est consultable en ligne <http://www.loc.gov/catdir/cpso/lcco/>. Il existe aussi une forme complète sous la forme de bottins imprimés mais pour vos usages, normalement la forme résumée en ligne devrait suffire.
+        -   Une reproduction des principales cotes de classement par discipline est affichée sur certains murs et étagères de la bibliothèque. C'est la classification de la *Library of Congress*. Une version plus détaillée est [consultable en ligne](http://www.loc.gov/catdir/cpso/lcco/). Il existe aussi une forme complète sous la forme de bottins imprimés mais pour vos usages, normalement la forme résumée en ligne devrait suffire.
         -   Noter les cotes de classement principales de votre discipline dans la case ci-dessous ou dans votre cahier de recherche.
         -   Astuces: Ce n'est pas la peine de recopier tout l'arbre sémantique des cotes. N'indiquer que quelques cotes génériques (le codage des cotes est plus court), ou quelques cotes spécifiques, ou des intervalles de cotes.
         -   Ne pas hésiter à demander de l'aide au bureau de la référence au centre du 2e étage de la BLSH.
@@ -94,7 +87,7 @@
 
 ## Articles de revue de littérature
 
--   Pourquoi ? Les articles de revue de littérature sont des synthèses d'autres articles scientifiques. Il en existe de plusieurs sortes : *literature review*, ou *review article*, ou *systematic review*, ou méta analyses, etc. @sec-revuelitterature
+-   Pourquoi ? Les articles de revue de littérature sont des synthèses d'autres articles scientifiques. Il en existe de plusieurs sortes : *literature review*, ou *review article*, ou *systematic review*, ou méta analyses, etc. voir @sec-revuelitterature
 -   Comment ?
     -   Lancer des recherches dans des bases de données généralistes ou spécialisées en filtrant seulement les articles de revue de littérature.
     -   [*Annual Review*](https://www.annualreviews.org/) : une base de données spécialisées en revues de littérature et des synthèses des principales avancées dans de nombreux domaines, appuyées sur des sources d'autorité.
@@ -127,3 +120,12 @@
     -   [*Wikipédia*](https://fr.wikipedia.org/). Un portail de sources intéressantes et d'informations synthétiques MAIS à condition d'éviter deux [écueils](#sec-wikipourlarecherche) :
         -   la possibilité d'un traitement partiel ou inégal d'un sujet ;
         -   la persistance d'erreurs non corrigées par la communauté des contributeurs.
+
+## Prenez des notes générales et faites des listes
+
+-   Pour toutes les ressources de ce chapitre, prenez des notes générales et superficielles. Ne collecter que des pistes de recherche pour plus tard :
+    -   Cotes de classement ;
+    -   Titres des documents pertinents ;
+    -   Experts identifiés ;
+    -   Listes de mots-clés sur votre sujet.
+-   Prenez ces notes et ces listes dans un « [cahier de recherche](#sec-cahierrecherche) » sous une forme qui vous est la plus confortable : papier, fichier Word, Zotero, Obsidian.md, etc.
